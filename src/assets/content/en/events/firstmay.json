@@ -1,0 +1,229 @@
+{
+  "metaData": {
+    "title": "1 Mai weekend la Roșia Montană",
+    "description": "De 1 Mai vă așteptăm la Roșia cu trasee ghidate (centrul istoric și galerii sau exploatări miniere de aur), proiecții de filme și plimbări cu mocănița. Detalii și rezervări aici...",
+    "displayOnShareImg": "/assets/img/events/firstMai/presentation/displayOnShareImg.jpg"
+  },
+  "headline": {
+    "text": "1st of May in Roșia Montană",
+    "videoSource": "",
+    "fullWidthImg": "./assets/img/events/firstMai/presentation/fullWidthImg.jpg"
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": " ",
+      "sectionId": "intro",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "Rosia Montana is the oldest settlement from Romania (131 AD), it has an unique cultural landscape (proposed for UNESCO) and it's location in the Carpathian mountains Transylvania makes it an perfect place for hiking or cycling. During this event we will show you a little part from all this through guided tours and movie screenings."
+        },
+        {
+          "textContent": "<i class='far fa-calendar-alt'></i> 27.04 - 01.05.2018"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-calendar-alt'></i> Schedule",
+      "sectionId": "schedule",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "<b>Friday 27 April - check in</b> (16:00 - 23:00), arrival at Casa Petri Roșia Montană 331A ",
+          "seeAlso": [
+            {
+              "text": "(see here how to reach us)",
+              "textOnMouseOver": "Click here...",
+              "link": "en/accommodation#directions"
+            }
+          ]
+        },
+        {
+          "title": "Saturday 28 April",
+          "textContent": "<b><i class='far fa-clock'></i> 09:30 ~ 15:00 - Guided tour - The historic center and roman galleries.</b><br> In the historic center of Rosia Montana there are several heritage buildings (schools, churches or the goldsmith houses) built by various civilizations that came here for gold. We will also visit the roman galleries from the Mining Museum and will end the tour in a place with an amazing view upon the village.",
+          "images": [
+            {
+              "text": "Guided tour - historic center.",
+              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+            },
+            {
+              "text": "Rosia Montana.",
+              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+            },
+            {
+              "text": "Mining Museum - Roman Galleries (106 AD).",
+              "thumbnailUrl": "./assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+            },
+            {
+              "text": "Resting place with a view on the trail.",
+              "thumbnailUrl": "./assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
+            }
+          ]
+        },
+        {
+          "textContent": "<br><br><b><i class='far fa-clock'></i> Evening - Movie in the garden 'The story of Roșia Montană'</b><br> Images, movies and stories about the past of the village and the today life (if will be cold will hold the screening inside).",
+          "images": [
+            {
+              "text": "Movie screening in the garden",
+              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+            },
+            {
+              "text": "Images from the movie screening",
+              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Sunday 29 April",
+          "textContent": "<b><i class='far fa-clock'></i> 09:30 ~ 14:00 - Guided tour - Gold exploitations</b> <br> Will follow the old golden veins of the Cârnic massif, visit some galleries and find their stories and how were they made.",
+          "images": [
+            {
+              "text": "The Roman Galleries - Cârnic",
+              "thumbnailUrl": "./assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
+            },
+            {
+              "text": "Raven Stone - natural reservation. Here are the oldest galleries in Rosia Montana, made with a special technique.",
+              "thumbnailUrl": "./assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+            },
+            {
+              "text": "Văidoaia gallery.",
+              "thumbnailUrl": "./assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
+            }
+          ]
+        },
+        {
+          "textContent": "<br><br><b><i class='far fa-clock'></i> Evening - Movie screenings</b> <br>We will watch some movies made in the '70s in Rosia Montana like 'Nunta de piatra' (is in top 10 romanian movies of all times) or 'Flăcări pe Comori'."
+        },
+        {
+          "title": "Monday 30 April",
+          "textContent": "<b><i class='far fa-clock'></i> 09:30 ~ 16:00 - Guided trail - Detunata massif</b>. <br>This 80m high massive formed from basalt columns is a protected area with huge stone blocks. The area has great legends, the people are welcoming and they also make some amazing cheese pies.",
+          "images": [
+            {
+              "text": "<b>Detunata</b> - through the basalt block, into the middle of the pine forest is a small glacier.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/1.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>The view from Detunata</b> - towards the 'Motilor' land.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/2.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/2.jpg"
+            },
+            {
+              "text": "A resting spot on the trail.",
+              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            }
+          ]
+        },
+        {
+          "textContent": "<br><br><b><i class='far fa-clock'></i> Evening - 'mici', beer and vinyl</b> <br>In the evening will make a barbecue in the backyard with some traditional romanian food from the house ('mici' and beer) and listen music from pick-up (vinyl).",
+          "images": [
+            {
+              "text": "Evening with 'mici' and beer.",
+              "thumbnailUrl": "./assets/img/events/firstMai/article/thumbnail/miciSiBere.jpg",
+              "fullSizeUrl": "./assets/img/events/firstMai/article/fullSize/miciSiBere.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Tuesday 1 Mai",
+          "textContent": "<b>Steam train rides</b> <br>The <b>steamtrain</b> was used in the past to carry miners and gold from Gura Rosie factory and now has been open for tourists. There are 2 steamtrains near us: <b>Abrud - Câmpeni steamtrain</b> (~10min by car from us; the tour last 3h) and <b>Crișcior - Brad steamtrain</b> (~45min by car from us; the tour last 2h). <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> - ",
+          "seeAlso": [
+            {
+              "text": "see map for Abrud steamtrain ",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.google.com/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/Gura+Ro%C8%99iei,+Romania/Mocanita+Abrud-Campeni,+Strada+G%C4%83rii,+Abrud,+Romania/@46.2912065,23.0596886,13.22z/data=!4m20!4m19!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474ed28464e658bb:0x8b049d4bab38bf2e!2m2!1d23.0619642!2d46.307281!1m5!1m1!1s0x474ecded9cc9eb57:0x142db33519215b05!2m2!1d23.0595852!2d46.2800881!3e0?hl=en-US"
+            },
+            {
+              "text": " | see map for Crișcior steamtrain",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Ro%C8%99ia+Montan%C4%83/Cri%C8%99cior/@46.2155288,22.8577319,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474edce95166256f:0x243ce1f1a0f481fb!2m2!1d22.866127!2d46.1234715!3e0"
+            },
+            {
+              "text": "<br>See the steam trains schedule and contact",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.cfi.ro/index.php?p=1_15"
+            }
+          ],
+          "images": [
+            {
+              "text": "With the steam train along the Apuseni mountains",
+              "thumbnailUrl": "./assets/img/attractions/article/steamTrain/thumbnail/1.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/steamTrain/fullSize/1.jpg"
+            },
+            {
+              "text": "With the steam train along the Apuseni mountains",
+              "thumbnailUrl": "./assets/img/attractions/article/steamTrain/thumbnail/2.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/steamTrain/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Info",
+      "sectionId": "info",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "eventsInfo"
+          }
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-calendar-check'></i> Booking and price",
+      "sectionId": "bookings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "The price is <b>100euro</b>/person. <b>Includes:</b> accommodation (4 nights), the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "eventsBookingForm"
+          },
+          {
+            "id": "eventsFacebookInterested"
+          }
+        ]
+      }
+    },
+    {
+      "type": "socialButtons"
+    }
+  ]
+}

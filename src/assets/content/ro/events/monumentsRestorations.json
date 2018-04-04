@@ -1,0 +1,13 @@
+{
+  "presentation": {
+    "title": "Restaurări",
+    "headline": "",
+    "description": "<b>| Iul-Sept |</b> Deprinde meșteșuguri tradiționale în taberele ARA sau donează pentru restaurarea clădirilor de patrimoniu.",
+    "fullWidthImg": "./assets/img/events/monumentsRestorations/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "./assets/img/events/monumentsRestorations/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "http://www.adoptaocasa.ro",
+    "textOnMouseOver": "Vezi pagina oficială Adoptă o casa"
+  }
+}

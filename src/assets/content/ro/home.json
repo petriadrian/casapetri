@@ -1,0 +1,255 @@
+{
+  "metaData": {
+    "title": "Roșia Montană | cazare | trasee | biciclete | drumeții",
+    "description": "Cazare într-o casă renovată, de patrimoniu din Centrul Istoric. Trasee de drumeție sau bicicletă spre galerii romane, zone miniere, clădiri de patrimoniu, lacuri și munții din zonă. Rezervă biciclete sau trasee ghidate. Încheie ziua în hamac răsfoind o carte din biblioteca noastră. Roșia Montana, jud. Alba, Munții Apuseni, Transilvania, Romania",
+    "displayOnShareImg": "/assets/img/homePage/presentation/displayOnShareImg.jpg"
+  },
+  "sections": [
+    {
+      "type": "carousel",
+      "slides": [
+        {
+          "img": "./assets/img/attractions/presentation/fullWidthImg.jpg",
+          "title": "Ai ce vizita la Roșia Montană!",
+          "description": "",
+          "url": {
+            "link": "ro/attractions",
+            "textOnMouseOver": "Click aici..."
+          }
+        },
+        {
+          "img": "./assets/img/attractions/article/romanGalleries/fullSize/1.jpg",
+          "title": "Roșia Montană e istorie",
+          "description": "",
+          "url": {
+            "link": "ro/attractions",
+            "textOnMouseOver": "Click aici..."
+          }
+        },
+        {
+          "img": "./assets/img/attractions/article/panoramicBench/fullSize/1.jpg",
+          "title": "Roșia Montană e patrimoniu",
+          "description": "",
+          "url": {
+            "link": "ro/attractions",
+            "textOnMouseOver": "Click aici..."
+          }
+        },
+        {
+          "img": "./assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg",
+          "title": "Roșia Montană e natură",
+          "description": "",
+          "url": {
+            "link": "ro/attractions",
+            "textOnMouseOver": "Click aici..."
+          }
+        },
+        {
+          "img": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg",
+          "title": "Roșia Montană e aventură",
+          "description": "",
+          "url": {
+            "link": "ro/attractions",
+            "textOnMouseOver": "Click aici..."
+          }
+        },
+        {
+          "img": "./assets/img/attractions/article/lakes/bigLake/fullSize/bike.jpg",
+          "title": "Roșia Montană e vacanță",
+          "description": "",
+          "url": {
+            "link": "ro/attractions",
+            "textOnMouseOver": "Click aici..."
+          }
+        },
+        {
+          "img": "./assets/img/accommodation/presentation/fullWidthImg.jpg",
+          "title": "Casa Petri - un loc aparte în Roșia Montană",
+          "description": "",
+          "url": {
+            "link": "ro/accommodation",
+            "textOnMouseOver": "Click aici..."
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "De ce ai vizita zona noastră?",
+      "addLinkInPageHeadline": false,
+      "sectionId": "whyVisitRosia"
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "<b>Descoperă un 'peisaj cultural unic'</b> construit încă din antichitate de diverse civilizații pentru a extrage aur (propus ca sit <b>UNESCO</b>) <br><b>Vezi exploatările miniere</b> existente și ce impact ar avea una nouă pe cianuri ca cea propusă de canadieni. <br><b>Natură și liniște</b> - drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și zone protejate din Munții Apuseni."
+        },
+        {
+          "textContent": "",
+          "seeAlso": [
+            {
+              "text": "<b><i class='far fa-star'></i> Top 10 atracții de vizitat în Roșia Montană <i class='far fa-star'></i></b>",
+              "textOnMouseOver": "Click here...",
+              "link": "ro/attractions#toSee"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Ce oferim?",
+      "addLinkInPageHeadline": false,
+      "sectionId": "casaPetri"
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "Ne dorim să ai o experiență unică și autentică în Roșia Montană, de aceea oferim cazare în centrul istoric și te punem în contact cu localnici ce oferă trasee ghidate, închirieri de biciclete sau mâncare tradițională."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "otherPages": [
+        {
+          "title": "Cazare",
+          "description": "<b>Camere, campare - rezervări</b> <br>într-o casă de patrimoniu din centrul istoric Roșia Montană. Camerele au băi și bucătărie propie iar în grădină avem foișor și hamace",
+          "img": "./assets/img/accommodation/shortcut/cazare.jpg",
+          "url": {
+            "link": "ro/accommodation#rooms",
+            "textOnMouseOver": "Click aici..."
+          }
+        },
+        {
+          "title": "Trasee ghidate",
+          "description": "<b>Pe jos sau cu bicicleta</b><br>Ținem legătura cu localnici ce organizează trasee ghidate. Vă recomandăm să vizitați Roșia împreună cu un ghid",
+          "img": "./assets/img/accommodation/shortcut/guides.jpg",
+          "url": {
+            "link": "ro/accommodation#guide",
+            "textOnMouseOver": "Click aici..."
+          }
+        },
+        {
+          "title": "Biciclete",
+          "description": "<b>Închirieri, reparații, trasee</b><br>Avem biciclete de închiriat și un mic garaj pentru reparații sau oferim trasee ghidate pe bicicletă",
+          "img": "./assets/img/accommodation/shortcut/bikes.jpg",
+          "url": {
+            "link": "ro/accommodation#facilities",
+            "textOnMouseOver": "Click aici..."
+          }
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "<b>Cum ajungi la noi?</b> - ",
+          "seeAlso": [
+            {
+              "text": "vezi aici",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#directions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-calendar-alt'></i> Evenimente",
+      "sectionId": "events",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și alte activități."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "otherPages": [
+        {
+          "title": "1 Mai",
+          "description": "<b>27.04 - 01.05 |</b> În mini vacanta de 1 Mai te asteptam la Roșia Montană cu tururi  ghidate, proiecții, plimbări cu mocănița și ... mici și bere.",
+          "img": "./assets/img/events/firstMai/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "ro/events/firstmay",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "Poiana cu narcise",
+          "description": "<b>25.05 - 27.05 |</b> Vizităm un loc magic din Apuseni cu peisaje de poveste și miros de neiuitat - Poiana cu Narcise Negrileasa.",
+          "img": "./assets/img/events/narcise/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "ro/events/narcise",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "La fân",
+          "description": "<b>23.08 - 26.08 |</b> Conectează-te la natură și viața moților luând parte la strânsul fânului pentru iernat, ridicarea căpițelor și mulsul vacilor.",
+          "img": "./assets/img/events/hayDays/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "ro/events/haydays",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "<b>Ce zic cei care au participat la evenimente?</b> - ",
+          "seeAlso": [
+            {
+              "text": "vezi aici",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/review"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-images'></i> FotoBlog",
+      "sectionId": "photoblog",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "Articole cu imagini din zona noastră."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "otherPages": [
+        {
+          "title": "Iarna la Roșia",
+          "description": "Satul capătă o nouă înfățișare pe timp de iarnă. Vezi cum arată o drumeție ușoară cu peisaje de poveste",
+          "img": "./assets/img/photoblog/winterWalks/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "ro/photoblog/winterWalks",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    }
+  ]
+}

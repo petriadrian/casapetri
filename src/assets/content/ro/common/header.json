@@ -1,0 +1,50 @@
+{
+  "logo": {
+    "text": "Casa Petri Roșia Montană",
+    "imgUrl": "./assets/img/common/logo_white.png",
+    "imgUrlSmallWhite": "./assets/img/common/logo_white.png",
+    "link": "/",
+    "textOnMouseOver": "întoarcete la pagina principală..."
+  },
+  "leftButtons": [
+    {
+      "text": "Atracții",
+      "link": "ro/attractions",
+      "textOnMouseOver": "atracții, trasee gps de drumeție sau ciclism, trasee ghidate, tenis, hamace, cărți"
+    },
+    {
+      "text": "Cazare",
+      "link": "ro/accommodation",
+      "textOnMouseOver": "cazare, campare, trasee ghidate, închirieri biciclete, info mâncare - rezervări"
+    },
+    {
+      "text": "Evenimente",
+      "link": "ro/home#events",
+      "textOnMouseOver": "evenimente"
+    },
+    {
+      "text": "FotoBlog",
+      "link": "ro/home#photoblog",
+      "textOnMouseOver": "articole foto Roșia"
+    },
+    {
+      "text": "Reviews",
+      "link": "ro/review",
+      "textOnMouseOver": "click pentru a deschide pagina cu review-uri"
+    }
+  ],
+  "rightButtons": [
+    {
+      "text": "<i class='fas fa-phone fa-lg fa-rotate-90'></i> 0743 188 186",
+      "link": "tel:(+4)0743188186",
+      "textOnMouseOver": "contacteaza-ne la telefon"
+    }
+  ],
+  "languageButtons": [
+    {
+      "text": "EN",
+      "languageCode": "/en",
+      "textOnMouseOver": "switch to english"
+    }
+  ]
+}

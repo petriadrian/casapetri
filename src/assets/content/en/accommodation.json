@@ -1,0 +1,385 @@
+{
+  "metaData": {
+    "title": "Accommodation Rosia Montana",
+    "description": "Stay in a heritage house from the Historic Center of Roșia Montana, recently renovated with bathrooms and kitchen access. See also the hiking and bike trails to discover our area: roman galleries, gold mining industry, heritage buildings, mountains, lakes and many more. Rosia Montana, Alba, Apuseni Mountains, Transylvania - Romania.",
+    "displayOnShareImg": "/assets/img/accommodation/presentation/displayOnShareImg.jpg"
+  },
+  "headline": {
+    "text": "Plan your visit to Roșia Montană",
+    "fullWidthImg": "./assets/img/accommodation/presentation/fullWidthImg.jpg"
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fas fa-bed'></i> Rooms",
+      "sectionId": "rooms",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "We are located in the historic center of Rosia Montana 331, in a heritage house, that was a bank, medical center, cinema and then it was bought by our grandparents who work in mining industry, and used for living. We preserved the painting, the wooden floor, the windows, the heating with terracotta stoves, but we added new bathrooms and kitchen and now we offer accommodation and touristic services . Te rooms have separate entries from a common yard with hammocks, gazebo, green grass and a nice view to the Cânic massif. See below:"
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "title": "Books room",
+          "textContent": "Has one meter wide walls made of rocks, a closet filled with books and two bunk beds. Is at the ground floor and has <b>separate entrance</b> from the yard. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom  - <i class='fas fa-utensils'></i> private kitchenette - <i class='fa fa-book'></i> library",
+          "images": [
+            {
+              "text": "Books room - We transformed a cupboard into a library with old books, guides about Rosia Montana and board games.",
+              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room1/thumbnail/1.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room1/fullSize/1.jpg"
+            },
+            {
+              "text": "Books room - beds",
+              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room1/thumbnail/beds.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room1/fullSize/beds.jpg"
+            },
+            {
+              "text": "Books room - In the showcase are old photos and crystal clusters rocks.",
+              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room1/thumbnail/details.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room1/fullSize/details.jpg"
+            },
+            {
+              "text": "Books room - private bathroom and kitchenette (equipped with: coffee/tea machine, fridge, microwave, dishes and cutlery).",
+              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room1/thumbnail/bathAndKitchen.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room1/fullSize/bathAndKitchen.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "title": "Little house room",
+          "textContent": "The garden house has one room with two beds, bathroom, kitchen and has <b>separate entrance</b> from the yard. <br><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fas fa-utensils'></i> private kitchen - <i class='fa fa-book'></i> library",
+          "images": [
+            {
+              "text": "Little house room - the outside - has <b>separate entrance</b> from the yard.",
+              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room2/thumbnail/7.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room2/fullSize/7.jpg"
+            },
+            {
+              "text": "Little house room - The beds can be joined. The library contains maps, books and guides about Roșia Montană",
+              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room2/thumbnail/2.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room2/fullSize/2.jpg"
+            },
+            {
+              "text": "Little house room - the entrance in the private bathroom and kitchen are directly from the room. The heating is done by a terracotta stove on woods.",
+              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room2/thumbnail/3.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room2/fullSize/3.jpg"
+            },
+            {
+              "text": "Little house room - private bathroom and kitchenette (equipped with: coffee/tea machine, fridge, hob, sink, microwave, dishes and cutlery).",
+              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/bathAndKitchen.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/bathAndKitchen.jpg"
+            }
+
+          ]
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "title": "The Upstairs room",
+          "textContent": "It is located at the first floor, has <b>separate entrance</b> from the yard through a hallway with stairs and many small windows called 'târnaț' (specific to our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fas fa-utensils'></i> private kitchenette - <i class='fa fa-book'></i> library",
+          "images": [
+            {
+              "text": "The Upstairs room - the double bed can be separated. The painting was made in 1960 and is very well preserved",
+              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/room.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/room.jpg"
+            },
+            {
+              "text": "The Upstairs room - a relaxing area with a chic coffee table and many places with old books.",
+              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/hallway.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/hallway.jpg"
+            },
+            {
+              "text": "The Upstairs room - places with old books, vinyls and newspapers and magazines about Rosia Montana.",
+              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/booksPlaces.jpg"
+            },
+            {
+              "text": "The Upstairs room - private bathroom and kitchenette (equipped with: coffee/tea machine, fridge, microwave, dishes and cutlery).",
+              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/bathAndKitchen.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/bathAndKitchen.jpg"
+            }
+          ]
+        },
+        {
+          "textContent": "<br> For prices and bookings see the bellow form or press on 'Bookings'."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-home'></i> Outside",
+      "sectionId": "outside",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Photos from <b>our yard</b> or around the house.",
+          "images": [
+            {
+              "text": "Our yard - We have some hammocks to rest after a long hike, read, enjoy the Cârnic view or surf on the internet (there is wifi too).",
+              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/hammock.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/hammock.jpg"
+            },
+            {
+              "text": "Our yard - The gazebo is the perfect place for chatting, to play board games or to eat before going out for a hike.",
+              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gazebo.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gazebo.jpg"
+            },
+            {
+              "text": "Casa Petri - view from the street.",
+              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/house.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/house.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-chevron-up'></i> Camping",
+      "sectionId": "camping",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Because we also love camping, we prepared a small camping place in our yard, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo, hammocks, free wifi and electricity - camping rosia montana - camping Transylvania",
+          "images": [
+            {
+              "text": "Camping area fro the yard",
+              "thumbnailUrl": "./assets/img/accommodation/article/camping/thumbnail/1.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/camping/fullSize/1.jpg"
+            },
+            {
+              "text": "Camping area fro the yard",
+              "thumbnailUrl": "./assets/img/accommodation/article/camping/thumbnail/2.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/camping/fullSize/2.jpg"
+            }
+          ]
+        },
+        {
+          "textContent": "<br> For prices and bookings see the bellow form or press on 'Bookings'."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fas fa-utensils'></i> Food",
+      "sectionId": "food",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "food"
+          }
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fas fa-bicycle'></i> Facilities",
+      "sectionId": "facilities",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "Beside accomodation we also offer: <br><b>Bikes</b> for rent or (if needed) we can help you fix your bike. <br><b>Guided tours</b> - see the bellow section. <br><b>Library</b> - we have many books that you can read but most of them are in romanian (don't miss the newspapers and the books about Roșia) <br><b>Hammocks</b> with a view and <b>wifi</b> access - relax in our yard <br><b>Playground</b> for children - beside our house <br><b>Movie projections</b> about Rosia Montana past. The projector can be mounted in the garden or in the rooms. <br><b>Board games</b> - In the library can be found many board games (Activity, Risk, Catan) <br><b>Sleighing</b> - we have 2 sleighs that you can use during the winter on the sleigh slope beside the house <br><b>Badminton, tennis, football</b> - we have paddles, balls and at ~15min walking is a synthetic field.",
+          "images": [
+            {
+              "text": "We rent bikes or we can organize guided tours on bikes with mechanical assistance on the trail.",
+              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/bikes.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/bikes.jpg"
+            },
+            {
+              "text": "Movie screenings in the garden - usually we play movies with the past of our village.",
+              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+            },
+            {
+              "text": "We have equipment for badminton, tennis, football or sleighing. Beside the house is a playground, a slight slope and at ~15min is a synthetic field.",
+              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/childrenPark-tennis-sleight.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/childrenPark-tennis-sleight.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-blind'></i> Guided tours",
+      "sectionId": "guidedTours",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "article",
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "guide"
+          }
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-calendar-check'></i> Bookings",
+      "sectionId": "bookings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "We want to have everything set for your arrival so please make an <b>early</b> reservation. The <b>price</b> of the rooms can be found at 'Choose room or camping' section."
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "beforeSubmitText": "<i class='fa fa-info-circle'></i> The booking will be valid only when a <b>confirmation email</b> will be received! <br><b>Check-in</b>: 16:00 - 20:00 | <b>Check-out</b> by 11:00",
+      "submitButtonText": "Send the booking",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "errorMessage": "ERROR! Contact us by email petriadrian@gmail.com",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
+          "placeholder": "Phone",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeCode": "<i class='far fa-calendar fa-fw'></i>",
+          "required": true,
+          "fromInputName": "Check In",
+          "toInputName": "Check Out"
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "required": true,
+          "iconFortAwesomeCode": "<i class='fas fa-bed fa-fw'></i>",
+          "placeholder": "Choose room or camping",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ add",
+            "removeButtonText": "- remove",
+            "minOccurs": 1,
+            "maxOccurs": 4
+          },
+          "inputs": [
+            {
+              "name": "room",
+              "selectOptions": [
+                {
+                  "text": "1 person room - 22€/night"
+                },
+                {
+                  "text": "2 persons room - 26€/night"
+                },
+                {
+                  "text": "3 persons room - 33€/night"
+                },
+                {
+                  "text": "4 persons room - 39€/night"
+                },
+                {
+                  "text": "camping for 2 persons - 10€/night"
+                },
+                {
+                  "text": "camping for 3 persons - 15€/night"
+                },
+                {
+                  "text": "camping for 4 persons - 20€/night"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "checkBoxes",
+          "title": "I also want:",
+          "checkBoxes": [
+            {
+              "name": "guidedTours",
+              "text": "<i class='fa fa-fw fa-blind'></i> | <b>custom guided trails</b> (by foot or by bike? what you want to visit? fill the 'Other details' box)"
+            },
+            {
+              "name": "rentBikes",
+              "text": "<i class='fa fa-fw fa-bicycle'></i> | <b>to rent bikes</b> (how many, what type, how many days? fill the 'Other details' box)"
+            },
+            {
+              "name": "reserveFood",
+              "text": "<i class='fas fa-utensils fa-fw'></i> | <b>meals at locals</b> (which meals? are you vegetarian? fill the 'Other details' box)"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
+          "placeholder": "Other details? Write here...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-location-arrow'></i> How to reach us?",
+      "sectionId": "directions",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "We are in the historic center of Roșia Montană - Carpathian Mountains - Transylvania, 130km away from Cluj Napoca and 80km from Alba Iulia. You can reach us by: <br><i class='fa fa-car'></i> <b>car</b> - set on your google maps gps 'Casa Petri Rosia Montana' and it will bring you to our house.<br><i class='fa fa-bus'></i> <b>bus</b> - the closest bus stations are in Câmpeni (15 km) or Abrud (10 km), but ask the driver to drop you off in Gura Roșiei (6 km) and hitchhike to the historic center.<br><i class='fa fa-train'></i> <b>train</b> - the closest train station is in Alba Iulia. Beside is the bus station so you can take a bus from there.<br><i class='fa fa-plane'></i> <b>airplane</b> - the closest airport is in Cluj Napoca. From here you have to take a bus. <br> Once in the historic center of Rosia Montana you will see on the left a 3 floor block of flats (the only block from the market). So take it on the left beside this building and in front you will see our house (one floor white house). The  entrance is through the yard on the left of the house. Please call us before arriving (~30min)."
+        },
+        {
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc"
+          }
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    }
+  ]
+}

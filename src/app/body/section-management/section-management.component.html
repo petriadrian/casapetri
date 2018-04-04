@@ -1,0 +1,20 @@
+<!-- PAGE HEADLINE-->
+<span *ngIf="pageContent?.headline">
+    <app-headline [content]="pageContent"></app-headline></span>
+<!-- SECTIONS-->
+<section *ngFor="let section of pageContent?.sections">
+  <!-- TITLE -->
+  <app-article-title *ngIf="section?.type == 'title'" [content]="section"></app-article-title>
+  <!--ARTICLE-->
+  <app-article *ngIf="section?.type == 'article'" [content]="section"></app-article>
+  <!-- PRESENTATION OF OTHER PAGES -->
+  <app-link-detail-box *ngIf="section?.type == 'linkToOtherPages'" [content]="section.otherPages"></app-link-detail-box>
+  <!--SOCIAL-->
+  <app-social-buttons *ngIf="section?.type == 'socialButtons'"></app-social-buttons>
+  <!--<span *ngIf="!!content?.banner">-->
+  <!--<ng-container *ngTemplateOutlet="banner; context:{content: content}"></ng-container></span>-->
+  <!-- CAROUSEL -->
+  <app-carousel *ngIf="section?.type == 'carousel'" [content]="section"></app-carousel>
+  <!--FORM-->
+  <app-form *ngIf="section?.type == 'form'" [content]="section" [classResponsive]="'col-xs-12 col-sm-12 col-md-12 col-lg-8'"></app-form>
+</section>

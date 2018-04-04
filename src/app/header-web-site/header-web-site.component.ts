@@ -1,0 +1,31 @@
+import {Component, OnInit} from '@angular/core';
+import {HttpClient} from '@angular/common/http';
+import {UrlService} from '../url-services/url.service';
+
+@Component({
+  selector: 'app-header-web-site',
+  templateUrl: './header-web-site.component.html',
+  styleUrls: ['./header-web-site.component.css'],
+  providers: [UrlService]
+})
+export class HeaderWebSiteComponent implements OnInit {
+
+  public headerContent;
+
+  constructor(private http: HttpClient, private urlService: UrlService) {
+  }
+
+  ngOnInit() {
+    const contentPath = './assets/content/' + this.urlService.getCurrentLang() + '/common/header.json';
+    this.http.get(contentPath).subscribe(res => this.headerContent = res);
+  }
+
+  public buildLangLinkAndGo(newLang) {
+    this.urlService.buildLangLinkAndGo(newLang);
+  }
+
+  public buildLinkAndGo(link) {
+    this.urlService.buildLinkAndGo(link);
+  }
+
+}

@@ -1,0 +1,48 @@
+.topBottomMargins {
+  margin: 2% 0%;
+}
+
+form {
+  float: none !important;
+  padding: 0 2%;
+}
+
+.input-group {
+  margin-bottom: 1%;
+}
+
+.listOfItems {
+  margin: 2% 0;
+}
+
+.listOfItems span {
+  font-size: 1.4em;
+}
+
+.input-group-addon {
+  background-color: transparent;
+  color: inherit;
+}
+
+/* Removes the spin button */
+input[type="date"]::-webkit-inner-spin-button {
+  display: none;
+}
+
+/* A few custom styles for date inputs */
+input[type="date"] {
+  flex-direction: row;
+}
+
+.daterange {
+  flex-direction: row;
+  width: 50%;
+  float: left;
+}
+
+@media only screen and (max-width: 600px) {
+  .daterange {
+    width: 100%;
+    float: none;
+  }
+}

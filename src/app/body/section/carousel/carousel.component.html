@@ -1,0 +1,38 @@
+<div id="carouselExampleIndicators"
+     class="carousel slide"
+     data-ride="carousel"
+     data-interval="4000"
+     data-pause="false">
+  <ol class="carousel-indicators">
+    <li *ngFor="let slide of content?.slides;let i = index"
+        [attr.data-slide-to]="i"
+        [ngClass]="i == 0 ? 'active' : ''"
+        data-target="#carouselExampleIndicators"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div *ngFor="let slide of content?.slides;let i = index"
+         [ngClass]="i == 0 ? 'active carousel-item' : 'carousel-item'">
+      <a (click)="buildLinkAndGo(slide?.url.link)"
+         title="{{slide.url.textOnMouseOver}}"
+         class="defaultClickStyle">
+        <img class="d-block w-100" [src]="slide.img" alt="Rosia">
+        <div class="carousel-caption">
+          <h5 *ngIf="!!slide.title"
+              [innerHTML]="slide.title  | trustHtml"></h5>
+          <p class="d-none d-md-block"
+             *ngIf="!!slide.description"
+             [innerHTML]="slide.description  | trustHtml"></p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<div style="clear:both"></div>

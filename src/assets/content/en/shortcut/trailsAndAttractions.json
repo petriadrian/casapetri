@@ -1,0 +1,12 @@
+{
+  "presentation": {
+    "title": "Trails and attractions",
+    "descriptionTitle": "What else can you visit?",
+    "description": "See here the attractions from our area connected through hiking or biking trails with online maps that starts from our house",
+    "smallBoxImg": "./assets/img/trails/shortcut.jpg"
+  },
+  "url": {
+    "link": "en/attractions#trailsAndAttractions",
+    "textOnMouseOver": "Click here..."
+  }
+}

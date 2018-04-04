@@ -1,0 +1,33 @@
+{
+  "reviewPage": {
+    "link": "ro/review",
+    "textOnMouseOver": "Vezi sau adaugă recenzii..."
+  },
+  "googleMapLink": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyAAfI8jQQrhfmikiG-nBj2_t5r-P98cem8",
+  "weatherLink": "https://www.meteoblue.com/en/weather/widget/daily/ro%c8%99ia-montan%c4%83_romania_668639?days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&pictoicon=1&maxtemperature=1&layout=dark",
+  "facebookLink": "https://www.facebook.com/casapetrirosiamontana",
+  "form": {
+    "successMessage": "Vă mulțumim! O să revenim cu un răspuns cât mai repede.",
+    "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",
+    "submitButtonText": "Trimite",
+    "fields": [
+      {
+        "type": "textarea",
+        "name": "feedback",
+        "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
+        "placeholder": "Vrem să ne îmbunatătim. Lasă-ne un feedback! ...",
+        "rows": 3,
+        "maxChars": 350,
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "rows": 1,
+        "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
+        "placeholder": "Email",
+        "required": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+<nav class="navbar  navbar-expand-lg fixed-top navbar-light bg-light">
+    <!--logo-->
+    <a class="navbar-brand"
+       (click)="buildLinkAndGo(headerContent?.logo.link)"
+       data-toggle="collapse" data-target=".navbar-collapse.show"
+       title="{{headerContent?.logo.textOnMouseOver}}">
+      <img [src]="headerContent?.logo?.imgUrl">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation" title="open menu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <!-- left buttons-->
+      <ul class="navbar-nav">
+        <ng-container *ngTemplateOutlet="butoonsBar; context:{buttons: headerContent?.leftButtons}"></ng-container>
+      </ul>
+      <!--right buttons-->
+      <ul class="navbar-nav ml-auto">
+        <ng-container *ngTemplateOutlet="butoonsBar; context:{buttons: headerContent?.rightButtons}"></ng-container>
+      </ul>
+      <!--language-->
+      <ng-container *ngTemplateOutlet="languageButtons"></ng-container>
+    </div>
+</nav>
+
+<ng-template #languageButtons>
+  <ul class="navbar-nav ml-0">
+    <li class="nav-item">
+      <a *ngFor="let button of headerContent?.languageButtons"
+         data-toggle="collapse" data-target=".navbar-collapse.show"
+         title="{{button.textOnMouseOver}}"
+         class="nav-link"
+         (click)="buildLangLinkAndGo(button.languageCode); colapseNavbar() "
+         [innerHTML]="button.text | trustHtml"></a>
+    </li>
+  </ul>
+</ng-template>
+
+<ng-template #butoonsBar let-buttons="buttons" let-cssClass="cssClass">
+  <li class="nav-item" *ngFor="let button of buttons">
+    <app-link [content]="button" [class]="'nav-link ' + cssClass"></app-link>
+  </li>
+</ng-template>
+
+
+

@@ -1,0 +1,6 @@
+<span *ngFor="let item of commonArticles">
+  <!--ARTICLE-->
+  <app-article-body *ngIf="item?.type == 'article'" [content]="item"></app-article-body>
+  <!--FORM-->
+  <app-form *ngIf="item?.type == 'form'" [content]="item" [classResponsive]="'col-xs-12 col-sm-12 col-md-12 col-lg-8'"></app-form>
+</span>

@@ -1,0 +1,23 @@
+.nav-link {
+  color: white !important;
+}
+
+.colorGreen {
+  color: #157f15 !important;
+}
+
+.nav-link:HOVER{
+  cursor: pointer;
+  background-color: #142522 !important;
+}
+
+.colorGreen:HOVER,
+.lookLikeLink:HOVER {
+  background-color: #baf5a6 !important;
+}
+
+.lookLikeLink {
+  color: #3071a9 !important;
+  font-weight: 500 !important;
+  text-decoration: underline !important;
+}

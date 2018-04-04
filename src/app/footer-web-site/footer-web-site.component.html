@@ -1,0 +1,57 @@
+<footer>
+
+  <!-- reviews -->
+  <a class="reviewPreviewLayout defaultClickStyle row"
+     (click)="buildLinkAndGo(footerContent?.reviewPage.link)"
+     title="{{footerContent?.reviewPage.textOnMouseOver}}">
+    <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 reviewPreviewArea">
+      <div class="carousel slide" data-ride="carousel" data-interval="9000">
+        <div class="carousel-inner">
+          <div *ngFor="let review of reviews; let isFirstRow=first" [ngClass]="{'active' : isFirstRow}"
+               class="carousel-item">
+            <div class="carousel-caption">
+              <h5><i class="fas fa-comment-alt"></i> Review:
+                <span class="reviewTitle" [innerHTML]="review.title"></span></h5>
+              <p [innerHTML]="review.textContent | trustHtml"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+
+  <!--google map-->
+  <div class="row">
+    <section class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+      <iframe frameborder="0" style="border:0;"
+              [src]="footerContent?.googleMapLink | safeUrl"
+              allowfullscreen></iframe>
+    </section>
+
+    <!--facebook-->
+    <section class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+      <div class="fb-page" data-href="https://www.facebook.com/casapetrirosiamontana/" data-small-header="true"
+           data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+        <blockquote cite="https://www.facebook.com/casapetrirosiamontana/" class="fb-xfbml-parse-ignore"><a
+          href="https://www.facebook.com/casapetrirosiamontana/">follow us on facebook</a></blockquote>
+      </div>
+      <div id="fb-root"></div>
+    </section>
+
+    <!--weather-->
+    <section class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+      <iframe frameborder="0" style="border:0; height: 160px"
+              [src]="footerContent?.weatherLink | safeUrl"
+              allowfullscreen scrolling="NO" allowtransparency="true"></iframe>
+    </section>
+
+    <!--feedback form-->
+    <section class="footerFeedback col-xs-12 col-sm-6 col-md-3 col-lg-3">
+      <app-form [content]="footerContent?.form" [classResponsive]="'col-xs-12 col-sm-12 col-md-12 col-lg-12'"></app-form>
+    </section>
+
+  </div>
+
+</footer>
+
+

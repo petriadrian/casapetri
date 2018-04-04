@@ -1,0 +1,124 @@
+<form #defaultForm="ngForm"
+      ngNativeValidate
+      (ngSubmit)="sendEmailFromForm(defaultForm)"
+      class="row no-gutters justify-content-center">
+  <span [ngClass]="classResponsive">
+    <div *ngFor="let field of content?.fields" class="input-group">
+      <span *ngIf="!!field.iconFortAwesomeCode" class="input-group-addon"
+            [innerHTML]="field.iconFortAwesomeCode | trustHtml"></span>
+      <input *ngIf="field.type == 'text'"
+             type="text"
+             class="form-control"
+             ngModel name="{{field.name}}"
+             title="{{field.name}}"
+             [attr.maxlength]="field.maxChars"
+             [placeholder]="field.placeholder"
+             [required]="field.required"/>
+      <input *ngIf="field.type == 'number'"
+             type="number"
+             class="form-control"
+             ngModel name="{{field.name}}"
+             title="{{field.name}}"
+             min="1" max="{{field.maxLimit}}"
+             [placeholder]="field.placeholder"
+             [required]="field.required"/>
+      <textarea *ngIf="field.type == 'textarea'"
+                class="form-control"
+                [placeholder]="field.placeholder"
+                rows="{{field.rows}}"
+                [attr.maxlength]="field.maxChars"
+                ngModel name="{{field.name}}"
+                title="{{field.name}}"
+                [required]="field.required"></textarea>
+      <span *ngIf="field.type == 'daterange'" class="text-left w-100 form-row">
+                  <input type="text"
+                         ngModel name="{{field.fromInputName}}"
+                         title="{{field.fromInputName}}"
+                         onfocus="(this.type='date')"
+                         onblur="(this.type='text')"
+                         class="form-control daterange"
+                         [placeholder]="field.fromInputName"
+                         [required]="field.required"/>
+                  <input type="text"
+                         ngModel name="{{field.toInputName}}"
+                         title="{{field.toInputName}}"
+                         onfocus="(this.type='date')"
+                         onblur="(this.type='text')"
+                         class="form-control daterange"
+                         [placeholder]="field.toInputName"
+                         [required]="field.required"/></span>
+      <input *ngIf="field.type == 'phone'"
+             type="tel" class="form-control"
+             ngModel name="{{field.name}}"
+             title="{{field.name}}"
+             [placeholder]="field.placeholder"
+             [required]="field.required"/>
+      <input *ngIf="field.type == 'email'"
+             type="email" class="form-control"
+             ngModel name="{{field.name}}"
+             title="{{field.name}}"
+             [placeholder]="field.placeholder"
+             [required]="field.required"/>
+      <select *ngIf="field.type == 'selectBox'"
+              class="form-control w-100"
+              [required]="field.required"
+              ngModel name="{{field.name}}">
+        title="{{field.name}}">
+        <option disabled selected
+                [innerHTML]="field.placeholder | trustHtml"></option>
+        <option *ngFor="let option of field.selectOptions"
+                value="{{option.text}}">{{option.text}}
+        </option>
+      </select>
+
+      <div *ngIf="field.type == 'selectBoxAllowDuplicates'" class="text-left w-100">
+        <select id="selectField" *ngFor="let input of field.inputs; let index = index;" class="form-control w-100"
+                [required]="field.required"
+                [(ngModel)]="input[index]"
+                name="{{input.name}}">
+          title="{{input.name}}">
+          <option disabled selected hidden [value]="undefined"
+                  [innerHtml]="field?.placeholder | trustHtml"></option>
+          <option *ngFor="let option of input?.selectOptions" [ngValue]="option?.text"
+                  [innerHtml]="option?.text | trustHtml"></option>
+        </select>
+        <span [hidden]="field.inputs.length >= field.allowToDuplicateSettings.maxOccurs"
+              class="text-left btn btn-success"
+              (click)="addNewField(field?.inputs, field?.inputs[0])"
+              [innerHtml]="field.allowToDuplicateSettings.addButtonText"></span>
+        <span [hidden]="field.inputs.length <= field.allowToDuplicateSettings.minOccurs"
+              class="text-left btn btn-warning"
+              (click)="removeLastField(field.inputs)"
+              [innerHtml]="field.allowToDuplicateSettings.removeButtonText"></span>
+      </div>
+
+      <div *ngIf="field.type == 'checkBoxes'" class="text-left">
+        <p [innerHTML]="field.title | trustHtml"></p>
+
+        <div *ngFor="let checkBox of field.checkBoxes" class="checkbox">
+          <label>
+            <input type="checkbox"
+                   ngModel name="{{checkBox.name}}"
+                   title="{{checkBox.name}}"
+                   value="true"/>
+            <span [innerHTML]="checkBox.text | trustHtml"></span>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <p *ngIf="content?.beforeSubmitText" [innerHTML]="content?.beforeSubmitText | trustHtml"></p>
+    <br>
+
+    <button type="submit" class="btn btn-primary">
+      {{content?.submitButtonText}}
+      <span class="spinner" [hidden]="!formLoading"><i class="fa fa-spinner fa-pulse"></i></span>
+    </button>
+    <div
+      [ngClass]="[showResponse ? 'd-block' : 'd-none', messageType == 'success' ? 'alert alert-success' : 'alert alert-danger']">
+      {{responseMessage}}
+    </div>
+  </span>
+</form>
+
+<div style="clear:both"></div>

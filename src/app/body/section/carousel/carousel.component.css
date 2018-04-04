@@ -1,0 +1,25 @@
+.carousel {
+  padding: 0;
+}
+
+h5 {
+  margin: 0;
+  color: inherit;
+  font-size: 1.8em;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.carousel-item img {
+  max-height: 700px;
+}
+
+.carousel-caption {
+  bottom: 15%;
+  text-shadow: -1px -1px 3px #000,
+  1px -1px 3px #000,
+  -1px 1px 3px #000,
+  1px 1px 3px #000;
+}

@@ -1,0 +1,49 @@
+{
+  "logo": {
+    "text": "casa petri",
+    "imgUrl": "./assets/img/common/logo_white.png",
+    "link": "/en",
+    "textOnMouseOver": "return to homepage..."
+  },
+  "leftButtons": [
+    {
+      "text": "See & do",
+      "link": "en/attractions",
+      "textOnMouseOver": "hiking or cycling gps trails, guided trails, hammocks, tennis, running"
+    },
+    {
+      "text": "Sleep & eat",
+      "link": "en/accommodation",
+      "textOnMouseOver": "accommodation, camping, guided tours, bikes rent, food info - bookings"
+    },
+    {
+      "text": "Events",
+      "link": "en/home#events",
+      "textOnMouseOver": "events"
+    },
+    {
+      "text": "PhotoBlog",
+      "link": "en/home#photoblog",
+      "textOnMouseOver": "photo articles from Rosia"
+    },
+    {
+      "text": "Reviews",
+      "link": "en/review",
+      "textOnMouseOver": "click to open reviews"
+    }
+  ],
+  "rightButtons": [
+    {
+      "text": "<i class='fas fa-phone fa-lg fa-rotate-90'></i> (+4)0743188186",
+      "link": "tel:(+4)0743188186",
+      "textOnMouseOver": "call us"
+    }
+  ],
+  "languageButtons": [
+    {
+      "text": "RO",
+      "languageCode": "ro",
+      "textOnMouseOver": "schimbă în română"
+    }
+  ]
+}

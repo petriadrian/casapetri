@@ -1,0 +1,15 @@
+.socialButtons {
+  margin: 20px 0px 0px 0px;
+  padding: 20px 0px 0px 0px;
+  border-top: 1px solid #B9B9B9;
+}
+
+.socialButtons .buttonItem {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0px 5px;
+}
+
+.socialButtons .g-plusone {
+  width: 50px;
+}
