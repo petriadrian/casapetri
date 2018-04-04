@@ -1,92 +1,89 @@
 {
-  "presentation": {
-    "title": "Iarna la Rosia",
-    "headline": "Iarna la Rosia Montană. Drumeții ușoare cu peisaje de poveste",
-    "fullWidthImg": "./assets/img/photoblog/winterWalks/presentation/fullWidthImg.jpg",
-    "videoSource": "./assets/img/photoblog/winterWalks/presentation/intro.mp4"
-  },
-  "url": {
-    "link": "ro/photoblog/winterWalks",
-    "textOnMouseOver": "Vezi mai mult..."
-  },
   "metaData": {
-    "title": "[Fotoblog] Iarna la Rosia Montană. Drumeții ușoare cu peisaje de poveste",
-    "description": "Satul capătă o nouă înfățișare pe timp de iarnă. Vezi cum arată o drumeție ușoară cu peisaje de poveste",
-    "displayOnShareImg": "./assets/img/photoblog/winterWalks/presentation/displayOnShareImg_ro.jpg"
+    "title": "[Photoblog] Winter at Rosia Montana. Easy walks, greats landscapes",
+    "description": "An easy walk during winter in our village",
+    "displayOnShareImg": "/assets/img/photoblog/winterWalks/presentation/displayOnShareImg_ro.jpg"
   },
-  "config": {
-    "showPageHeadline": true
+  "headline": {
+    "text": "Photoblog winter at Rosia Montana",
+    "videoSource": "./assets/img/photoblog/winterWalks/presentation/intro.mp4",
+    "fullWidthImg": "./assets/img/photoblog/winterWalks/presentation/fullWidthImg.jpg"
   },
   "sections": [
     {
       "type": "title",
-      "text": "<i class='far fa-images'></i> Fotoblog",
+      "text": "<i class='far fa-images'></i> Photoblog",
       "sectionId": "winter",
       "addLinkInPageHeadline": true
     },
     {
-      "type": "articles",
+      "type": "article",
       "specificArticles": [
         {
-          "textContent": "''Aseară am ajuns la Roșia Montană pe o ninsoare ce nu părea să se mai oprească. Am adormit cu sunetul lemnelor trosnind în sobă, iar de dimineață m-au trezit clopotele bisericilor din sat. Pe fereastra camerei observ masivul Cârnic acoperit cu brazi înalți prin a căror ramuri înzepezite își fac loc câteva raze de lumină. Un peisaj ce mă face să iau sania și să pornesc într-o drumeție ușoară prin împrejurimi...'",
+          "textContent": "Winter at Rosia Montană. Easy walks with great landscapes, mountains and frozen lakes, the sounds of the old churches bells, narrow roads and old houses covered with snow, sunset walking, the fire from the stove, resting and relaxation.",
           "images": [
             {
-              "text": "Centrul istoric",
+              "text": "Historic Center",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/carnic.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/carnic.jpg"
             },
             {
-              "text": "Biserici și clădiri istorice",
+              "text": "Snowing",
+              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/ninge.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/ninge.jpg"
+            },
+            {
+              "text": "The multicultural churches",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/centruDrum.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/centruDrum.jpg"
             },
             {
-              "text": "Zona Berg - Roșia Montană",
+              "text": "Berg area",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/berg.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/berg.jpg"
             },
             {
-              "text": "Cu sania pe derdelușul de langă casă.",
+              "text": "Enjoying snow around the house.",
               "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/sleighing.jpg",
               "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/sleighing.jpg"
             },
             {
-              "text": "Tăul Brazi.",
+              "text": "Pine lake.",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/taul_brazi.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/taul_brazi.jpg"
             },
             {
-              "text": "Pădurea de mesteacăni de pe Țarină.",
+              "text": "Tarina.",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/copacIarna.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/copacIarna.jpg"
             },
             {
-              "text": "Grigoras si Tom",
+              "text": "Grigoras and Tom",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/pisicSiCatelRosia.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/pisicSiCatelRosia.jpg"
             },
             {
-              "text": "Centrul istoric",
+              "text": "The village",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/centruDeLaPlatouRosia.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/centruDeLaPlatouRosia.jpg"
             },
             {
-              "text": "Gospodărie",
+              "text": "In the yard",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/gospodarieRosia.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/gospodarieRosia.jpg"
             },
             {
-              "text": "Gospodăria lui tanti Mărioara",
+              "text": "A new day",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/grajdOi.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/grajdOi.jpg"
             },
             {
-              "text": "Noi prieteni",
+              "text": "New friends",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/noiPrieteniCatel.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/noiPrieteniCatel.jpg"
             },
             {
-              "text": "Ultimele raze de soare",
+              "text": "The last drops of light",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/pisicSiCatelRosia2.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/pisicSiCatelRosia2.jpg"
             }
@@ -96,43 +93,43 @@
     },
     {
       "type": "title",
-      "text": "<i class='far fa-snowflake'></i> Plimbări pe înserate",
+      "text": "<i class='far fa-snowflake'></i> Sunset walking",
       "sectionId": "evening",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "articles",
+      "type": "article",
       "specificArticles": [
         {
-          "textContent": "O seară liniștită de iarnă prin centrul istoric din Roșia Montană:",
+          "textContent": "An relaxing winter evening in the historic center of Roșia Montană:",
           "images": [
             {
-              "text": "Noaptea prin sat",
+              "text": "The village",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/noapteRosia1.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/noapteRosia1.jpg"
             },
             {
-              "text": "Seară cu zăpadă",
+              "text": "Snow",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/noapteRosia2.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/noapteRosia2.jpg"
             },
             {
-              "text": "Ulița din fața casei",
+              "text": "Around the house",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/berg_noapte.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/berg_noapte.jpg"
             },
             {
-              "text": "Biserica unitariană",
+              "text": "The unitarian church",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/biserica_noapte.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/biserica_noapte.jpg"
             },
             {
-              "text": "Drumul spre sat",
+              "text": "Get lost",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/rosiaSoare.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/rosiaSoare.jpg"
             },
             {
-              "text": "Apus peste valea Roșiei",
+              "text": "Tomorrow is a new day",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/apus.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/apus.jpg"
             }
@@ -142,28 +139,28 @@
     },
     {
       "type": "title",
-      "text": "<i class='fas fa-home'></i> Iarna la Casa Petri",
+      "text": "<i class='fas fa-home'></i> Winter at Casa Petri",
       "sectionId": "evening",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "articles",
+      "type": "article",
       "specificArticles": [
         {
-          "textContent": "Ne-am pregătit de iarnă: lemne sunt gata pentru a încălzi camerele și mâțele să toarcă la gura sobei.",
+          "textContent": "Ready for winter: woods and cats to stay by the fire.",
           "images": [
             {
-              "text": "Căsuța din grădină",
+              "text": "Casa Petri",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/petriCasuta.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/petriCasuta.jpg"
             },
             {
-              "text": "Curtea casei",
+              "text": "The yard",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/petriTerasaGradina.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/petriTerasaGradina.jpg"
             },
             {
-              "text": "Priveliștea de pe terasă",
+              "text": "Our view",
               "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/petriVedereCurte.jpg",
               "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/petriVedereCurte.jpg"
             }
@@ -173,40 +170,34 @@
     },
     {
       "type": "title",
-      "text": "<i class='far fa-calendar-check'></i> Planifică o vizită",
+      "text": "<i class='far fa-calendar-check'></i> Plan a visit",
       "sectionId": "bookings",
       "addLinkInPageHeadline": true
     },
     {
-      "type": "articles",
+      "type": "article",
       "specificArticles": [
         {
-          "textContent": "Te așteptăm la Roșia Montană să o descoperi pe timp de iarnă. Ne aflăm în centrul istoric din Roșia Montnă și dispunem de 4 camere cu bai, bucătărie și încălzire pe teracote cu lemne. Pe lângă cazare vă putem organiza masa la localnici și tururi ghidate. În magazie avem mereu pregătite 2 sănii pentru cei care vor să pornească în astfel de drumeții. Pentru rezervări și imagini din interior intrați pe pagina de ",
+          "textContent": "Come visit us and discover Rosia Montana during winter. We are located in the historic center and we offer accomodation in rooms with fire places, private bathrooms and kitchen. We can also provide guided tours with locals. For reservations and more pictures with the inside see the: ",
           "seeAlso": [
             {
-              "text": "cazare",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
+              "text": "accommodation page",
+              "textOnMouseOver": "Click here...",
+              "link": "en/accommodation"
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "articles",
-      "specificArticles": [
+        },
         {
-          "textContent": "De asemenea ne poți lăsa mai jos jos datele tale de contact în și vom reveni cu un telefon sau email pentru o rezervare:"
+          "textContent": "Or leave us your data and will contact you:"
         }
       ]
     },
     {
       "type": "form",
-      "sendEmailTitle": "winterWalksBooking",
-      "beforeSubmitText": "Rezervarea va fi efectuată doar la primirea unui <b>email sau telefon de confirmare!</b>",
-      "submitButtonText": "Contactați-mă pentru o rezervare",
-      "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
-      "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",
+      "beforeSubmitText": "We will contact you for a reservation",
+      "submitButtonText": "Send",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "errorMessage": "ERROR! Contact us by email petriadrian@gmail.com",
       "fields": [
         {
           "type": "email",
@@ -219,14 +210,14 @@
           "type": "phone",
           "name": "phone",
           "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
-          "placeholder": "Telefon",
+          "placeholder": "Phone",
           "required": true
         },
         {
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
-          "placeholder": "Alte întrebări? Scrie-ne aici...",
+          "placeholder": "Other details? Write here...",
           "rows": 2,
           "maxChars": 500,
           "required": false
@@ -235,23 +226,6 @@
     },
     {
       "type": "socialButtons"
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-coffee'></i> Vezi și",
-      "sectionId": "seeAlso",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
-          "page": "ro/shortcut/trailsAndAttractions"
-        },
-        {
-          "page": "ro/accommodation"
-        }
-      ]
     }
   ]
 }

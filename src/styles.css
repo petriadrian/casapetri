@@ -1,1 +1,113 @@
 /* You can add global styles to this file, and also import other style files */
+
+a, u {
+  text-decoration: none;
+  color: #142522;
+  cursor: pointer;
+}
+p {
+  margin: 0;
+}
+
+h1 {
+  font-size: inherit;
+}
+
+span, p {
+  font-size: 0.97em;
+}
+
+textarea {
+  resize: vertical;
+}
+
+body {
+  color: #142522;
+  font-size: 14px;
+  text-align: center !important;
+  padding-top: 55px;
+}
+
+.anchorParent {
+  position: relative;
+}
+
+.anchor {
+  position: absolute;
+  top: -110px;
+}
+
+.row {
+  width: 100%;
+}
+
+.defaultClickStyle:HOVER,
+.defaultClickStyle:HOVER > a {
+  background-color: #142522;
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn-primary:FOCUS,
+.btn-primary:ACTIVE,
+.defaultClickStyle:ACTIVE,
+.defaultClickStyle:FOCUS {
+  outline: 0;
+  text-decoration: none;
+}
+
+.btn-primary {
+  text-shadow: none;
+  color: white !important;
+  background-color: #157f15 !important;
+  border-color: white !important;
+}
+
+.btn-primary:HOVER {
+  cursor: pointer;
+  background-color: #142522 !important;
+  color: white;
+}
+
+header .btn-primary {
+  background-color: transparent;
+}
+.footerFeedback .form-control,
+.footerFeedback button {
+  float: left;
+  width: 100%;
+  background-color: transparent;
+  color: white;
+  border-radius: 3px;
+  padding: 3px 12px;
+  border: 1px solid #cccccc;
+}
+
+.footerFeedback button:HOVER,
+.footerFeedback .input-group-addon,
+.footerFeedback button:FOCUS {
+  background-color: #157f15;
+  border: 1px solid #cccccc;
+}
+
+.footerFeedback button:HOVER,
+.footerFeedback button:FOCUS {
+  cursor: pointer;
+}
+
+.topBottomMargins {
+  margin: 2% 0;
+}
+
+.footerFeedback input:HOVER,
+.footerFeedback input:FOCUS,
+.footerFeedback textarea:HOVER,
+.footerFeedback textarea:FOCUS {
+  background-color: white;
+  color: black;
+}
+
+.footerFeedback form {
+  width: 100%;
+}
