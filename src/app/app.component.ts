@@ -15,7 +15,7 @@ export class AppComponent implements OnInit {
     // google analytics
     this.router.events.subscribe(event => {
       if (event instanceof NavigationEnd) {
-        console.log('gogl analy sent: ' + event.urlAfterRedirects);
+        // console.log('google analytics sent: ' + event.urlAfterRedirects);
         (<any>window).ga('set', 'page', event.urlAfterRedirects);
         (<any>window).ga('send', 'pageview');
       }
