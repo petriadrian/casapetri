@@ -254,16 +254,9 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
-      "specificArticles": [
-        {
-          "textContent": "We want to have everything set for your arrival so please make an <b>early</b> reservation. The <b>price</b> of the rooms can be found at 'Choose room or camping' section."
-        }
-      ]
-    },
-    {
       "type": "form",
-      "beforeSubmitText": "<i class='fa fa-info-circle'></i> The booking will be valid only when a <b>confirmation email</b> will be received! <br><b>Check-in</b>: 16:00 - 20:00 | <b>Check-out</b> by 11:00",
+      "beforeFormText": "We want to have everything set for your arrival so please make an <b>early</b> reservation. The <b>price</b> of the rooms can be found at 'Choose room or camping' section.",
+      "afterFormText": "<i class='fa fa-info-circle'></i> The booking will be valid only when a <b>confirmation email</b> will be received! <br><b>Check-in</b>: 16:00 - 20:00 | <b>Check-out</b> by 11:00",
       "submitButtonText": "Send the booking",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Contact us by email petriadrian@gmail.com",
@@ -369,7 +362,14 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "We are in the historic center of Roșia Montană - Carpathian Mountains - Transylvania, 130km away from Cluj Napoca and 80km from Alba Iulia. You can reach us by: <br><i class='fa fa-car'></i> <b>car</b> - set on your google maps gps 'Casa Petri Rosia Montana' and it will bring you to our house.<br><i class='fa fa-bus'></i> <b>bus</b> - the closest bus stations are in Câmpeni (15 km) or Abrud (10 km), but ask the driver to drop you off in Gura Roșiei (6 km) and hitchhike to the historic center.<br><i class='fa fa-train'></i> <b>train</b> - the closest train station is in Alba Iulia. Beside is the bus station so you can take a bus from there.<br><i class='fa fa-plane'></i> <b>airplane</b> - the closest airport is in Cluj Napoca. From here you have to take a bus. <br> Once in the historic center of Rosia Montana you will see on the left a 3 floor block of flats (the only block from the market). So take it on the left beside this building and in front you will see our house (one floor white house). The  entrance is through the yard on the left of the house. Please call us before arriving (~30min)."
+          "textContent": "We are in the historic center of Roșia Montană - Carpathian Mountains - Transylvania, 130km away from Cluj Napoca and 80km from Alba Iulia. You can reach us by: <br><i class='fa fa-car'></i> <b>car</b> - set on your google maps gps 'Casa Petri Rosia Montana' and it will bring you to our house.<br><i class='fa fa-bus'></i> <b>bus</b> - the closest bus stations are in Câmpeni (15 km) or Abrud (10 km), but ask the driver to drop you off in Gura Roșiei (6 km) and hitchhike to the historic center.<br><i class='fa fa-train'></i> <b>train</b> - the closest train station is in Alba Iulia. Beside is the bus station so you can take a bus from there.<br><i class='fa fa-plane'></i> <b>airplane</b> - the closest airport is in Cluj Napoca. From here you have to take a bus. <br> Once in the historic center of Rosia Montana you will see on the left a 3 floor block of flats (the only block from the market). So take it on the left beside this building and in front you will see our house (one floor white house). The  entrance is through the yard on the left of the house. Please call us before arriving (~30min) <br>If you came from <b>Cluj-Napoca to Rosia</b> by car see also ",
+          "seeAlso": [
+            {
+              "text": "this article",
+              "textOnMouseOver": "Click here...",
+              "link": "en/photoblog/clujRosia"
+            }
+          ]
         },
         {
           "iframe": {

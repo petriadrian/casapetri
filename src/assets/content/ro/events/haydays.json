@@ -111,7 +111,7 @@
     },
     {
       "type": "form",
-      "beforeSubmitText": "Rezervarea va fi validă doar la primirea unui telefon sau <b>email de confirmare!</b>",
+      "afterFormText": "Rezervarea va fi validă doar la primirea unui telefon sau <b>email de confirmare!</b>",
       "submitButtonText": "Trimite rezervarea",
       "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",

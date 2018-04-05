@@ -126,7 +126,7 @@
   {
     "id": "eventsBookingForm",
     "type": "form",
-    "beforeSubmitText": "<i class='fa fa-info-circle'></i> The booking will be valid only when a <b>confirmation email</b> will be received!",
+    "afterFormText": "<i class='fa fa-info-circle'></i> The booking will be valid only when a <b>confirmation email</b> will be received!",
     "submitButtonText": "Send the booking",
     "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
     "errorMessage": "ERROR! Contact us by email petriadrian@gmail.com",
@@ -211,6 +211,47 @@
         "text": "(the event can be found here)",
         "textOnMouseOver": "click here...",
         "link": "https://www.facebook.com/pg/casapetrirosiamontana/events"
+      }
+    ]
+  },
+  {
+    "id": "photoBlogPlanAVisit",
+    "type": "form",
+    "beforeFormText": "We restored our grandparents house from the historic center of Rosia Montana Transylvania and now we offer accommodation (the rooms have fire places, private bathrooms and kitchen). We can organize traditional meals at locals, guided tours in the area and we also offer bikes or sleights. If you wish to visit us leve your contact data bellow or make a direct booking on the ",
+    "beforeFormTextSeeAlso": [
+      {
+        "text": "accommodation page",
+        "textOnMouseOver": "Click here...",
+        "link": "en/accommodation"
+      }
+    ],
+    "afterFormText": "",
+    "submitButtonText": "Contact me for a reservation",
+    "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+    "errorMessage": "ERROR! Contact us by email petriadrian@gmail.com",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "phone",
+        "name": "phone",
+        "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
+        "placeholder": "Phone",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "others",
+        "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
+        "placeholder": "Other details? Write here...",
+        "rows": 2,
+        "maxChars": 500,
+        "required": false
       }
     ]
   }

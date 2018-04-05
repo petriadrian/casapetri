@@ -245,6 +245,15 @@
             "link": "ro/photoblog/winterWalks",
             "textOnMouseOver": "Vezi mai mult..."
           }
+        },
+        {
+          "title": "Cluj - Rosia",
+          "description": "Drumul de la Cluj la Roșia, pe albia râului Arieș oferă peisaje și locuri deosebite",
+          "img": "./assets/img/photoblog/clujRosia/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "ro/photoblog/clujRosia",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
         }
       ]
     },

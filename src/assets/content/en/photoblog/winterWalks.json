@@ -1,7 +1,7 @@
 {
   "metaData": {
-    "title": "[Photoblog] Winter at Rosia Montana. Easy walks, greats landscapes",
-    "description": "An easy walk during winter in our village",
+    "title": "Photoblog | Winter at Rosia Montana",
+    "description": "An easy walk with greats landscapes. Winter in our village",
     "displayOnShareImg": "/assets/img/photoblog/winterWalks/presentation/displayOnShareImg_ro.jpg"
   },
   "headline": {
@@ -176,53 +176,14 @@
     },
     {
       "type": "article",
-      "specificArticles": [
-        {
-          "textContent": "Come visit us and discover Rosia Montana during winter. We are located in the historic center and we offer accomodation in rooms with fire places, private bathrooms and kitchen. We can also provide guided tours with locals. For reservations and more pictures with the inside see the: ",
-          "seeAlso": [
-            {
-              "text": "accommodation page",
-              "textOnMouseOver": "Click here...",
-              "link": "en/accommodation"
-            }
-          ]
-        },
-        {
-          "textContent": "Or leave us your data and will contact you:"
-        }
-      ]
-    },
-    {
-      "type": "form",
-      "beforeSubmitText": "We will contact you for a reservation",
-      "submitButtonText": "Send",
-      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
-      "errorMessage": "ERROR! Contact us by email petriadrian@gmail.com",
-      "fields": [
-        {
-          "type": "email",
-          "name": "email",
-          "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
-          "placeholder": "Email",
-          "required": true
-        },
-        {
-          "type": "phone",
-          "name": "phone",
-          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
-          "placeholder": "Phone",
-          "required": true
-        },
-        {
-          "type": "textarea",
-          "name": "others",
-          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
-          "placeholder": "Other details? Write here...",
-          "rows": 2,
-          "maxChars": 500,
-          "required": false
-        }
-      ]
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "photoBlogPlanAVisit"
+          }
+        ]
+      }
     },
     {
       "type": "socialButtons"

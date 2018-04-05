@@ -1,6 +1,6 @@
 {
   "metaData": {
-    "title": "[Fotoblog] Iarna la Rosia Montană. Drumeții ușoare cu peisaje de poveste",
+    "title": "Fotoblog | Iarna la Rosia Montană",
     "description": "Satul capătă o nouă înfățișare pe timp de iarnă. Vezi cum arată o drumeție ușoară cu peisaje de poveste",
     "displayOnShareImg": "/assets/img/photoblog/winterWalks/presentation/displayOnShareImg_ro.jpg"
   },
@@ -176,58 +176,14 @@
     },
     {
       "type": "article",
-      "specificArticles": [
-        {
-          "textContent": "Te așteptăm la Roșia Montană să o descoperi pe timp de iarnă. Ne aflăm în centrul istoric din Roșia Montnă și dispunem de 4 camere cu bai, bucătărie și încălzire pe teracote cu lemne. Pe lângă cazare vă putem organiza masa la localnici și tururi ghidate. În magazie avem mereu pregătite 2 sănii pentru cei care vor să pornească în astfel de drumeții. Pentru rezervări și imagini din interior intrați pe pagina de ",
-          "seeAlso": [
-            {
-              "text": "cazare",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "article",
-      "specificArticles": [
-        {
-          "textContent": "De asemenea ne poți lăsa mai jos jos datele tale de contact în și vom reveni cu un telefon sau email pentru o rezervare:"
-        }
-      ]
-    },
-    {
-      "type": "form",
-      "beforeSubmitText": "Rezervarea va fi efectuată doar la primirea unui <b>email sau telefon de confirmare!</b>",
-      "submitButtonText": "Contactați-mă pentru o rezervare",
-      "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
-      "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",
-      "fields": [
-        {
-          "type": "email",
-          "name": "email",
-          "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
-          "placeholder": "Email",
-          "required": true
-        },
-        {
-          "type": "phone",
-          "name": "phone",
-          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
-          "placeholder": "Telefon",
-          "required": true
-        },
-        {
-          "type": "textarea",
-          "name": "others",
-          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
-          "placeholder": "Alte întrebări? Scrie-ne aici...",
-          "rows": 2,
-          "maxChars": 500,
-          "required": false
-        }
-      ]
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "photoBlogPlanAVisit"
+          }
+        ]
+      }
     },
     {
       "type": "socialButtons"

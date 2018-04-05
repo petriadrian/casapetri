@@ -1,3 +1,10 @@
+<p>
+  <span *ngIf="!!content?.beforeFormText" [innerHTML]="content?.beforeFormText | trustHtml"></span>
+  <span *ngIf="!!content?.beforeFormTextSeeAlso">
+        <span *ngFor="let seeAlsoItem of content?.beforeFormTextSeeAlso">
+              <app-link [content]="seeAlsoItem" [class]="'lookLikeLink'"></app-link></span>
+        </span>
+</p>
 <form #defaultForm="ngForm"
       ngNativeValidate
       (ngSubmit)="sendEmailFromForm(defaultForm)"
@@ -107,7 +114,7 @@
       </div>
     </div>
 
-    <p *ngIf="content?.beforeSubmitText" [innerHTML]="content?.beforeSubmitText | trustHtml"></p>
+    <p *ngIf="content?.afterFormText" [innerHTML]="content?.afterFormText | trustHtml"></p>
     <br>
 
     <button type="submit" class="btn btn-primary">

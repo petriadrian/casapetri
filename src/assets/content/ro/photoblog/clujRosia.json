@@ -1,0 +1,188 @@
+{
+  "metaData": {
+    "title": "Fotoblog | Pe Valea Arieșului de la Cluj la Roșia",
+    "description": "Pe lângă destinație și drumul de la Cluj la Roșia Montană, pe albia râului Arieș oferă peisaje deosebite",
+    "displayOnShareImg": "/assets/img/photoblog/clujRosia/article/fullSize/lunca.jpg"
+  },
+  "headline": {
+    "text": "Fotoblog Valea Arieșului de la Cluj la Roșia",
+    "videoSource": "",
+    "fullWidthImg": "./assets/img/photoblog/clujRosia/article/fullSize/lunca.jpg"
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='far fa-images'></i> Fotoblog",
+      "sectionId": "winter",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "Marea parte din drumul de la Cluj la Roșia Montană este pe albia râului Arieș și durează cam 2 ore ... dacă nu vă opriți să admirați peisajul.",
+          "images": [
+            {
+              "text": "Cheile Borzești",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/borzesti.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/borzesti.jpg"
+            },
+            {
+              "text": "Valea Arieșului",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/aries.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/aries.jpg"
+            },
+            {
+              "text": "Pe drum",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/drum.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/drum.jpg"
+            },
+            {
+              "text": "Valea Arieșului",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/aries2.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/aries2.jpg"
+            },
+            {
+              "text": "Valea Arieșului",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/aries4.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/aries4.jpg"
+            },
+            {
+              "text": "Satul Buru",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/buru.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/buru.jpg"
+            },
+            {
+              "text": "Biserica de lemn Buru",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/buru2.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/buru2.jpg"
+            },
+            {
+              "text": "Brazesti",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/brazesti.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/brazesti.jpg"
+            },
+            {
+              "text": "Cascada Șipote",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/sipote.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/sipote.jpg"
+            },
+            {
+              "text": "Trafic",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/cal.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/cal.jpg"
+            },
+            {
+              "text": "Cascada",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/cascada.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/cascada.jpg"
+            },
+            {
+              "text": "Pe drum",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/drum2.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/drum2.jpg"
+            },
+            {
+              "text": "Sălciua",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/salciua.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/salciua.jpg"
+            },
+            {
+              "text": "Locul cu stupi",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/stupi.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/stupi.jpg"
+            },
+            {
+              "text": "Biseirca de lemn Lupșa - 1428",
+              "thumbnailUrl": "./assets/img/attractions/article/churches/lupsa/thumbnail/1.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/churches/lupsa/fullSize/1.jpg"
+            },
+            {
+              "text": "Intrarea la Mănăstirea Lupșa",
+              "thumbnailUrl": "./assets/img/attractions/article/churches/lupsa/thumbnail/4.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/churches/lupsa/fullSize/4.jpg"
+            },
+            {
+              "text": "Huda lui Papară - pentru a ajunge aici va trebui să vă abateți de la drum din Sălciua (~20min)",
+              "thumbnailUrl": "./assets/img/attractions/article/hudaPapara/thumbnail/papara.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/hudaPapara/fullSize/papara.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-images'></i> Punțile Arieșului",
+      "sectionId": "winter",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "Câteva locuri cu totul speciale sunt punțile (poduri) peste râul Arieș ce leagă mici sate sau cătune de 'civilizație'.",
+          "images": [
+            {
+              "text": "Punte Aries",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/punte_lemn_aries.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/punte_lemn_aries.jpg"
+            },
+            {
+              "text": "Punte Aries",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/punte2.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/punte2.jpg"
+            },
+            {
+              "text": "Punte Aries - Buru",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/punte.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/punte.jpg"
+            },
+            {
+              "text": "Punte Aries",
+              "thumbnailUrl": "./assets/img/photoblog/clujRosia/article/thumbnail/punte3.jpg",
+              "fullSizeUrl": "./assets/img/photoblog/clujRosia/article/fullSize/punte3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-location-arrow'></i> Harta",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "textContent": "Acesta este traseul pentru a ajunge la noi (Casa Petri Rosia Montana) din Cluj.",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJiwtskR8MSUcRixQfMxxgvAs&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJbXLD1HtBSUcRECGT2b2-2PI|place_id:ChIJ9wjfPDpISUcRixkDcFVVpRc|place_id:ChIJG6piT7gzSUcRW9dqSyE5Gl0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-calendar-check'></i> Planifică o vizită",
+      "sectionId": "bookings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "commonArticles": {
+        "category": "ourServices",
+        "ids": [
+          {
+            "id": "photoBlogPlanAVisit"
+          }
+        ]
+      }
+    },
+    {
+      "type": "socialButtons"
+    }
+  ]
+}

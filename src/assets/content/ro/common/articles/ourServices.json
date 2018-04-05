@@ -126,7 +126,7 @@
   {
     "id": "eventsBookingForm",
     "type": "form",
-    "beforeSubmitText": "Rezervarea va fi validă doar la primirea unui telefon sau <b>email de confirmare!</b>",
+    "afterFormText": "Rezervarea va fi validă doar la primirea unui telefon sau <b>email de confirmare!</b>",
     "submitButtonText": "Trimite rezervarea",
     "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
     "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",
@@ -211,6 +211,47 @@
         "text": "(găsești event-ul aici)",
         "textOnMouseOver": "click aici...",
         "link": "https://www.facebook.com/pg/casapetrirosiamontana/events"
+      }
+    ]
+  },
+  {
+    "id": "photoBlogPlanAVisit",
+    "type": "form",
+    "beforeFormText": "Ne aflăm în centrul istoric din Roșia Montnă într-o casă veche moștenită de la bunici pe care am transformat-o în spațiu de cazare (avem 4 camere cu bai, bucătărie și încălzire pe teracote cu lemne). Organizăm mese tradițioinale la localnici, tururi ghidate în zonă și oferim biciclete de închiriat sau sănii. Dacă doriți să ne vizitați lăsați-ne datele de contact sau puteți face o rezervare direct pe pagina de ",
+    "beforeFormTextSeeAlso": [
+      {
+        "text": "cazare",
+        "textOnMouseOver": "Click aici...",
+        "link": "ro/accommodation#bookings"
+      }
+    ],
+    "afterFormText": "",
+    "submitButtonText": "Contactați-mă pentru o rezervare",
+    "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
+    "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "phone",
+        "name": "phone",
+        "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
+        "placeholder": "Telefon",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "others",
+        "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
+        "placeholder": "Alte întrebări? Scrie-ne aici...",
+        "rows": 2,
+        "maxChars": 500,
+        "required": false
       }
     ]
   }

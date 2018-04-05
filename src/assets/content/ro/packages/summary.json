@@ -65,7 +65,7 @@
     },
     {
       "type": "form",
-      "beforeSubmitText": "",
+      "afterFormText": "",
       "submitButtonText": "Trimite",
       "successMessage": "Vă mulțumim! O să revenim cu un e-mail de confirmare cât mai repede posibil.",
       "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",

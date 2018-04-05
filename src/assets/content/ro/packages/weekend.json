@@ -134,7 +134,7 @@
     },
     {
       "type": "form",
-      "beforeSubmitText": "Prin efectuarea unei comenzi vă asumați că ați citit și sunteți de acord cu cele prezentate pe această pagină.",
+      "afterFormText": "Prin efectuarea unei comenzi vă asumați că ați citit și sunteți de acord cu cele prezentate pe această pagină.",
       "submitButtonText": "Comandă voucher",
       "successMessage": "Vă mulțumim! O să revenim cu un e-mail de confirmare cât mai repede posibil.",
       "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",

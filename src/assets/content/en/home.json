@@ -244,6 +244,15 @@
             "link": "en/photoblog/winterWalks",
             "textOnMouseOver": "See more..."
           }
+        },
+        {
+          "title": "Cluj - Rosia",
+          "description": "The road from Cluj-Napoca to Rosia, beside the Aries river offers amazing landscapes and places",
+          "img": "./assets/img/photoblog/clujRosia/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "en/photoblog/clujRosia",
+            "textOnMouseOver": "See more..."
+          }
         }
       ]
     },

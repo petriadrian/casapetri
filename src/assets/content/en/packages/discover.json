@@ -650,7 +650,7 @@
     },
     {
       "type": "form",
-      "beforeSubmitText": "<i class='fa fa-info-circle'></i> The booking will be valid only when a <b>confirmation</b> email will be received, followed by a <b>downpayment</b> of 30% of total sum (non-refundable on cancellations). If there will be less than 4 persons subscribed, the tour will not take place (we will inform and return the downpayment with 7 days before).",
+      "afterFormText": "<i class='fa fa-info-circle'></i> The booking will be valid only when a <b>confirmation</b> email will be received, followed by a <b>downpayment</b> of 30% of total sum (non-refundable on cancellations). If there will be less than 4 persons subscribed, the tour will not take place (we will inform and return the downpayment with 7 days before).",
       "submitButtonText": "Send booking",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Contact us by email petriadrian@gmail.com",
