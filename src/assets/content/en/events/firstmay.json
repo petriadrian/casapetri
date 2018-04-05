@@ -1,11 +1,11 @@
 {
   "metaData": {
     "title": "1 Mai weekend la Roșia Montană",
-    "description": "De 1 Mai vă așteptăm la Roșia cu trasee ghidate (centrul istoric și galerii sau exploatări miniere de aur), proiecții de filme și plimbări cu mocănița. Detalii și rezervări aici...",
+    "text": "De 1 Mai vă așteptăm la Roșia cu trasee ghidate (centrul istoric și galerii sau exploatări miniere de aur), proiecții de filme și plimbări cu mocănița. Detalii și rezervări aici...",
     "displayOnShareImg": "/assets/img/events/firstMai/presentation/displayOnShareImg.jpg"
   },
   "headline": {
-    "text": "1st of May in Roșia Montană",
+    "title": "1st of May in Roșia Montană",
     "videoSource": "",
     "fullWidthImg": "./assets/img/events/firstMai/presentation/fullWidthImg.jpg"
   },
@@ -20,10 +20,10 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Rosia Montana is the oldest settlement from Romania (131 AD), it has an unique cultural landscape (proposed for UNESCO) and it's location in the Carpathian mountains Transylvania makes it an perfect place for hiking or cycling. During this event we will show you a little part from all this through guided tours and movie screenings."
+          "text": "Rosia Montana is the oldest settlement from Romania (131 AD), it has an unique cultural landscape (proposed for UNESCO) and it's location in the Carpathian mountains Transylvania makes it an perfect place for hiking or cycling. During this event we will show you a little part from all this through guided tours and movie screenings."
         },
         {
-          "textContent": "<i class='far fa-calendar-alt'></i> 27.04 - 01.05.2018"
+          "text": "<i class='far fa-calendar-alt'></i> 27.04 - 01.05.2018"
         }
       ]
     },
@@ -37,7 +37,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>Friday 27 April - check in</b> (16:00 - 23:00), arrival at Casa Petri Roșia Montană 331A ",
+          "text": "<b>Friday 27 April - check in</b> (16:00 - 23:00), arrival at Casa Petri Roșia Montană 331A ",
           "seeAlso": [
             {
               "text": "(see here how to reach us)",
@@ -48,7 +48,7 @@
         },
         {
           "title": "Saturday 28 April",
-          "textContent": "<b><i class='far fa-clock'></i> 09:30 ~ 15:00 - Guided tour - The historic center and roman galleries.</b><br> In the historic center of Rosia Montana there are several heritage buildings (schools, churches or the goldsmith houses) built by various civilizations that came here for gold. We will also visit the roman galleries from the Mining Museum and will end the tour in a place with an amazing view upon the village.",
+          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 15:00 - Guided tour - The historic center and roman galleries.</b><br> In the historic center of Rosia Montana there are several heritage buildings (schools, churches or the goldsmith houses) built by various civilizations that came here for gold. We will also visit the roman galleries from the Mining Museum and will end the tour in a place with an amazing view upon the village.",
           "images": [
             {
               "text": "Guided tour - historic center.",
@@ -73,7 +73,7 @@
           ]
         },
         {
-          "textContent": "<br><br><b><i class='far fa-clock'></i> Evening - Movie in the garden 'The story of Roșia Montană'</b><br> Images, movies and stories about the past of the village and the today life (if will be cold will hold the screening inside).",
+          "text": "<br><br><b><i class='far fa-clock'></i> Evening - Movie in the garden 'The story of Roșia Montană'</b><br> Images, movies and stories about the past of the village and the today life (if will be cold will hold the screening inside).",
           "images": [
             {
               "text": "Movie screening in the garden",
@@ -89,7 +89,7 @@
         },
         {
           "title": "Sunday 29 April",
-          "textContent": "<b><i class='far fa-clock'></i> 09:30 ~ 14:00 - Guided tour - Gold exploitations</b> <br> Will follow the old golden veins of the Cârnic massif, visit some galleries and find their stories and how were they made.",
+          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 14:00 - Guided tour - Gold exploitations</b> <br> Will follow the old golden veins of the Cârnic massif, visit some galleries and find their stories and how were they made.",
           "images": [
             {
               "text": "The Roman Galleries - Cârnic",
@@ -109,11 +109,11 @@
           ]
         },
         {
-          "textContent": "<br><br><b><i class='far fa-clock'></i> Evening - Movie screenings</b> <br>We will watch some movies made in the '70s in Rosia Montana like 'Nunta de piatra' (is in top 10 romanian movies of all times) or 'Flăcări pe Comori'."
+          "text": "<br><br><b><i class='far fa-clock'></i> Evening - Movie screenings</b> <br>We will watch some movies made in the '70s in Rosia Montana like 'Nunta de piatra' (is in top 10 romanian movies of all times) or 'Flăcări pe Comori'."
         },
         {
           "title": "Monday 30 April",
-          "textContent": "<b><i class='far fa-clock'></i> 09:30 ~ 16:00 - Guided trail - Detunata massif</b>. <br>This 80m high massive formed from basalt columns is a protected area with huge stone blocks. The area has great legends, the people are welcoming and they also make some amazing cheese pies.",
+          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 16:00 - Guided trail - Detunata massif</b>. <br>This 80m high massive formed from basalt columns is a protected area with huge stone blocks. The area has great legends, the people are welcoming and they also make some amazing cheese pies.",
           "images": [
             {
               "text": "<b>Detunata</b> - through the basalt block, into the middle of the pine forest is a small glacier.",
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "textContent": "<br><br><b><i class='far fa-clock'></i> Evening - 'mici', beer and vinyl</b> <br>In the evening will make a barbecue in the backyard with some traditional romanian food from the house ('mici' and beer) and listen music from pick-up (vinyl).",
+          "text": "<br><br><b><i class='far fa-clock'></i> Evening - 'mici', beer and vinyl</b> <br>In the evening will make a barbecue in the backyard with some traditional romanian food from the house ('mici' and beer) and listen music from pick-up (vinyl).",
           "images": [
             {
               "text": "Evening with 'mici' and beer.",
@@ -144,7 +144,7 @@
         },
         {
           "title": "Tuesday 1 Mai",
-          "textContent": "<b>Steam train rides</b> <br>The <b>steamtrain</b> was used in the past to carry miners and gold from Gura Rosie factory and now has been open for tourists. There are 2 steamtrains near us: <b>Abrud - Câmpeni steamtrain</b> (~10min by car from us; the tour last 3h) and <b>Crișcior - Brad steamtrain</b> (~45min by car from us; the tour last 2h). <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> - ",
+          "text": "<b>Steam train rides</b> <br>The <b>steamtrain</b> was used in the past to carry miners and gold from Gura Rosie factory and now has been open for tourists. There are 2 steamtrains near us: <b>Abrud - Câmpeni steamtrain</b> (~10min by car from us; the tour last 3h) and <b>Crișcior - Brad steamtrain</b> (~45min by car from us; the tour last 2h). <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> - ",
           "seeAlso": [
             {
               "text": "see map for Abrud steamtrain ",
@@ -204,7 +204,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "The price is <b>100euro</b>/person. <b>Includes:</b> accommodation (4 nights), the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
+          "text": "The price is <b>100euro</b>/person. <b>Includes:</b> accommodation (4 nights), the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
         }
       ]
     },

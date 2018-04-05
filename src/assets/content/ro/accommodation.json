@@ -1,11 +1,11 @@
 {
   "metaData": {
     "title": "Cazare Rosia Montana",
-    "description": "Cazare într-o fostă locuință de mineri din Centrul Istoric. Camerele au fost renovate, au băi și acces la bucătărie. Vezi și trasee de drumeție sau bicicletă în zonă pentru a descoperi galeriile romane, industria minieră, centrul vechi, munții, lacurile și multe altele. Rosia Montana, Alba, Munții Apuseni, Transilvania, Romania.",
+    "text": "Cazare într-o fostă locuință de mineri din Centrul Istoric. Camerele au fost renovate, au băi și acces la bucătărie. Vezi și trasee de drumeție sau bicicletă în zonă pentru a descoperi galeriile romane, industria minieră, centrul vechi, munții, lacurile și multe altele. Rosia Montana, Alba, Munții Apuseni, Transilvania, Romania.",
     "displayOnShareImg": "/assets/img/accommodation/presentation/displayOnShareImg.jpg"
   },
   "headline": {
-    "text": "Planifică o vizită la Roșia Montană",
+    "title": "Planifică o vizită la Roșia Montană",
     "fullWidthImg": "./assets/img/accommodation/presentation/fullWidthImg.jpg"
   },
   "sections": [
@@ -19,7 +19,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Ne aflăm în centrul istoric din Roșia Montană la numărul 331. Clădirea a fost centru medical, sediu de bancă, cinematograf, iar apoi bunicii noștri, foști mineri și deținători de galerii, au cumpărat-o și au folosit-o ca locuință. Fiind o casă de patrimoniu, am păstrat zugrăveala, podelele, geamurile, încălzirea prin teracote pe lemne dar am integrat băile și bucătăria. Camerele au intrări separate conectate printr-o curte cu hamace, iarbă verde și priveliște spre masivul Cârnic."
+          "text": "Ne aflăm în centrul istoric din Roșia Montană la numărul 331. Clădirea a fost centru medical, sediu de bancă, cinematograf, iar apoi bunicii noștri, foști mineri și deținători de galerii, au cumpărat-o și au folosit-o ca locuință. Fiind o casă de patrimoniu, am păstrat zugrăveala, podelele, geamurile, încălzirea prin teracote pe lemne dar am integrat băile și bucătăria. Camerele au intrări separate conectate printr-o curte cu hamace, iarbă verde și priveliște spre masivul Cârnic."
         }
       ]
     },
@@ -28,7 +28,7 @@
       "specificArticles": [
         {
           "title": "Camera cărților",
-          "textContent": "Are pereți de piatră de un metru grosime, un dulap plin cu cărți și două paturi etajate. Se află la parter și are <b>intrare separată</b> prin curte. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată - <i class='fas fa-utensils'></i> bucătărioară propie - <i class='fa fa-book'></i> bibliotecă",
+          "text": "Are pereți de piatră de un metru grosime, un dulap plin cu cărți și două paturi etajate. Se află la parter și are <b>intrare separată</b> prin curte. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată - <i class='fas fa-utensils'></i> bucătărioară propie - <i class='fa fa-book'></i> bibliotecă",
           "images": [
             {
               "text": "Camera cărților - Fostul bufet de bucătărie a devenit o bibliotecă cu vechile cărți ale bunicilor, ghiduri despre Roșia Montană și board games",
@@ -59,7 +59,7 @@
       "specificArticles": [
         {
           "title": "Camera din căsuță",
-          "textContent": "Casa din grădină dispune de o cameră cu 2 paturi, baie, bucătărie și <b>intrare separată</b> prin curte. <br><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată - <i class='fas fa-utensils'></i> bucătărie propie - <i class='fa fa-book'></i> bibliotecă",
+          "text": "Casa din grădină dispune de o cameră cu 2 paturi, baie, bucătărie și <b>intrare separată</b> prin curte. <br><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată - <i class='fas fa-utensils'></i> bucătărie propie - <i class='fa fa-book'></i> bibliotecă",
           "images": [
             {
               "text": "Camera din căsuță - exterior - <b>intrare separată</b> prin curte",
@@ -90,7 +90,7 @@
       "specificArticles": [
         {
           "title": "Camera din târnaț",
-          "textContent": "Se află la etaj, are <b>intrare separată</b> prin curte, iar accesul se face prin târnaț (un hol cu scări și ferestre mici, specific caselor din zonă). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h'></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată  - <i class='fas fa-utensils'></i> bucătărioară propie - <i class='fa fa-book'></i> bibliotecă",
+          "text": "Se află la etaj, are <b>intrare separată</b> prin curte, iar accesul se face prin târnaț (un hol cu scări și ferestre mici, specific caselor din zonă). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h'></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată  - <i class='fas fa-utensils'></i> bucătărioară propie - <i class='fa fa-book'></i> bibliotecă",
           "images": [
             {
               "text": "Camera din târnaț - patul dublu se poate separa. Zugrăveala din anul 1960 este foarte bine păstrată (cam 2 săptămâni a durat atunci realizarea ei)",
@@ -115,7 +115,7 @@
           ]
         },
         {
-          "textContent": "<br> Pentru prețuri și rezervări cazare vedeți formularul de mai jos sau click pe 'Rezervări'."
+          "text": "<br> Pentru prețuri și rezervări cazare vedeți formularul de mai jos sau click pe 'Rezervări'."
         }
       ]
     },
@@ -130,7 +130,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Imagini din <b>curtea casei</b> sau din apropierea acesteia.",
+          "text": "Imagini din <b>curtea casei</b> sau din apropierea acesteia.",
           "images": [
             {
               "text": "Curtea casei - De copaci agățăm hamace numai bune de lenevit, citit sau admirat masivul Cârnic. Da, este semnal wifi și aici.",
@@ -162,7 +162,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Și nouă ne place să mergem cu cortul la munte, de accea am pregătit în curtea casei un mic spațiu de campare pentru maxim 4 corturi cu acces la baie, bucătărie, loc de luat masa, foișor, wifi gratis și acces la energie electrică - campare Rosia Montana - campare Apuseni.",
+          "text": "Și nouă ne place să mergem cu cortul la munte, de accea am pregătit în curtea casei un mic spațiu de campare pentru maxim 4 corturi cu acces la baie, bucătărie, loc de luat masa, foișor, wifi gratis și acces la energie electrică - campare Rosia Montana - campare Apuseni.",
           "images": [
             {
               "text": "Zona de campare din curte",
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "textContent": "<br> Pentru prețuri și rezervări campare vedeți formularul de mai jos sau click pe 'Rezervări'."
+          "text": "<br> Pentru prețuri și rezervări campare vedeți formularul de mai jos sau click pe 'Rezervări'."
         }
       ]
     },
@@ -208,7 +208,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Pe lângă cazare, la Casa Petri o să mai găsiți și: <br><b>Biciclete</b> de închiriat sau dacă va fi nevoie asistență reparații biciclete. <br><b>Tururi ghidate</b> - vedeți secțiunea de mai jos. <br><b>Biblioteca</b> casei conține cărți și reviste pe care le puteți citi <br><b>Hamace</b> cu priveliște și acces <b>wifi</b> - în curtea casei <br><b>Parc de joacă</b> pentru copii - se află chiar lângă casă <br><b>Proiecții filme</b> și imagini despre Roșia în curtea casei sau în camere (avem proiector și se poate monta la cerere) <br><b>Board games</b> - în bibliotecă găsiți diferite jocuri de societate (Activity, Risk, Catan) <br><b>Derdeluș</b> - avem 2 sănii pe care le puteți folosi iarna pe derdelușul de lângă casă <br><b>Badminton, tenis, fotbal</b> - avem palete, rachete și mingi, iar la ~15min de mers pe jos este un teren sintetic.",
+          "text": "Pe lângă cazare, la Casa Petri o să mai găsiți și: <br><b>Biciclete</b> de închiriat sau dacă va fi nevoie asistență reparații biciclete. <br><b>Tururi ghidate</b> - vedeți secțiunea de mai jos. <br><b>Biblioteca</b> casei conține cărți și reviste pe care le puteți citi <br><b>Hamace</b> cu priveliște și acces <b>wifi</b> - în curtea casei <br><b>Parc de joacă</b> pentru copii - se află chiar lângă casă <br><b>Proiecții filme</b> și imagini despre Roșia în curtea casei sau în camere (avem proiector și se poate monta la cerere) <br><b>Board games</b> - în bibliotecă găsiți diferite jocuri de societate (Activity, Risk, Catan) <br><b>Derdeluș</b> - avem 2 sănii pe care le puteți folosi iarna pe derdelușul de lângă casă <br><b>Badminton, tenis, fotbal</b> - avem palete, rachete și mingi, iar la ~15min de mers pe jos este un teren sintetic.",
           "images": [
             {
               "text": "Biciclete de închiriat. Trasee ghidate pe bicicletă cu asistență mecanică pe traseu.",
@@ -361,7 +361,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Ne aflăm în Roșia Montană - Munții Apuseni - Transilvania, la 130km de Cluj-Napoca și 80km de Alba Iulia. Puteți ajunge la noi cu: <br><i class='fa fa-car'></i> <b>mașina</b> - setați pe gps-ul de la google maps 'Casa Petri Rosia Montana' și vă aduce până la casa noastră.<br><i class='fa fa-bus'></i> <b>autobuz</b> - autogări apropiate: Câmpeni (15km) sau Abrud (10km), dar coborâți în satul Gura Roșiei (6km) și faceți autostopul până în centrul vechi.<br><i class='fa fa-train'></i> <b>tren</b> - cea mai apropiată gară este în Alba Iulia. Chiar lângă gară este autogara de unde puteți lua un autobuz.<br><i class='fa fa-plane'></i> <b>avion</b> - cel mai apropiat aeroport este în Cluj Napoca. De aici va trebui să luați un autobuz până la noi. <br> Odată ajunși în centrul vechi din Rosia Montana o să vedeți în stânga un bloc de 3 etaje (singurul bloc din piață). Mergeți pe strada din fața lui și imediat în față este casa noastră, o casă albă cu etaj - numărul 331. Intrarea se face prin curte, pe poarta din partea stangă a casei. Vă rugăm să faceți o rezervare înainte de sosire. <br>Dacă veniți <b>de la Cluj la Roșia</b> cu mașina musai să vedeți ",
+          "text": "Ne aflăm în Roșia Montană - Munții Apuseni - Transilvania, la 130km de Cluj-Napoca și 80km de Alba Iulia. Puteți ajunge la noi cu: <br><i class='fa fa-car'></i> <b>mașina</b> - setați pe gps-ul de la google maps 'Casa Petri Rosia Montana' și vă aduce până la casa noastră.<br><i class='fa fa-bus'></i> <b>autobuz</b> - autogări apropiate: Câmpeni (15km) sau Abrud (10km), dar coborâți în satul Gura Roșiei (6km) și faceți autostopul până în centrul vechi.<br><i class='fa fa-train'></i> <b>tren</b> - cea mai apropiată gară este în Alba Iulia. Chiar lângă gară este autogara de unde puteți lua un autobuz.<br><i class='fa fa-plane'></i> <b>avion</b> - cel mai apropiat aeroport este în Cluj Napoca. De aici va trebui să luați un autobuz până la noi. <br> Odată ajunși în centrul vechi din Rosia Montana o să vedeți în stânga un bloc de 3 etaje (singurul bloc din piață). Mergeți pe strada din fața lui și imediat în față este casa noastră, o casă albă cu etaj - numărul 331. Intrarea se face prin curte, pe poarta din partea stangă a casei. Vă rugăm să faceți o rezervare înainte de sosire. <br>Dacă veniți <b>de la Cluj la Roșia</b> cu mașina musai să vedeți ",
           "seeAlso": [
             {
               "text": "acest articol",

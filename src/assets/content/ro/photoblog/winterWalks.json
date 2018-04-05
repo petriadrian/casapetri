@@ -1,11 +1,11 @@
 {
   "metaData": {
-    "title": "Fotoblog | Iarna la Rosia Montană",
-    "description": "Satul capătă o nouă înfățișare pe timp de iarnă. Vezi cum arată o drumeție ușoară cu peisaje de poveste",
+    "title": "Iarna la Rosia Montană | Fotoblog",
+    "text": "Satul capătă o nouă înfățișare pe timp de iarnă. Vezi cum arată o drumeție ușoară cu peisaje de poveste",
     "displayOnShareImg": "/assets/img/photoblog/winterWalks/presentation/displayOnShareImg_ro.jpg"
   },
   "headline": {
-    "text": "Iarna la Rosia Montană",
+    "title": "Iarna la Rosia Montană",
     "videoSource": "./assets/img/photoblog/winterWalks/presentation/intro.mp4",
     "fullWidthImg": "./assets/img/photoblog/winterWalks/presentation/fullWidthImg.jpg"
   },
@@ -20,7 +20,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Iarna la Rosia Montană. Drumeții ușoare cu peisaje de poveste, munți și lacuri, sunetul clopotelor bisericilor din sat, ulițe înguste și case vechi acoperite de zăpadă, plimbări pe înserate, căldura focului din sobă, liniște și relaxare.",
+          "text": "Iarna la Rosia Montană. Drumeții ușoare cu peisaje de poveste, munți și lacuri, sunetul clopotelor bisericilor din sat, ulițe înguste și case vechi acoperite de zăpadă, plimbări pe înserate, căldura focului din sobă, liniște și relaxare.",
           "images": [
             {
               "text": "Centrul istoric",
@@ -101,7 +101,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "O seară liniștită de iarnă prin centrul istoric din Roșia Montană:",
+          "text": "O seară liniștită de iarnă prin centrul istoric din Roșia Montană:",
           "images": [
             {
               "text": "Noaptea prin sat",
@@ -147,7 +147,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Ne-am pregătit de iarnă: lemne sunt gata pentru a încălzi camerele și mâțele să toarcă la gura sobei.",
+          "text": "Ne-am pregătit de iarnă: lemne sunt gata pentru a încălzi camerele și mâțele să toarcă la gura sobei.",
           "images": [
             {
               "text": "Căsuța din grădină",

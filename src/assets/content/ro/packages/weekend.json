@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Weekend break",
     "headline": "Weekend break - Roșia Montană",
-    "description": "Include rezervarea unei camere de <b>2 persoane pe 2 nopți</b> și un <b>traseu ghidat</b> de 6 ore spre principalele obiective culturale și naturale din Roșia Montană.",
+    "text": "Include rezervarea unei camere de <b>2 persoane pe 2 nopți</b> și un <b>traseu ghidat</b> de 6 ore spre principalele obiective culturale și naturale din Roșia Montană.",
     "fullWidthImg": "./assets/img/packages/weekend/presentation/fullWidthImg.jpg",
     "smallBoxImg": "./assets/img/packages/weekend/presentation/smallBoxImg.jpg"
   },
@@ -12,7 +12,7 @@
   },
   "metaData": {
     "title": "Weekend break - Roșia Montană",
-    "description": "Include rezervarea unei camere de 2 persoane pentru 2 nopți și un traseu ghidat de 6 ore în Roșia Montană într-o perioadă din anul 2017. Voucherul va fi primit pe e-mail în format pdf și poate fi printat pentru a fi oferit cadou. Detalii și rezervări aici...",
+    "text": "Include rezervarea unei camere de 2 persoane pentru 2 nopți și un traseu ghidat de 6 ore în Roșia Montană într-o perioadă din anul 2017. Voucherul va fi primit pe e-mail în format pdf și poate fi printat pentru a fi oferit cadou. Detalii și rezervări aici...",
     "displayOnShareImg": "/assets/img/packages/weekend/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -29,7 +29,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Voucherul include rezervarea unei camere de <b>2 persoane pentru 2 nopți</b> la Casa Petri (situată în centrul istoric din Roșia Montană) <b>și un traseu ghidat de 6 ore</b> spre principalele obiective naturale și culturale (centrul istoric, clădiri de patrimoniu, lucrări miniere realizate pentru extragerea aurului (galerii, tăuri, cariere) și câteva atracții naturale (vârfuri și puncte panoramice). <b>Seara vom organiza o proiecție de imagini și filme</b> despre Roșia Montană, iar ziua următoare puteți vizita Muzeul Mineritului. Ca idee, vedeți imaginile de mai jos la care au participat și alte grupuri:",
+          "text": "Voucherul include rezervarea unei camere de <b>2 persoane pentru 2 nopți</b> la Casa Petri (situată în centrul istoric din Roșia Montană) <b>și un traseu ghidat de 6 ore</b> spre principalele obiective naturale și culturale (centrul istoric, clădiri de patrimoniu, lucrări miniere realizate pentru extragerea aurului (galerii, tăuri, cariere) și câteva atracții naturale (vârfuri și puncte panoramice). <b>Seara vom organiza o proiecție de imagini și filme</b> despre Roșia Montană, iar ziua următoare puteți vizita Muzeul Mineritului. Ca idee, vedeți imaginile de mai jos la care au participat și alte grupuri:",
           "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
@@ -90,7 +90,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Un posibil weekend în Roșia Montană, folosind acest voucher ar putea arăta așa:"
+          "text": "Un posibil weekend în Roșia Montană, folosind acest voucher ar putea arăta așa:"
         }
       ]
     },
@@ -98,7 +98,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>Vineri</b> <br>Sosirea, ne cunoaștem"
+          "text": "<b>Vineri</b> <br>Sosirea, ne cunoaștem"
         }
       ]
     },
@@ -106,7 +106,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>Sâmbătă</b> <br><b>Dimineața</b> - tur ghidat al principalelor obiective culturale și naturale <br><b>Seara</b> - proiecții de imagini și filme despre trecutul Roșiei Montane"
+          "text": "<b>Sâmbătă</b> <br><b>Dimineața</b> - tur ghidat al principalelor obiective culturale și naturale <br><b>Seara</b> - proiecții de imagini și filme despre trecutul Roșiei Montane"
         }
       ]
     },
@@ -114,7 +114,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>Duminică</b> <br>Vizita la Muzeul Mineritului, unde se organizează tururi ghidate a galeriilor romane (cost intrare: 10lei)"
+          "text": "<b>Duminică</b> <br>Vizita la Muzeul Mineritului, unde se organizează tururi ghidate a galeriilor romane (cost intrare: 10lei)"
         }
       ]
     },
@@ -128,7 +128,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Prețul voucherului este de <b>240lei</b>, iar <b>plata se face prin transfer bancar.</b> După plasarea comenzii veți primi pe e-mail datele pentru transferul bancar și voucherul în format pdf. Acesta are o serie unică ce devine validă după efectuarea plății (moment în care vă trimitem pe e-mail factura și confirmarea). Odată achiziționat ne puteți suna (sau ne pot suna cei care l-au primit cadou) pentru a face o rezervare cu cel puțin 3 zile înainte de sosire. Rezervarea se face în orice perioadă în care avem camere libere din <b>anul 2017</b>, cu excepția perioadelor cu evenimente (maraton sau festivalul Fân Fest) sau a celor cu sărbători importante (Revelion, Crăciun, Paști, 1 Mai sau 1 Decembrie). La sosire va trebui să ne arătați voucherul printat sau în format electronic pe telefon. Un voucher poate fi folosit doar o singură dată."
+          "text": "Prețul voucherului este de <b>240lei</b>, iar <b>plata se face prin transfer bancar.</b> După plasarea comenzii veți primi pe e-mail datele pentru transferul bancar și voucherul în format pdf. Acesta are o serie unică ce devine validă după efectuarea plății (moment în care vă trimitem pe e-mail factura și confirmarea). Odată achiziționat ne puteți suna (sau ne pot suna cei care l-au primit cadou) pentru a face o rezervare cu cel puțin 3 zile înainte de sosire. Rezervarea se face în orice perioadă în care avem camere libere din <b>anul 2017</b>, cu excepția perioadelor cu evenimente (maraton sau festivalul Fân Fest) sau a celor cu sărbători importante (Revelion, Crăciun, Paști, 1 Mai sau 1 Decembrie). La sosire va trebui să ne arătați voucherul printat sau în format electronic pe telefon. Un voucher poate fi folosit doar o singură dată."
         }
       ]
     },

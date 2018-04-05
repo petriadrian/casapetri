@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Bikes",
-    "description": "<b>Rent, repairs, trails</b><br>We have mountain bikes for rent, and a small bike garage for repairs or we can make guided bike trails",
+    "text": "<b>Rent, repairs, trails</b><br>We have mountain bikes for rent, and a small bike garage for repairs or we can make guided bike trails",
     "smallBoxImg": "./assets/img/accommodation/shortcut/bikes.jpg"
   },
   "url": {

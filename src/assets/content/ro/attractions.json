@@ -1,11 +1,11 @@
 {
   "metaData": {
     "title": "Atracții și activități din Roșia Montană",
-    "description": "Atracții și activități din Roșia Montană, Alba, Munții Apuseni, Transilvania, Romania.",
+    "text": "Atracții și activități din Roșia Montană, Alba, Munții Apuseni, Transilvania, Romania.",
     "displayOnShareImg": "/assets/img/attractions/presentation/displayOnShareImg.jpg"
   },
   "headline": {
-    "text": "Descoperă Roșia Montană",
+    "title": "Descoperă Roșia Montană",
     "videoSource": "",
     "fullWidthImg": "./assets/img/attractions/presentation/fullWidthImg.jpg"
   },
@@ -20,11 +20,11 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogata încărcătură istorică și culturală datorat patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Pentru a le descoperi oferim trasee ghidate, iar din fața casei pornesc 5 trasee marcate."
+          "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogata încărcătură istorică și culturală datorat patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Pentru a le descoperi oferim trasee ghidate, iar din fața casei pornesc 5 trasee marcate."
         },
         {
           "title": "Centrul istoric",
-          "textContent": "Centrul Istoric al celei mai vechi localități atestate documentar din Romania, Rosia Montana anul 131, cuprinde diverse clădiri de patrimoniu (biserici și cimitire de 5 culte diferite, casele aurarilor, șteampuri, foste ateliere și institutii). <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 10min drumeție - ",
+          "text": "Centrul Istoric al celei mai vechi localități atestate documentar din Romania, Rosia Montana anul 131, cuprinde diverse clădiri de patrimoniu (biserici și cimitire de 5 culte diferite, casele aurarilor, șteampuri, foste ateliere și institutii). <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 10min drumeție - ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -52,7 +52,7 @@
         },
         {
           "title": "Galeriile romane",
-          "textContent": "Roșia Montană deține una din <b>cele mai extinse complexe de mine aurifere din lume</b> (~120km), realizate încă din perioada agatârșilor sau a romanilor. La Muzeul Mineritului ROSIAMIN se pot vizita prin tururi ghidate o parte din galeriile romane. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 15min drumeție - ",
+          "text": "Roșia Montană deține una din <b>cele mai extinse complexe de mine aurifere din lume</b> (~120km), realizate încă din perioada agatârșilor sau a romanilor. La Muzeul Mineritului ROSIAMIN se pot vizita prin tururi ghidate o parte din galeriile romane. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 15min drumeție - ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -80,7 +80,7 @@
         },
         {
           "title": "Monumentele Naturii",
-          "textContent": "Masivele din zonă (Cârnic, Șulei, Orlea și Rotundu) dețin diverse obiective naturale ce merită vizitate. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție - traseul punct roșu - ",
+          "text": "Masivele din zonă (Cârnic, Șulei, Orlea și Rotundu) dețin diverse obiective naturale ce merită vizitate. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție - traseul punct roșu - ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -108,7 +108,7 @@
         },
         {
           "title": "Jig-Văidoaia",
-          "textContent": "Urmele filoanelor de aur pe care s-a săpat în timpul dominației habsburgice pot fi cel mai bine observate în această galerie. Urcați și pe vârful masivului și bucurați-vă de priveliștea deosebită spre Țara Moților. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 15min drumeție - ",
+          "text": "Urmele filoanelor de aur pe care s-a săpat în timpul dominației habsburgice pot fi cel mai bine observate în această galerie. Urcați și pe vârful masivului și bucurați-vă de priveliștea deosebită spre Țara Moților. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 15min drumeție - ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -131,7 +131,7 @@
         },
         {
           "title": "Tăurile",
-          "textContent": "Peste 100 de tăuri au fost construite în perioada habsburgică pentru a ajuta la prelucrarea aurului, dar acum au mai rămas doar 7. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție - traseul punct albastru - ",
+          "text": "Peste 100 de tăuri au fost construite în perioada habsburgică pentru a ajuta la prelucrarea aurului, dar acum au mai rămas doar 7. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție - traseul punct albastru - ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -159,7 +159,7 @@
         },
         {
           "title": "Cariera de aur Cetate",
-          "textContent": "Un alt tip de exploatări de aur ce pot fi vizitate sunt cele de suprafață. Numele carierei 'Cetate' vine de la faptul că aici era într-adevăr o cetate sculptată în munți de către daci si romani cu rol de apărare, distrusă în perioada comunismului pentru a extrage aurul de sub ea. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 30min drumeție - traseul punct roșu -  ",
+          "text": "Un alt tip de exploatări de aur ce pot fi vizitate sunt cele de suprafață. Numele carierei 'Cetate' vine de la faptul că aici era într-adevăr o cetate sculptată în munți de către daci si romani cu rol de apărare, distrusă în perioada comunismului pentru a extrage aurul de sub ea. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 30min drumeție - traseul punct roșu -  ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -182,7 +182,7 @@
         },
         {
           "title": "Geamăna și Roșia Poieni",
-          "textContent": "Cariera de Cupru Roșia Poieni este una din cele mai mari cariere de suprafață din Europa, mândria sistemului comunist, 5000 de tone de cupru producție anuală, utilaje imense și sute de locuri de muncă, dar toate acestea au avut consecințe asupra mediului: un munte ras, vegetație distrusă, sol arid, utilaje abandonate, iar sterilul rezultat a fost deversat în aval peste satul Geamăna formand un iaz de decantare vizibil și din satelit. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție (1h cu mașina) - ",
+          "text": "Cariera de Cupru Roșia Poieni este una din cele mai mari cariere de suprafață din Europa, mândria sistemului comunist, 5000 de tone de cupru producție anuală, utilaje imense și sute de locuri de muncă, dar toate acestea au avut consecințe asupra mediului: un munte ras, vegetație distrusă, sol arid, utilaje abandonate, iar sterilul rezultat a fost deversat în aval peste satul Geamăna formand un iaz de decantare vizibil și din satelit. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție (1h cu mașina) - ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -210,7 +210,7 @@
         },
         {
           "title": "Campania Salvați Roșia Montană",
-          "textContent": "Vizitați locurile unde timp de 15 ani au avut loc acțiuni împotriva companiei canadiene ce dorea o mare exploatare cu cianuri la Roșia Montană. Proiectul a fost oprit în urma unor ample proteste de stradă în marile orașe din România și diasporă (peste 60 de mii de oameni) <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 30min drumeție -  ",
+          "text": "Vizitați locurile unde timp de 15 ani au avut loc acțiuni împotriva companiei canadiene ce dorea o mare exploatare cu cianuri la Roșia Montană. Proiectul a fost oprit în urma unor ample proteste de stradă în marile orașe din România și diasporă (peste 60 de mii de oameni) <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 30min drumeție -  ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -233,7 +233,7 @@
         },
         {
           "title": "Detunata",
-          "textContent": "Masivul este o arie protejată formată din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră. Aici a trait și Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție - traseul cruce roșie - ",
+          "text": "Masivul este o arie protejată formată din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră. Aici a trait și Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție - traseul cruce roșie - ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -256,7 +256,7 @@
         },
         {
           "title": "Muzeul aurului Brad",
-          "textContent": "Vedeți cum arată aurul nativ neprelucrat extras din Roșia Montană și alte locuri ale patrulaterul aurifer Apuseni. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 1h cu mașina - ",
+          "text": "Vedeți cum arată aurul nativ neprelucrat extras din Roșia Montană și alte locuri ale patrulaterul aurifer Apuseni. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 1h cu mașina - ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -279,7 +279,7 @@
         },
         {
           "title": "Ghețarul Scărișoara",
-          "textContent": "Pestera din inima Apusenilor gazduieste cel mai mare ghețar subteran din lume și este prima peșteră din Romania declarata monument al naturii (1938). <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 1h cu mașina - ",
+          "text": "Pestera din inima Apusenilor gazduieste cel mai mare ghețar subteran din lume și este prima peșteră din Romania declarata monument al naturii (1938). <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 1h cu mașina - ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -307,7 +307,7 @@
         },
         {
           "title": "Poiana cu narcise",
-          "textContent": "Narcisele înfloresc în luna Mai și țin toată primăvara. Mirosul din acestă poiană e ceva ce nu veți uita niciodată. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție (1h cu mașina) - ",
+          "text": "Narcisele înfloresc în luna Mai și țin toată primăvara. Mirosul din acestă poiană e ceva ce nu veți uita niciodată. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție (1h cu mașina) - ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -341,7 +341,7 @@
       "specificArticles": [
         {
           "title": "<i class='fas fa-blind'></i> Tururi ghidate",
-          "textContent": "Poți să mergi în drumeții spre atracțiile specificate mai sus dar noi îți sugerăm să le vezi împreună cu un ghid deoarece povestea contează. Roșia Montană are un trecut de aur - modul de funcționare al galeriilor, tăurilor, carierelor și a altor obiective folosite în extracția aurului, povestea clădirilor de patrimoniu sau impactul megaproiectului minier propus de firma canadiană și protestele de atunci sunt doar câteva din motivele pentru care vă recomandăm să vizitați Roșia Montana împreună cu un ghid (pe jos sau cu bicicleta). Dacă sunteți interesați de:",
+          "text": "Poți să mergi în drumeții spre atracțiile specificate mai sus dar noi îți sugerăm să le vezi împreună cu un ghid deoarece povestea contează. Roșia Montană are un trecut de aur - modul de funcționare al galeriilor, tăurilor, carierelor și a altor obiective folosite în extracția aurului, povestea clădirilor de patrimoniu sau impactul megaproiectului minier propus de firma canadiană și protestele de atunci sunt doar câteva din motivele pentru care vă recomandăm să vizitați Roșia Montana împreună cu un ghid (pe jos sau cu bicicleta). Dacă sunteți interesați de:",
           "seeAlso": [
             {
               "text": "<br><b>- trasee ghidate personalizate</b> - specificați la rezervarea unei camere și vă vom contacta telefonic - vezi aici",
@@ -374,7 +374,7 @@
         },
         {
           "title": "<i class='fas fa-bicycle'></i> Ciclism",
-          "textContent": "Ne aflăm într-o zonă cu dealuri, văi și sate apusene legate de drumuri de țară ideale de ciclism montan. Oferim biciclete de munte de închiriat sau trasee ghidate pe bicicletă. Mai jos sunt câteva din traseele pe care le-ai putea face la noi:",
+          "text": "Ne aflăm într-o zonă cu dealuri, văi și sate apusene legate de drumuri de țară ideale de ciclism montan. Oferim biciclete de munte de închiriat sau trasee ghidate pe bicicletă. Mai jos sunt câteva din traseele pe care le-ai putea face la noi:",
           "seeAlso": [
             {
               "text": "<br><b>- Traseul Tăurilor</b> - 7km - vezi harta, profil și date gps",
@@ -422,7 +422,7 @@
         },
         {
           "title": "<i class='fas fa-train'></i> Mocănița",
-          "textContent": "<b>Mocănița cu aburi</b> era folosită în trecut pentru a transporta minerii și minereul aurifer de la unzina Gura Roșia, iar acum funcționează în scop turistic. Sunt 2 mocănițe în apropiere: <b>Mocănița Abrud - Câmpeni</b> (~10min de mers cu mașina de noi; turul durează 3 ore) și <b>Mocănița Crișcior - Brad</b> (~45min de mers cu mașina de noi; turul durează 2 ore). <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> - ",
+          "text": "<b>Mocănița cu aburi</b> era folosită în trecut pentru a transporta minerii și minereul aurifer de la unzina Gura Roșia, iar acum funcționează în scop turistic. Sunt 2 mocănițe în apropiere: <b>Mocănița Abrud - Câmpeni</b> (~10min de mers cu mașina de noi; turul durează 3 ore) și <b>Mocănița Crișcior - Brad</b> (~45min de mers cu mașina de noi; turul durează 2 ore). <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> - ",
           "seeAlso": [
             {
               "text": "vezi harta mocănița Abrud ",
@@ -455,7 +455,7 @@
         },
         {
           "title": "La cules de...",
-          "textContent": "Zmeură, fragi, mure, ciuperci, afine, muguri de brad și alte bunătăți puteți găsi printr-o drumeție ușoară, toamna, pe masivul Cârnic sau spre Vârtop. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 1h drumeție -  ",
+          "text": "Zmeură, fragi, mure, ciuperci, afine, muguri de brad și alte bunătăți puteți găsi printr-o drumeție ușoară, toamna, pe masivul Cârnic sau spre Vârtop. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 1h drumeție -  ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -478,7 +478,7 @@
         },
         {
           "title": "<i class='far fa-snowflake'></i> Sanie/ski",
-          "textContent": "Iarna la Roșia Montană scoate la iveală peisaje de poveste cu case vechi acoperite de zăpadă și locuri ideale de dat cu sania. În apropiere se află și pârtia de ski Arieșeni. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 1h cu mașina - ",
+          "text": "Iarna la Roșia Montană scoate la iveală peisaje de poveste cu case vechi acoperite de zăpadă și locuri ideale de dat cu sania. În apropiere se află și pârtia de ski Arieșeni. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 1h cu mașina - ",
           "seeAlso": [
             {
               "text": "vezi harta",

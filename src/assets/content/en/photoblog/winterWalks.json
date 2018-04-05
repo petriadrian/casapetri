@@ -1,11 +1,11 @@
 {
   "metaData": {
-    "title": "Photoblog | Winter at Rosia Montana",
-    "description": "An easy walk with greats landscapes. Winter in our village",
+    "title": "Winter at Rosia Montana | Photoblog",
+    "text": "An easy walk with greats landscapes. Winter in our village",
     "displayOnShareImg": "/assets/img/photoblog/winterWalks/presentation/displayOnShareImg_ro.jpg"
   },
   "headline": {
-    "text": "Winter at Rosia Montana",
+    "title": "Winter at Rosia Montana",
     "videoSource": "./assets/img/photoblog/winterWalks/presentation/intro.mp4",
     "fullWidthImg": "./assets/img/photoblog/winterWalks/presentation/fullWidthImg.jpg"
   },
@@ -20,7 +20,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Winter at Rosia Montană. Easy walks with great landscapes, mountains and frozen lakes, the sounds of the old churches bells, narrow roads and old houses covered with snow, sunset walking, the fire from the stove, resting and relaxation.",
+          "text": "Winter at Rosia Montană. Easy walks with great landscapes, mountains and frozen lakes, the sounds of the old churches bells, narrow roads and old houses covered with snow, sunset walking, the fire from the stove, resting and relaxation.",
           "images": [
             {
               "text": "Historic Center",
@@ -101,7 +101,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "An relaxing winter evening in the historic center of Roșia Montană:",
+          "text": "An relaxing winter evening in the historic center of Roșia Montană:",
           "images": [
             {
               "text": "The village",
@@ -147,7 +147,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Ready for winter: woods and cats to stay by the fire.",
+          "text": "Ready for winter: woods and cats to stay by the fire.",
           "images": [
             {
               "text": "Casa Petri",

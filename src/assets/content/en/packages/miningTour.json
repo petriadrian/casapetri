@@ -3,7 +3,7 @@
     "title": "Mining evolution tour",
     "headline": "Roșia Montană mining evolution tour",
     "descriptionTitle": "28-31 july | package",
-    "description": "Guided tour: mining evolution (from mining galleries of 2000 years old to open pits and waste pounds",
+    "text": "Guided tour: mining evolution (from mining galleries of 2000 years old to open pits and waste pounds",
     "fullWidthImg": "./assets/img/packages/miningTour/presentation/fullWidthImg.jpg",
     "smallBoxImg": "./assets/img/packages/miningTour/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Roșia Montană mining evolution tour | 28-31 july",
-    "description": "Hiking guided tour - mining evolution (from mining galleries of 2000 years old to open pits and waste pounds (Roșia Poieni and Geamăna). The package also includes movie screenings, accommodation and food. More details here...",
+    "text": "Hiking guided tour - mining evolution (from mining galleries of 2000 years old to open pits and waste pounds (Roșia Poieni and Geamăna). The package also includes movie screenings, accommodation and food. More details here...",
     "displayOnShareImg": "/assets/img/packages/miningTour/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,10 +30,10 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>touristic package on 28-31 july | last day to register: 23 july"
+          "text": "<b>touristic package on 28-31 july | last day to register: 23 july"
         },
         {
-          "textContent": "The cultural mining landscape of Roșia Montană contains the marks and the history of gold mining exploitations from roman times to the XXI century. Discover the mining evolution from Rosia Montana through movie screenings and guided tours in the area (from mining galleries of 2000 years old, to open pits and waste pounds (Roșia Poieni and Geamăna). The package also includes accommodation and food."
+          "text": "The cultural mining landscape of Roșia Montană contains the marks and the history of gold mining exploitations from roman times to the XXI century. Discover the mining evolution from Rosia Montana through movie screenings and guided tours in the area (from mining galleries of 2000 years old, to open pits and waste pounds (Roșia Poieni and Geamăna). The package also includes accommodation and food."
         }
       ]
     },
@@ -47,11 +47,11 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<br><b><i class='far fa-clock'></i> 16:00 - 21:00 - friday - check in</b> at the accommodation place - Casa Petri, historic center of Rosia Montană 331 - Romania."
+          "text": "<br><b><i class='far fa-clock'></i> 16:00 - 21:00 - friday - check in</b> at the accommodation place - Casa Petri, historic center of Rosia Montană 331 - Romania."
         },
         {
           "title": "Movie 'The story of gold'",
-          "textContent": "<b><i class='far fa-clock'></i> 21:00 - 22:30 - friday</b> <br>Movie screening in the garden - 'The story of Roșia Montană gold' - images, movies and stories about the gold mining methods that were used here (from the past to nowadays), the life of the goldsmiths and the impact of opening a new open pit to extract the remaining gold. The projection is a intro for the next day tours.",
+          "text": "<b><i class='far fa-clock'></i> 21:00 - 22:30 - friday</b> <br>Movie screening in the garden - 'The story of Roșia Montană gold' - images, movies and stories about the gold mining methods that were used here (from the past to nowadays), the life of the goldsmiths and the impact of opening a new open pit to extract the remaining gold. The projection is a intro for the next day tours.",
           "images": [
             {
               "text": "Movie screening in the garden",
@@ -67,7 +67,7 @@
         },
         {
           "title": "The gold galleries tour",
-          "textContent": "<b><i class='far fa-clock'></i> 10:00 - 18:00 - saturday</b> <br>A guide from the Mining Museum will present us one of the oldest gold exploitations in the area (the roman galleries) and after we will visit the fire and water galleries from the Cârnic massif and the 'corandă' galleries from Văidoaia. We will also see the gold processing installations, the houses and the local habits of the different nations who come here during the years to extract gold.",
+          "text": "<b><i class='far fa-clock'></i> 10:00 - 18:00 - saturday</b> <br>A guide from the Mining Museum will present us one of the oldest gold exploitations in the area (the roman galleries) and after we will visit the fire and water galleries from the Cârnic massif and the 'corandă' galleries from Văidoaia. We will also see the gold processing installations, the houses and the local habits of the different nations who come here during the years to extract gold.",
           "images": [
             {
               "text": "The Roman galleries (106 – 272 AD)",
@@ -113,10 +113,10 @@
         },
         {
           "title": "The open pits tour",
-          "textContent": "We will continue with some recent mining exploitations: the open pit Cetate and one of the biggest open pits from Europe - Roșia Poieni. It was the pride of the communism regime, it has big machines and the mining wastes were throw over a village nearby, forming the Geamăna waste pound. To visit these objectives we will have to send a request with the list of the visitors and their id data with one week before (this is why the last day of registration is so early)."
+          "text": "We will continue with some recent mining exploitations: the open pit Cetate and one of the biggest open pits from Europe - Roșia Poieni. It was the pride of the communism regime, it has big machines and the mining wastes were throw over a village nearby, forming the Geamăna waste pound. To visit these objectives we will have to send a request with the list of the visitors and their id data with one week before (this is why the last day of registration is so early)."
         },
         {
-          "textContent": "<b><i class='far fa-clock'></i> 09:30 - 17:00 - sunday</b> <br>Hiking to the Cetate open pit and then to Roșia Poieni open pit.",
+          "text": "<b><i class='far fa-clock'></i> 09:30 - 17:00 - sunday</b> <br>Hiking to the Cetate open pit and then to Roșia Poieni open pit.",
           "images": [
             {
               "text": "The Cetate open pit - mining marks made during communism period to extract the gold",
@@ -136,7 +136,7 @@
           ]
         },
         {
-          "textContent": "<br><br><b><i class='far fa-clock'></i> 09:00 - 16:00 - monday</b> <br>Geamăna tour - we will decide together if we will visit it by car or by foot. In our way we can stop to one of the oldest monastery from our region - Lupșa - 1421 AD.",
+          "text": "<br><br><b><i class='far fa-clock'></i> 09:00 - 16:00 - monday</b> <br>Geamăna tour - we will decide together if we will visit it by car or by foot. In our way we can stop to one of the oldest monastery from our region - Lupșa - 1421 AD.",
           "images": [
             {
               "text": "Geamăna - the rood around it is ~20km long.",

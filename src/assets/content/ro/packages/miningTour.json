@@ -3,7 +3,7 @@
     "title": "Tur exploatări miniere",
     "headline": "Tur exploatări miniere Roșia Montană",
     "descriptionTitle": "28-31 iulie | pachet",
-    "description": "Tur ghidat: evoluția mineritului (de la galerii romane și exploatări de 2000 de ani vechime la cariere și lacuri de decantare",
+    "text": "Tur ghidat: evoluția mineritului (de la galerii romane și exploatări de 2000 de ani vechime la cariere și lacuri de decantare",
     "fullWidthImg": "./assets/img/packages/miningTour/presentation/fullWidthImg.jpg",
     "smallBoxImg": "./assets/img/packages/miningTour/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Tur exploatări miniere Roșia Montană | 28-31 iulie",
-    "description": "Traseu ghidat de drumeție - evoluția mineritului (de la galerii romane și exploatări de aur de 2000 de ani vechime la cariere de suprafață și lacuri de decantare (Roșia Poieni și Geamăna). Turul include cazare, mâncare, ghidaj și proiecții de fime. Detalii aici...",
+    "text": "Traseu ghidat de drumeție - evoluția mineritului (de la galerii romane și exploatări de aur de 2000 de ani vechime la cariere de suprafață și lacuri de decantare (Roșia Poieni și Geamăna). Turul include cazare, mâncare, ghidaj și proiecții de fime. Detalii aici...",
     "displayOnShareImg": "/assets/img/packages/miningTour/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,10 +30,10 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>pachet turistic | 28-31 iulie | încheiere înscrieri: 23 iulie"
+          "text": "<b>pachet turistic | 28-31 iulie | încheiere înscrieri: 23 iulie"
         },
         {
-          "textContent": "Peisajul cultural minier Roșia Montană este mărturie a vastei istorii de exploatare a aurului în Cadrilaterul Aurifer din perioada romană și până în secolul XXI. Descoperă evoluția mineritului și amprenta lăsată de aceste exploatări prin proiecții de filme și tururi ghidate de drumeție (de la galerii romane și exploatări de aur de 2000 de ani vechime la utilaje, cariere de suprafață și iazuri de decantare). Pachetul include ghidaj, cazare și mâncare."
+          "text": "Peisajul cultural minier Roșia Montană este mărturie a vastei istorii de exploatare a aurului în Cadrilaterul Aurifer din perioada romană și până în secolul XXI. Descoperă evoluția mineritului și amprenta lăsată de aceste exploatări prin proiecții de filme și tururi ghidate de drumeție (de la galerii romane și exploatări de aur de 2000 de ani vechime la utilaje, cariere de suprafață și iazuri de decantare). Pachetul include ghidaj, cazare și mâncare."
         }
       ]
     },
@@ -47,11 +47,11 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<br><b><i class='far fa-clock'></i> 16:00 - 21:00 - vineri - check in</b> la locul de cazare - Casa Petri, nr. 331, centru istoric Rosia Montană, jud. Alba."
+          "text": "<br><b><i class='far fa-clock'></i> 16:00 - 21:00 - vineri - check in</b> la locul de cazare - Casa Petri, nr. 331, centru istoric Rosia Montană, jud. Alba."
         },
         {
           "title": "Proiecție 'Povestea aurului'",
-          "textContent": "<b><i class='far fa-clock'></i> 21:00 - 22:30 - vineri</b> <br>Proiecție în grădină - 'Povestea aurului din Roșia Montană' - imagini, filme și povești despre modul de extracție al aurului din trecut până în prezent, viața căutătorilor de aur și impactul deschiderii unei noi cariere pentru a extrage aurul rămas. Proiecția este și o introducere în traseele ghidate din zilele următoare.",
+          "text": "<b><i class='far fa-clock'></i> 21:00 - 22:30 - vineri</b> <br>Proiecție în grădină - 'Povestea aurului din Roșia Montană' - imagini, filme și povești despre modul de extracție al aurului din trecut până în prezent, viața căutătorilor de aur și impactul deschiderii unei noi cariere pentru a extrage aurul rămas. Proiecția este și o introducere în traseele ghidate din zilele următoare.",
           "images": [
             {
               "text": "Proiecții în grădină",
@@ -67,7 +67,7 @@
         },
         {
           "title": "Turul galeriilor",
-          "textContent": "<b><i class='far fa-clock'></i> 10:00 - 18:00 - sâmbătă</b> <br>Împreună cu un ghid de la Muzeul Mineritului o să vizităm cele mai vechi exploatări de aur din zonă (galeriile romane), după care vom urca la galeriile de apă și foc ale masivului Cârnic și galeriile tip corandă de la Văidoaia. Pe parcurs o să urmărim și instalațiile de procesare a minereului aurifer, casele și obiceiurile diferitelor nații ce au venit aici de-a lungul timpului pentru a căuta aur.",
+          "text": "<b><i class='far fa-clock'></i> 10:00 - 18:00 - sâmbătă</b> <br>Împreună cu un ghid de la Muzeul Mineritului o să vizităm cele mai vechi exploatări de aur din zonă (galeriile romane), după care vom urca la galeriile de apă și foc ale masivului Cârnic și galeriile tip corandă de la Văidoaia. Pe parcurs o să urmărim și instalațiile de procesare a minereului aurifer, casele și obiceiurile diferitelor nații ce au venit aici de-a lungul timpului pentru a căuta aur.",
           "images": [
             {
               "text": "Galeriile Romane (106 – 272 d.Hr.)",
@@ -113,10 +113,10 @@
         },
         {
           "title": "Turul exploatărilor de suprafață",
-          "textContent": "Continuăm cu exploatări miniere mai recente: cariera deschisă Cetate și una din cele mai mari cariere de suprafață din Europa - Roșia Poieni. A fost mândria sistemului comunist, deține utilaje imense, iar lacul de decantare a deșeurilor miniere a fost făcut peste satul din apropiere - Geamăna. Pentru a vizita aceste obiective trebuie să trimitem o cerere cu lista participanților și datele de buletin cu o săptămână înainte (motiv pentru care încheierea înscrierilor este mai devreme)."
+          "text": "Continuăm cu exploatări miniere mai recente: cariera deschisă Cetate și una din cele mai mari cariere de suprafață din Europa - Roșia Poieni. A fost mândria sistemului comunist, deține utilaje imense, iar lacul de decantare a deșeurilor miniere a fost făcut peste satul din apropiere - Geamăna. Pentru a vizita aceste obiective trebuie să trimitem o cerere cu lista participanților și datele de buletin cu o săptămână înainte (motiv pentru care încheierea înscrierilor este mai devreme)."
         },
         {
-          "textContent": "<b><i class='far fa-clock'></i> 09:30 - 17:00 - duminică</b> <br>Drumeție spre cariera Cetate și apoi cariera Roșia Poieni.",
+          "text": "<b><i class='far fa-clock'></i> 09:30 - 17:00 - duminică</b> <br>Drumeție spre cariera Cetate și apoi cariera Roșia Poieni.",
           "images": [
             {
               "text": "Cariera Cetate - exploatări relizate în perioada comunistă pentru extracția aurului.",
@@ -136,7 +136,7 @@
           ]
         },
         {
-          "textContent": "<br><br><b><i class='far fa-clock'></i> 09:00 - 16:00 - luni</b> <br>Vizită la Geamăna - în funcție de alegerea grupului se poate ajunge cu mașina sau pe jos. Pe drum putem opri și la Mănăstirea Lupșa - cea mai veche așezare monahală de pe Valea Ariesului - anul 1421.",
+          "text": "<br><br><b><i class='far fa-clock'></i> 09:00 - 16:00 - luni</b> <br>Vizită la Geamăna - în funcție de alegerea grupului se poate ajunge cu mașina sau pe jos. Pe drum putem opri și la Mănăstirea Lupșa - cea mai veche așezare monahală de pe Valea Ariesului - anul 1421.",
           "images": [
             {
               "text": "Geamăna - este înconjurată de un drum de ~20km lungime.",

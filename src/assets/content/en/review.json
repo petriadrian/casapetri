@@ -1,11 +1,11 @@
 {
   "metaData": {
     "title": "Reviews Casa Petri Rosia Montana",
-    "description": "See the experiences and reviews from people who visited us. Some of them can be even contacted. You should also discover Rosia Montana through the hiking and bike trails which can be found on our website. Book rooms, bikes, guided tours or camping",
+    "text": "See the experiences and reviews from people who visited us. Some of them can be even contacted. You should also discover Rosia Montana through the hiking and bike trails which can be found on our website. Book rooms, bikes, guided tours or camping",
     "displayOnShareImg": "/assets/img/reviews/presentation/displayOnShareImg.jpg"
   },
   "headline": {
-    "text": "Reviews Casa Petri Rosia Montana",
+    "title": "Reviews Casa Petri Rosia Montana",
     "videoSource": "",
     "fullWidthImg": "./assets/img/reviews/presentation/fullWidthImg.jpg"
   },
@@ -20,7 +20,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "We had a lot to learn from the peoples who visited us, we care a lot about their reviews and due to them we manage to improve day by day. See bellow how they felt and at the end please also add your review. Beside these: ",
+          "text": "We had a lot to learn from the peoples who visited us, we care a lot about their reviews and due to them we manage to improve day by day. See bellow how they felt and at the end please also add your review. Beside these: ",
           "seeAlso": [
             {
               "text": "<br>- see also the reviews from <i class='fab fa-facebook-square fa-lg'></i> <b>facebook</b>",
@@ -113,7 +113,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Please add your review on our social media pages because they have a higher visual impact (then we will import it also here):",
+          "text": "Please add your review on our social media pages because they have a higher visual impact (then we will import it also here):",
           "seeAlso": [
             {
               "text": "<br>+ add your reviw on <i class='fab fa-facebook-square'></i> <b>facebook</b>",
@@ -138,7 +138,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "If not, add your review directly on our site:"
+          "text": "If not, add your review directly on our site:"
         }
       ]
     },

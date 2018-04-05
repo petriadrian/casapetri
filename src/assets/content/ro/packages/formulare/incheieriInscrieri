@@ -3,7 +3,7 @@
     "type": "article",
     "specificArticles": [
       {
-        "textContent": "Acest tur s-a încheiat - vedeți pe următorul link cum s-a desfășurat: ",
+        "text": "Acest tur s-a încheiat - vedeți pe următorul link cum s-a desfășurat: ",
         "seeAlso": [
           {
             "text": "imagini și review-uri pachet",
@@ -18,7 +18,7 @@
     "type": "article",
     "specificArticles": [
       {
-        "textContent": "Locurile pentru acest tur au fost ocupate. Vom posta în curând informații despre următoarele tururi pe care le vom organiza în zona Roșia Montană - Apuseni. ",
+        "text": "Locurile pentru acest tur au fost ocupate. Vom posta în curând informații despre următoarele tururi pe care le vom organiza în zona Roșia Montană - Apuseni. ",
         "seeAlso": [
           {
             "text": "Urmăriți pagina noastră de facebook...",

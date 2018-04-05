@@ -6,7 +6,7 @@
     <img *ngIf="!content?.headline.videoSource" [src]="content?.headline.fullWidthImg"/>
   </div>
   <div class="introContent">
-    <h1 [innerHTML]="content?.headline.text | trustHtml"></h1>
+    <h1 [innerHTML]="content?.headline.title | trustHtml"></h1>
     <div id="stickPageIntroMenuOnTheTop">
         <span *ngFor="let section of content?.sections">
             <a *ngIf="section?.type == 'title' && section?.addLinkInPageHeadline"

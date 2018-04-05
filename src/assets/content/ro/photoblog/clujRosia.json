@@ -1,11 +1,11 @@
 {
   "metaData": {
-    "title": "Fotoblog | Pe Valea Arieșului de la Cluj la Roșia",
-    "description": "Pe lângă destinație și drumul de la Cluj la Roșia Montană, pe albia râului Arieș oferă peisaje deosebite",
+    "title": "Pe Valea Arieșului de la Cluj la Roșia | Fotoblog",
+    "text": "Pe lângă destinație și drumul de la Cluj la Roșia Montană, pe albia râului Arieș oferă peisaje deosebite",
     "displayOnShareImg": "/assets/img/photoblog/clujRosia/article/fullSize/lunca.jpg"
   },
   "headline": {
-    "text": "Pe valea Arieșului de la Cluj la Roșia",
+    "title": "Pe valea Arieșului de la Cluj la Roșia",
     "videoSource": "",
     "fullWidthImg": "./assets/img/photoblog/clujRosia/article/fullSize/lunca.jpg"
   },
@@ -20,7 +20,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Marea parte din drumul de la Cluj la Roșia Montană este pe albia râului Arieș și durează cam 2 ore ... dacă nu vă opriți să admirați peisajul.",
+          "text": "Marea parte din drumul de la Cluj la Roșia Montană este pe albia râului Arieș și durează cam 2 ore ... dacă nu vă opriți să admirați peisajul.",
           "images": [
             {
               "text": "Cheile Borzești",
@@ -121,7 +121,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Câteva locuri cu totul speciale sunt punțile (poduri) peste râul Arieș ce leagă mici sate sau cătune de 'civilizație'.",
+          "text": "Câteva locuri cu totul speciale sunt punțile (poduri) peste râul Arieș ce leagă mici sate sau cătune de 'civilizație'.",
           "images": [
             {
               "text": "Punte Aries",
@@ -157,7 +157,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Acesta este traseul pentru a ajunge la noi (Casa Petri Rosia Montana) din Cluj.",
+          "text": "Acesta este traseul pentru a ajunge la noi (Casa Petri Rosia Montana) din Cluj.",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJiwtskR8MSUcRixQfMxxgvAs&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJbXLD1HtBSUcRECGT2b2-2PI|place_id:ChIJ9wjfPDpISUcRixkDcFVVpRc|place_id:ChIJG6piT7gzSUcRW9dqSyE5Gl0"
           }

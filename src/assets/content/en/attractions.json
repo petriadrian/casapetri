@@ -1,11 +1,11 @@
 {
   "metaData": {
     "title": "Things to do and see in Roșia Montană",
-    "description": "Things to do and see in Roșia Montană, Alba, Apuseni Mountains, Transilvania, Romania.",
+    "text": "Things to do and see in Roșia Montană, Alba, Apuseni Mountains, Transilvania, Romania.",
     "displayOnShareImg": "/assets/img/attractions/presentation/displayOnShareImg.jpg"
   },
   "headline": {
-    "text": "Discover Roșia Montană",
+    "title": "Discover Roșia Montană",
     "videoSource": "",
     "fullWidthImg": "./assets/img/attractions/presentation/fullWidthImg.jpg"
   },
@@ -20,11 +20,11 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the heritage built by various civilizations that came here since antiquity to extract gold. We offer guided tours and there are 4 marked tracks that starts from the front of our house."
+          "text": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the heritage built by various civilizations that came here since antiquity to extract gold. We offer guided tours and there are 4 marked tracks that starts from the front of our house."
         },
         {
           "title": "Historic Center",
-          "textContent": "In the historic center of the oldest documented settlement in Romania, Rosia Montana year 131 there are several heritage buildings (churches and cemeteries belonging to 5 different confessions, goldsmith houses, stamp mills, former lofts and institutions). <br><i class='fa fa-map-signs'></i> <b> How to get there?</b> 10min walk - ",
+          "text": "In the historic center of the oldest documented settlement in Romania, Rosia Montana year 131 there are several heritage buildings (churches and cemeteries belonging to 5 different confessions, goldsmith houses, stamp mills, former lofts and institutions). <br><i class='fa fa-map-signs'></i> <b> How to get there?</b> 10min walk - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -53,7 +53,7 @@
         },
         {
           "title": "Roman galeries",
-          "textContent": "Rosia Montana has <b>one of the largest underground gold mining system in the world</b> (~120km), made since the roman times. At the ROSIAMIN Mining Museum can be visited via guided tours a part of the roman galleries. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 15min walk - ",
+          "text": "Rosia Montana has <b>one of the largest underground gold mining system in the world</b> (~120km), made since the roman times. At the ROSIAMIN Mining Museum can be visited via guided tours a part of the roman galleries. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 15min walk - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -81,7 +81,7 @@
         },
         {
           "title": " Nature’s Monuments",
-          "textContent": "The massifs around us  (Cârnic, Șulei, Orlea și Rotundu)  have great natural sites which you should definitely check out. <br><i class='fa fa-map-signs'></i> <b>How to get there? </b> 3h walk - red dot track - ",
+          "text": "The massifs around us  (Cârnic, Șulei, Orlea și Rotundu)  have great natural sites which you should definitely check out. <br><i class='fa fa-map-signs'></i> <b>How to get there? </b> 3h walk - red dot track - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -109,7 +109,7 @@
         },
         {
           "title": "Jig-Văidoaia",
-          "textContent": "That's the best place to observe the gold diggings made in the Habsburgic period. Climb the mountain and enjoy the view towards the Motilor Land.  <br><i class='fa fa-map-signs'></i> <b>,How to get there?</b> 15min walk - ",
+          "text": "That's the best place to observe the gold diggings made in the Habsburgic period. Climb the mountain and enjoy the view towards the Motilor Land.  <br><i class='fa fa-map-signs'></i> <b>,How to get there?</b> 15min walk - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -132,7 +132,7 @@
         },
         {
           "title": "Lakes",
-          "textContent": "Over 100 lakes were built during the Habsburg period to help processing the gold - today there are only 7 left. <br><i class='fa fa-map-signs'></i> <b> How to get there?</b> 3h walk - blue dot track - ",
+          "text": "Over 100 lakes were built during the Habsburg period to help processing the gold - today there are only 7 left. <br><i class='fa fa-map-signs'></i> <b> How to get there?</b> 3h walk - blue dot track - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -160,7 +160,7 @@
         },
         {
           "title": "Cetate Open Pit",
-          "textContent": "The newest type of gold mining are those made on the surface.. His name Cetate which means Fortress comes from the fact that here indeed was a fortress sculpted in the mountain by the Romans to defend the area. However, it has been destroyed during the communism while extracting the gold from underneath. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 30 min walk - red dot track - ",
+          "text": "The newest type of gold mining are those made on the surface.. His name Cetate which means Fortress comes from the fact that here indeed was a fortress sculpted in the mountain by the Romans to defend the area. However, it has been destroyed during the communism while extracting the gold from underneath. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 30 min walk - red dot track - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -183,7 +183,7 @@
         },
         {
           "title": "Geamăna and Roșia Poieni",
-          "textContent": "The Rosia Poieni exploitation is one of the largest open pits in Europe, the pride of the communist regime, with an annual copper production of 5000 tones, huge machinery and hundreds of workplaces, however it had devastating effects on the environment: a mountain was erased, vegetation destroyed and after was abandoned. Also the resulted mining waste was thrown over the Geamana village creating a big waste lake which is visible from the satellite.<br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 3h walk (1h by car) - ",
+          "text": "The Rosia Poieni exploitation is one of the largest open pits in Europe, the pride of the communist regime, with an annual copper production of 5000 tones, huge machinery and hundreds of workplaces, however it had devastating effects on the environment: a mountain was erased, vegetation destroyed and after was abandoned. Also the resulted mining waste was thrown over the Geamana village creating a big waste lake which is visible from the satellite.<br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 3h walk (1h by car) - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -211,7 +211,7 @@
         },
         {
           "title": "Save Roșia Montană campaign",
-          "textContent": " Visit the places where during 15 years were protests and manifestations against the Canadian mining company who wanted to open a big gold mining using cyanide. The project has been stopped after huge protests in Romania (over 60k people).<br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 30min walk -  ",
+          "text": " Visit the places where during 15 years were protests and manifestations against the Canadian mining company who wanted to open a big gold mining using cyanide. The project has been stopped after huge protests in Romania (over 60k people).<br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 30min walk -  ",
           "seeAlso": [
             {
               "text": "see map",
@@ -234,7 +234,7 @@
         },
         {
           "title": "Detunata",
-          "textContent": "This 80m high massive formed from basalt columns is a protected area with huge stone blocks. The area has great legends, the peoples are welcoming and they also make some amazing cheese pies. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 3h walk - red cross track - ",
+          "text": "This 80m high massive formed from basalt columns is a protected area with huge stone blocks. The area has great legends, the peoples are welcoming and they also make some amazing cheese pies. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 3h walk - red cross track - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -257,7 +257,7 @@
         },
         {
           "title": "Brad Gold Museum",
-          "textContent": "See how the gold from Rosia Montana and surrounding areas looks like when it is extracted.<br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 1h by car - ",
+          "text": "See how the gold from Rosia Montana and surrounding areas looks like when it is extracted.<br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 1h by car - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -280,7 +280,7 @@
         },
         {
           "title": "Scărișoara Glacier",
-          "textContent": "Situated in the heart of the Apuseni mountains, it is the biggest underground glacier in the world and is the first cave in Romania to be classified as natural monument. <br><i class='fa fa-map-signs'></i> <b> How to get there?</b> 1h by car - ",
+          "text": "Situated in the heart of the Apuseni mountains, it is the biggest underground glacier in the world and is the first cave in Romania to be classified as natural monument. <br><i class='fa fa-map-signs'></i> <b> How to get there?</b> 1h by car - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -308,7 +308,7 @@
         },
         {
           "title": "The daffodils meadow",
-          "textContent": "Visit Negrileasa area in the spring - you will be impressed by the smell and the beauty of the daffodils. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 1h by car - ",
+          "text": "Visit Negrileasa area in the spring - you will be impressed by the smell and the beauty of the daffodils. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 1h by car - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -342,7 +342,7 @@
       "specificArticles": [
         {
           "title": "<i class='fas fa-blind'></i> Guided tours",
-          "textContent": "You can walk by your own to the above attractions but we suggest to do that with a guide because the stories really matters. Rosia Montana has a golden past. How the gold mining worked through galleries, watter mills, pounds and open pits, the past of the heritage buildings from the historic center or the impact of the mega mining project proposed here by the canadian company and the massive protests against it are just a few reasons why we recommend to visit Roșia Montana with a guide. If you are interested in: ",
+          "text": "You can walk by your own to the above attractions but we suggest to do that with a guide because the stories really matters. Rosia Montana has a golden past. How the gold mining worked through galleries, watter mills, pounds and open pits, the past of the heritage buildings from the historic center or the impact of the mega mining project proposed here by the canadian company and the massive protests against it are just a few reasons why we recommend to visit Roșia Montana with a guide. If you are interested in: ",
           "seeAlso": [
             {
               "text": "<br><b>- custom guided trails</b> - specify while booking a room and we will contact you by email or phone - see here",
@@ -375,7 +375,7 @@
         },
         {
           "title": "<i class='fas fa-bicycle'></i> Cycling",
-          "textContent": "We are located in an area with hills, valleys and rural roads between villages which are just perfect for cycling. We offer mountain bikes for rent or guided tours on bikes. See below some of the tracks you can do here:",
+          "text": "We are located in an area with hills, valleys and rural roads between villages which are just perfect for cycling. We offer mountain bikes for rent or guided tours on bikes. See below some of the tracks you can do here:",
           "seeAlso": [
             {
               "text": "<br><b>- Lake trail</b> - 7km - see map and gps data",
@@ -423,7 +423,7 @@
         },
         {
           "title": "<i class='fas fa-train'></i> Steam train",
-          "textContent": "The <b>steamtrain</b> was used in the past to carry miners and gold from Gura Rosie factory and now has been open for tourists. There are 2 steamtrains near us: <b>Abrud - Câmpeni steamtrain</b> (~10min by car from us; the tour last 3h) and <b>Crișcior - Brad steamtrain</b> (~45min by car from us; the tour last 2h). <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> - ",
+          "text": "The <b>steamtrain</b> was used in the past to carry miners and gold from Gura Rosie factory and now has been open for tourists. There are 2 steamtrains near us: <b>Abrud - Câmpeni steamtrain</b> (~10min by car from us; the tour last 3h) and <b>Crișcior - Brad steamtrain</b> (~45min by car from us; the tour last 2h). <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> - ",
           "seeAlso": [
             {
               "text": "see map for Abrud steamtrain ",
@@ -456,7 +456,7 @@
         },
         {
           "title": "Forest fruits",
-          "textContent": "Raspberry, blackberry, blueberry, wild strawberries, mushrooms and other goodies can be found on a light walk, during autumn, on the Carnic massive. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 1h walk - ",
+          "text": "Raspberry, blackberry, blueberry, wild strawberries, mushrooms and other goodies can be found on a light walk, during autumn, on the Carnic massive. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 1h walk - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -479,7 +479,7 @@
         },
         {
           "title": "<i class='far fa-snowflake'></i> Slade/Ski",
-          "textContent": "Winter brings great landscapes with old houses covered by snow and perfect places to ride the slade. Near us is the Arieșeni ski resort. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 1h by car - ",
+          "text": "Winter brings great landscapes with old houses covered by snow and perfect places to ride the slade. Near us is the Arieșeni ski resort. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 1h by car - ",
           "seeAlso": [
             {
               "text": "see map",

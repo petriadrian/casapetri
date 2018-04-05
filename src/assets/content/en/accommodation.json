@@ -1,11 +1,11 @@
 {
   "metaData": {
     "title": "Accommodation Rosia Montana",
-    "description": "Stay in a heritage house from the Historic Center of Roșia Montana, recently renovated with bathrooms and kitchen access. See also the hiking and bike trails to discover our area: roman galleries, gold mining industry, heritage buildings, mountains, lakes and many more. Rosia Montana, Alba, Apuseni Mountains, Transylvania - Romania.",
+    "text": "Stay in a heritage house from the Historic Center of Roșia Montana, recently renovated with bathrooms and kitchen access. See also the hiking and bike trails to discover our area: roman galleries, gold mining industry, heritage buildings, mountains, lakes and many more. Rosia Montana, Alba, Apuseni Mountains, Transylvania - Romania.",
     "displayOnShareImg": "/assets/img/accommodation/presentation/displayOnShareImg.jpg"
   },
   "headline": {
-    "text": "Plan your visit to Roșia Montană",
+    "title": "Plan your visit to Roșia Montană",
     "fullWidthImg": "./assets/img/accommodation/presentation/fullWidthImg.jpg"
   },
   "sections": [
@@ -19,7 +19,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "We are located in the historic center of Rosia Montana 331, in a heritage house, that was a bank, medical center, cinema and then it was bought by our grandparents who work in mining industry, and used for living. We preserved the painting, the wooden floor, the windows, the heating with terracotta stoves, but we added new bathrooms and kitchen and now we offer accommodation and touristic services . Te rooms have separate entries from a common yard with hammocks, gazebo, green grass and a nice view to the Cânic massif. See below:"
+          "text": "We are located in the historic center of Rosia Montana 331, in a heritage house, that was a bank, medical center, cinema and then it was bought by our grandparents who work in mining industry, and used for living. We preserved the painting, the wooden floor, the windows, the heating with terracotta stoves, but we added new bathrooms and kitchen and now we offer accommodation and touristic services . Te rooms have separate entries from a common yard with hammocks, gazebo, green grass and a nice view to the Cânic massif. See below:"
         }
       ]
     },
@@ -28,7 +28,7 @@
       "specificArticles": [
         {
           "title": "Books room",
-          "textContent": "Has one meter wide walls made of rocks, a closet filled with books and two bunk beds. Is at the ground floor and has <b>separate entrance</b> from the yard. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom  - <i class='fas fa-utensils'></i> private kitchenette - <i class='fa fa-book'></i> library",
+          "text": "Has one meter wide walls made of rocks, a closet filled with books and two bunk beds. Is at the ground floor and has <b>separate entrance</b> from the yard. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom  - <i class='fas fa-utensils'></i> private kitchenette - <i class='fa fa-book'></i> library",
           "images": [
             {
               "text": "Books room - We transformed a cupboard into a library with old books, guides about Rosia Montana and board games.",
@@ -59,7 +59,7 @@
       "specificArticles": [
         {
           "title": "Little house room",
-          "textContent": "The garden house has one room with two beds, bathroom, kitchen and has <b>separate entrance</b> from the yard. <br><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fas fa-utensils'></i> private kitchen - <i class='fa fa-book'></i> library",
+          "text": "The garden house has one room with two beds, bathroom, kitchen and has <b>separate entrance</b> from the yard. <br><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fas fa-utensils'></i> private kitchen - <i class='fa fa-book'></i> library",
           "images": [
             {
               "text": "Little house room - the outside - has <b>separate entrance</b> from the yard.",
@@ -81,7 +81,6 @@
               "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/bathAndKitchen.jpg",
               "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/bathAndKitchen.jpg"
             }
-
           ]
         }
       ]
@@ -91,7 +90,7 @@
       "specificArticles": [
         {
           "title": "The Upstairs room",
-          "textContent": "It is located at the first floor, has <b>separate entrance</b> from the yard through a hallway with stairs and many small windows called 'târnaț' (specific to our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fas fa-utensils'></i> private kitchenette - <i class='fa fa-book'></i> library",
+          "text": "It is located at the first floor, has <b>separate entrance</b> from the yard through a hallway with stairs and many small windows called 'târnaț' (specific to our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fas fa-arrows-alt-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fas fa-utensils'></i> private kitchenette - <i class='fa fa-book'></i> library",
           "images": [
             {
               "text": "The Upstairs room - the double bed can be separated. The painting was made in 1960 and is very well preserved",
@@ -116,7 +115,7 @@
           ]
         },
         {
-          "textContent": "<br> For prices and bookings see the bellow form or press on 'Bookings'."
+          "text": "<br> For prices and bookings see the bellow form or press on 'Bookings'."
         }
       ]
     },
@@ -131,7 +130,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Photos from <b>our yard</b> or around the house.",
+          "text": "Photos from <b>our yard</b> or around the house.",
           "images": [
             {
               "text": "Our yard - We have some hammocks to rest after a long hike, read, enjoy the Cârnic view or surf on the internet (there is wifi too).",
@@ -163,7 +162,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Because we also love camping, we prepared a small camping place in our yard, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo, hammocks, free wifi and electricity - camping rosia montana - camping Transylvania",
+          "text": "Because we also love camping, we prepared a small camping place in our yard, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo, hammocks, free wifi and electricity - camping rosia montana - camping Transylvania",
           "images": [
             {
               "text": "Camping area fro the yard",
@@ -178,7 +177,7 @@
           ]
         },
         {
-          "textContent": "<br> For prices and bookings see the bellow form or press on 'Bookings'."
+          "text": "<br> For prices and bookings see the bellow form or press on 'Bookings'."
         }
       ]
     },
@@ -209,7 +208,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Beside accomodation we also offer: <br><b>Bikes</b> for rent or (if needed) we can help you fix your bike. <br><b>Guided tours</b> - see the bellow section. <br><b>Library</b> - we have many books that you can read but most of them are in romanian (don't miss the newspapers and the books about Roșia) <br><b>Hammocks</b> with a view and <b>wifi</b> access - relax in our yard <br><b>Playground</b> for children - beside our house <br><b>Movie projections</b> about Rosia Montana past. The projector can be mounted in the garden or in the rooms. <br><b>Board games</b> - In the library can be found many board games (Activity, Risk, Catan) <br><b>Sleighing</b> - we have 2 sleighs that you can use during the winter on the sleigh slope beside the house <br><b>Badminton, tennis, football</b> - we have paddles, balls and at ~15min walking is a synthetic field.",
+          "text": "Beside accomodation we also offer: <br><b>Bikes</b> for rent or (if needed) we can help you fix your bike. <br><b>Guided tours</b> - see the bellow section. <br><b>Library</b> - we have many books that you can read but most of them are in romanian (don't miss the newspapers and the books about Roșia) <br><b>Hammocks</b> with a view and <b>wifi</b> access - relax in our yard <br><b>Playground</b> for children - beside our house <br><b>Movie projections</b> about Rosia Montana past. The projector can be mounted in the garden or in the rooms. <br><b>Board games</b> - In the library can be found many board games (Activity, Risk, Catan) <br><b>Sleighing</b> - we have 2 sleighs that you can use during the winter on the sleigh slope beside the house <br><b>Badminton, tennis, football</b> - we have paddles, balls and at ~15min walking is a synthetic field.",
           "images": [
             {
               "text": "We rent bikes or we can organize guided tours on bikes with mechanical assistance on the trail.",
@@ -362,7 +361,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "We are in the historic center of Roșia Montană - Carpathian Mountains - Transylvania, 130km away from Cluj Napoca and 80km from Alba Iulia. You can reach us by: <br><i class='fa fa-car'></i> <b>car</b> - set on your google maps gps 'Casa Petri Rosia Montana' and it will bring you to our house.<br><i class='fa fa-bus'></i> <b>bus</b> - the closest bus stations are in Câmpeni (15 km) or Abrud (10 km), but ask the driver to drop you off in Gura Roșiei (6 km) and hitchhike to the historic center.<br><i class='fa fa-train'></i> <b>train</b> - the closest train station is in Alba Iulia. Beside is the bus station so you can take a bus from there.<br><i class='fa fa-plane'></i> <b>airplane</b> - the closest airport is in Cluj Napoca. From here you have to take a bus. <br> Once in the historic center of Rosia Montana you will see on the left a 3 floor block of flats (the only block from the market). So take it on the left beside this building and in front you will see our house (one floor white house). The  entrance is through the yard on the left of the house. Please call us before arriving (~30min) <br>If you came from <b>Cluj-Napoca to Rosia</b> by car see also ",
+          "text": "We are in the historic center of Roșia Montană - Carpathian Mountains - Transylvania, 130km away from Cluj Napoca and 80km from Alba Iulia. You can reach us by: <br><i class='fa fa-car'></i> <b>car</b> - set on your google maps gps 'Casa Petri Rosia Montana' and it will bring you to our house.<br><i class='fa fa-bus'></i> <b>bus</b> - the closest bus stations are in Câmpeni (15 km) or Abrud (10 km), but ask the driver to drop you off in Gura Roșiei (6 km) and hitchhike to the historic center.<br><i class='fa fa-train'></i> <b>train</b> - the closest train station is in Alba Iulia. Beside is the bus station so you can take a bus from there.<br><i class='fa fa-plane'></i> <b>airplane</b> - the closest airport is in Cluj Napoca. From here you have to take a bus. <br> Once in the historic center of Rosia Montana you will see on the left a 3 floor block of flats (the only block from the market). So take it on the left beside this building and in front you will see our house (one floor white house). The  entrance is through the yard on the left of the house. Please call us before arriving (~30min) <br>If you came from <b>Cluj-Napoca to Rosia</b> by car see also ",
           "seeAlso": [
             {
               "text": "this article",

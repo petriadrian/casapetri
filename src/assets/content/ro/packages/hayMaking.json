@@ -3,7 +3,7 @@
     "title": "Fermier în Apuseni",
     "headline": "3 zile ca fermier în Apuseni",
     "descriptionTitle": "3-6aug | pachet agroturistic",
-    "description": "Trăiește ca un fermier. Aduni fânul pentru iernat, mânci produse locale, iar seara participi la adăpatul și mulsul vacilor",
+    "text": "Trăiește ca un fermier. Aduni fânul pentru iernat, mânci produse locale, iar seara participi la adăpatul și mulsul vacilor",
     "fullWidthImg": "./assets/img/packages/hayMaking/presentation/fullWidthImg.jpg",
     "smallBoxImg": "./assets/img/packages/hayMaking/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "3 zile ca fermier în Apuseni. Pachet agroturistic.",
-    "description": "Conectează-te la viața fermierilor din Roșia Montană prin a participa la diverse activități împreună cu aceștia, ca adunatul fânului sau adăpatul și mulsul vacilor. Luăm masa la fermă și încheiem cu un tur ghidat al satului. Cazare, rezervări, prețuri și alte detalii aici...",
+    "text": "Conectează-te la viața fermierilor din Roșia Montană prin a participa la diverse activități împreună cu aceștia, ca adunatul fânului sau adăpatul și mulsul vacilor. Luăm masa la fermă și încheiem cu un tur ghidat al satului. Cazare, rezervări, prețuri și alte detalii aici...",
     "displayOnShareImg": "/assets/img/packages/hayMaking/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,10 +30,10 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>pachet agroturistic | 3-6 august"
+          "text": "<b>pachet agroturistic | 3-6 august"
         },
         {
-          "textContent": "Îți propunem 3 zile altfel la Roșia Montană. Începem cu un tur al zonei pentru a te conecta la locul unde va urma să trăiești ca fermier. O să participi la adunatul fânului pentru iernat, adăpatul animalelor, mulsul vacilor și povești cu localnicii pe prispa casei. Vom lua masa la fermă, iar în ultima zi vom organiza un tur ghidat al satului."
+          "text": "Îți propunem 3 zile altfel la Roșia Montană. Începem cu un tur al zonei pentru a te conecta la locul unde va urma să trăiești ca fermier. O să participi la adunatul fânului pentru iernat, adăpatul animalelor, mulsul vacilor și povești cu localnicii pe prispa casei. Vom lua masa la fermă, iar în ultima zi vom organiza un tur ghidat al satului."
         }
       ]
     },
@@ -47,11 +47,11 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<br><b><i class='far fa-clock'></i> 14:00 - 19:00 - joi <br> Check in</b>, la Casa Petri, nr. 331, centru istoric Rosia Montană, jud. Alba."
+          "text": "<br><b><i class='far fa-clock'></i> 14:00 - 19:00 - joi <br> Check in</b>, la Casa Petri, nr. 331, centru istoric Rosia Montană, jud. Alba."
         },
         {
           "title": "Turul fermei",
-          "textContent": "<b><i class='far fa-clock'></i> 19:00 - 21:00 - joi</b> <br>După ce sosește toată lumea o să pornim la o scurtă plimbare de seară pentru a intra în atmosfera locului, a fermei și a împrejurimilor.",
+          "text": "<b><i class='far fa-clock'></i> 19:00 - 21:00 - joi</b> <br>După ce sosește toată lumea o să pornim la o scurtă plimbare de seară pentru a intra în atmosfera locului, a fermei și a împrejurimilor.",
           "images": [
             {
               "text": "Descoperim ferma de vaci Țarina și trecutul ei",
@@ -72,7 +72,7 @@
         },
         {
           "title": "Activități la fermă",
-          "textContent": "<b><i class='far fa-clock'></i> 11:00 - 19:00 - vineri și sâmbătă</b> <br>Mersul la polog sau adunatul fânului este principala activitate a fermierilor în această perioadă. Este un meșteșug străvechi, bine păstrat la noi în zonă, simplu de învățat și ajută la protejarea biodiversității fânețelor din Apuseni. O să participăm împreună cu localnicii la aceste activități dar vom face și pauze de masă sau de odihnă la locul cu hamace din apropiere. La finalul zilei participăm la adunatul animalelor de la păscut și la mulsul vacilor, iar seara o vom petrece pe prispa casei, la povești cu localnicii.",
+          "text": "<b><i class='far fa-clock'></i> 11:00 - 19:00 - vineri și sâmbătă</b> <br>Mersul la polog sau adunatul fânului este principala activitate a fermierilor în această perioadă. Este un meșteșug străvechi, bine păstrat la noi în zonă, simplu de învățat și ajută la protejarea biodiversității fânețelor din Apuseni. O să participăm împreună cu localnicii la aceste activități dar vom face și pauze de masă sau de odihnă la locul cu hamace din apropiere. La finalul zilei participăm la adunatul animalelor de la păscut și la mulsul vacilor, iar seara o vom petrece pe prispa casei, la povești cu localnicii.",
           "images": [
             {
               "text": "Fânul uscat se greblează și se adună în mici brazde.",
@@ -108,7 +108,7 @@
         },
         {
           "title": "Traseu ghidat Roșia Montană",
-          "textContent": "<b><i class='far fa-clock'></i> 09:30 - 14:00 - duminică</b> <br>O să vizităm împreună cu un ghid diverse clădiri de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Dacă o să mai aveți timp și energie vom vizita și câteva galerii și exploatări de aur ale masivului Cârnic, iar de pe vârful acestuia vă promitem o priveliște deosebită asupra satului.",
+          "text": "<b><i class='far fa-clock'></i> 09:30 - 14:00 - duminică</b> <br>O să vizităm împreună cu un ghid diverse clădiri de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Dacă o să mai aveți timp și energie vom vizita și câteva galerii și exploatări de aur ale masivului Cârnic, iar de pe vârful acestuia vă promitem o priveliște deosebită asupra satului.",
           "images": [
             {
               "text": "Centrul istoric.",
@@ -182,7 +182,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Cazarea se va face la pensiunea Țarina și la Casa Petri în camere private de 1, 2, 3 sau 4 persoane. Camerele au baie privată sau o baie la 2 camere. În formularul de rezervări puteți selecta ce tip de camere doriți, iar noi o să vă sunăm pentru a vă confirma.",
+          "text": "Cazarea se va face la pensiunea Țarina și la Casa Petri în camere private de 1, 2, 3 sau 4 persoane. Camerele au baie privată sau o baie la 2 camere. În formularul de rezervări puteți selecta ce tip de camere doriți, iar noi o să vă sunăm pentru a vă confirma.",
           "images": [
             {
               "text": "Camera de la Pensiunea Țarina",
@@ -208,7 +208,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Toate mesele le vom lua la ferma Țarina, locul unde se vor desfășura activitățile. Gazda va găti mâncăruri cu produse locale, de obicei dimineața va fi o omletă cu lactate proaspete, la amiaz ciorbă și felul 2, iar la cină ceva ușor (lapte, ceai, pâine cu dulceață). Puteți folosi și voi bucătăria, iar în zonă se găsesc 2 magazine alimentare. Dacă sunteți vegetarian sau aveți alte preferințe scrieți-ne în căsuța 'Alte detalii' din formularul de rezervări",
+          "text": "Toate mesele le vom lua la ferma Țarina, locul unde se vor desfășura activitățile. Gazda va găti mâncăruri cu produse locale, de obicei dimineața va fi o omletă cu lactate proaspete, la amiaz ciorbă și felul 2, iar la cină ceva ușor (lapte, ceai, pâine cu dulceață). Puteți folosi și voi bucătăria, iar în zonă se găsesc 2 magazine alimentare. Dacă sunteți vegetarian sau aveți alte preferințe scrieți-ne în căsuța 'Alte detalii' din formularul de rezervări",
           "images": [
             {
               "text": "La un pahar de țuică, înainte de masă.",
@@ -251,7 +251,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Prețul pachetului agroturistic este de 290lei/persoană (include 3 nopți de cazare cu 3 mese pe zi și donația pentru ghidul local care va face traseul de duminică). Plata se va face la sosire."
+          "text": "Prețul pachetului agroturistic este de 290lei/persoană (include 3 nopți de cazare cu 3 mese pe zi și donația pentru ghidul local care va face traseul de duminică). Plata se va face la sosire."
         }
       ]
     },

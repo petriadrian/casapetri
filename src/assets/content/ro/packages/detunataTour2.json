@@ -3,7 +3,7 @@
     "title": "Tur ghidat Detunata",
     "headline": "Tur ghidat Roșia Montană - Detunata",
     "descriptionTitle": "8 - 10 Sept | pachet",
-    "description": "Tururi ghidate: masivul format din coloane de bazalt Detunata, centrul istoric Roșia Montană, masivul Cârnic și proiecție de film",
+    "text": "Tururi ghidate: masivul format din coloane de bazalt Detunata, centrul istoric Roșia Montană, masivul Cârnic și proiecție de film",
     "fullWidthImg": "./assets/img/packages/detunataTour/presentation/fullWidthImg.jpg",
     "smallBoxImg": "./assets/img/packages/detunataTour/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Tur ghidat Roșia Montană - Detunata | 8 - 10 Sept",
-    "description": "Weekend cu tururi ghidate în zona Roșia Montană. Vizităm masivul format din coloane de bazalt Detunata Apuseni, urmat de turul 'Centrul istoric și masivul Cârnic Rosia Montană' ce va avea ca introducere o proiecție de filme. Cazare, mâncare, transport și alte detalii găsiți aici...",
+    "text": "Weekend cu tururi ghidate în zona Roșia Montană. Vizităm masivul format din coloane de bazalt Detunata Apuseni, urmat de turul 'Centrul istoric și masivul Cârnic Rosia Montană' ce va avea ca introducere o proiecție de filme. Cazare, mâncare, transport și alte detalii găsiți aici...",
     "displayOnShareImg": "/assets/img/packages/detunataTour/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,10 +30,10 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>pachet turistic | weekendul 8 - 10 Sept | încheiere înscrieri: 1 Sept"
+          "text": "<b>pachet turistic | weekendul 8 - 10 Sept | încheiere înscrieri: 1 Sept"
         },
         {
-          "textContent": "Weekend cu tururi ghidate de drumeție în zona Roșia Montană. Vizităm masivul format din coloane de bazalt Detunata Apuseni, urmat de turul 'Centrul istoric și masivul Cârnic Rosia Montană' ce va avea ca introducere o proiecție de filme. Mai jos găsiți programul și informații despre cazare, mâncare și transport."
+          "text": "Weekend cu tururi ghidate de drumeție în zona Roșia Montană. Vizităm masivul format din coloane de bazalt Detunata Apuseni, urmat de turul 'Centrul istoric și masivul Cârnic Rosia Montană' ce va avea ca introducere o proiecție de filme. Mai jos găsiți programul și informații despre cazare, mâncare și transport."
         }
       ]
     },
@@ -47,11 +47,11 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<br><b><i class='far fa-clock'></i> 16:00 - 21:00 - vineri - check in</b> la locul de cazare - Casa Petri, nr. 331, centru istoric Rosia Montană, jud. Alba."
+          "text": "<br><b><i class='far fa-clock'></i> 16:00 - 21:00 - vineri - check in</b> la locul de cazare - Casa Petri, nr. 331, centru istoric Rosia Montană, jud. Alba."
         },
         {
           "title": "Traseu ghidat Detunata",
-          "textContent": "<b><i class='far fa-clock'></i> 09:00 - 17:00 - sâmbătă</b> <br>Pornim din Roșia Montană spre Tăul Mare, trecem prin câteva sate de munte specifice Țării Moților până ajungem la rezervația naturală protejată Detunata Apuseni (zona unde a trăit și Fefeleaga, personajul principal din opera lui Ion Agârbiceanu). Pe o potecă îngustă vom urca până pe vârful acestui masiv format din coloane înalte de bazalt. Este o drumeție ușoară și relaxantă pe culmile domoale din Apuseni.",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 17:00 - sâmbătă</b> <br>Pornim din Roșia Montană spre Tăul Mare, trecem prin câteva sate de munte specifice Țării Moților până ajungem la rezervația naturală protejată Detunata Apuseni (zona unde a trăit și Fefeleaga, personajul principal din opera lui Ion Agârbiceanu). Pe o potecă îngustă vom urca până pe vârful acestui masiv format din coloane înalte de bazalt. Este o drumeție ușoară și relaxantă pe culmile domoale din Apuseni.",
           "images": [
             {
               "text": "<b>Tăul Mare</b> - aici aflăm rolul tăurilor în producția aurului extras la Roșia Montană.",
@@ -97,7 +97,7 @@
         },
         {
           "title": "Proiecție în grădină",
-          "textContent": "<b><i class='far fa-clock'></i> 20:00 - 22:00 - sâmbătă</b> <br>Proiecție 'Povestea Roșiei Montane' - imagini, filme și povești despre trecutul și evoluția satului, modul de extracție al aurului din trecut până în prezent și viața de azi. Proiecția este și o introducere pentru traseul ghidat ce va avea loc în ziua următoare.",
+          "text": "<b><i class='far fa-clock'></i> 20:00 - 22:00 - sâmbătă</b> <br>Proiecție 'Povestea Roșiei Montane' - imagini, filme și povești despre trecutul și evoluția satului, modul de extracție al aurului din trecut până în prezent și viața de azi. Proiecția este și o introducere pentru traseul ghidat ce va avea loc în ziua următoare.",
           "images": [
             {
               "text": "Proiecții în grădină",
@@ -113,7 +113,7 @@
         },
         {
           "title": "Traseu ghidat Roșia Montană",
-          "textContent": "<b><i class='far fa-clock'></i> 09:30 - 14:00 - duminică</b> <br>O să vizităm împreună cu un ghid diverse clădiri de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Dacă o să mai aveți timp și energie vom vizita și câteva galerii și exploatări de aur ale masivului Cârnic, iar de pe vârful acestuia vă promitem o priveliște deosebită asupra satului.",
+          "text": "<b><i class='far fa-clock'></i> 09:30 - 14:00 - duminică</b> <br>O să vizităm împreună cu un ghid diverse clădiri de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Dacă o să mai aveți timp și energie vom vizita și câteva galerii și exploatări de aur ale masivului Cârnic, iar de pe vârful acestuia vă promitem o priveliște deosebită asupra satului.",
           "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",

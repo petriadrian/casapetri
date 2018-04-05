@@ -20,8 +20,8 @@
           <h5 *ngIf="!!slide.title"
               [innerHTML]="slide.title  | trustHtml"></h5>
           <p class="d-none d-md-block"
-             *ngIf="!!slide.description"
-             [innerHTML]="slide.description  | trustHtml"></p>
+             *ngIf="!!slide.text"
+             [innerHTML]="slide.text  | trustHtml"></p>
         </div>
       </a>
     </div>

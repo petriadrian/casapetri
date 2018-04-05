@@ -1,11 +1,11 @@
 {
   "metaData": {
     "title": "Weekend at the daffodil meadow Apuseni",
-    "description": "Pachet cu drumetii: vizita la Poiana cu Narcise unde are loc Sarbatoarea Narciselor, proiectie de film in gradina, traseu ghidat  in Rosia Montana, cazare, transport, mancare (traseele se pot face si cu bicicleta)",
+    "text": "Pachet cu drumetii: vizita la Poiana cu Narcise unde are loc Sarbatoarea Narciselor, proiectie de film in gradina, traseu ghidat  in Rosia Montana, cazare, transport, mancare (traseele se pot face si cu bicicleta)",
     "displayOnShareImg": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
   },
   "headline": {
-    "text": "Weekend at the daffodil meadow Apuseni",
+    "title": "Weekend at the daffodil meadow Apuseni",
     "videoSource": "",
     "fullWidthImg": "./assets/img/events/narcise/presentation/fullWidthImg.jpg"
   },
@@ -20,10 +20,10 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Sâmbătă dimineața pornim spre un loc magic din Apuseni - <b>Poiana cu Narcise</b> Negrileasa, iar seara ne odihnim la o <b>proiecție de film</b> în grădină. Duminică vom descoperi locurile și legendele aurarilor din Roșia Montană printr-un <b>tur ghidat al centrului istoric și masivul Cârnic</b>."
+          "text": "Sâmbătă dimineața pornim spre un loc magic din Apuseni - <b>Poiana cu Narcise</b> Negrileasa, iar seara ne odihnim la o <b>proiecție de film</b> în grădină. Duminică vom descoperi locurile și legendele aurarilor din Roșia Montană printr-un <b>tur ghidat al centrului istoric și masivul Cârnic</b>."
         },
         {
-          "textContent": "<i class='far fa-calendar-alt'></i> 25.05 - 27.05.2018"
+          "text": "<i class='far fa-calendar-alt'></i> 25.05 - 27.05.2018"
         }
       ]
     },
@@ -37,7 +37,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>Vineri 27 Aprilie - check in</b> (16:00 - 23:00), sosire la Casa Petri 331A Roșia Montană ",
+          "text": "<b>Vineri 27 Aprilie - check in</b> (16:00 - 23:00), sosire la Casa Petri 331A Roșia Montană ",
           "seeAlso": [
             {
               "text": "(vezi aici cum ajungi)",
@@ -48,7 +48,7 @@
         },
         {
           "title": "Sâmbătă 28 Mai",
-          "textContent": "<b><i class='far fa-clock'></i> 09:30 - 18:00 - Vizită la Poiana cu Narcise</b> <br>De la Casa Petri o să pornim spre aria protejată Poiana Negrileasa Apuseni unde va avea loc o mică serbare pentru a celebra apariția narciselor. Pe lângă peisajul de poveste, mirosul acestora este cu siguranță o amintire de neuitat. Sunt două variante de a ajunge acolo (in functie de alegerea grupului): cu mașina(~30min) urmat de o drumeție de ~2h sau cu bicicleta pe un drum de țară (~4h) - se pot închiria biciclete de la noi. Vă recomandăm să nu culegeți prea multe narcise deoarece se ofilesc destul de rapid, adevăratul lor farmec este aici în mediul lor natural.",
+          "text": "<b><i class='far fa-clock'></i> 09:30 - 18:00 - Vizită la Poiana cu Narcise</b> <br>De la Casa Petri o să pornim spre aria protejată Poiana Negrileasa Apuseni unde va avea loc o mică serbare pentru a celebra apariția narciselor. Pe lângă peisajul de poveste, mirosul acestora este cu siguranță o amintire de neuitat. Sunt două variante de a ajunge acolo (in functie de alegerea grupului): cu mașina(~30min) urmat de o drumeție de ~2h sau cu bicicleta pe un drum de țară (~4h) - se pot închiria biciclete de la noi. Vă recomandăm să nu culegeți prea multe narcise deoarece se ofilesc destul de rapid, adevăratul lor farmec este aici în mediul lor natural.",
           "images": [
             {
               "text": "La poiana cu narcise Apuseni.",
@@ -93,7 +93,7 @@
           ]
         },
         {
-          "textContent": "<br><br><b><i class='far fa-clock'></i> Seara - Proiecție în grădină 'De ce e Roșia și Montană?'</b><br> Imagini, filme și povești despre trecutul și evoluția satului, modul de extracție al aurului din trecut până în prezent și viața de azi (dacă va fi frig vom ține proiecția în interior).",
+          "text": "<br><br><b><i class='far fa-clock'></i> Seara - Proiecție în grădină 'De ce e Roșia și Montană?'</b><br> Imagini, filme și povești despre trecutul și evoluția satului, modul de extracție al aurului din trecut până în prezent și viața de azi (dacă va fi frig vom ține proiecția în interior).",
           "images": [
             {
               "text": "Proiecții în grădină",
@@ -109,7 +109,7 @@
         },
         {
           "title": "Duminică 29 Mai",
-          "textContent": "<b><i class='far fa-clock'></i> 09:30 - 14:00 - tur ghidat Roșia Montană</b> <br>O să vizităm împreună cu un ghid diverse clădiri de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Vom povesti despre toate acestea, iar apoi dacă mai aveți timp și energie vom urca pe masivul Cârnic de unde vă promitem o priveliște deosebită asupra satului.",
+          "text": "<b><i class='far fa-clock'></i> 09:30 - 14:00 - tur ghidat Roșia Montană</b> <br>O să vizităm împreună cu un ghid diverse clădiri de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Vom povesti despre toate acestea, iar apoi dacă mai aveți timp și energie vom urca pe masivul Cârnic de unde vă promitem o priveliște deosebită asupra satului.",
           "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
@@ -182,7 +182,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Prețul este <b>250lei</b>/persoană. <b>Include</b> cazarea (2 nopți), traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
+          "text": "Prețul este <b>250lei</b>/persoană. <b>Include</b> cazarea (2 nopți), traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
         }
       ]
     },

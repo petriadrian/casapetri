@@ -5,7 +5,7 @@
     <h2><span [innerHTML]="content?.title | trustHtml"></span></h2>
   </header>
   <section class="defaultArticleText">
-    <span *ngIf="!!content?.textContent" [innerHTML]="content?.textContent | trustHtml"></span>
+    <span *ngIf="!!content?.text" [innerHTML]="content?.text | trustHtml"></span>
     <span *ngIf="!!content?.seeAlso">
         <span *ngFor="let seeAlsoItem of content?.seeAlso">
               <app-link [content]="seeAlsoItem" [class]="'lookLikeLink'"></app-link></span>

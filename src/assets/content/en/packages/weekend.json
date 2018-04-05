@@ -3,7 +3,7 @@
     "title": "Rosia weekend tour",
     "headline": "Weekend at Rosia Montana",
     "descriptionTitle": "march - december | package",
-    "description": "A package with 2 nights accommodation and a guided trail ~6h to the main cultural and natural objectives from Rosia",
+    "text": "A package with 2 nights accommodation and a guided trail ~6h to the main cultural and natural objectives from Rosia",
     "fullWidthImg": "./assets/img/packages/weekend/presentation/fullWidthImg.jpg",
     "smallBoxImg": "./assets/img/packages/weekend/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Weekend at Roșia Montană",
-    "description": "The package includes 2 nights accommodation and a guided trail ~6h to the main cultural and natural objectives from Rosia Montana. More details and bookings here...",
+    "text": "The package includes 2 nights accommodation and a guided trail ~6h to the main cultural and natural objectives from Rosia Montana. More details and bookings here...",
     "displayOnShareImg": "/assets/img/packages/weekend/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Rosia Montana is the oldest locality from Romania, it has an unique mining and cultural landscape and it's situated in the Transylvania mountains, a perfect place for mountain biking or hiking. The package <b>includes 2 nights accommodation and a guided trail (~6h) to the main cultural and natural attractions.</b>"
+          "text": "Rosia Montana is the oldest locality from Romania, it has an unique mining and cultural landscape and it's situated in the Transylvania mountains, a perfect place for mountain biking or hiking. The package <b>includes 2 nights accommodation and a guided trail (~6h) to the main cultural and natural attractions.</b>"
         }
       ]
     },
@@ -45,11 +45,11 @@
       "specificArticles": [
         {
           "title": "Day 1",
-          "textContent": "<b><i class='far fa-clock'></i> 16:00 - 20:00 - check in</b> and accommodation."
+          "text": "<b><i class='far fa-clock'></i> 16:00 - 20:00 - check in</b> and accommodation."
         },
         {
           "title": "Day 2",
-          "textContent": "<b><i class='far fa-clock'></i> 09:00 - 15:00 - Guided trail of the main cultural and natural objectives</b>. Will start from the historic center, where will visit some heritage buildings (multicultural churches and schools or the goldsmith houses) built by various nations who came here to extract gold. Will continue with the Cârnic massif where will visit some natural and mining objectives (pounds, protected areas, open pits and gold galleries).",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 15:00 - Guided trail of the main cultural and natural objectives</b>. Will start from the historic center, where will visit some heritage buildings (multicultural churches and schools or the goldsmith houses) built by various nations who came here to extract gold. Will continue with the Cârnic massif where will visit some natural and mining objectives (pounds, protected areas, open pits and gold galleries).",
           "images": [
             {
               "text": "Guided trail - the historic center of Rosia Montana.",
@@ -95,7 +95,7 @@
         },
         {
           "title": "Day 3",
-          "textContent": "<b><i class='far fa-clock'></i> 09:00 - 11:00</b> - if you have time and energy you can visit the Mining Museum which is at ~10min away. Here you can go inside the Roman Galleries with a guide (the trail takes 2 hours and the ticket is 3 euro).",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 11:00</b> - if you have time and energy you can visit the Mining Museum which is at ~10min away. Here you can go inside the Roman Galleries with a guide (the trail takes 2 hours and the ticket is 3 euro).",
           "images": [
             {
               "text": "The roman galleries (106 – 272 AD) built to extract gold.",
@@ -111,7 +111,7 @@
         },
         {
           "title": ".",
-          "textContent": "Here will end your trip to Rosia Montana :( <br>The <b>check-out</b> can be made until <b>12:00</b>, but before we will have to make a picture together and to leave us your <b>review</b>. Read the reviews of the peoples who visited us on the ",
+          "text": "Here will end your trip to Rosia Montana :( <br>The <b>check-out</b> can be made until <b>12:00</b>, but before we will have to make a picture together and to leave us your <b>review</b>. Read the reviews of the peoples who visited us on the ",
           "seeAlso": [
             {
               "text": "reviews page",
@@ -149,7 +149,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Bellow are more info about this package and other useful info. If you have other questions, please contact us by email or phone (can be found in the footer)."
+          "text": "Bellow are more info about this package and other useful info. If you have other questions, please contact us by email or phone (can be found in the footer)."
         }
       ]
     },
@@ -231,7 +231,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<br>The <b>price</b> of the package is <b>45€/pers</b> and is for minimum 2 persons. It <b>includes</b> 2 nights of accommodation, a guided trail (~6h), the use of the hammocks, library and board games. It is <b>not included</b>: the meals at locals, the museum ticket, bike rental or the personal expenses. Fill the number of the persons and the period and we will contact you by email or phone to confirm and to tell you what types of rooms can we offer."
+          "text": "<br>The <b>price</b> of the package is <b>45€/pers</b> and is for minimum 2 persons. It <b>includes</b> 2 nights of accommodation, a guided trail (~6h), the use of the hammocks, library and board games. It is <b>not included</b>: the meals at locals, the museum ticket, bike rental or the personal expenses. Fill the number of the persons and the period and we will contact you by email or phone to confirm and to tell you what types of rooms can we offer."
         }
       ]
     },

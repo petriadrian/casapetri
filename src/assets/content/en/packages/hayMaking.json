@@ -3,7 +3,7 @@
     "title": "Farmer in Transylvania",
     "headline": "3 days as a farmer in Transylvania",
     "descriptionTitle": "3-6aug | agritourism package",
-    "description": "Live as a farmer. Traditional hay making and cow milking, prepare & eat local food and others farm activities",
+    "text": "Live as a farmer. Traditional hay making and cow milking, prepare & eat local food and others farm activities",
     "fullWidthImg": "./assets/img/packages/hayMaking/presentation/fullWidthImg.jpg",
     "smallBoxImg": "./assets/img/packages/hayMaking/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "3 days as a farmer in Transylvania. Agritourism package.",
-    "description": "Live as a farmer from Roșia Montană, Transylvania. Participate at different activities together with the farmers, like hay making or cow milking. Will prepare and eat local meals and on the last day will do a guided tour. Accommodation, bookings, prices and other details here...",
+    "text": "Live as a farmer from Roșia Montană, Transylvania. Participate at different activities together with the farmers, like hay making or cow milking. Will prepare and eat local meals and on the last day will do a guided tour. Accommodation, bookings, prices and other details here...",
     "displayOnShareImg": "/assets/img/packages/hayMaking/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,10 +30,10 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>agritourism package | 3-6 august"
+          "text": "<b>agritourism package | 3-6 august"
         },
         {
-          "textContent": "We propose to change your way of living for 3 days. Become a farmer in Rosia Montana, Romania. Will start with a tour of the area to connect to the place where you will live as a farmer and then will participate to different activities as the traditional hay making or cow milking and will spend the evening with the locals. Will eat local products and on the last day will make a guided tour to discover the history of our village."
+          "text": "We propose to change your way of living for 3 days. Become a farmer in Rosia Montana, Romania. Will start with a tour of the area to connect to the place where you will live as a farmer and then will participate to different activities as the traditional hay making or cow milking and will spend the evening with the locals. Will eat local products and on the last day will make a guided tour to discover the history of our village."
         }
       ]
     },
@@ -47,11 +47,11 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<br><b><i class='far fa-clock'></i> 14:00 - 19:00 - thursday <br> Check in</b>, at Casa Petri 331, historic center Rosia Montană, Romania"
+          "text": "<br><b><i class='far fa-clock'></i> 14:00 - 19:00 - thursday <br> Check in</b>, at Casa Petri 331, historic center Rosia Montană, Romania"
         },
         {
           "title": "Farm tour",
-          "textContent": "<b><i class='far fa-clock'></i> 19:00 - 21:00 - thursday</b> <br>After your arrival will make a slow evening tour to show you the farm, the surroundings and to connect a little bit to this place.",
+          "text": "<b><i class='far fa-clock'></i> 19:00 - 21:00 - thursday</b> <br>After your arrival will make a slow evening tour to show you the farm, the surroundings and to connect a little bit to this place.",
           "images": [
             {
               "text": "We will discover the cow farm and it past.",
@@ -72,7 +72,7 @@
         },
         {
           "title": "Farm activities",
-          "textContent": "<b><i class='far fa-clock'></i> 11:00 - 19:00 - friday and saturday</b> <br>Traditional hay making is the main activity of the local farmers in this period. Is a kind of an ancient craft, very well kept in our area, easy to learn and it helps to preserve the biodiversity of the hay meadows from Transylvania. Will participate together with the locals to this activities but we will also make breaks for taking the meal or to relax at the hammock places which will be bring in the area. At the end of the day will gather the cattle from the grassland areas, feed and milk them, and after will spend the evening with the locals.",
+          "text": "<b><i class='far fa-clock'></i> 11:00 - 19:00 - friday and saturday</b> <br>Traditional hay making is the main activity of the local farmers in this period. Is a kind of an ancient craft, very well kept in our area, easy to learn and it helps to preserve the biodiversity of the hay meadows from Transylvania. Will participate together with the locals to this activities but we will also make breaks for taking the meal or to relax at the hammock places which will be bring in the area. At the end of the day will gather the cattle from the grassland areas, feed and milk them, and after will spend the evening with the locals.",
           "images": [
             {
               "text": "The hay will be gathered in small stacks.",
@@ -108,7 +108,7 @@
         },
         {
           "title": "Guided tour in Roșia Montană",
-          "textContent": "<b><i class='far fa-clock'></i> 09:30 - 14:00 - sunday</b> <br>Will visit with a local tour guide different heritage buildings from the historic center made by the civilizations who came here to extract gold (schools in different languages, multicultural churches or the goldsmith houses). If there will be time we will also visit some of the gold galleries and mining exploitations of the Cârnic massif and will discover some nice views from the top of this massif.",
+          "text": "<b><i class='far fa-clock'></i> 09:30 - 14:00 - sunday</b> <br>Will visit with a local tour guide different heritage buildings from the historic center made by the civilizations who came here to extract gold (schools in different languages, multicultural churches or the goldsmith houses). If there will be time we will also visit some of the gold galleries and mining exploitations of the Cârnic massif and will discover some nice views from the top of this massif.",
           "images": [
             {
               "text": "The historic center.",
@@ -182,7 +182,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "The accommodation will be made at Casa Petri and Casa Tarina in 1, 2, 3 or 4 persons private rooms with private bathroom or one bathrom for 2 rooms and kitchen. Please fill the reservation form with the type of the room you want and we will call ar email you back to confirm.",
+          "text": "The accommodation will be made at Casa Petri and Casa Tarina in 1, 2, 3 or 4 persons private rooms with private bathroom or one bathrom for 2 rooms and kitchen. Please fill the reservation form with the type of the room you want and we will call ar email you back to confirm.",
           "images": [
             {
               "text": "The rooms from Casa Tarina",
@@ -208,7 +208,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "All the meals will be taken at the Țarina farm, the place where all the activities will happen. You can cook together with the host traditional meals with local products - usually in the morning will be some fresh egs, milk, cheese and vegetables, for the lunch some soup with second course, and for the dinner: milk, tea, bread with jam). You can also use the kitchen and there are 2 grocery stores in the area. If you are a vegeterian or other preferences write us in the 'Other details' from the booking form.",
+          "text": "All the meals will be taken at the Țarina farm, the place where all the activities will happen. You can cook together with the host traditional meals with local products - usually in the morning will be some fresh egs, milk, cheese and vegetables, for the lunch some soup with second course, and for the dinner: milk, tea, bread with jam). You can also use the kitchen and there are 2 grocery stores in the area. If you are a vegeterian or other preferences write us in the 'Other details' from the booking form.",
           "images": [
             {
               "text": "Meals with locals.",
@@ -251,7 +251,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "The total price of this package is 70€/person (includes 3 nights of accommodation, 3 meals/day and the donation for the local guide who will do the village tour on sunday). The payment will be made on arrival."
+          "text": "The total price of this package is 70€/person (includes 3 nights of accommodation, 3 meals/day and the donation for the local guide who will do the village tour on sunday). The payment will be made on arrival."
         }
       ]
     },

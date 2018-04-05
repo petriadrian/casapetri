@@ -1,7 +1,7 @@
 {
   "metaData": {
     "title": "Rosia Montana | accommodation | hikes | bike | trails",
-    "description": "Accommodation in a restored heritage house from the Historic Center. Hiking or bike trails along the roman galleries, gold mining areas, heritage buildings, mountains, lakes. Rent bikes or guided tours. At the end of the day read a book from our library in the hammock. Rosia Montana, Alba, Apuseni Mountains, Transylvania, Romania.",
+    "text": "Accommodation in a restored heritage house from the Historic Center. Hiking or bike trails along the roman galleries, gold mining areas, heritage buildings, mountains, lakes. Rent bikes or guided tours. At the end of the day read a book from our library in the hammock. Rosia Montana, Alba, Apuseni Mountains, Transylvania, Romania.",
     "displayOnShareImg": "/assets/img/homePage/presentation/displayOnShareImg.jpg"
   },
   "sections": [
@@ -11,7 +11,7 @@
         {
           "img": "./assets/img/attractions/presentation/fullWidthImg.jpg",
           "title": "Great place to visit - Rosia Montana",
-          "description": "",
+          "text": "",
           "url": {
             "link": "en/attractions",
             "textOnMouseOver": "Click here..."
@@ -20,7 +20,7 @@
         {
           "img": "./assets/img/attractions/article/romanGalleries/fullSize/1.jpg",
           "title": "Roșia Montană is history",
-          "description": "",
+          "text": "",
           "url": {
             "link": "en/attractions",
             "textOnMouseOver": "Click here..."
@@ -29,7 +29,7 @@
         {
           "img": "./assets/img/attractions/article/panoramicBench/fullSize/1.jpg",
           "title": "Roșia Montană is heritage",
-          "description": "",
+          "text": "",
           "url": {
             "link": "en/attractions",
             "textOnMouseOver": "Click here..."
@@ -38,7 +38,7 @@
         {
           "img": "./assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg",
           "title": "Roșia Montană is nature",
-          "description": "",
+          "text": "",
           "url": {
             "link": "en/attractions",
             "textOnMouseOver": "Click here..."
@@ -47,7 +47,7 @@
         {
           "img": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg",
           "title": "Roșia Montană is adventure",
-          "description": "",
+          "text": "",
           "url": {
             "link": "en/attractions",
             "textOnMouseOver": "Click here..."
@@ -56,7 +56,7 @@
         {
           "img": "./assets/img/attractions/article/lakes/bigLake/fullSize/bike.jpg",
           "title": "Roșia Montană is vacation",
-          "description": "",
+          "text": "",
           "url": {
             "link": "en/attractions",
             "textOnMouseOver": "Click here..."
@@ -65,7 +65,7 @@
         {
           "img": "./assets/img/accommodation/presentation/fullWidthImg.jpg",
           "title": "Casa Petri - an unique place in Rosia Montana",
-          "description": "",
+          "text": "",
           "url": {
             "link": "en/accommodation",
             "textOnMouseOver": "Click here..."
@@ -83,10 +83,10 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>Discover an unique cultural heritage</b> built by various civilizations since antiquity to extract gold (proposed as <b>UNESCO</b> site) <br><b>See the existing open pits</b> and how could impact a new one with cyanide like the one proposed by canadians. <br><b>Nature and serenity</b> - all around us are massifs, lakes and protected natural areas great for hiking or cycling."
+          "text": "<b>Discover an unique cultural heritage</b> built by various civilizations since antiquity to extract gold (proposed as <b>UNESCO</b> site) <br><b>See the existing open pits</b> and how could impact a new one with cyanide like the one proposed by canadians. <br><b>Nature and serenity</b> - all around us are massifs, lakes and protected natural areas great for hiking or cycling."
         },
         {
-          "textContent": "",
+          "text": "",
           "seeAlso": [
             {
               "text": "<b><i class='far fa-star'></i> Top 10 attractions to see in Rosia Montana <i class='far fa-star'></i></b>",
@@ -107,7 +107,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "We want to offer an unique and authentic experience on your holiday in Rosia Montana, that's why we offer accommodation in the historic center and we put you in touch with the locals who makes guided trails, traditional food or who rent bikes."
+          "text": "We want to offer an unique and authentic experience on your holiday in Rosia Montana, that's why we offer accommodation in the historic center and we put you in touch with the locals who makes guided trails, traditional food or who rent bikes."
         }
       ]
     },
@@ -116,7 +116,7 @@
       "otherPages": [
         {
           "title": "Accommodation",
-          "description": "<b>Rooms, camping - bookings</b> <br>Private bathrooms and kitchen, green garden with gazebo and hammocks. See more...",
+          "text": "<b>Rooms, camping - bookings</b> <br>Private bathrooms and kitchen, green garden with gazebo and hammocks. See more...",
           "img": "./assets/img/accommodation/shortcut/cazare.jpg",
           "url": {
             "link": "en/accommodation#rooms",
@@ -125,7 +125,7 @@
         },
         {
           "title": "Guided tours",
-          "description": "<b>By foot or bike</b> <br>We stay in touch with locals who make guided tours. We recommend to visit Rosia with a guide",
+          "text": "<b>By foot or bike</b> <br>We stay in touch with locals who make guided tours. We recommend to visit Rosia with a guide",
           "img": "./assets/img/accommodation/shortcut/guides.jpg",
           "url": {
             "link": "en/accommodation#guide",
@@ -134,7 +134,7 @@
         },
         {
           "title": "Bikes",
-          "description": "<b>Rent, repairs, tracks</b> <br>We rent bikes or we can help you fixing your bike if needed and give you gps tracks",
+          "text": "<b>Rent, repairs, tracks</b> <br>We rent bikes or we can help you fixing your bike if needed and give you gps tracks",
           "img": "./assets/img/accommodation/shortcut/bikes.jpg",
           "url": {
             "link": "en/accommodation#facilities",
@@ -147,7 +147,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>How to reach us?</b> - ",
+          "text": "<b>How to reach us?</b> - ",
           "seeAlso": [
             {
               "text": "see here",
@@ -168,7 +168,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "We know our area and what can you do and visit here, that's why we prepared some packages with accommodation, guided trails and other activities."
+          "text": "We know our area and what can you do and visit here, that's why we prepared some packages with accommodation, guided trails and other activities."
         }
       ]
     },
@@ -177,7 +177,7 @@
       "otherPages": [
         {
           "title": "1st of May",
-          "description": "<b>27.04 - 01.05 |</b> Village break in Roșia Montană: guided tours, movie screenings, steam train rides and the traditional 'mici' and beer.",
+          "text": "<b>27.04 - 01.05 |</b> Village break in Roșia Montană: guided tours, movie screenings, steam train rides and the traditional 'mici' and beer.",
           "img": "./assets/img/events/firstMai/presentation/smallBoxImg.jpg",
           "url": {
             "link": "en/events/firstmay",
@@ -186,7 +186,7 @@
         },
         {
           "title": "Daffodil Meadow",
-          "description": "<b>25.05 - 27.05 |</b> Will visit a magic place from our area with amazing landscapes and unforgettable smell - The daffodil Meadow Negrileasa.",
+          "text": "<b>25.05 - 27.05 |</b> Will visit a magic place from our area with amazing landscapes and unforgettable smell - The daffodil Meadow Negrileasa.",
           "img": "./assets/img/events/narcise/presentation/smallBoxImg.jpg",
           "url": {
             "link": "en/events/narcise",
@@ -195,7 +195,7 @@
         },
         {
           "title": "Hay days",
-          "description": "<b>23.08 - 26.08 |</b> Connect to the nature and to the life of local farmers by participating at the hay making and cow hand-milking",
+          "text": "<b>23.08 - 26.08 |</b> Connect to the nature and to the life of local farmers by participating at the hay making and cow hand-milking",
           "img": "./assets/img/events/hayDays/presentation/smallBoxImg.jpg",
           "url": {
             "link": "en/events/haydays",
@@ -208,7 +208,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "<b>What others said about such events?</b> ",
+          "text": "<b>What others said about such events?</b> ",
           "seeAlso": [
             {
               "text": "see reviews",
@@ -229,7 +229,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Articles with images from our area."
+          "text": "Articles with images from our area."
         }
       ]
     },
@@ -238,7 +238,7 @@
       "otherPages": [
         {
           "title": "Winter walks",
-          "description": "Winter at Rosia Montana. Easy walks, greats landscapes",
+          "text": "Winter at Rosia Montana. Easy walks, greats landscapes",
           "img": "./assets/img/photoblog/winterWalks/presentation/smallBoxImg.jpg",
           "url": {
             "link": "en/photoblog/winterWalks",
@@ -247,7 +247,7 @@
         },
         {
           "title": "Cluj - Rosia",
-          "description": "The road from Cluj-Napoca to Rosia, beside the Aries river offers amazing landscapes and places",
+          "text": "The road from Cluj-Napoca to Rosia, beside the Aries river offers amazing landscapes and places",
           "img": "./assets/img/photoblog/clujRosia/presentation/smallBoxImg.jpg",
           "url": {
             "link": "en/photoblog/clujRosia",

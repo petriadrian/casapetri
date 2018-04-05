@@ -1,11 +1,11 @@
 {
   "metaData": {
-    "title": "Photoblog | The Aries valley from Cluj to Rosia",
-    "description": "Beside the destination the road from Cluj to Rosia Montana, beside the Aries river offers amazing landscapes and places.",
+    "title": "The Aries valley from Cluj to Rosia | Photoblog",
+    "text": "Beside the destination the road from Cluj to Rosia Montana, beside the Aries river offers amazing landscapes and places.",
     "displayOnShareImg": "/assets/img/photoblog/clujRosia/article/fullSize/lunca.jpg"
   },
   "headline": {
-    "text": "The Aries valley from Cluj to Rosia",
+    "title": "The Aries valley from Cluj to Rosia",
     "videoSource": "",
     "fullWidthImg": "./assets/img/photoblog/clujRosia/article/fullSize/lunca.jpg"
   },
@@ -20,7 +20,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Almost all the road from Cluj to Rosia Montana is beside the Arieș river and takes about 2h ... if you don't stop to contemplate the landscape.",
+          "text": "Almost all the road from Cluj to Rosia Montana is beside the Aries river and takes about 2h ... if you don't stop to contemplate the landscape.",
           "images": [
             {
               "text": "Cheile Borzești",
@@ -121,7 +121,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "Some special spots are the pedestrian bridges over the Aries river that connects small villages to the rest of the world.",
+          "text": "Some special spots are the pedestrian bridges over the Aries river that connects small villages to the rest of the world.",
           "images": [
             {
               "text": "Aries bridge",
@@ -157,7 +157,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "textContent": "This is the track from Cluj to our house (Casa Petri Rosia Montana).",
+          "text": "This is the track from Cluj to our house (Casa Petri Rosia Montana).",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJiwtskR8MSUcRixQfMxxgvAs&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJbXLD1HtBSUcRECGT2b2-2PI|place_id:ChIJ9wjfPDpISUcRixkDcFVVpRc|place_id:ChIJG6piT7gzSUcRW9dqSyE5Gl0"
           }

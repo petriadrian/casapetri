@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Festival",
     "headline": "",
-    "description": "<b>| August |</b> Theatre, forums, music, film. Attend the most active festival: FânFest",
+    "text": "<b>| August |</b> Theatre, forums, music, film. Attend the most active festival: FânFest",
     "fullWidthImg": "./assets/img/events/festival/presentation/fullWidthImg.jpg",
     "smallBoxImg": "./assets/img/events/festival/presentation/smallBoxImg.jpg"
   },
