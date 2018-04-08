@@ -19,7 +19,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "At the end of the summer - begging of autumn, the farmers are gathering and making the hay stacks which will be used during the winter to feed their animals. Because the youths are moving to cities and some of the peoples were relocated by the Canadian mining company, the number of inhabitants and farmers has decreased. In order to take care of the hay meadows and to preserve the tradition of hay making, it would be really helpful for the farmers who are still living here to have somebody to help. This is a great opportunity for nature lovers and those interested in traditional culture and sustainable living  to learn about the connections between nature and farming and help to preserve valuable mountain hay meadows and their plant, wildlife and traditions. In the evening we will participate at the cow milking and have a rest at the farm were the host will make a dinner as a reward. In one of the days we will go in a guided tour of the village to tell you more about the history and the local habits.",
+          "text": "At the end of the summer - begging of autumn, the farmers are gathering and making the hay stacks which will be used during the winter to fed their animals. Because the youths are moving to cities and some of the people were relocated by the Canadian mining company, the number of inhabitants and farmers has decreased. In order to take care of the hay meadows and to preserve the tradition of hay making, it would be really helpful for the farmers who are still living here to receive some help. This is a great opportunity for nature lovers and those interested in traditional culture and sustainable living  to learn about the connections between nature and farming and help to preserve valuable mountain hay meadows and their plant, wildlife and traditions. In the evening we will participate at the cow milking and have a rest at the farm were the host will make a dinner as a reward. In one of the days we will go in a guided tour of the village to tell you more about the history and the local habits.",
           "images": [
             {
               "text": "The hay is gathered into small hay stacks making it easy to transport.",
@@ -57,7 +57,7 @@
               "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/6.jpg"
             },
             {
-              "text": "Meanwhile the cows are grazing the fields all summer long and in the winter they will be feed with the hay.",
+              "text": "Meanwhile the cows are grazing the fields all summer long and in the winter they will be fed with the hay.",
               "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/7.jpg",
               "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/7.jpg"
             },
@@ -93,7 +93,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<b>On the first day</b> - check in, we get to know each other, seeing the field, sharing the hay making activities. <br><b>Next days</b> - hay making on the field, cow milking and in the evening the farmer will prepare the dinner as a reward. <br><b>Last day</b> - guided trail of the village."
+          "text": "<b>On the first day</b> - check in, get to know each other, see the field, share the hay activities. <br><b>Next days</b> - hay making on the field, cow milking and in the evening the farmer will prepare the dinner as a reward. <br><b>Last day</b> - guided trail of the village."
         }
       ]
     },
@@ -115,12 +115,11 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "In order to have everything set for your arrival, please make an early reservation. The accommodation is in private rooms with bathroom and kitchen access and it cost 10€/person/night."
+          "text": "In order to have everything set for your arrival, please make an early reservation. The accommodation is in private rooms (with bathroom and kitchen) for 10€/person/night."
         }
       ]
     },
     {
-      "id": "eventsBookingForm",
       "type": "form",
       "afterFormText": "<i class='fa fa-info-circle'></i> The booking will be valid only when a <b>confirmation email</b> will be received!",
       "submitButtonText": "Send the booking",
