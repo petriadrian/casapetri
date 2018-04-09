@@ -13,13 +13,15 @@ export class AppComponent implements OnInit {
 
   constructor(private urlService: UrlService, private router: Router) {
     // google analytics
-    this.router.events.subscribe(event => {
-      if (event instanceof NavigationEnd) {
-        // console.log('google analytics sent: ' + event.urlAfterRedirects);
-        (<any>window).ga('set', 'page', event.urlAfterRedirects);
-        (<any>window).ga('send', 'pageview');
-      }
-    });
+    if (urlService.isHostOnBrowser()) {
+      this.router.events.subscribe(event => {
+        if (event instanceof NavigationEnd) {
+          // console.log('google analytics sent: ' + event.urlAfterRedirects);
+          (<any>window).ga('set', 'page', event.urlAfterRedirects);
+          (<any>window).ga('send', 'pageview');
+        }
+      });
+    }
   }
 
   ngOnInit(): void {

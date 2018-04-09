@@ -1,7 +1,6 @@
-import {Inject, Injectable, Optional, PLATFORM_ID} from '@angular/core';
+import {Inject, Injectable, Injector, Optional, PLATFORM_ID} from '@angular/core';
 import {isPlatformServer} from '@angular/common';
 import {Router} from '@angular/router';
-import {REQUEST, RESPONSE} from '@nguniversal/express-engine';
 
 @Injectable()
 export class UrlService {
@@ -10,13 +9,12 @@ export class UrlService {
   public EN_LOCALE = 'en';
 
   public constructor(private router: Router,
-                     @Optional() @Inject(REQUEST) private request: any,
-                     @Optional() @Inject(RESPONSE) private response: any,
+                     private injector: Injector,
                      @Inject(PLATFORM_ID) private platformId: Object) {
   }
 
   public getCurrentLang() {
-    const url = this.isHostOnBrowser() ? location.pathname : this.request.url;
+    const url = this.isHostOnBrowser() ? location.pathname : this.injector.get('request').url;
     if ((url.indexOf('/' + this.RO_LOCALE + '/') > -1) || (url === '/')) {
       return this.RO_LOCALE;
     } else {
@@ -77,12 +75,12 @@ export class UrlService {
     if (this.isHostOnBrowser()) {
       return location.protocol + '//' + location.hostname + (location.port ? ':' + location.port : '');
     } else {
-      return 'http://' + this.request.get('host');
+      return 'http://' + this.injector.get('request').get('host');
     }
   }
 
   public isHostOnBrowser(): boolean {
-    // console.log('isHostOnBrowser??? : ' + !isPlatformServer(this.platformId));
+    console.log('isHostOnBrowser??? : ' + !isPlatformServer(this.platformId));
     return !isPlatformServer(this.platformId);
   }
 
