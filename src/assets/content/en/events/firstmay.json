@@ -196,7 +196,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "The price is <b>100€</b>/person. <b>Includes:</b> accommodation (4 nights), the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
+          "text": "<br>The price is <b>100€</b>/person. <b>Includes:</b> accommodation (4 nights), the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
         }
       ]
     },

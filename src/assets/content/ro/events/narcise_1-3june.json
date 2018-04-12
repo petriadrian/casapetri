@@ -182,7 +182,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "Prețul este <b>250lei</b>/persoană. <b>Include</b> cazarea (2 nopți), traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
+          "text": "<br>Prețul este <b>250lei</b>/persoană. <b>Include</b> cazarea (2 nopți), traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
         }
       ]
     },
