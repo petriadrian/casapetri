@@ -1,6 +1,6 @@
 {
   "metaData": {
-    "title": "1 Mai weekend la Roșia Montană",
+    "title": "1 Mai weekend at Roșia Montană | event",
     "text": "De 1 Mai vă așteptăm la Roșia cu trasee ghidate (centrul istoric și galerii sau exploatări miniere de aur), proiecții de filme și plimbări cu mocănița. Detalii și rezervări aici...",
     "displayOnShareImg": "/assets/img/events/firstMai/presentation/displayOnShareImg.jpg"
   },
@@ -11,19 +11,11 @@
   },
   "sections": [
     {
-      "type": "title",
-      "text": " ",
-      "sectionId": "intro",
-      "addLinkInPageHeadline": false
-    },
-    {
       "type": "article",
       "specificArticles": [
         {
+          "title": "27.04 - 01.05.2018",
           "text": "Rosia Montana is the oldest settlement from Romania (131 AD), it has an unique cultural landscape (proposed for UNESCO) and it's location in the Carpathian mountains Transylvania makes it an perfect place for hiking or cycling. During this event we will show you a little part from all this through guided tours and movie screenings."
-        },
-        {
-          "text": "<i class='far fa-calendar-alt'></i> 27.04 - 01.05.2018"
         }
       ]
     },
@@ -37,7 +29,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<b>Friday 27 April - check in</b> (16:00 - 23:00), arrival at Casa Petri Roșia Montană 331A ",
+          "text": "<b>Friday 27 April - check in</b>, arrival at Casa Petri Roșia Montană 331A ",
           "seeAlso": [
             {
               "text": "(see here how to reach us)",
@@ -117,13 +109,13 @@
           "images": [
             {
               "text": "<b>Detunata</b> - through the basalt block, into the middle of the pine forest is a small glacier.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/1.jpg"
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
             },
             {
               "text": "<b>The view from Detunata</b> - towards the 'Motilor' land.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/2.jpg"
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
             },
             {
               "text": "A resting spot on the trail.",

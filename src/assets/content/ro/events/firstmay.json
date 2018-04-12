@@ -20,10 +20,8 @@
       "type": "article",
       "specificArticles": [
         {
+          "title": "27.04 - 01.05.2018",
           "text": "Roșia Montană este cea mai veche localitate din România (131 d.Hr), deține un peisaj cultural unic (propus pentru <b>UNESCO</b>), iar datorită localizării ei în Munții Apuseni este un loc ideal pentru drumeții montane sau ciclism. Cu acest eveniment o să vă arătăm o mică parte din toate acestea prin trasee ghidate de drumeție și proiecții de filme."
-        },
-        {
-          "text": "<i class='far fa-calendar-alt'></i> 27.04 - 01.05.2018"
         }
       ]
     },
@@ -37,7 +35,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<b>Vineri 27 Aprilie - check in</b> (16:00 - 23:00), sosire la Casa Petri 331A Roșia Montană ",
+          "text": "<b>Vineri - check in</b>, sosire la Casa Petri 331A Roșia Montană ",
           "seeAlso": [
             {
               "text": "(vezi aici cum ajungi)",
@@ -47,7 +45,7 @@
           ]
         },
         {
-          "title": "Sâmbătă 28 Aprilie",
+          "title": "Sâmbătă",
           "text": "<b><i class='far fa-clock'></i> 09:30 ~ 15:00 - Tur ghidat - Centrul istoric și Galeriile Romane de la Muzeul mineritului.</b><br> În centrul istoric se găsesc diverse clădiri de patrimoniu (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Vom vizita și galeriile romane de la Muzeul Mineritului și vom încheia turul într-un loc cu o priveliște deosebită asupra satului.",
           "images": [
             {
@@ -88,8 +86,8 @@
           ]
         },
         {
-          "title": "Duminică 29 Aprilie",
-          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 14:00 - Tur ghidat - Exploatări de aur</b> <br>Pornim pe urmele vechilor filoanelor de aur, vizităm galeriile masivului Cârnic și aflăm povestea și modul de realizare al acestora.",
+          "title": "Duminică",
+          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 14:00 - Tur ghidat - Exploatări de aur</b> <br>Pornim pe urmele vechilor filoane de aur, vizităm galeriile masivului Cârnic și aflăm povestea și modul de realizare al acestora.",
           "images": [
             {
               "text": "Galeriile Cârnic",
@@ -112,18 +110,18 @@
           "text": "<br><br><b><i class='far fa-clock'></i> Seara - Proiecție în grădină</b><br> Vom urmări filme realizate în anii '70 în Roșia Montană ca 'Nunta de piatră' (aflat în top 10 filme românești a tuturor timpurilor) sau 'Flăcări pe Comori'."
         },
         {
-          "title": "Luni 30 Aprilie",
+          "title": "Luni",
           "text": "<b><i class='far fa-clock'></i> 09:30 ~ 16:00 - Tur ghidat - masivul Detunata</b>. <br>Aici se află o arie protejată formată din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră. Aici a trait Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase.",
           "images": [
             {
               "text": "<b>Detunata</b> - Printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/1.jpg"
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
             },
             {
               "text": "<b>Priveliștea de pe Detunata</b> - spre ținutul Moților.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/2.jpg"
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
             },
             {
               "text": "Pe traseu - punct de belvedere.",
@@ -143,7 +141,7 @@
           ]
         },
         {
-          "title": "Marți 1 Mai",
+          "title": "Marți",
           "text": "<b>Plimbare cu Mocănițele din Apuseni</b> <br>Mocănițele erau folosite în trecut pentru a transporta minerii și minereul aurifer de la unzina Gura Roșia, iar acum funcționează în scop turistic. Sunt 2 mocănițe în apropiere: <b>Mocănița Abrud - Câmpeni</b> (~10min de mers cu mașina de noi; turul durează 3 ore) și <b>Mocănița Crișcior - Brad</b> (~45min de mers cu mașina de noi; turul durează 2 ore). <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> - ",
           "seeAlso": [
             {

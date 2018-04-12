@@ -1,21 +1,21 @@
 {
   "metaData": {
-    "title": "Drumeție la Poiana cu Narcise Apuseni (19-21 Mai)",
-    "text": "Pachet cu drumetii: vizita la Poiana cu Narcise unde are loc Sarbatoarea Narciselor, proiectie de film in gradina, traseu ghidat  in Rosia Montana, cazare, transport, mancare (traseele se pot face si cu bicicleta)",
+    "title": "Drumeție la Detunata Apuseni (18-20 Mai) | event",
+    "text": "Sâmbătă pornim spre o arie protejată cu peisaje deosebite - tur ghidat Detunata Apuseni, iar seara ne odihnim la o proiecție de film în grădină. Duminică vom descoperi locurile și legendele aurarilor din Roșia Montană printr-un tur ghidat al centrului istoric și masivul Cârnic",
     "displayOnShareImg": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
   },
   "headline": {
-    "title": "Drumeție la Poiana cu Narcise Apuseni",
+    "title": "Drumeție la Detunata Apuseni",
     "videoSource": "",
-    "fullWidthImg": "./assets/img/events/narcise/presentation/fullWidthImg.jpg"
+    "fullWidthImg": "./assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
   },
   "sections": [
     {
       "type": "article",
       "specificArticles": [
         {
-          "title": "25 - 27 Mai 2018",
-          "text": "Sâmbătă dimineața pornim spre un loc magic din Apuseni - <b>Poiana cu Narcise</b> Negrileasa, iar seara ne odihnim la o <b>proiecție de film</b> în grădină. Duminică vom descoperi locurile și legendele aurarilor din Roșia Montană printr-un <b>tur ghidat al centrului istoric și masivul Cârnic</b>."
+          "title": "11 - 13 Mai 2018",
+          "text": "Sâmbătă pornim spre o arie protejată cu peisaje deosebite - <b>tur ghidat Detunata Apuseni</b>, iar seara ne odihnim la o <b>proiecție de film</b> în grădină. Duminică vom descoperi locurile și legendele aurarilor din Roșia Montană printr-un <b>tur ghidat al centrului istoric și masivul Cârnic</b>."
         }
       ]
     },
@@ -40,47 +40,57 @@
         },
         {
           "title": "Sâmbătă",
-          "text": "<b><i class='far fa-clock'></i> 09:30 - 18:00 - Vizită la Poiana cu Narcise</b> <br>De la Casa Petri o să pornim spre aria protejată Poiana Negrileasa Apuseni unde va avea loc o mică serbare pentru a celebra apariția narciselor. Pe lângă peisajul de poveste, mirosul acestora este cu siguranță o amintire de neuitat. Sunt două variante de a ajunge acolo (in functie de alegerea grupului): cu mașina(~30min) urmat de o drumeție de ~2h sau cu bicicleta pe un drum de țară (~4h) - se pot închiria biciclete de la noi. Vă recomandăm să nu culegeți prea multe narcise deoarece se ofilesc destul de rapid, adevăratul lor farmec este aici în mediul lor natural.",
+          "text": "<b><i class='far fa-clock'></i> 09:30 - 18:00 - Vizită la masivul Detunata</b> <br>De la Casa Petri o să pornim spre aria protejată Detunata Apuseni - un masiv format din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră printre care uneori se formează un mic ghețar. Aici a trait și Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase. Sunt două variante de a ajunge acolo (in functie de alegerea grupului și de vreme): drumeție de ~4h sau cu mașina(~1h) urmat de o drumeție de ~1h sau cu bicicleta (~3h) (dacă nu veniți cu bicicleta personală, se pot închiria de la noi).",
           "images": [
             {
-              "text": "La poiana cu narcise Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/1.jpg"
+              "text": "La masivul de bazalt Detunata Apuseni.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata.jpg"
             },
             {
-              "text": "La poiana cu narcise Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/2.jpg"
+              "text": "Spre Detunata.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/raza.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/raza.jpg"
             },
             {
-              "text": "La poiana cu narcise Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/narcise.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/narcise.jpg"
+              "text": "La masivul de bazalt Detunata Apuseni.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata2.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata2.jpg"
             },
             {
-              "text": "La poiana cu narcise Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/poiana.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/poiana.jpg"
+              "text": "Priveliștea de pe Detunata Apuseni.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
             },
             {
-              "text": "La poiana cu narcise Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/biciclete.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/biciclete.jpg"
+              "text": "Priveliștea de pe Detunata Apuseni.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/frunze.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/frunze.jpg"
             },
             {
-              "text": "La poiana cu narcise Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/narcisele.jpg"
+              "text": "Priveliștea de pe Detunata Apuseni.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/priveliste.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/priveliste.jpg"
             },
             {
-              "text": "Spre poiana cu narcise.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/traseuBicicleta.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/traseuBicicleta.jpg"
+              "text": "Priveliștea de pe Detunata Apuseni.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/priveliste2.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/priveliste2.jpg"
             },
             {
-              "text": "Pe traseu.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/traseuPeisaj.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/traseuPeisaj.jpg"
+              "text": "Spre Detunata cu mic cu mare.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/traseu.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/traseu.jpg"
+            },
+            {
+              "text": "Spre Detunata.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/road.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/road.jpg"
+            },
+            {
+              "text": "Priveliștea de pe Detunata Apuseni.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/varf.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/varf.jpg"
             }
           ]
         },
@@ -174,7 +184,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "Prețul este <b>250lei</b>/persoană. <b>Include</b> cazarea (2 nopți), traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
+          "text": "Prețul este <b>210lei</b>/persoană. <b>Include</b> cazarea (2 nopți), traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
         }
       ]
     },

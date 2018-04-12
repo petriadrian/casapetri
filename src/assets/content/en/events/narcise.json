@@ -11,19 +11,11 @@
   },
   "sections": [
     {
-      "type": "title",
-      "text": " ",
-      "sectionId": "intro",
-      "addLinkInPageHeadline": false
-    },
-    {
       "type": "article",
       "specificArticles": [
         {
+          "title": "25 - 27 May 2018",
           "text": "Saturday morning we will visit a magical place in the Apuseni Mountains - <b>The daffodil meadow</b>, and in the evening we will relax by watching a <b>movie screening</b> in the garden. Sunday we will embark to discover places and gold smith’s legends from Roșia Montană following a <b>guided tour</b> of the historic centre and Cârnic Massif."
-        },
-        {
-          "text": "<i class='far fa-calendar-alt'></i> 25.05 - 27.05.2018"
         }
       ]
     },
@@ -37,7 +29,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<b>Friday 25 May - check in</b> (16:00 - 23:00), arrival at Casa Petri Roșia Montană 331A ",
+          "text": "<b>Friday - check in</b>, arrival at Casa Petri Roșia Montană 331A ",
           "seeAlso": [
             {
               "text": "(see here how to reach us)",
@@ -47,7 +39,7 @@
           ]
         },
         {
-          "title": "Saturday 26 May",
+          "title": "Saturday",
           "text": "<b><i class='far fa-clock'></i> 09:30 - 18:00 - Visit the daffodil meadow</b> <br> From Casa Petri we will go towards a protected area called 'Poiana Negrileasa Apuseni' where a small celebration will take place to honour the daffodil bloom. The amazing landscape and the daffodil smell will be an unique experience for you during this trip. There are two ways to get there (according to the group preference): by car (~30min) followed by a 2 hour walk or by bike on the country road (~4h) – bikes can be rented from casa Petri.",
           "images": [
             {
@@ -108,7 +100,7 @@
           ]
         },
         {
-          "title": "Sunday 27 May",
+          "title": "Sunday",
           "text": "<b><i class='far fa-clock'></i> 09:30 - 14:00 - Guided tour Roșia Montană</b><br> In the historic center of Rosia Montana there are several heritage buildings (schools, churches or the goldsmith houses) built by various civilizations that came here for gold. We will also visit the roman galleries from the Mining Museum and will end the tour in a place with an amazing view upon the village.",
           "images": [
             {
