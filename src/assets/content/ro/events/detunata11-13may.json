@@ -53,11 +53,6 @@
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/raza.jpg"
             },
             {
-              "text": "La masivul de bazalt Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata.jpg"
-            },
-            {
               "text": "Priveliștea de pe Detunata Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
@@ -71,6 +66,11 @@
               "text": "Priveliștea de pe Detunata Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/priveliste.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/priveliste.jpg"
+            },
+            {
+              "text": "La masivul de bazalt Detunata Apuseni.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata.jpg"
             },
             {
               "text": "Priveliștea de pe Detunata Apuseni.",
