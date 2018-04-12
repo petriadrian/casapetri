@@ -11,15 +11,6 @@
   },
   "sections": [
     {
-      "type": "article",
-      "specificArticles": [
-        {
-          "title": "27.04 - 01.05.2018",
-          "text": "Roșia Montană este cea mai veche localitate din România (131 d.Hr), deține un peisaj cultural unic (propus pentru <b>UNESCO</b>), iar datorită localizării ei în Munții Apuseni este un loc ideal pentru drumeții montane sau ciclism. Cu acest eveniment o să vă arătăm o mică parte din toate acestea prin trasee ghidate de drumeție și proiecții de filme."
-        }
-      ]
-    },
-    {
       "type": "title",
       "text": "<i class='far fa-calendar-alt'></i> Program",
       "sectionId": "schedule",
@@ -29,7 +20,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<b>Vineri - check in</b>, sosire la Casa Petri 331A Roșia Montană ",
+          "text": "În weekendul <b>27.04 - 01.05.2018</b> organizăm tururi ghidate și alte activități în zona noastră - Roșia Montană, propusă pentru UNESCO (datorită peisajului cultural unic), iar localizarea ei în Munții Apuseni o face un loc ideal pentru drumeții montane sau ciclism. <br>Ne vedem <b>vineri seara - check in -</b> la Casa Petri Roșia Montană ",
           "seeAlso": [
             {
               "text": "(vezi aici cum ajungi)",
@@ -40,7 +31,7 @@
         },
         {
           "title": "Sâmbătă",
-          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 15:00 - Tur ghidat - Centrul istoric și Galeriile Romane de la Muzeul mineritului.</b><br> În centrul istoric se găsesc diverse clădiri de patrimoniu (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Vom vizita și galeriile romane de la Muzeul Mineritului și vom încheia turul într-un loc cu o priveliște deosebită asupra satului.",
+          "text": "<b><i class='far fa-clock'></i> 09:00 ~ 15:00 - Tur ghidat - Centrul istoric și Galeriile Romane de la Muzeul mineritului.</b><br> În centrul istoric se găsesc diverse clădiri de patrimoniu (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Vom vizita și galeriile romane de la Muzeul Mineritului și vom încheia turul într-un loc cu o priveliște deosebită asupra satului.",
           "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",

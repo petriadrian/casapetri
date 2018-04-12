@@ -233,7 +233,7 @@
         },
         {
           "title": "Detunata",
-          "text": "Masivul este o arie protejată formată din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră. Aici a trait și Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție - traseul cruce roșie - ",
+          "text": "Masivul este o arie protejată formată din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră printre care uneori se formează un mic ghețar. Aici a trait și Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase. <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> 3h drumeție - traseul cruce roșie - ",
           "seeAlso": [
             {
               "text": "vezi harta",
@@ -243,12 +243,12 @@
           ],
           "images": [
             {
-              "text": "<b>Detunata</b> - Printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar.",
+              "text": "Spre masivul de bazalt Detunata.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
             },
             {
-              "text": "<b>Priveliștea de pe Detunata</b> - spre ținutul Moților.",
+              "text": "Priveliștea de pe Detunata - spre ținutul Moților.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
             }

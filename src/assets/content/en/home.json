@@ -185,8 +185,17 @@
           }
         },
         {
-          "title": "Daffodil Meadow",
-          "text": "<b>25 - 27.05 |</b> Will visit a magic place from our area with amazing landscapes and unforgettable smell - The daffodil Meadow Negrileasa.",
+          "title": "To Detunata",
+          "text": "<b>11 - 13.05 |</b> Guided tour to a place with legends and amazing landscapes 'The Detunata massif' and then will visit Rosia Montana",
+          "img": "./assets/img/events/detunata/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "en/events/narcise",
+            "textOnMouseOver": "See more..."
+          }
+        },
+        {
+          "title": "To Daffodils",
+          "text": "<b>25 - 27.05 |</b> Guided tour to a place with an unforgettable smell and landscape 'The daffodil Meadow' and then will visit Rosia Montana",
           "img": "./assets/img/events/narcise/presentation/smallBoxImg.jpg",
           "url": {
             "link": "en/events/narcise",

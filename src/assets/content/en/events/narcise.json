@@ -1,7 +1,7 @@
 {
   "metaData": {
     "title": "Weekend at the daffodil meadow Apuseni",
-    "text": "Pachet cu drumetii: vizita At the daffodil meadow unde are loc Sarbatoarea Narciselor, proiectie de film in gradina, traseu ghidat  in Rosia Montana, cazare, transport, mancare (traseele se pot face si cu bicicleta)",
+    "text": "The daffodil meadow guided tour",
     "displayOnShareImg": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
   },
   "headline": {
@@ -10,15 +10,6 @@
     "fullWidthImg": "./assets/img/events/narcise/presentation/fullWidthImg.jpg"
   },
   "sections": [
-    {
-      "type": "article",
-      "specificArticles": [
-        {
-          "title": "25 - 27 May 2018",
-          "text": "On saturday  will visit a magic place in the Apuseni Mountains - <b>Guided Tour to daffodil meadow</b>, and in the evening we will relax by watching a <b>movie screening</b> in the garden. Sunday we will embark to discover places and gold smith’s legends from Roșia Montană following a <b>guided tour of the historic centre and Cârnic Massif</b>."
-        }
-      ]
-    },
     {
       "type": "title",
       "text": "<i class='far fa-calendar-alt'></i> Schedule",
@@ -29,7 +20,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<b>Friday - check in</b>, arrival at Casa Petri Roșia Montană 331A ",
+          "text": "In the <b>25 - 27 May 2018</b> weekend will organize guided tours and other activities in our amazing area :) <br>We will meet on <b>Friday evening - check in -</b> at Casa Petri Rosia Montana 331A ",
           "seeAlso": [
             {
               "text": "(see here how to reach us)",
@@ -40,7 +31,7 @@
         },
         {
           "title": "Saturday",
-          "text": "<b><i class='far fa-clock'></i> 09:30 - 18:00 - Visit the daffodil meadow</b> <br> From Casa Petri we will go towards a protected area called 'Poiana Negrileasa Apuseni' where a small celebration will take place to honour the daffodil bloom. The amazing landscape and the daffodil smell will be an unique experience for you during this trip. There are two ways to get there (according to the group preference): by car (~30min) followed by a 2 hour walk or by bike on the country road (~4h) – bikes can be rented from casa Petri.",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Guided Tour Daffodil meadow</b> <br> From Casa Petri will go to a magical place from Carpathians mountains - the protected area 'Daffodil Meadow Negrileasa' where a small celebration will take place to honour the daffodil bloom. The amazing landscape and the daffodil smell will make an unique experience from this trip. There are two ways to get there (according to the group preference): by car (~30min) followed by a 2 hour walk or by bike on the country road (~4h) – bikes can be rented from casa Petri.",
           "images": [
             {
               "text": "At the daffodil meadow Apuseni.",
@@ -101,7 +92,7 @@
         },
         {
           "title": "Sunday",
-          "text": "<b><i class='far fa-clock'></i> 09:30 - 14:00 - Guided tour Roșia Montană</b><br> In the historic center of Rosia Montana there are several heritage buildings (schools, churches or the goldsmith houses) built by various civilizations that came here for gold. We will also visit the roman galleries from the Mining Museum and will end the tour in a place with an amazing view upon the village.",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 14:00 - Guided tour Roșia Montană</b><br> Will discover the goldsmiths stories and legends by visiting the patrimony buildings form the historical center of Rosia Montana (schools, churches or the goldsmith houses built by various civilizations that came here since antiquity to find gold. At the end if you will have time and energy will hike on the Cârnic massif where will have an amazing view upon the village.",
           "images": [
             {
               "text": "Guided tour - historic center Rosia Montana.",
@@ -175,7 +166,6 @@
       "specificArticles": [
         {
           "text": "The price is <b>55€</b>/person. <b>Includes:</b> accommodation (2 nights), the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
-
         }
       ]
     },

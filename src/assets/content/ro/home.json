@@ -186,8 +186,17 @@
           }
         },
         {
+          "title": "La Detunata",
+          "text": "<b>11 - 13.05 |</b> Tur ghidat spre un loc cu legende și peisaje deosebite 'Masivul de bazalt Detunata', apoi vizităm Roșia Montană.",
+          "img": "./assets/img/events/detunata/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "ro/events/narcise",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
           "title": "La narcise",
-          "text": "<b>25 - 27.05 |</b> Vizităm un loc magic din Apuseni cu peisaje de poveste și miros de neiuitat - Poiana cu Narcise Negrileasa.",
+          "text": "<b>25 - 27.05 |</b> Tur ghidat spre un loc magic din Apuseni cu peisaje și miros de neiuitat 'Poiana cu Narcise', apoi vizităm Roșia Montană.",
           "img": "./assets/img/events/narcise/presentation/smallBoxImg.jpg",
           "url": {
             "link": "ro/events/narcise",
