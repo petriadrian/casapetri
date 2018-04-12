@@ -11,15 +11,6 @@
   },
   "sections": [
     {
-      "type": "article",
-      "specificArticles": [
-        {
-          "title": "27.04 - 01.05.2018",
-          "text": "Rosia Montana is the oldest settlement from Romania (131 AD), it has an unique cultural landscape (proposed for UNESCO) and it's location in the Carpathian mountains Transylvania makes it an perfect place for hiking or cycling. During this event we will show you a little part from all this through guided tours and movie screenings."
-        }
-      ]
-    },
-    {
       "type": "title",
       "text": "<i class='far fa-calendar-alt'></i> Schedule",
       "sectionId": "schedule",
@@ -29,7 +20,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<b>Friday 27 April - check in</b>, arrival at Casa Petri Roșia Montană 331A ",
+          "text": "In the <b>27.04 - 01.05.2018</b> weekend will organize guided tours and other activities in our amazing area. <br>We will meet on <b>Friday evening - check in -</b> at Casa Petri Rosia Montana ",
           "seeAlso": [
             {
               "text": "(see here how to reach us)",
@@ -39,8 +30,8 @@
           ]
         },
         {
-          "title": "Saturday 28 April",
-          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 15:00 - Guided tour - The historic center and roman galleries.</b><br> In the historic center of Rosia Montana there are several heritage buildings (schools, churches or the goldsmith houses) built by various civilizations that came here for gold. We will also visit the roman galleries from the Mining Museum and will end the tour in a place with an amazing view upon the village.",
+          "title": "Saturday",
+          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 16:00 - Guided tour Rosia Montana.</b><br> Will start with the roman galleries from the Mining Museum and then will discover the goldsmiths stories and legends by visiting the patrimony buildings form the historical center of Rosia Montana (schools, churches or the goldsmith houses built by various civilizations who came here since antiquity to find gold, the reason why the area was proposed as UNESCO site).",
           "images": [
             {
               "text": "Guided tour - historic center.",
