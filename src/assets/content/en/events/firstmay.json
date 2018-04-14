@@ -31,7 +31,7 @@
         },
         {
           "title": "Saturday",
-          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 16:00 - Guided tour Rosia Montana.</b><br> Will start with the roman galleries from the Mining Museum and then will discover the goldsmiths stories and legends by visiting the patrimony buildings form the historical center of Rosia Montana (schools, churches or the goldsmith houses built by various civilizations who came here since antiquity to find gold, the reason why the area was proposed as UNESCO site).",
+          "text": "<b><i class='far fa-clock'></i> 09:00 ~ 16:00 - Guided tour Rosia Montana.</b><br> Will start with the roman galleries from the Mining Museum and then will discover the goldsmiths stories and legends by visiting the patrimony buildings form the historical center of Rosia Montana (schools, churches or the goldsmith houses built by various civilizations who came here since antiquity to find gold, the reason why the area was proposed as UNESCO site).",
           "images": [
             {
               "text": "Guided tour - historic center.",
@@ -71,8 +71,8 @@
           ]
         },
         {
-          "title": "Sunday 29 April",
-          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 14:00 - Guided tour - Gold stories</b> <br> Will follow the old golden veins of the Cârnic massif, visit some galleries and find their stories and how were they made.",
+          "title": "Sunday",
+          "text": "<b><i class='far fa-clock'></i> 09:00 ~ 14:00 - Guided tour - Gold stories</b> <br> Will follow the old golden veins of the Cârnic massif, visit some galleries and find their stories and how were they made.",
           "images": [
             {
               "text": "The Roman Galleries - Cârnic",
@@ -95,8 +95,8 @@
           "text": "<br><br><b><i class='far fa-clock'></i> Evening - Movie screenings</b> <br>We will watch some movies made in the '70s in Rosia Montana like 'Nunta de piatra' (is in top 10 romanian movies of all times) or 'Flăcări pe Comori'."
         },
         {
-          "title": "Monday 30 April",
-          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 16:00 - Guided trail - Detunata massif</b>. <br>This 80m high massive formed from basalt columns is a protected area with huge stone blocks. The area has great legends, the people are welcoming and they also make some amazing cheese pies.",
+          "title": "Monday",
+          "text": "<b><i class='far fa-clock'></i> 09:00 ~ 16:00 - Guided trail - Detunata massif</b>. <br>This 80m high massive formed from basalt columns is a protected area with huge stone blocks. The area has great legends, the people are welcoming and they also make some amazing cheese pies.",
           "images": [
             {
               "text": "<b>Detunata</b> - through the basalt block, into the middle of the pine forest is a small glacier.",
@@ -126,7 +126,7 @@
           ]
         },
         {
-          "title": "Tuesday 1 Mai",
+          "title": "Tuesday",
           "text": "<b>Steam train rides</b> <br>The <b>steamtrain</b> was used in the past to carry miners and gold from Gura Rosie factory and now has been open for tourists. There are 2 steamtrains near us: <b>Abrud - Câmpeni steamtrain</b> (~10min by car from us; the tour last 3h) and <b>Crișcior - Brad steamtrain</b> (~45min by car from us; the tour last 2h). <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> - ",
           "seeAlso": [
             {
@@ -187,7 +187,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<br>The price is <b>100€</b>/person. <b>Includes:</b> accommodation (4 nights), the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
+          "text": "<br>The price is <b>100€</b>/person (50% off for children under 12). <b>Includes:</b> accommodation, the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
         }
       ]
     },

@@ -1,18 +1,18 @@
 {
   "metaData": {
-    "title": "Weekend to Detunata Apuseni (18-20 May) | event",
+    "title": "Drumeție la Detunata Apuseni (8-10 Iunie) | event",
     "text": "Sâmbătă pornim spre o arie protejată cu peisaje deosebite - tur ghidat Detunata Apuseni, iar seara ne odihnim la o proiecție de film în grădină. Duminică vom descoperi locurile și legendele aurarilor din Roșia Montană printr-un tur ghidat al centrului istoric și masivul Cârnic",
     "displayOnShareImg": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
   },
   "headline": {
-    "title": "Weekend to Detunata Apuseni",
+    "title": "Drumeție la Detunata Apuseni",
     "videoSource": "",
     "fullWidthImg": "./assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
   },
   "sections": [
     {
       "type": "title",
-      "text": "<i class='far fa-calendar-alt'></i> Schedule",
+      "text": "<i class='far fa-calendar-alt'></i> Program",
       "sectionId": "schedule",
       "addLinkInPageHeadline": true
     },
@@ -20,127 +20,127 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "In the <b>11 - 13 May 2018</b> weekend will organize guided tours and other activities in our amazing area. <br>We will meet on <b>Friday evening - check in -</b> at Casa Petri Rosia Montana ",
+          "text": "În weekendul <b>8 - 10 Iunie 2018</b> organizăm tururi ghidate și alte activități în zona noastră deosebită. <br>Ne vedem <b>vineri seara - check in -</b> la Casa Petri Roșia Montană ",
           "seeAlso": [
             {
-              "text": "(see here how to reach us)",
-              "textOnMouseOver": "Click here...",
-              "link": "en/accommodation#directions"
+              "text": "(vezi aici cum ajungi)",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#directions"
             }
           ]
         },
         {
-          "title": "Saturday",
-          "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Guided tour to Detunata Massif</b> <br>From Casa Petri will go to the protected area Detunata Apuseni -  this 80m high massive is a protected area with huge basalt columns through which small glaciers appear occasionally. The area has great legends, the people are welcoming and they also make some amazing cheese pies. There are a couple of ways to get there (according to the group preference and weather): hike(~4h) or by car(~1h) followed by a hike(~1h) or by bike(~3h) - if you don't come with your own bike you can rent one from us.",
+          "title": "Sâmbătă",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Tur ghidat masivul Detunata</b> <br>De la Casa Petri o să pornim spre aria protejată Detunata Apuseni - un masiv din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră printre care uneori apare un mic ghețar. Aici a trait și Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase. Sunt mai multe variante de a ajunge acolo (in functie de alegerea grupului și de vreme): drumeție(~4h) sau cu mașina(~1h) urmat de o drumeție(~1h) sau cu bicicleta(~3h) - dacă nu veniți cu bicicleta personală, se pot închiria de la noi.",
           "images": [
             {
-              "text": "Detunata Apuseni",
+              "text": "La masivul de bazalt Detunata Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata2.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata2.jpg"
             },
             {
-              "text": "Towards Detunata",
+              "text": "Spre Detunata.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/raza.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/raza.jpg"
             },
             {
-              "text": "The view from Detunata Apuseni.",
+              "text": "Priveliștea de pe Detunata Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
             },
             {
-              "text": "The view from Detunata Apuseni.",
+              "text": "Priveliștea de pe Detunata Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/frunze.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/frunze.jpg"
             },
             {
-              "text": "The view from Detunata Apuseni.",
+              "text": "Priveliștea de pe Detunata Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/priveliste.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/priveliste.jpg"
             },
             {
-              "text": "Detunata Apuseni",
+              "text": "La masivul de bazalt Detunata Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata.jpg"
             },
             {
-              "text": "The view from Detunata Apuseni.",
+              "text": "Priveliștea de pe Detunata Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/priveliste2.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/priveliste2.jpg"
             },
             {
-              "text": "Towards Detunata",
+              "text": "Spre Detunata cu mic cu mare.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/traseu.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/traseu.jpg"
             },
             {
-              "text": "Towards Detunata",
+              "text": "Spre Detunata.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/road.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/road.jpg"
             },
             {
-              "text": "The view from Detunata Apuseni.",
+              "text": "Priveliștea de pe Detunata Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/varf.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/varf.jpg"
             }
           ]
         },
         {
-          "text": "<br><br><b><i class='far fa-clock'></i> Evening - Movie in the garden 'The story of Roșia Montană'</b><br> Images, movies and stories about the past of the village and the today life (if will be cold will hold the screening inside).",
+          "text": "<br><br><b><i class='far fa-clock'></i> Seara - Proiecție în grădină 'De ce e Roșia și Montană?'</b><br> Imagini, filme și povești despre trecutul și evoluția satului, modul de extracție al aurului din trecut până în prezent și viața de azi (dacă va fi frig vom ține proiecția în interior).",
           "images": [
             {
-              "text": "Movie screening in the garden",
+              "text": "Proiecții în grădină",
               "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
               "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
             },
             {
-              "text": "Images from the movie screening",
+              "text": "Imagini din proiecție",
               "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
               "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
             }
           ]
         },
         {
-          "title": "Sunday",
-          "text": "<b><i class='far fa-clock'></i> 09:00 - 14:00 - Guided tour Roșia Montană</b><br> Will discover the goldsmiths stories and legends by visiting the patrimony buildings form the historical center of Rosia Montana (schools, churches or the goldsmith houses built by various civilizations who came here since antiquity to find gold, the reason why the area was proposed as UNESCO site). At the end if you will have time and energy will hike on the Cârnic massif where will have an amazing view upon the village.",
+          "title": "Duminică",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 14:00 - Tur ghidat Roșia Montană</b> <br>Vom descoperi poveștile și legendele aurarilor printr-un tur al clădirilor de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau casele aurarilor construite de diverse popoare venite aici încă din antichitate pentru a căuta aur, motiv pentru care zona a fost propusă ca sit UNESCO). La final, dacă mai aveți timp și energie vom urca pe masivul Cârnic de unde vă promitem o priveliște deosebită asupra satului.",
           "images": [
             {
-              "text": "Guided tour - historic center Rosia Montana.",
+              "text": "Tur ghidat - centrul istoric Roșia Montană.",
               "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
               "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
             },
             {
-              "text": "Guided tour - historic center Rosia Montana.",
+              "text": "Centrul istoric.",
               "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
             },
             {
-              "text": "Guided tour - historic center Rosia Montana.",
+              "text": "Fostele case ale aurarilor - cladiri de patrimoniu din centrul istoric.",
               "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/3.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/3.jpg"
             },
             {
-              "text": "Guided tour - historic center Rosia Montana.",
+              "text": "Ornamente ale clădirilor de patrimoniu din centrul istoric Roșia Montană.",
               "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
             },
             {
-              "text": "Guided tour - Carnic - Rosia Montana.",
+              "text": "Lângă centrul istoric sunt câteva tăuri. Vom afla acolo de ce au fost construite în apropierea satului și rolul lor în producția aurului.",
               "thumbnailUrl": "./assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
             },
             {
-              "text": "Guided tour - historic center Rosia Montana.",
+              "text": "Popas cu priveliște.",
               "thumbnailUrl": "./assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
             },
             {
-              "text": "Guided tour - Carnic - Rosia Montana.",
+              "text": "Pe traseu - punct de belvedere Cârnic.",
               "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
               "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             },
             {
-              "text": "Guided tour - Carnic - Rosia Montana.",
+              "text": "Piatra Corbului Cârnic - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
               "thumbnailUrl": "./assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
             }
@@ -167,7 +167,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='far fa-calendar-check'></i> Price and Bookings",
+      "text": "<i class='far fa-calendar-check'></i> Prețuri și Rezervări",
       "sectionId": "bookings",
       "addLinkInPageHeadline": true
     },
@@ -175,7 +175,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<br>The price is <b>50€</b>/person. <b>Includes:</b> accommodation (2 nights), the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
+          "text": "<br>Prețul este <b>220lei</b>/persoană (50% reducere pentru copii sub 12 ani) <b>Include</b> cazarea, traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
         }
       ]
     },

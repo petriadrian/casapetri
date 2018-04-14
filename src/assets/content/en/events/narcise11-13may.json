@@ -1,18 +1,18 @@
 {
   "metaData": {
-    "title": "Drumeție la Poiana cu Narcise Apuseni (25-27 Mai)",
-    "text": "Pachet cu drumetii: vizita la Poiana cu Narcise unde are loc Sarbatoarea Narciselor, proiectie de film in gradina, traseu ghidat  in Rosia Montana, cazare, transport, mancare (traseele se pot face si cu bicicleta)",
+    "title": "Weekend at the daffodil meadow Apuseni",
+    "text": "Pachet cu drumetii: vizita At the daffodil meadow unde are loc Sarbatoarea Narciselor, proiectie de film in gradina, traseu ghidat  in Rosia Montana, cazare, transport, mancare (traseele se pot face si cu bicicleta)",
     "displayOnShareImg": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
   },
   "headline": {
-    "title": "Drumeție la Poiana cu Narcise Apuseni",
+    "title": "Weekend at the daffodil meadow Apuseni",
     "videoSource": "",
     "fullWidthImg": "./assets/img/events/narcise/presentation/fullWidthImg.jpg"
   },
   "sections": [
     {
       "type": "title",
-      "text": "<i class='far fa-calendar-alt'></i> Program",
+      "text": "<i class='far fa-calendar-alt'></i> Schedule",
       "sectionId": "schedule",
       "addLinkInPageHeadline": true
     },
@@ -20,140 +20,119 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "În weekendul <b>25 - 28 Mai 2018</b> organizăm tururi ghidate și alte activități în zona noastră deosebită. <br>Ne vedem <b>vineri seara - check in -</b> la Casa Petri Roșia Montană ",
+          "text": "In the <b>11 - 13 May 2018</b> weekend will organize guided tours and other activities in our amazing area. <br>We will meet on <b>Friday evening - check in -</b> at Casa Petri Rosia Montana ",
           "seeAlso": [
             {
-              "text": "(vezi aici cum ajungi)",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#directions"
+              "text": "(see here how to reach us)",
+              "textOnMouseOver": "Click here...",
+              "link": "en/accommodation#directions"
             }
           ]
         },
         {
-          "title": "Sâmbătă",
-          "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Vizită la Poiana cu Narcise</b> <br>De la Casa Petri o să pornim spre aria protejată Negrileasa Apuseni pentru descoperi poiana cu narcise. Pe lângă peisajul de poveste, mirosul acestora este cu siguranță o amintire de neuitat. Sunt două variante de a ajunge acolo (in functie de alegerea grupului): cu mașina(~30min) urmat de o drumeție de ~2h sau cu bicicleta pe un drum de țară (~4h) - se pot închiria biciclete de la noi. Vă recomandăm să nu culegeți prea multe narcise deoarece se ofilesc destul de rapid, adevăratul lor farmec este aici în mediul lor natural.",
+          "title": "Saturday",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Visit the daffodil meadow</b> <br> From Casa Petri we will go towards a protected area called 'Poiana Negrileasa Apuseni' to discover the daffodil meadow. The amazing landscape and the daffodil smell will be an unique experience for you during this trip. There are two ways to get there (according to the group preference): by car (~30min) followed by a 2 hour walk or by bike on the country road (~4h) – bikes can be rented from casa Petri.",
           "images": [
             {
-              "text": "La poiana cu narcise Apuseni.",
+              "text": "At the daffodil meadow Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/1.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/1.jpg"
             },
             {
-              "text": "La poiana cu narcise Apuseni.",
+              "text": "At the daffodil meadow Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/2.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/2.jpg"
             },
             {
-              "text": "La poiana cu narcise Apuseni.",
+              "text": "At the daffodil meadow Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/narcise.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/narcise.jpg"
             },
             {
-              "text": "La poiana cu narcise Apuseni.",
+              "text": "At the daffodil meadow Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/poiana.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/poiana.jpg"
             },
             {
-              "text": "La poiana cu narcise Apuseni.",
+              "text": "At the daffodil meadow Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/biciclete.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/biciclete.jpg"
             },
             {
-              "text": "La poiana cu narcise Apuseni.",
+              "text": "At the daffodil meadow Apuseni.",
               "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/narcisele.jpg"
             },
             {
-              "text": "Spre poiana cu narcise.",
+              "text": "Towards the daffodil meadow.",
               "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/traseuBicicleta.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/traseuBicicleta.jpg"
             },
             {
-              "text": "Pe traseu.",
+              "text": "Towards the daffodil meadow.",
               "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/traseuPeisaj.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/traseuPeisaj.jpg"
             }
           ]
         },
         {
-          "text": "<br><br><b><i class='far fa-clock'></i> Seara - Proiecție în grădină 'De ce e Roșia și Montană?'</b><br> Imagini, filme și povești despre trecutul și evoluția satului, modul de extracție al aurului din trecut până în prezent și viața de azi (dacă va fi frig vom ține proiecția în interior).",
+          "text": "<br><br><b><i class='far fa-clock'></i> Evening - Movie in the garden 'The story of Roșia Montană'</b><br> Images, movies and stories about the past of the village and the today life (if will be cold will hold the screening inside).",
           "images": [
             {
-              "text": "Proiecții în grădină",
+              "text": "Movie screening in the garden",
               "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
               "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
             },
             {
-              "text": "Imagini din proiecție",
+              "text": "Images from the movie screening",
               "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
               "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
             }
           ]
         },
         {
-          "title": "Duminică",
-          "text": "<b><i class='far fa-clock'></i> 09:00 - 16:00 - Tur ghidat Roșia Montană</b> <br>Vom descoperi poveștile și legendele aurarilor printr-un tur al clădirilor de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau casele aurarilor construite de diverse popoare venite aici încă din antichitate pentru a căuta aur, motiv pentru care zona a fost propusă ca sit UNESCO). La final, dacă mai aveți timp și energie vom urca pe masivul Cârnic de unde vă promitem o priveliște deosebită asupra satului.",
+          "title": "Sunday",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 14:00 - Guided tour Roșia Montană</b><br> In the historic center of Rosia Montana there are several patrimony buildings (schools, churches or the goldsmith houses) built by various civilizations that came here for gold. We will also visit the roman galleries from the Mining Museum and will end the tour in a place with an amazing view upon the village.",
           "images": [
             {
-              "text": "Tur ghidat - centrul istoric Roșia Montană.",
+              "text": "Guided tour - historic center Rosia Montana.",
               "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
               "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
             },
             {
-              "text": "Centrul istoric.",
+              "text": "Guided tour - historic center Rosia Montana.",
               "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
             },
             {
-              "text": "Fostele case ale aurarilor - cladiri de patrimoniu din centrul istoric.",
+              "text": "Guided tour - historic center Rosia Montana.",
               "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/3.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/3.jpg"
             },
             {
-              "text": "Ornamente ale clădirilor de patrimoniu din centrul istoric Roșia Montană.",
+              "text": "Guided tour - historic center Rosia Montana.",
               "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
             },
             {
-              "text": "Lângă centrul istoric sunt câteva tăuri. Vom afla acolo de ce au fost construite în apropierea satului și rolul lor în producția aurului.",
+              "text": "Guided tour - Carnic - Rosia Montana.",
               "thumbnailUrl": "./assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
             },
             {
-              "text": "Popas cu priveliște.",
+              "text": "Guided tour - historic center Rosia Montana.",
               "thumbnailUrl": "./assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
             },
             {
-              "text": "Pe traseu - punct de belvedere Cârnic.",
+              "text": "Guided tour - Carnic - Rosia Montana.",
               "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
               "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             },
             {
-              "text": "Piatra Corbului Cârnic - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
+              "text": "Guided tour - Carnic - Rosia Montana.",
               "thumbnailUrl": "./assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
               "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
-            }
-          ]
-        },
-        {
-          "title": "Luni",
-          "text": "<b><i class='far fa-clock'></i> 09:00 ~ 16:00 - Tur ghidat - masivul Detunata</b>. <br>Aici se află o arie protejată formată din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră. Aici a trait Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase.",
-          "images": [
-            {
-              "text": "<b>Detunata</b> - Printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
-            },
-            {
-              "text": "<b>Priveliștea de pe Detunata</b> - spre ținutul Moților.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
-            },
-            {
-              "text": "Pe traseu - punct de belvedere.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             }
           ]
         }
@@ -178,7 +157,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='far fa-calendar-check'></i> Prețuri și Rezervări",
+      "text": "<i class='far fa-calendar-check'></i> Price and Bookings",
       "sectionId": "bookings",
       "addLinkInPageHeadline": true
     },
@@ -186,7 +165,8 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<br>Prețul este 320lei/persoană (sau 250lei/persoană pentru cei care vor să stea doar de vineri până duminică). Pentru copii sub 12 ani oferim 50% reducere. <b>Include</b> cazarea, traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
+          "text": "<br>The price is <b>55€</b>/person (50% off for children under 12). <b>Includes:</b> accommodation, the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
+
         }
       ]
     },

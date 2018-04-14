@@ -1,6 +1,6 @@
 {
   "metaData": {
-    "title": "Drumeție la Poiana cu Narcise Apuseni (19-21 Mai)",
+    "title": "Drumeție la Poiana cu Narcise Apuseni | 18-20 Mai",
     "text": "Pachet cu drumetii: vizita la Poiana cu Narcise unde are loc Sarbatoarea Narciselor, proiectie de film in gradina, traseu ghidat  in Rosia Montana, cazare, transport, mancare (traseele se pot face si cu bicicleta)",
     "displayOnShareImg": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
   },
@@ -12,23 +12,6 @@
   "sections": [
     {
       "type": "title",
-      "text": " ",
-      "sectionId": "intro",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "article",
-      "specificArticles": [
-        {
-          "text": "Sâmbătă dimineața pornim spre un loc magic din Apuseni - <b>Poiana cu Narcise</b> Negrileasa, iar seara ne odihnim la o <b>proiecție de film</b> în grădină. Duminică vom descoperi locurile și legendele aurarilor din Roșia Montană printr-un <b>tur ghidat al centrului istoric și masivul Cârnic</b>."
-        },
-        {
-          "text": "<i class='far fa-calendar-alt'></i> 1 - 3 Iunie 2018"
-        }
-      ]
-    },
-    {
-      "type": "title",
       "text": "<i class='far fa-calendar-alt'></i> Program",
       "sectionId": "schedule",
       "addLinkInPageHeadline": true
@@ -37,7 +20,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<b>Vineri - check in</b> - sosire la Casa Petri 331A Roșia Montană ",
+          "text": "În weekendul <b>18 - 20 Mai 2018</b> organizăm tururi ghidate și alte activități în zona noastră deosebită. <br>Ne vedem <b>vineri seara - check in -</b> la Casa Petri Roșia Montană ",
           "seeAlso": [
             {
               "text": "(vezi aici cum ajungi)",
@@ -48,7 +31,7 @@
         },
         {
           "title": "Sâmbătă",
-          "text": "<b><i class='far fa-clock'></i> 09:30 - 18:00 - Vizită la Poiana cu Narcise</b> <br>De la Casa Petri o să pornim spre aria protejată Poiana Negrileasa Apuseni unde va avea loc o mică serbare pentru a celebra apariția narciselor. Pe lângă peisajul de poveste, mirosul acestora este cu siguranță o amintire de neuitat. Sunt două variante de a ajunge acolo (in functie de alegerea grupului): cu mașina(~30min) urmat de o drumeție de ~2h sau cu bicicleta pe un drum de țară (~4h) - se pot închiria biciclete de la noi. Vă recomandăm să nu culegeți prea multe narcise deoarece se ofilesc destul de rapid, adevăratul lor farmec este aici în mediul lor natural.",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Tur ghidat Poiana cu Narcise</b> <br>De la Casa Petri o să pornim spre  un loc magic din Apuseni - aria protejată Poiana Negrileasa unde va avea loc o serbare pentru a celebra apariția narciselor. Pe lângă peisajul de poveste, mirosul acestora este cu siguranță o amintire de neuitat. Sunt mai multe variante de a ajunge acolo (in functie de alegerea grupului și vreme): cu mașina(~30min) urmat de o drumeție de ~2h sau cu bicicleta pe un drum de țară (~4h) - se pot închiria biciclete de la noi. Vă recomandăm să nu culegeți prea multe narcise deoarece se ofilesc destul de rapid, adevăratul lor farmec este aici în mediul lor natural.",
           "images": [
             {
               "text": "La poiana cu narcise Apuseni.",
@@ -109,7 +92,7 @@
         },
         {
           "title": "Duminică",
-          "text": "<b><i class='far fa-clock'></i> 09:30 - 14:00 - tur ghidat Roșia Montană</b> <br>O să vizităm împreună cu un ghid diverse clădiri de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Vom povesti despre toate acestea, iar apoi dacă mai aveți timp și energie vom urca pe masivul Cârnic de unde vă promitem o priveliște deosebită asupra satului.",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 14:00 - Tur ghidat Roșia Montană</b> <br>Vom descoperi poveștile și legendele aurarilor printr-un tur al clădirilor de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau casele aurarilor construite de diverse popoare venite aici încă din antichitate pentru a căuta aur, motiv pentru care zona a fost propusă ca sit UNESCO). La final, dacă mai aveți timp și energie vom urca pe masivul Cârnic de unde vă promitem o priveliște deosebită asupra satului.",
           "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
@@ -182,7 +165,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<br>Prețul este <b>250lei</b>/persoană. <b>Include</b> cazarea (2 nopți), traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
+          "text": "<br>Prețul este <b>250lei</b>/persoană (50% reducere pentru copii sub 12 ani). <b>Include</b> cazarea, traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
         }
       ]
     },

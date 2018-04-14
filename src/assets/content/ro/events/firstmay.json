@@ -72,7 +72,7 @@
         },
         {
           "title": "Duminică",
-          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 14:00 - Tur ghidat - Poveștile aurului</b> <br>Pornim pe urmele vechilor filoane de aur, vizităm galeriile masivului Cârnic și aflăm povestea și modul de realizare al acestora.",
+          "text": "<b><i class='far fa-clock'></i> 09:00 ~ 14:00 - Tur ghidat - Poveștile aurului</b> <br>Pornim pe urmele vechilor filoane de aur, vizităm galeriile masivului Cârnic și aflăm povestea și modul de realizare al acestora.",
           "images": [
             {
               "text": "Galeriile Cârnic",
@@ -96,7 +96,7 @@
         },
         {
           "title": "Luni",
-          "text": "<b><i class='far fa-clock'></i> 09:30 ~ 16:00 - Tur ghidat - masivul Detunata</b>. <br>Aici se află o arie protejată formată din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră. Aici a trait Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase.",
+          "text": "<b><i class='far fa-clock'></i> 09:00 ~ 16:00 - Tur ghidat - masivul Detunata</b>. <br>Aici se află o arie protejată formată din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră. Aici a trait Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase.",
           "images": [
             {
               "text": "<b>Detunata</b> - Printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar.",
@@ -187,7 +187,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<br>Prețul este <b>450lei</b>/persoană. <b>Include</b> cazarea (4 nopți), traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
+          "text": "<br>Prețul este <b>450lei</b>/persoană (50% reducere pentru copii sub 12 ani). <b>Include</b> cazarea, traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
         }
       ]
     },

@@ -1,0 +1,165 @@
+{
+  "metaData": {
+    "title": "Evenimente Roșia Montană",
+    "text": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și alte activități.",
+    "displayOnShareImg": "/assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
+  },
+  "headline": {
+    "title": "Evenimente Roșia Montană",
+    "videoSource": "",
+    "fullWidthImg": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='far fa-calendar-alt'></i> Evenimente",
+      "sectionId": "schedule",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "text": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și alte activități."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "otherPages": [
+        {
+          "title": "1 Mai",
+          "text": "<b>27.04 - 01.05 |</b> În mini vacanta de 1 Mai te asteptam la Roșia Montană cu tururi  ghidate, proiecții, plimbări cu mocănița și ... mici și bere.",
+          "img": "./assets/img/events/firstMai/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "ro/events/firstmay",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "La narcise",
+          "text": "<b>11 - 13.05 |</b> Tur ghidat spre un loc magic din Apuseni cu peisaje și miros de neiuitat 'Poiana cu Narcise', apoi vizităm Roșia Montană.",
+          "img": "./assets/img/events/narcise/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "ro/events/narcise11-13may",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "La narcise",
+          "text": "<b>18 - 20.05 |</b> Tur ghidat spre un loc magic din Apuseni cu peisaje și miros de neiuitat 'Poiana cu Narcise', apoi vizităm Roșia Montană.",
+          "img": "./assets/img/events/narcise/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "ro/events/narcise18-20may",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "La narcise",
+          "text": "<b>25 - 28.05 |</b> Tur ghidat spre un loc magic din Apuseni cu peisaje și miros de neiuitat 'Poiana cu Narcise', apoi vizităm Roșia Montană.",
+          "img": "./assets/img/events/narcise/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "ro/events/narcise",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "La Detunata",
+          "text": "<b>8 - 10.06 |</b> Tur ghidat spre un loc cu legende și peisaje deosebite 'Masivul de bazalt Detunata', apoi vizităm Roșia Montană.",
+          "img": "./assets/img/events/detunata/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "ro/events/detunata8-10june",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "La fân",
+          "text": "<b>23 - 26.08 |</b> Conectează-te la natură și viața moților luând parte la strânsul fânului pentru iernat, ridicarea căpițelor și mulsul vacilor.",
+          "img": "./assets/img/events/hayDays/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "ro/events/haydays",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "text": "<b>Ce zic cei care au participat la evenimente?</b> - ",
+          "seeAlso": [
+            {
+              "text": "vezi aici",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/review"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fas fa-child'></i> Teambuilding",
+      "sectionId": "schedule",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "id": "photoBlogPlanAVisit",
+      "type": "form",
+      "beforeFormText": "Dacă doriți o excursie sau un teambuilding activ la Roșia Montană ce include trasee ghidate de drumeție sau cu bicicleta, cazare, masa la localnici cu pălinca inclusă, proiecții de filme, seri în grădină cu muzică de la vinil... scrie-ne: ",
+      "afterFormText": "",
+      "submitButtonText": "Contactați-mă pentru teambuilding",
+      "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
+      "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
+          "placeholder": "Telefon",
+          "required": true
+        },
+        {
+          "type": "textarea",
+          "name": "teambuilding",
+          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
+          "placeholder": "Scrie-ne aici o mică descriere (câte persoane, în ce perioadă, cam ce ați vrea să faceți? ...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "text": "",
+          "images": [
+            {
+              "text": "Teambuilding - tur ghidat de drumeție.",
+              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            },
+            {
+              "text": "Teambuilding - tur ghidat de bicicletă.",
+              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    }
+  ]
+}

@@ -20,7 +20,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "In the <b>25 - 27 May 2018</b> weekend will organize guided tours and other activities in our amazing area. <br>We will meet on <b>Friday evening - check in -</b> at Casa Petri Rosia Montana ",
+          "text": "In the <b>25 - 28 May 2018</b> weekend will organize guided tours and other activities in our amazing area. <br>We will meet on <b>Friday evening - check in -</b> at Casa Petri Rosia Montana ",
           "seeAlso": [
             {
               "text": "(see here how to reach us)",
@@ -31,7 +31,7 @@
         },
         {
           "title": "Saturday",
-          "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Guided Tour Daffodil meadow</b> <br> From Casa Petri will go to a magic place from Carpathians mountains - the protected area 'Daffodil Meadow Negrileasa' where a small celebration will take place to honour the daffodil bloom. The amazing landscape and the daffodil smell will make an unique experience from this trip. There are a couple of ways to get there (according to the group preference and weather): by car (~30min) followed by a 2 hour walk or by bike on the country road (~4h) – if you don't come with your own bike you can rent one from us.",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Guided Tour Daffodil meadow</b> <br> From Casa Petri will go to a magic place from Carpathians mountains - the protected area 'Negrileasa Apuseni' to discover the daffodil meadow. The amazing landscape and the daffodil smell will make an unique experience from this trip. There are a couple of ways to get there (according to the group preference and weather): by car (~30min) followed by a 2 hour walk or by bike on the country road (~4h) – if you don't come with your own bike you can rent one from us.",
           "images": [
             {
               "text": "At the daffodil meadow Apuseni.",
@@ -135,6 +135,27 @@
               "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
             }
           ]
+        },
+        {
+          "title": "Monday",
+          "text": "<b><i class='far fa-clock'></i> 09:00 - 16:00 - Guided trail - Detunata massif</b>. <br>This 80m high massive formed from basalt columns is a protected area with huge stone blocks. The area has great legends, the people are welcoming and they also make some amazing cheese pies.",
+          "images": [
+            {
+              "text": "<b>Detunata</b> - through the basalt block, into the middle of the pine forest is a small glacier.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
+            },
+            {
+              "text": "<b>The view from Detunata</b> - towards the 'Motilor' land.",
+              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
+              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
+            },
+            {
+              "text": "A resting spot on the trail.",
+              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            }
+          ]
         }
       ]
     },
@@ -165,7 +186,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<br>The price is <b>55€</b>/person. <b>Includes:</b> accommodation (2 nights), the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
+          "text": "<br>The price is 70€/person (or 55€</b>/person for those who want to stay only from Friday until Sunday). We offer a 50% discount for children under 12. <b>Includes:</b> accommodation, the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
         }
       ]
     },

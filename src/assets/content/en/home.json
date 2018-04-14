@@ -185,29 +185,29 @@
           }
         },
         {
-          "title": "To Detunata",
-          "text": "<b>11 - 13.05 |</b> Guided tour to a place with legends and amazing landscapes 'The Detunata massif' and then will visit Rosia Montana",
-          "img": "./assets/img/events/detunata/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "en/events/detunata11-13may",
-            "textOnMouseOver": "See more..."
-          }
-        },
-        {
           "title": "To Daffodils",
-          "text": "<b>25 - 27.05 |</b> Guided tour to a place with an unforgettable smell and landscape 'The daffodil Meadow' and then will visit Rosia Montana",
+          "text": "<b>18 - 20.05 |</b> Guided tour to a place with an unforgettable smell and landscape 'The daffodil Meadow' and then will visit Rosia Montana",
           "img": "./assets/img/events/narcise/presentation/smallBoxImg.jpg",
           "url": {
-            "link": "en/events/narcise",
+            "link": "en/events/narcise18-20may",
             "textOnMouseOver": "See more..."
           }
         },
         {
-          "title": "Hay days",
-          "text": "<b>23 - 26.08 |</b> Connect to the nature and to the life of local farmers by participating at the hay making and cow hand-milking",
-          "img": "./assets/img/events/hayDays/presentation/smallBoxImg.jpg",
+          "title": "To Detunata",
+          "text": "<b>8 - 10.06 |</b> Guided tour to a place with legends and amazing landscapes 'The Detunata massif' and then will visit Rosia Montana",
+          "img": "./assets/img/events/detunata/presentation/smallBoxImg.jpg",
           "url": {
-            "link": "en/events/haydays",
+            "link": "en/events/detunata8-10june",
+            "textOnMouseOver": "See more..."
+          }
+        },
+        {
+          "title": "More events",
+          "text": "See here more events from our area.",
+          "img": "./assets/img/common/smallBoxImgMore.jpg",
+          "url": {
+            "link": "en/events/all",
             "textOnMouseOver": "See more..."
           }
         }
