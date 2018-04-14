@@ -107,7 +107,7 @@
     {
       "id": "photoBlogPlanAVisit",
       "type": "form",
-      "beforeFormText": "Dacă doriți o excursie sau un teambuilding activ la Roșia Montană ce include trasee ghidate de drumeție sau cu bicicleta, cazare, masa la localnici cu pălinca inclusă, proiecții de filme, seri în grădină cu muzică de la vinil... scrie-ne: ",
+      "beforeFormText": "Dacă doriți să vă organizăm o excursie sau un teambuilding activ la Roșia Montană ce include trasee ghidate de drumeție sau cu bicicleta, cazare, masa la localnici cu pălinca inclusă, proiecții de filme, seri în grădină cu muzică de la vinil... scrie-ne: ",
       "afterFormText": "",
       "submitButtonText": "Contactați-mă pentru teambuilding",
       "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
