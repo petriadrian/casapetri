@@ -186,7 +186,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<br>Prețul este 320lei/persoană (sau 250lei/persoană pentru cei care vor să stea doar de vineri până duminică). Pentru copii sub 12 ani oferim 50% reducere. <b>Include</b> cazarea, traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
+          "text": "<br>Prețul este 320lei/persoană (sau 250lei/persoană pentru cei care vor să stea doar de vineri până duminică). <b>Include</b> cazarea, traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
         }
       ]
     },
@@ -203,6 +203,26 @@
           }
         ]
       }
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "text": "Vom mai organiza acest eveniment și în perioadele: ",
+          "seeAlso": [
+            {
+              "text": "11 - 13 Mai ",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/events/narcise11-13may"
+            },
+            {
+              "text": "| 18 - 20 Mai ",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/events/narcise18-20may"
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "socialButtons"

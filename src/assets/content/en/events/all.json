@@ -105,9 +105,8 @@
       "addLinkInPageHeadline": true
     },
     {
-      "id": "photoBlogPlanAVisit",
       "type": "form",
-      "beforeFormText": "If you want to organize a trip or a Teambuilding in Rosia Montana that includes guided hiking or biking tours, accommodation, food at locals, movie screenings, evenings in the garden... write us: ",
+      "beforeFormText": "We can organize a trip or a Teambuilding in Rosia Montana that includes guided hiking or biking tours, accommodation, food at locals, movie screenings, evenings in the garden. Write bellow : ",
       "afterFormText": "",
       "submitButtonText": "Contact me for a teambuilding",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
