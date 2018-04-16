@@ -1,0 +1,150 @@
+{
+  "metaData": {
+    "title": "Alte cazări lângă Casa Petri",
+    "text": "Alte cazări lângă Casa Petri",
+    "displayOnShareImg": "/assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
+  },
+  "headline": {
+    "title": "Alte cazări lângă Casa Petri",
+    "videoSource": "",
+    "fullWidthImg": "./assets/img/accommodation/article/neighbours/common/background.jpg"
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fas fa-home'></i> Cazări",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "text": "Mai jos sunt câteva cazări din apropierea noastră (Casa Petri)."
+        },
+        {
+          "title": "Alina",
+          "text": "Alina se află chiar lângă noi. Oferă 2 camere (una de 2 persoane și alta de 3 persoane) cu living și o baie la 2 camere.",
+          "images": [
+            {
+              "text": "Cameră",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/alina/thumbnail/camera1.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/alina/fullSize/camera1.jpg"
+            },
+            {
+              "text": "Cameră",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/alina/thumbnail/camera2.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/alina/fullSize/camera2.jpg"
+            },
+            {
+              "text": "Living",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/alina/thumbnail/living.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/alina/fullSize/living.jpg"
+            },
+            {
+              "text": "Baie",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/alina/thumbnail/baie.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/alina/fullSize/baie.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Daniel",
+          "text": "Daniel se află la 2 minute de mers pe jos de noi. Oferă 4 camere (3 de 2 persoane și una de 3 persoane) cu living și o baie la 2 camere.",
+          "images": [
+            {
+              "text": "Cameră",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/camera1.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/camera1.jpg"
+            },
+            {
+              "text": "Cameră",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/camera2.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/camera2.jpg"
+            },
+            {
+              "text": "Cameră",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/camera3.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/camera3.jpg"
+            },
+            {
+              "text": "Living",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/living.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/living.jpg"
+            },
+            {
+              "text": "Baie",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/baie.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/baie.jpg"
+            },
+            {
+              "text": "Fațadă",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/afara.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/afara.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Eugen",
+          "text": "Eugen se află la 10 minute de mers pe jos de noi (pe un drum de țară). Oferă 4 camere (2 de 2 persoane și 2 de 4 persoane) cu living și o baie la 2 camere. Deși este puțin mai departe, partea bună este că are o fermă și vă poate oferi mâncare proaspătă de la ferma lor.",
+          "images": [
+            {
+              "text": "Cameră",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/camera1.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/camera1.jpg"
+            },
+            {
+              "text": "Cameră",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/camera2.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/camera2.jpg"
+            },
+            {
+              "text": "Cameră",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/camera3.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/camera3.jpg"
+            },
+            {
+              "text": "Baie",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/baie.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/baie.jpg"
+            },
+            {
+              "text": "Fațadă",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/afara.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/afara.jpg"
+            },
+            {
+              "text": "Ferma lui Eugen",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/ferma.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/ferma.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-map'></i> Harta",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "text": "Mai jos vedeți unde sunt poziționate alte cazări față de noi (Petri)",
+          "images": [
+            {
+              "text": "Harta - click pe imagine pentru a o mări",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/common/thumbnail/map.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/common/fullSize/map.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    }
+  ]
+}

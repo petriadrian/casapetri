@@ -1,0 +1,150 @@
+{
+  "metaData": {
+    "title": "Other accommodations nearby Casa Petri",
+    "text": "Other accommodations nearby Casa Petri",
+    "displayOnShareImg": "/assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
+  },
+  "headline": {
+    "title": "Other accommodations nearby Casa Petri",
+    "videoSource": "",
+    "fullWidthImg": "./assets/img/accommodation/article/neighbours/common/background.jpg"
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fas fa-home'></i> Accommodations",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "text": "Bellow are other accommodations nearby Casa Petri."
+        },
+        {
+          "title": "Alina",
+          "text": "Alina is our next door neighbour. Offers 2 rooms (one for 2 person and other for 3 person) with living and 1 bathroom at 2 rooms.",
+          "images": [
+            {
+              "text": "Room",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/alina/thumbnail/camera1.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/alina/fullSize/camera1.jpg"
+            },
+            {
+              "text": "Room",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/alina/thumbnail/camera2.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/alina/fullSize/camera2.jpg"
+            },
+            {
+              "text": "Living",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/alina/thumbnail/living.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/alina/fullSize/living.jpg"
+            },
+            {
+              "text": "Bathroom",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/alina/thumbnail/baie.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/alina/fullSize/baie.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Daniel",
+          "text": "Daniel is at 2 minute walking from us. Offers 4 rooms (3 for 2 person and one for 3 person) with living and one bathroom for 2 rooms.",
+          "images": [
+            {
+              "text": "Room",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/camera1.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/camera1.jpg"
+            },
+            {
+              "text": "Room",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/camera2.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/camera2.jpg"
+            },
+            {
+              "text": "Room",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/camera3.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/camera3.jpg"
+            },
+            {
+              "text": "Living",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/living.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/living.jpg"
+            },
+            {
+              "text": "Bathroom",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/baie.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/baie.jpg"
+            },
+            {
+              "text": "Facade",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/afara.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/afara.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Eugen",
+          "text": "Eugen is at 10 minute walking from us (on a unpaved road). Offers 4 rooms (2 for 2 persons and 2 for 4 persons) with living and one bathroom at 2 rooms. Even if they are not so close, the good part is that they have a farm and they can offer local food.",
+          "images": [
+            {
+              "text": "Room",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/camera1.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/camera1.jpg"
+            },
+            {
+              "text": "Room",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/camera2.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/camera2.jpg"
+            },
+            {
+              "text": "Room",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/camera3.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/camera3.jpg"
+            },
+            {
+              "text": "Bathroom",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/baie.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/baie.jpg"
+            },
+            {
+              "text": "Facade",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/afara.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/afara.jpg"
+            },
+            {
+              "text": "Eugen's farm",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/ferma.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/ferma.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-map'></i> Map",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "text": "Bellow you can see how are they located according to our house (Petri)",
+          "images": [
+            {
+              "text": "Map - click on it to expand it.",
+              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/common/thumbnail/map.jpg",
+              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/common/fullSize/map.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    }
+  ]
+}
