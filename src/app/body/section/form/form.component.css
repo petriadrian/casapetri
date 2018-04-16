@@ -2,7 +2,8 @@
   margin: 2% 0%;
 }
 
-form {
+form,
+.formParagraph {
   float: none !important;
   padding: 0 2%;
 }

@@ -34,8 +34,10 @@ export class UrlService {
   }
 
   public buildLinkAndGo(link) {
-    if (link.indexOf('http') > -1) {
+    if (link.startsWith('http')) {
       window.open(link, '_blank');
+    } else if (link.startsWith('tel:')) {
+      window.open(link, '_self');
     } else {
       if (link.indexOf('#') === -1) {
         this.router.navigate([link]);
@@ -67,7 +69,7 @@ export class UrlService {
       }
     }
     const jsonContentUrl = this.getHostName() + '/assets/content' + localPath + '.json';
-    console.log('JsonContentUrl: ' + jsonContentUrl);
+    // console.log('JsonContentUrl: ' + jsonContentUrl);
     return jsonContentUrl;
   }
 
@@ -80,7 +82,7 @@ export class UrlService {
   }
 
   public isHostOnBrowser(): boolean {
-    console.log('isHostOnBrowser??? : ' + !isPlatformServer(this.platformId));
+    // console.log('isHostOnBrowser??? : ' + !isPlatformServer(this.platformId));
     return !isPlatformServer(this.platformId);
   }
 

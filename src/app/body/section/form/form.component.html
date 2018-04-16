@@ -1,4 +1,4 @@
-<p>
+<p class="formParagraph">
   <span *ngIf="!!content?.beforeFormText" [innerHTML]="content?.beforeFormText | trustHtml"></span>
   <span *ngIf="!!content?.beforeFormTextSeeAlso">
         <span *ngFor="let seeAlsoItem of content?.beforeFormTextSeeAlso">
@@ -67,23 +67,25 @@
              [placeholder]="field.placeholder"
              [required]="field.required"/>
       <select *ngIf="field.type == 'selectBox'"
-              class="form-control w-100"
+              class="form-control text-left w-100"
               [required]="field.required"
-              ngModel name="{{field.name}}">
-        title="{{field.name}}">
-        <option disabled selected
+              name="{{field.name}}"
+              title="{{field.name}}">
+          <option disabled selected hidden [value]="undefined"
                 [innerHTML]="field.placeholder | trustHtml"></option>
-        <option *ngFor="let option of field.selectOptions"
+          <option *ngFor="let option of field.selectOptions"
                 value="{{option.text}}">{{option.text}}
-        </option>
+          </option>
       </select>
 
-      <div *ngIf="field.type == 'selectBoxAllowDuplicates'" class="text-left w-100">
-        <select id="selectField" *ngFor="let input of field.inputs; let index = index;" class="form-control w-100"
+      <div *ngIf="field.type == 'selectBoxAllowDuplicates'"
+           class="text-left w-100">
+        <select *ngFor="let input of field.inputs; let index = index;"
+                class="form-control w-100"
                 [required]="field.required"
                 [(ngModel)]="input[index]"
-                name="{{input.name}}">
-          title="{{input.name}}">
+                name="{{input.name}}"
+                title="{{input.name}}">
           <option disabled selected hidden [value]="undefined"
                   [innerHtml]="field?.placeholder | trustHtml"></option>
           <option *ngFor="let option of input?.selectOptions" [ngValue]="option?.text"
