@@ -13,7 +13,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-alt'></i> Events",
-      "sectionId": "schedule",
+      "sectionId": "events",
       "addLinkInPageHeadline": true
     },
     {
@@ -101,7 +101,7 @@
     {
       "type": "title",
       "text": "<i class='fas fa-child'></i> Teambuilding",
-      "sectionId": "schedule",
+      "sectionId": "teambuilding",
       "addLinkInPageHeadline": true
     },
     {
