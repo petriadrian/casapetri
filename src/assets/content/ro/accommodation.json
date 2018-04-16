@@ -255,7 +255,7 @@
     {
       "type": "form",
       "beforeFormText": "<br>Dorim să fie totul pregătit la sosire, de aceea te rugăm să rezervi cât mai din timp. <b>Prețul</b> camerelor sau al campării îl găsiți la secțiunea 'Alege camera sau campare'.",
-      "afterFormText": "Rezervarea va fi validă doar la primirea unui telefon sau <b>email de confirmare!</b> <br><b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> până la 11:00",
+      "afterFormText": "Rezervarea va fi validă doar la primirea unui <b>telefon sau email de confirmare!</b> <br><b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> până la 11:00",
       "submitButtonText": "Trimite rezervarea",
       "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",

@@ -275,7 +275,7 @@
     },
     {
       "type": "form",
-      "afterFormText": "The booking will be valid only when a <b>confirmation email</b> will be received!",
+      "afterFormText": "The booking will be valid only when a <b>confirmation email or phone</b> will be received!",
       "submitButtonText": "Send the booking",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Contact us by email petriadrian@gmail.com",

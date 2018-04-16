@@ -35,7 +35,7 @@
   ],
   "rightButtons": [
     {
-      "text": "<i class='fas fa-phone fa-lg fa-rotate-90'></i> 0743 188 186",
+      "text": "<i class='fas fa-phone fa-lg fa-rotate-90'></i> 0743188186",
       "link": "tel:(+4)0743188186",
       "textOnMouseOver": "contacteaza-ne la telefon"
     }
