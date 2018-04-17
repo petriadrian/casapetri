@@ -47,11 +47,6 @@
               "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/5.jpg"
             },
             {
-              "text": "Learn or see how to hand-milk a cow.",
-              "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/8.jpg",
-              "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/8.jpg"
-            },
-            {
               "text": "The grass has grown so the field is ready to be worked.",
               "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/6.jpg",
               "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/6.jpg"
@@ -60,6 +55,16 @@
               "text": "Meanwhile the cows are grazing the fields all summer long and in the winter they will be fed with the hay.",
               "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/7.jpg",
               "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/7.jpg"
+            },
+            {
+              "text": "In th evening learn or see how to hand-milk a cow.",
+              "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/8.jpg",
+              "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/8.jpg"
+            },
+            {
+              "text": "At the farm.",
+              "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/vitel.jpg",
+              "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/vitel.jpg"
             },
             {
               "text": "In one of the days we will go in a guided tour of the village to tell you more about the history and the local habits.",
