@@ -63,7 +63,7 @@
           }
         },
         {
-          "img": "./assets/img/accommodation/presentation/fullWidthImg.jpg",
+          "img": "./assets/img/accommodation/article/outside/fullSize/tarnat.jpg",
           "title": "Casa Petri - un loc aparte în Roșia Montană",
           "text": "",
           "url": {
@@ -89,7 +89,7 @@
           "text": "",
           "seeAlso": [
             {
-              "text": "<b><i class='far fa-star'></i> Top 10 atracții de vizitat în Roșia Montană <i class='far fa-star'></i></b>",
+              "text": "<b>Top 10 atracții</b> de vizitat în Roșia Montană!",
               "textOnMouseOver": "Click here...",
               "link": "ro/attractions#toSee"
             }

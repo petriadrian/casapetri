@@ -63,7 +63,7 @@
           }
         },
         {
-          "img": "./assets/img/accommodation/presentation/fullWidthImg.jpg",
+          "img": "./assets/img/accommodation/article/outside/fullSize/tarnat.jpg",
           "title": "Casa Petri - an unique place in Rosia Montana",
           "text": "",
           "url": {
@@ -89,7 +89,7 @@
           "text": "",
           "seeAlso": [
             {
-              "text": "<b><i class='far fa-star'></i> Top 10 attractions to see in Rosia Montana <i class='far fa-star'></i></b>",
+              "text": "<b>Top 10 attractions</b> to see in Rosia Montana!",
               "textOnMouseOver": "Click here...",
               "link": "en/attractions#toSee"
             }
