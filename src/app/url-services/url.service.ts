@@ -96,7 +96,7 @@ export class UrlService {
         if (document.querySelector('#' + anchor)) {
           document.querySelector('#' + anchor).scrollIntoView();
         }
-      }, 2000);
+      }, 1500);
     }
   }
 
