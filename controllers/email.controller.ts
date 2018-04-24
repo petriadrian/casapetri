@@ -3,7 +3,7 @@ import { Router, Request, Response } from 'express';
 const router: Router = Router();
 const emailJs = require('emailjs');
 const fs = require('fs');
-const TO = 'Petri Adrian <petriadrian@gmail.com>';
+const TO = 'Petri Adrian <petriadrian@gmail.com>, Iulia Balint <iulia.balint@gmail.com>';
 
 router.post('/send', function (req, res) {
   let emailBody = '<html>';
