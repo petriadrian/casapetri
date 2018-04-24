@@ -1,4 +1,4 @@
-import {AfterViewInit, Component, Input, OnInit} from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 import {NgForm} from '@angular/forms';
 import {HttpClient} from '@angular/common/http';
 import {Router} from '@angular/router';
@@ -40,7 +40,8 @@ export class FormComponent implements OnInit {
     this.formLoading = true;
     this.responseMessage = '';
     this.showResponse = false;
-    this.http.post('./assets/send_mail.php', form.value)
+    // this.http.post('./assets/send_mail.php', form.value)
+    this.http.post('/email/send', form.value)
       .subscribe(
         res => {
           this.messageType = 'success';
