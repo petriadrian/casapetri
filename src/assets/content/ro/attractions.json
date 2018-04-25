@@ -1,11 +1,11 @@
 {
   "metaData": {
-    "title": "Atracții și activități din Roșia Montană",
-    "text": "Atracții și activități din Roșia Montană, Alba, Munții Apuseni, Transilvania, Romania.",
-    "displayOnShareImg": "/assets/img/attractions/presentation/displayOnShareImg.jpg"
+    "title": "Da! Ai ce vizita la Roșia Montană",
+    "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Pentru a le descoperi oferim trasee ghidate, iar din fața casei pornesc 5 trasee marcate.",
+    "displayOnShareImg": "/assets/img/attractions/presentation/fullWidthImg.jpg"
   },
   "headline": {
-    "title": "Descoperă Roșia Montană",
+    "title": "Ai ce vizita la Roșia Montană!",
     "videoSource": "",
     "fullWidthImg": "./assets/img/attractions/presentation/fullWidthImg.jpg"
   },
@@ -20,7 +20,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogata încărcătură istorică și culturală datorat patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Pentru a le descoperi oferim trasee ghidate, iar din fața casei pornesc 5 trasee marcate."
+          "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Pentru a le descoperi oferim trasee ghidate, iar din fața casei pornesc 5 trasee marcate."
         },
         {
           "title": "Centrul istoric",
