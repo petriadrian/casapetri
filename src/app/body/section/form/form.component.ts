@@ -40,7 +40,6 @@ export class FormComponent implements OnInit {
     this.formLoading = true;
     this.responseMessage = '';
     this.showResponse = false;
-    // this.http.post('./assets/send_mail.php', form.value)
     this.http.post('/email/send', form.value)
       .subscribe(
         res => {
