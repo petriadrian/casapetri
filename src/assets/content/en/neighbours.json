@@ -2,12 +2,12 @@
   "metaData": {
     "title": "Other accommodations nearby Casa Petri",
     "text": "Other accommodations nearby Casa Petri",
-    "displayOnShareImg": "/assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
+    "img": "/assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
   },
   "headline": {
     "title": "Other accommodations nearby Casa Petri",
     "videoSource": "",
-    "fullWidthImg": "./assets/img/accommodation/article/neighbours/common/background.jpg"
+    "img": "/assets/img/accommodation/article/neighbours/common/background.jpg"
   },
   "sections": [
     {
@@ -38,23 +38,23 @@
           "images": [
             {
               "text": "Room",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/alina/thumbnail/camera1.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/alina/fullSize/camera1.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/alina/thumbnail/camera1.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/alina/fullSize/camera1.jpg"
             },
             {
               "text": "Room",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/alina/thumbnail/camera2.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/alina/fullSize/camera2.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/alina/thumbnail/camera2.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/alina/fullSize/camera2.jpg"
             },
             {
               "text": "Living",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/alina/thumbnail/living.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/alina/fullSize/living.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/alina/thumbnail/living.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/alina/fullSize/living.jpg"
             },
             {
               "text": "Bathroom",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/alina/thumbnail/baie.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/alina/fullSize/baie.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/alina/thumbnail/baie.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/alina/fullSize/baie.jpg"
             }
           ]
         }
@@ -74,33 +74,33 @@
           "images": [
             {
               "text": "Room",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/camera1.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/camera1.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/daniel/thumbnail/camera1.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/daniel/fullSize/camera1.jpg"
             },
             {
               "text": "Room",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/camera2.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/camera2.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/daniel/thumbnail/camera2.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/daniel/fullSize/camera2.jpg"
             },
             {
               "text": "Room",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/camera3.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/camera3.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/daniel/thumbnail/camera3.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/daniel/fullSize/camera3.jpg"
             },
             {
               "text": "Living",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/living.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/living.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/daniel/thumbnail/living.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/daniel/fullSize/living.jpg"
             },
             {
               "text": "Bathroom",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/baie.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/baie.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/daniel/thumbnail/baie.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/daniel/fullSize/baie.jpg"
             },
             {
               "text": "Facade",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/daniel/thumbnail/afara.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/daniel/fullSize/afara.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/daniel/thumbnail/afara.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/daniel/fullSize/afara.jpg"
             }
           ]
         }
@@ -120,38 +120,38 @@
           "images": [
             {
               "text": "Room",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/camera1.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/camera1.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/eugen/thumbnail/camera1.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/eugen/fullSize/camera1.jpg"
             },
             {
               "text": "Room",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/camera2.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/camera2.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/eugen/thumbnail/camera2.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/eugen/fullSize/camera2.jpg"
             },
             {
               "text": "Room",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/camera3.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/camera3.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/eugen/thumbnail/camera3.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/eugen/fullSize/camera3.jpg"
             },
             {
               "text": "Bathroom",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/baie.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/baie.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/eugen/thumbnail/baie.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/eugen/fullSize/baie.jpg"
             },
             {
               "text": "Facade",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/afara.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/afara.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/eugen/thumbnail/afara.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/eugen/fullSize/afara.jpg"
             },
             {
               "text": "Eugen's farm",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/ferma.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/ferma.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/eugen/thumbnail/ferma.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/eugen/fullSize/ferma.jpg"
             },
             {
               "text": "Eugen is at 900m away from our house and the road from us until Eugen place is unpaved. We also have a normal small car and we have no issues going there.",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/eugen/thumbnail/road.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/eugen/fullSize/road.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/eugen/thumbnail/road.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/eugen/fullSize/road.jpg"
             }
           ]
         }
@@ -171,8 +171,8 @@
           "images": [
             {
               "text": "Map - click on it to expand it.",
-              "thumbnailUrl": "./assets/img/accommodation/article/neighbours/common/thumbnail/map.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/neighbours/common/fullSize/map.jpg"
+              "thumbnail": "assets/img/accommodation/article/neighbours/common/thumbnail/map.jpg",
+              "fullSize": "assets/img/accommodation/article/neighbours/common/fullSize/map.jpg"
             }
           ]
         }

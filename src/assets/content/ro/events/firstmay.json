@@ -2,12 +2,12 @@
   "metaData": {
     "title": "1 Mai weekend la Roșia Montană | event",
     "text": "De 1 Mai vă așteptăm la Roșia cu trasee ghidate de drumeție (centrul istoric, galeriile romane și monumentele naturii), proiecții de filme, plimbări cu mocănița și tradiționalul ... mici și bere.",
-    "displayOnShareImg": "/assets/img/events/firstMai/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/events/firstMai/presentation/displayOnShareImg.jpg"
   },
   "headline": {
     "title": "1 Mai weekend la Roșia Montană",
     "videoSource": "",
-    "fullWidthImg": "./assets/img/events/firstMai/presentation/fullWidthImg.jpg"
+    "img": "/assets/img/events/firstMai/presentation/fullWidthImg.jpg"
   },
   "sections": [
     {
@@ -35,23 +35,23 @@
           "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
             },
             {
               "text": "Centrul istoric.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
             },
             {
               "text": "Muzeul Mineritului - Galeriile Romane construite în 106 – 272 d. Hr.",
-              "thumbnailUrl": "./assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
             },
             {
               "text": "Popas cu priveliște.",
-              "thumbnailUrl": "./assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
             }
           ]
         },
@@ -60,13 +60,13 @@
           "images": [
             {
               "text": "Proiecții în grădină",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
             },
             {
               "text": "Imagini din proiecție",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
             }
           ]
         },
@@ -76,18 +76,18 @@
           "images": [
             {
               "text": "Galeriile Cârnic",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
             },
             {
               "text": "Piatra Corbului Cârnic - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
             },
             {
               "text": "Galeria Văidoaia.",
-              "thumbnailUrl": "./assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
+              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
             }
           ]
         },
@@ -100,18 +100,18 @@
           "images": [
             {
               "text": "<b>Detunata</b> - Printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
             },
             {
               "text": "<b>Priveliștea de pe Detunata</b> - spre ținutul Moților.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
             },
             {
               "text": "Pe traseu - punct de belvedere.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             }
           ]
         },
@@ -120,8 +120,8 @@
           "images": [
             {
               "text": "Seară cu mici și bere.",
-              "thumbnailUrl": "./assets/img/events/firstMai/article/thumbnail/miciSiBere.jpg",
-              "fullSizeUrl": "./assets/img/events/firstMai/article/fullSize/miciSiBere.jpg"
+              "thumbnail": "assets/img/events/firstMai/article/thumbnail/miciSiBere.jpg",
+              "fullSize": "assets/img/events/firstMai/article/fullSize/miciSiBere.jpg"
             }
           ]
         },
@@ -148,13 +148,13 @@
           "images": [
             {
               "text": "Cu mocănița prin Apuseni",
-              "thumbnailUrl": "./assets/img/attractions/article/steamTrain/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/steamTrain/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/steamTrain/fullSize/1.jpg"
             },
             {
               "text": "Cu mocănița prin Apuseni",
-              "thumbnailUrl": "./assets/img/attractions/article/steamTrain/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/steamTrain/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/steamTrain/fullSize/2.jpg"
             }
           ]
         }

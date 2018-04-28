@@ -2,12 +2,12 @@
   "metaData": {
     "title": "Drumeție la Poiana cu Narcise Apuseni | 18-20 Mai",
     "text": "Pachet cu drumetii spre o zonă cu peisaje de poveste și miros de neuitat - Poiana cu Narcise, iar apoi vom descoperi poveștile și legendele aurarilor din Roșia Montană. Traseele se pot face si cu bicicleta.",
-    "displayOnShareImg": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
   },
   "headline": {
     "title": "Drumeție la Poiana cu Narcise Apuseni",
     "videoSource": "",
-    "fullWidthImg": "./assets/img/events/narcise/presentation/fullWidthImg.jpg"
+    "img": "/assets/img/events/narcise/presentation/fullWidthImg.jpg"
   },
   "sections": [
     {
@@ -35,43 +35,43 @@
           "images": [
             {
               "text": "La poiana cu narcise Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/narcise/fullSize/1.jpg"
             },
             {
               "text": "La poiana cu narcise Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/narcise/fullSize/2.jpg"
             },
             {
               "text": "La poiana cu narcise Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/narcise.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/narcise.jpg"
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/narcise.jpg",
+              "fullSize": "assets/img/attractions/article/narcise/fullSize/narcise.jpg"
             },
             {
               "text": "La poiana cu narcise Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/poiana.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/poiana.jpg"
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/poiana.jpg",
+              "fullSize": "assets/img/attractions/article/narcise/fullSize/poiana.jpg"
             },
             {
               "text": "La poiana cu narcise Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/biciclete.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/biciclete.jpg"
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/biciclete.jpg",
+              "fullSize": "assets/img/attractions/article/narcise/fullSize/biciclete.jpg"
             },
             {
               "text": "La poiana cu narcise Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/narcisele.jpg"
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
+              "fullSize": "assets/img/attractions/article/narcise/fullSize/narcisele.jpg"
             },
             {
               "text": "Spre poiana cu narcise.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/traseuBicicleta.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/traseuBicicleta.jpg"
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/traseuBicicleta.jpg",
+              "fullSize": "assets/img/attractions/article/narcise/fullSize/traseuBicicleta.jpg"
             },
             {
               "text": "Pe traseu.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/traseuPeisaj.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/traseuPeisaj.jpg"
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/traseuPeisaj.jpg",
+              "fullSize": "assets/img/attractions/article/narcise/fullSize/traseuPeisaj.jpg"
             }
           ]
         },
@@ -80,13 +80,13 @@
           "images": [
             {
               "text": "Proiecții în grădină",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
             },
             {
               "text": "Imagini din proiecție",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
             }
           ]
         },
@@ -96,43 +96,43 @@
           "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
             },
             {
               "text": "Centrul istoric.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
             },
             {
               "text": "Fostele case ale aurarilor - cladiri de patrimoniu din centrul istoric.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/3.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/3.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/3.jpg"
             },
             {
               "text": "Ornamente ale clădirilor de patrimoniu din centrul istoric Roșia Montană.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
             },
             {
               "text": "Lângă centrul istoric sunt câteva tăuri. Vom afla acolo de ce au fost construite în apropierea satului și rolul lor în producția aurului.",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
             },
             {
               "text": "Popas cu priveliște.",
-              "thumbnailUrl": "./assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
             },
             {
               "text": "Pe traseu - punct de belvedere Cârnic.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             },
             {
               "text": "Piatra Corbului Cârnic - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
             }
           ]
         }

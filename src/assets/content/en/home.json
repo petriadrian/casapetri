@@ -2,14 +2,14 @@
   "metaData": {
     "title": "Rosia Montana | accommodation | hikes | bike | trails",
     "text": "Accommodation in a restored heritage house from the Historic Center. Hiking or bike trails along the roman galleries, gold mining areas, patrimony buildings, mountains, lakes. Rent bikes or guided tours. At the end of the day read a book from our library in the hammock. Rosia Montana, Alba, Apuseni Mountains, Transylvania, Romania.",
-    "displayOnShareImg": "/assets/img/homePage/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/homePage/presentation/displayOnShareImg.jpg"
   },
   "sections": [
     {
       "type": "carousel",
       "slides": [
         {
-          "img": "./assets/img/attractions/presentation/fullWidthImg.jpg",
+          "img": "assets/img/attractions/presentation/fullWidthImg.jpg",
           "title": "Great place to visit - Rosia Montana",
           "text": "",
           "url": {
@@ -18,7 +18,7 @@
           }
         },
         {
-          "img": "./assets/img/attractions/article/romanGalleries/fullSize/1.jpg",
+          "img": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg",
           "title": "Roșia Montană is history",
           "text": "",
           "url": {
@@ -27,7 +27,7 @@
           }
         },
         {
-          "img": "./assets/img/attractions/article/panoramicBench/fullSize/1.jpg",
+          "img": "assets/img/attractions/article/panoramicBench/fullSize/1.jpg",
           "title": "Roșia Montană is heritage",
           "text": "",
           "url": {
@@ -36,7 +36,7 @@
           }
         },
         {
-          "img": "./assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg",
+          "img": "assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg",
           "title": "Roșia Montană is nature",
           "text": "",
           "url": {
@@ -45,7 +45,7 @@
           }
         },
         {
-          "img": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg",
+          "img": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg",
           "title": "Roșia Montană is adventure",
           "text": "",
           "url": {
@@ -54,7 +54,7 @@
           }
         },
         {
-          "img": "./assets/img/attractions/article/lakes/bigLake/fullSize/bike.jpg",
+          "img": "assets/img/attractions/article/lakes/bigLake/fullSize/bike.jpg",
           "title": "Roșia Montană is vacation",
           "text": "",
           "url": {
@@ -63,7 +63,7 @@
           }
         },
         {
-          "img": "./assets/img/accommodation/article/outside/fullSize/tarnat.jpg",
+          "img": "assets/img/accommodation/article/outside/fullSize/tarnat.jpg",
           "title": "Casa Petri - an unique place in Rosia Montana",
           "text": "",
           "url": {
@@ -117,7 +117,7 @@
         {
           "title": "Accommodation",
           "text": "<b>Rooms, camping - bookings</b> <br>Private bathrooms and kitchen, green garden with gazebo and hammocks. See more...",
-          "img": "./assets/img/accommodation/shortcut/cazare.jpg",
+          "img": "assets/img/accommodation/shortcut/cazare.jpg",
           "url": {
             "link": "en/accommodation#rooms",
             "textOnMouseOver": "See more..."
@@ -126,7 +126,7 @@
         {
           "title": "Guided tours",
           "text": "<b>By foot or bike</b> <br>We stay in touch with locals who make guided tours. We recommend to visit Rosia with a guide",
-          "img": "./assets/img/accommodation/shortcut/guides.jpg",
+          "img": "assets/img/accommodation/shortcut/guides.jpg",
           "url": {
             "link": "en/accommodation#guide",
             "textOnMouseOver": "Click here..."
@@ -135,7 +135,7 @@
         {
           "title": "Bikes",
           "text": "<b>Rent, repairs, tracks</b> <br>We rent bikes or we can help you fixing your bike if needed and give you gps tracks",
-          "img": "./assets/img/accommodation/shortcut/bikes.jpg",
+          "img": "assets/img/accommodation/shortcut/bikes.jpg",
           "url": {
             "link": "en/accommodation#facilities",
             "textOnMouseOver": "Click here..."
@@ -178,7 +178,7 @@
         {
           "title": "1st of May",
           "text": "<b>27.04 - 01.05 |</b> Village break in Roșia Montană: guided tours, movie screenings, steam train rides and the traditional 'mici' and beer.",
-          "img": "./assets/img/events/firstMai/presentation/smallBoxImg.jpg",
+          "img": "assets/img/events/firstMai/presentation/smallBoxImg.jpg",
           "url": {
             "link": "en/events/firstmay",
             "textOnMouseOver": "See more..."
@@ -187,7 +187,7 @@
         {
           "title": "To Daffodils",
           "text": "<b>18 - 20.05 |</b> Guided tour to a place with an unforgettable smell and landscape 'The daffodil Meadow' and then will visit Rosia Montana",
-          "img": "./assets/img/events/narcise/presentation/smallBoxImg.jpg",
+          "img": "assets/img/events/narcise/presentation/smallBoxImg.jpg",
           "url": {
             "link": "en/events/narcise18-20may",
             "textOnMouseOver": "See more..."
@@ -196,7 +196,7 @@
         {
           "title": "To Detunata",
           "text": "<b>8 - 10.06 |</b> Guided tour to a place with legends and amazing landscapes 'The Detunata massif' and then will visit Rosia Montana",
-          "img": "./assets/img/events/detunata/presentation/smallBoxImg.jpg",
+          "img": "assets/img/events/detunata/presentation/smallBoxImg.jpg",
           "url": {
             "link": "en/events/detunata8-10june",
             "textOnMouseOver": "See more..."
@@ -205,7 +205,7 @@
         {
           "title": "More events",
           "text": "See here more events from our area.",
-          "img": "./assets/img/common/smallBoxImgMore.jpg",
+          "img": "assets/img/common/smallBoxImgMore.jpg",
           "url": {
             "link": "en/events/all",
             "textOnMouseOver": "See more..."
@@ -248,7 +248,7 @@
         {
           "title": "Winter walks",
           "text": "Winter at Rosia Montana. Easy walks, greats landscapes",
-          "img": "./assets/img/photoblog/winterWalks/presentation/smallBoxImg.jpg",
+          "img": "assets/img/photoblog/winterWalks/presentation/smallBoxImg.jpg",
           "url": {
             "link": "en/photoblog/winterWalks",
             "textOnMouseOver": "See more..."
@@ -257,7 +257,7 @@
         {
           "title": "Cluj - Rosia",
           "text": "The road from Cluj-Napoca to Rosia, beside the Aries river offers amazing landscapes and places",
-          "img": "./assets/img/photoblog/clujRosia/presentation/smallBoxImg.jpg",
+          "img": "assets/img/photoblog/clujRosia/presentation/smallBoxImg.jpg",
           "url": {
             "link": "en/photoblog/clujRosia",
             "textOnMouseOver": "See more..."

@@ -2,12 +2,12 @@
   "metaData": {
     "title": "Weekend to Detunata Apuseni (8-10 June) | event",
     "text": "Guided tours to a protected area with amazing landscapes and legends - The Basalt massive Detunata Apuseni. On the second day will discover the places and the goldsmith stories of Rosia Montana (the tours can be also made by bike). Details here.",
-    "displayOnShareImg": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
   },
   "headline": {
     "title": "Weekend to Detunata Apuseni",
     "videoSource": "",
-    "fullWidthImg": "./assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
+    "img": "/assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
   },
   "sections": [
     {
@@ -35,53 +35,53 @@
           "images": [
             {
               "text": "Detunata Apuseni",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata2.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata2.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata2.jpg"
             },
             {
               "text": "Towards Detunata",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/raza.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/raza.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/raza.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/raza.jpg"
             },
             {
               "text": "The view from Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
             },
             {
               "text": "The view from Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/frunze.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/frunze.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/frunze.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/frunze.jpg"
             },
             {
               "text": "The view from Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/priveliste.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/priveliste.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/priveliste.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/priveliste.jpg"
             },
             {
               "text": "Detunata Apuseni",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata.jpg"
             },
             {
               "text": "The view from Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/priveliste2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/priveliste2.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/priveliste2.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/priveliste2.jpg"
             },
             {
               "text": "Towards Detunata",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/traseu.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/traseu.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/traseu.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/traseu.jpg"
             },
             {
               "text": "Towards Detunata",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/road.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/road.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/road.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/road.jpg"
             },
             {
               "text": "The view from Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/varf.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/varf.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/varf.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/varf.jpg"
             }
           ]
         },
@@ -90,13 +90,13 @@
           "images": [
             {
               "text": "Movie screening in the garden",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
             },
             {
               "text": "Images from the movie screening",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
             }
           ]
         },
@@ -106,43 +106,43 @@
           "images": [
             {
               "text": "Guided tour - historic center Rosia Montana.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
             },
             {
               "text": "Guided tour - historic center Rosia Montana.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
             },
             {
               "text": "Guided tour - historic center Rosia Montana.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/3.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/3.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/3.jpg"
             },
             {
               "text": "Guided tour - historic center Rosia Montana.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
             },
             {
               "text": "Guided tour - Carnic - Rosia Montana.",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
             },
             {
               "text": "Guided tour - historic center Rosia Montana.",
-              "thumbnailUrl": "./assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
             },
             {
               "text": "Guided tour - Carnic - Rosia Montana.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             },
             {
               "text": "Guided tour - Carnic - Rosia Montana.",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
             }
           ]
         }

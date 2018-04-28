@@ -2,12 +2,12 @@
   "metaData": {
     "title": "Things to do and see in Roșia Montană",
     "text": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. We offer guided tours and there are 4 marked tracks that starts from the front of our house.",
-    "displayOnShareImg": "/assets/img/attractions/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/attractions/presentation/displayOnShareImg.jpg"
   },
   "headline": {
     "title": "Discover Roșia Montană",
     "videoSource": "",
-    "fullWidthImg": "./assets/img/attractions/presentation/fullWidthImg.jpg"
+    "img": "/assets/img/attractions/presentation/fullWidthImg.jpg"
   },
   "sections": [
     {
@@ -36,18 +36,18 @@
           "images": [
             {
               "text": "Ornaments of the historic center buildings.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
             },
             {
               "text": "Churches from the historic center ( catholic, unitarian and calvin).",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
             },
             {
               "text": "German school and goldsmith houses - patrimony buildings from the Geman neighbourhood of Berg'",
-              "thumbnailUrl": "./assets/img/attractions/article/panoramicBench/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/panoramicBench/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/1.jpg"
             }
           ]
         },
@@ -64,18 +64,18 @@
           "images": [
             {
               "text": "<b>Roman Galleries</b> - to visit them you will go 157 stairs under the earth",
-              "thumbnailUrl": "./assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
             },
             {
               "text": "<b>Mining Museum</b> - installations used for gold processing.",
-              "thumbnailUrl": "./assets/img/attractions/article/romanGalleries/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/romanGalleries/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/2.jpg"
             },
             {
               "text": "Near the museum there is a church with the most impressive local legend, build as a result of a pact with the gallery spirits. To find the full story go visit this place...",
-              "thumbnailUrl": "./assets/img/attractions/article/churches/orthodoxChurch/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/churches/orthodoxChurch/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/churches/orthodoxChurch/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/churches/orthodoxChurch/fullSize/1.jpg"
             }
           ]
         },
@@ -92,18 +92,18 @@
           "images": [
             {
               "text": "<b>Raven Stone</b> - natural reservation. Here are the oldest galleries in Rosia Montana, made by the agatârși using only water and fire.",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
             },
             {
               "text": "<b> Cârnic Sphinx</b> - the cross was placed by the miners to have luck while searching for gold.",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/sphinx/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/sphinx/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/sphinx/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/sphinx/fullSize/1.jpg"
             },
             {
               "text": "<b>Sulei Massif</b> - Suleis’ mountain peak is so tight it makes you feel like you are tightrope walking.",
-              "thumbnailUrl": "./assets/img/attractions/article/letySulei/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/letySulei/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/letySulei/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/letySulei/fullSize/1.jpg"
             }
           ]
         },
@@ -120,13 +120,13 @@
           "images": [
             {
               "text": "<b> Vaidoaia Galleries</b> - This is the hearth of Rosia Montana. Judging after the rocks around you will easily figure out the origin of the settlement’s name (Rosia means Red).",
-              "thumbnailUrl": "./assets/img/attractions/article/vaidoaiaGalleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/1.jpg"
             },
             {
               "text": "<b>Jig-Văidoaia Peak</b> - the Vadoaia Gallery is part of this massive.",
-              "thumbnailUrl": "./assets/img/attractions/article/vaidoaiaGalleries/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/2.jpg"
             }
           ]
         },
@@ -143,18 +143,18 @@
           "images": [
             {
               "text": "<b> Țarinii Lake </b> - a little mountain lake with a wonderful view especially during the autumn",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/tariniLake/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/tariniLake/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/tariniLake/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/tariniLake/fullSize/1.jpg"
             },
             {
               "text": "Big Lake or Hearth Lake (due to his heart shape).",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/bigLake/thumbnail/10.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/bigLake/fullSize/10.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/bigLake/thumbnail/10.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/bigLake/fullSize/10.jpg"
             },
             {
               "text": "<b>Pine lake</b> - the house belongs to a painter who use the view as inspiration for his work. ",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/braziLake/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg"
             }
           ]
         },
@@ -171,13 +171,13 @@
           "images": [
             {
               "text": "The open pit Cetate",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/cetatePit/thumbnail/cariera.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/cetatePit/fullSize/cariera.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/cetatePit/thumbnail/cariera.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/cetatePit/fullSize/cariera.jpg"
             },
             {
               "text": "Galeries from the pit",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/cetatePit/thumbnail/galerii.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/cetatePit/fullSize/galerii.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/cetatePit/thumbnail/galerii.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/cetatePit/fullSize/galerii.jpg"
             }
           ]
         },
@@ -194,18 +194,18 @@
           "images": [
             {
               "text": "The church tower of the sunken village Geamana.",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/geamana/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/1.jpg"
             },
             {
               "text": "Former households from Geamana village.",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/geamana/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/geamana/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/2.jpg"
             },
             {
               "text": "Copper open pit - Rosia Poieni - it has 24 stairs, each 15m height",
-              "thumbnailUrl": "./assets/img/attractions/article/copperPit/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/copperPit/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/copperPit/fullSize/1.jpg"
             }
           ]
         },
@@ -222,13 +222,13 @@
           "images": [
             {
               "text": " Eugene’s farm - the place where multiple actions towards saving Rosia Montana have been initiated. Sculptures are made by a Paris NGO - find out more about their story on the site",
-              "thumbnailUrl": "./assets/img/attractions/article/sculpture/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sculpture/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/sculpture/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/sculpture/fullSize/1.jpg"
             },
             {
               "text": "Țarină - the place where the environment and activism festival took place - FânFest",
-              "thumbnailUrl": "./assets/img/attractions/article/fanfest/thumbnail/fanfest.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/fanfest/fullSize/fanfest.jpg"
+              "thumbnail": "assets/img/attractions/article/fanfest/thumbnail/fanfest.jpg",
+              "fullSize": "assets/img/attractions/article/fanfest/fullSize/fanfest.jpg"
             }
           ]
         },
@@ -245,13 +245,13 @@
           "images": [
             {
               "text": "<b>Detunata</b> - through the basalt block, into the middle of the pine forest is a small glacier.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
             },
             {
               "text": "<b>The view from Detunata</b> - towards the 'Motilor' land.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
             }
           ]
         },
@@ -268,13 +268,13 @@
           "images": [
             {
               "text": "Gold vein exposed at the Brad gold museum.",
-              "thumbnailUrl": "./assets/img/attractions/article/bradGoldMuseum/thumbnail/aurBrad1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/bradGoldMuseum/fullSize/aurBrad1.jpg"
+              "thumbnail": "assets/img/attractions/article/bradGoldMuseum/thumbnail/aurBrad1.jpg",
+              "fullSize": "assets/img/attractions/article/bradGoldMuseum/fullSize/aurBrad1.jpg"
             },
             {
               "text": "Gold vein exposed at the Brad gold museum.",
-              "thumbnailUrl": "./assets/img/attractions/article/bradGoldMuseum/thumbnail/aurBrad2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/bradGoldMuseum/fullSize/aurBrad2.jpg"
+              "thumbnail": "assets/img/attractions/article/bradGoldMuseum/thumbnail/aurBrad2.jpg",
+              "fullSize": "assets/img/attractions/article/bradGoldMuseum/fullSize/aurBrad2.jpg"
             }
           ]
         },
@@ -291,18 +291,18 @@
           "images": [
             {
               "text": "Road to Scărișoara Glacier",
-              "thumbnailUrl": "./assets/img/attractions/article/scarisoaraRoad/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/scarisoaraRoad/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/scarisoaraRoad/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/scarisoaraRoad/fullSize/1.jpg"
             },
             {
               "text": "Scărișoara Cave",
-              "thumbnailUrl": "./assets/img/attractions/article/scarisoara/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/scarisoara/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/scarisoara/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/scarisoara/fullSize/1.jpg"
             },
             {
               "text": "Scărișoara Glacier",
-              "thumbnailUrl": "./assets/img/attractions/article/scarisoara/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/scarisoara/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/scarisoara/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/scarisoara/fullSize/2.jpg"
             }
           ]
         },
@@ -319,13 +319,13 @@
           "images": [
             {
               "text": "<b>The daffodils meadow</b>",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/narcise/fullSize/1.jpg"
             },
             {
               "text": "<b>The daffodils meadow</b> -  the area is surrounded by beautiful mountain peaks and pine forests.",
-              "thumbnailUrl": "./assets/img/attractions/article/narcise/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/narcise/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/narcise/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/narcise/fullSize/2.jpg"
             }
           ]
         }
@@ -358,18 +358,18 @@
           "images": [
             {
               "text": "The historic center guided tour with a group from Romania.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
             },
             {
               "text": "Guided tour to the natural sites and protected areas of Rosia Montana with a group from Germany.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             },
             {
               "text": "Guided tour to the mining open pits with a group from India.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
             }
           ]
         },
@@ -406,18 +406,18 @@
           "images": [
             {
               "text": "Towards Vârtop.",
-              "thumbnailUrl": "./assets/img/attractions/article/rotunduPeak/thumbnail/9.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/rotunduPeak/fullSize/9.jpg"
+              "thumbnail": "assets/img/attractions/article/rotunduPeak/thumbnail/9.jpg",
+              "fullSize": "assets/img/attractions/article/rotunduPeak/fullSize/9.jpg"
             },
             {
               "text": "Towards Geamăna.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
             },
             {
               "text": "We offer bikes for rent and guided tours on bikes (with tehnicall assistance on track)",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/bikes.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/bikes.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/bikes.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/bikes.jpg"
             }
           ]
         },
@@ -444,13 +444,13 @@
           "images": [
             {
               "text": "With the steam train along the Apuseni mountains",
-              "thumbnailUrl": "./assets/img/attractions/article/steamTrain/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/steamTrain/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/steamTrain/fullSize/1.jpg"
             },
             {
               "text": "With the steam train along the Apuseni mountains",
-              "thumbnailUrl": "./assets/img/attractions/article/steamTrain/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/steamTrain/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/steamTrain/fullSize/2.jpg"
             }
           ]
         },
@@ -467,13 +467,13 @@
           "images": [
             {
               "text": "Raspberry glade - Septembre",
-              "thumbnailUrl": "./assets/img/attractions/article/vartop/thumbnail/12.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/vartop/fullSize/12.jpg"
+              "thumbnail": "assets/img/attractions/article/vartop/thumbnail/12.jpg",
+              "fullSize": "assets/img/attractions/article/vartop/fullSize/12.jpg"
             },
             {
               "text": "Blackberry area - October.",
-              "thumbnailUrl": "./assets/img/attractions/article/vartop/thumbnail/18.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/vartop/fullSize/18.jpg"
+              "thumbnail": "assets/img/attractions/article/vartop/thumbnail/18.jpg",
+              "fullSize": "assets/img/attractions/article/vartop/fullSize/18.jpg"
             }
           ]
         },
@@ -490,13 +490,13 @@
           "images": [
             {
               "text": "With the slade on the hill next to Casa Petri.",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/sleighing.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/sleighing.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/sleighing.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/sleighing.jpg"
             },
             {
               "text": "At Arieșeni are 3 ski slopes with ski lifts.",
-              "thumbnailUrl": "./assets/img/attractions/article/arieseni/thumbnail/arieseni.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/arieseni/fullSize/arieseni.jpg"
+              "thumbnail": "assets/img/attractions/article/arieseni/thumbnail/arieseni.jpg",
+              "fullSize": "assets/img/attractions/article/arieseni/fullSize/arieseni.jpg"
             }
           ]
         }

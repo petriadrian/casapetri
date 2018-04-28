@@ -4,7 +4,7 @@
     "headline": "Tur exploatări miniere Roșia Montană",
     "descriptionTitle": "28-31 iulie | pachet",
     "text": "Tur ghidat: evoluția mineritului (de la galerii romane și exploatări de 2000 de ani vechime la cariere și lacuri de decantare",
-    "fullWidthImg": "./assets/img/packages/miningTour/presentation/fullWidthImg.jpg",
+    "img": "/assets/img/packages/miningTour/presentation/fullWidthImg.jpg",
     "smallBoxImg": "./assets/img/packages/miningTour/presentation/smallBoxImg.jpg"
   },
   "url": {
@@ -14,7 +14,7 @@
   "metaData": {
     "title": "Tur exploatări miniere Roșia Montană | 28-31 iulie",
     "text": "Traseu ghidat de drumeție - evoluția mineritului (de la galerii romane și exploatări de aur de 2000 de ani vechime la cariere de suprafață și lacuri de decantare (Roșia Poieni și Geamăna). Turul include cazare, mâncare, ghidaj și proiecții de fime. Detalii aici...",
-    "displayOnShareImg": "/assets/img/packages/miningTour/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/packages/miningTour/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -55,13 +55,13 @@
           "images": [
             {
               "text": "Proiecții în grădină",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
             },
             {
               "text": "Imagini din proiecție",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
             }
           ]
         },
@@ -71,43 +71,43 @@
           "images": [
             {
               "text": "Galeriile Romane (106 – 272 d.Hr.)",
-              "thumbnailUrl": "./assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
             },
             {
               "text": "Instalații folosite pentru a prelucra minereul de aur.",
-              "thumbnailUrl": "./assets/img/attractions/article/romanGalleries/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/romanGalleries/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/2.jpg"
             },
             {
               "text": "Piatra Corbului Cârnic - aici sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
             },
             {
               "text": "Vizită la Galeriile romane Cârnic",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
             },
             {
               "text": "În centrul istoric vom descoperi bisericile, casele și obiceiurile aurarilor.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
             },
             {
               "text": "Vom vizita câteva tăuri și vom afla rolul lor în producția aurului. ",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/braziLake/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg"
             },
             {
               "text": "Pe traseu - punct de belvedere Cârnic.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             },
             {
               "text": "Vizită la galeriile de tip corandă.",
-              "thumbnailUrl": "./assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
+              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
             }
           ]
         },
@@ -120,18 +120,18 @@
           "images": [
             {
               "text": "Cariera Cetate - exploatări relizate în perioada comunistă pentru extracția aurului.",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/sphinx/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/sphinx/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/sphinx/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/sphinx/fullSize/2.jpg"
             },
             {
               "text": "Cariera Roșia Poieni - 24 de trepte de exploatare, fiecare de 15m înălțime.",
-              "thumbnailUrl": "./assets/img/attractions/article/copperPit/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/copperPit/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/copperPit/fullSize/1.jpg"
             },
             {
               "text": "Tur ghidat - Cariera de suprafață Roșia Poieni - accesul e permis doar la punctele de obesrvație.",
-              "thumbnailUrl": "./assets/img/attractions/article/copperPit/thumbnail/rosiaPoieniTourists.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/copperPit/fullSize/rosiaPoieniTourists.jpg"
+              "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/rosiaPoieniTourists.jpg",
+              "fullSize": "assets/img/attractions/article/copperPit/fullSize/rosiaPoieniTourists.jpg"
             }
           ]
         },
@@ -140,18 +140,18 @@
           "images": [
             {
               "text": "Geamăna - este înconjurată de un drum de ~20km lungime.",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/geamana/thumbnail/6.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/geamana/fullSize/6.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/6.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/6.jpg"
             },
             {
               "text": "Geamăna - din vechiul sat se mai vede turla bisericii și câteva gospodorii.",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/geamana/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/1.jpg"
             },
             {
               "text": "Mănăstire Lupșa - 1421",
-              "thumbnailUrl": "./assets/img/attractions/article/churches/lupsa/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/churches/lupsa/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/churches/lupsa/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/churches/lupsa/fullSize/1.jpg"
             }
           ]
         }

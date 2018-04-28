@@ -14,8 +14,8 @@
     "images": [
       {
         "text": "<b>Nastasia - Barcelona(SP)</b> -  la Casa Petri",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/1.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/1.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/1.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/1.jpg"
       }
     ]
   },
@@ -34,8 +34,8 @@
     "images": [
       {
         "text": "<b>Andreea - Brașov(RO)</b> -  la Casa Petri",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/2.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/2.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/2.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/2.jpg"
       }
     ]
   },
@@ -47,8 +47,8 @@
     "images": [
       {
         "text": "<b>Felicia - Satu Mare(RO)</b> -  la Casa Petri",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/3.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/3.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/3.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/3.jpg"
       }
     ]
   },
@@ -60,8 +60,8 @@
     "images": [
       {
         "text": "<b>Ana von Aether - Paris(FR)</b> -  cu prietenii la Fân Fest",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/4.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/4.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/4.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/4.jpg"
       }
     ]
   },
@@ -80,8 +80,8 @@
     "images": [
       {
         "text": "<b>Alex - Cluj(RO)</b> -  cu Sebi pe vârful Cârnic",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/5.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/5.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/5.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/5.jpg"
       }
     ]
   },
@@ -93,8 +93,8 @@
     "images": [
       {
         "text": "<b>Josefen - Copenhaga(DK)</b> - din caietul nostru cu impresii.",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/6.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/6.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/6.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/6.jpg"
       }
     ]
   },
@@ -113,8 +113,8 @@
     "images": [
       {
         "text": "<b>Alexandra - București(RO)</b> -  cu echipa maratonului pe Vârful Rotundu - Țarina",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/7.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/7.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/7.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/7.jpg"
       }
     ]
   },
@@ -133,8 +133,8 @@
     "images": [
       {
         "text": "<b>Ramona - Cluj(RO)</b> -  cu echipa ei la Fân Fest unde comercializează semințe țărănești",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/8.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/8.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/8.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/8.jpg"
       }
     ]
   },
@@ -146,8 +146,8 @@
     "images": [
       {
         "text": "<b>Sophie & Alma - Leipzig(DE)</b> - din caietul nostru cu impresii.",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/9.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/9.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/9.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/9.jpg"
       }
     ]
   },
@@ -159,8 +159,8 @@
     "images": [
       {
         "text": "<b>Livia - Cluj(RO)</b> - din caietul nostru cu impresii.",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/10.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/10.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/10.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/10.jpg"
       }
     ]
   },
@@ -179,8 +179,8 @@
     "images": [
       {
         "text": "<b>Shreya, Hoowen and Bran</b> - at a galass of Palinca with the locals",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/11.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/11.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/11.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/11.jpg"
       }
     ]
   },
@@ -192,8 +192,8 @@
     "images": [
       {
         "text": "<b>Valentina - Cluj(RO)</b> - din caietul nostru cu impresii.",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/12.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/12.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/12.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/12.jpg"
       }
     ]
   },
@@ -205,8 +205,8 @@
     "images": [
       {
         "text": "<b>Haowen - Taipei(Taiwan)</b> - mesaje.",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/13.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/13.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/13.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/13.jpg"
       }
     ]
   },
@@ -224,13 +224,13 @@
     "images": [
       {
         "text": "<b>Trupa de la Arad(RO)</b> -  în turul ghidat",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/15a.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/15a.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/15a.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/15a.jpg"
       },
       {
         "text": "<b>Trupa de la Arad(RO)</b> -  din caietul cu reviewuri",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/15b.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/15b.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/15b.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/15b.jpg"
       }
     ]
   },
@@ -242,13 +242,13 @@
     "images": [
       {
         "text": "Verena's group - Hamburg(DE)",
-        "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/16.jpg",
-        "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/16.jpg"
+        "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/16.jpg",
+        "fullSize": "assets/img/reviews/article/reviewer/fullSize/16.jpg"
       },
       {
         "text": "Verena's group - Hamburg(DE)",
-        "thumbnailUrl": "./assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
-        "fullSizeUrl": "./assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
+        "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
+        "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
       }
     ]
   }

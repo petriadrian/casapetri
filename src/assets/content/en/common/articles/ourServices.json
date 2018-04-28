@@ -6,18 +6,18 @@
     "images": [
       {
         "text": "A glass of 'țuica', before dinner at locals, with a group from Germany.",
-        "thumbnailUrl": "./assets/img/accommodation/article/food/thumbnail/restaurant.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/food/fullSize/restaurant.jpg"
+        "thumbnail": "assets/img/accommodation/article/food/thumbnail/restaurant.jpg",
+        "fullSize": "assets/img/accommodation/article/food/fullSize/restaurant.jpg"
       },
       {
         "text": "Our recommendation is to eat at the locals who offers homemade meals.",
-        "thumbnailUrl": "./assets/img/accommodation/article/food/thumbnail/mancare.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/food/fullSize/mancare.jpg"
+        "thumbnail": "assets/img/accommodation/article/food/thumbnail/mancare.jpg",
+        "fullSize": "assets/img/accommodation/article/food/fullSize/mancare.jpg"
       },
       {
         "text": "Each room has a small kitchen with fridge, microwave owen, kettle, dishes, cutlery, tea and coffee.",
-        "thumbnailUrl": "./assets/img/accommodation/article/rooms/common/thumbnail/kitchen.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/rooms/common/fullSize/kitchen.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/common/thumbnail/kitchen.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/common/fullSize/kitchen.jpg"
       }
     ]
   },
@@ -40,28 +40,28 @@
     "images": [
       {
         "text": "The historic center guided tour with a group from Romania.",
-        "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+        "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+        "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
       },
       {
         "text": "Guided tour to the natural sites and protected areas of Rosia Montana with a group from Germany.",
-        "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+        "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+        "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
       },
       {
         "text": "Guided tour to the mining open pits with a group from India.",
-        "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
+        "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
+        "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
       },
       {
         "text": "Guided bike trails to the main natural objectives from our area.",
-        "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
+        "thumbnail": "assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
+        "fullSize": "assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
       },
       {
         "text": "Guided bike trails - on the road we can stop and talk about the places we are passing by or for bike repairs assistance (if needed).",
-        "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_reparatii.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_reparatii.jpg"
+        "thumbnail": "assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_reparatii.jpg",
+        "fullSize": "assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_reparatii.jpg"
       }
     ]
   },
@@ -79,18 +79,18 @@
     "images": [
       {
         "text": "Books room - 4 persons",
-        "thumbnailUrl": "./assets/img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
       },
       {
         "text": "Little house room - 2 persons",
-        "thumbnailUrl": "./assets/img/accommodation/article/rooms/room2/thumbnail/littleHouseRoom.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/rooms/room2/fullSize/littleHouseRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/room2/thumbnail/littleHouseRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/room2/fullSize/littleHouseRoom.jpg"
       },
       {
         "text": "Upstairs room - 3 persons",
-        "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/upstairsRoom.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/upstairsRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/room3/thumbnail/upstairsRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/room3/fullSize/upstairsRoom.jpg"
       }
     ]
   },
@@ -108,18 +108,18 @@
     "images": [
       {
         "text": "Accommodation - Casa Petri (more images on the accommodation page)",
-        "thumbnailUrl": "./assets/img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
       },
       {
         "text": "Our recommendation is to take the lunch at locals who offers hot traditional meals.",
-        "thumbnailUrl": "./assets/img/accommodation/article/food/thumbnail/mancare.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/food/fullSize/mancare.jpg"
+        "thumbnail": "assets/img/accommodation/article/food/thumbnail/mancare.jpg",
+        "fullSize": "assets/img/accommodation/article/food/fullSize/mancare.jpg"
       },
       {
         "text": "The activities are optional. You can also lay in the garden hammock or walk with the bikes.",
-        "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/hammockBike.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/hammockBike.jpg"
+        "thumbnail": "assets/img/accommodation/article/outside/thumbnail/hammockBike.jpg",
+        "fullSize": "assets/img/accommodation/article/outside/fullSize/hammockBike.jpg"
       }
     ]
   },

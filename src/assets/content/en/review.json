@@ -2,12 +2,12 @@
   "metaData": {
     "title": "Reviews Casa Petri Rosia Montana",
     "text": "See the experiences and reviews from people who visited us. Some of them can be even contacted. You should also discover Rosia Montana through the hiking and bike trails which can be found on our website. Book rooms, bikes, guided tours or camping",
-    "displayOnShareImg": "/assets/img/reviews/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/reviews/presentation/displayOnShareImg.jpg"
   },
   "headline": {
     "title": "Reviews Casa Petri Rosia Montana",
     "videoSource": "",
-    "fullWidthImg": "./assets/img/reviews/presentation/fullWidthImg.jpg"
+    "img": "/assets/img/reviews/presentation/fullWidthImg.jpg"
   },
   "sections": [
     {

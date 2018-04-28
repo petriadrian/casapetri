@@ -4,7 +4,7 @@
     "headline": "Weekend at Rosia Montana",
     "descriptionTitle": "march - december | package",
     "text": "A package with 2 nights accommodation and a guided trail ~6h to the main cultural and natural objectives from Rosia",
-    "fullWidthImg": "./assets/img/packages/weekend/presentation/fullWidthImg.jpg",
+    "img": "/assets/img/packages/weekend/presentation/fullWidthImg.jpg",
     "smallBoxImg": "./assets/img/packages/weekend/presentation/smallBoxImg.jpg"
   },
   "url": {
@@ -14,7 +14,7 @@
   "metaData": {
     "title": "Weekend at Roșia Montană",
     "text": "The package includes 2 nights accommodation and a guided trail ~6h to the main cultural and natural objectives from Rosia Montana. More details and bookings here...",
-    "displayOnShareImg": "/assets/img/packages/weekend/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/packages/weekend/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -53,43 +53,43 @@
           "images": [
             {
               "text": "Guided trail - the historic center of Rosia Montana.",
-              "thumbnailUrl": "./assets/img/packages/weekend/article/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/packages/weekend/article/fullSize/1.jpg"
+              "thumbnail": "assets/img/packages/weekend/article/thumbnail/1.jpg",
+              "fullSize": "assets/img/packages/weekend/article/fullSize/1.jpg"
             },
             {
               "text": "The historic center churches.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
             },
             {
               "text": "Guided trail - Văidoaia gallery.",
-              "thumbnailUrl": "./assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
+              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
             },
             {
               "text": "We will visit some pounds and will find out their role in gold mining.",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
             },
             {
               "text": "We will have a break at the lookout points.",
-              "thumbnailUrl": "./assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
             },
             {
               "text": "On the trail.",
-              "thumbnailUrl": "./assets/img/packages/weekend/article/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/packages/weekend/article/fullSize/2.jpg"
+              "thumbnail": "assets/img/packages/weekend/article/thumbnail/2.jpg",
+              "fullSize": "assets/img/packages/weekend/article/fullSize/2.jpg"
             },
             {
               "text": "The Roman Galleries from Mining Museum",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
             },
             {
               "text": "Piatra Corbului - inside are some of the oldest galleries, made with a special technique.",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
             }
           ]
         },
@@ -99,13 +99,13 @@
           "images": [
             {
               "text": "The roman galleries (106 – 272 AD) built to extract gold.",
-              "thumbnailUrl": "./assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
             },
             {
               "text": "Stamp mills - the machines used to process the gold - Mining Museum.",
-              "thumbnailUrl": "./assets/img/attractions/article/romanGalleries/thumbnail/steampuri.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/romanGalleries/fullSize/steampuri.jpg"
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/steampuri.jpg",
+              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/steampuri.jpg"
             }
           ]
         },
@@ -122,18 +122,18 @@
           "images": [
             {
               "text": "With a group from Romania.",
-              "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/alexandra-postelnicu.jpg",
-              "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/alexandra-postelnicu.jpg"
+              "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/alexandra-postelnicu.jpg",
+              "fullSize": "assets/img/reviews/article/reviewer/fullSize/alexandra-postelnicu.jpg"
             },
             {
               "text": "With a group from Sweden.",
-              "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/simona-sweden.jpg",
-              "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/simona-sweden.jpg"
+              "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/simona-sweden.jpg",
+              "fullSize": "assets/img/reviews/article/reviewer/fullSize/simona-sweden.jpg"
             },
             {
               "text": "With a group from India and Taiwan.",
-              "thumbnailUrl": "./assets/img/reviews/article/reviewer/thumbnail/11.jpg",
-              "fullSizeUrl": "./assets/img/reviews/article/reviewer/fullSize/11.jpg"
+              "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/11.jpg",
+              "fullSize": "assets/img/reviews/article/reviewer/fullSize/11.jpg"
             }
           ]
         }

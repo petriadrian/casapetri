@@ -6,18 +6,18 @@
     "images": [
       {
         "text": "La un pahar de țuică, înainte de masa la localnici, cu un grup din Germania.",
-        "thumbnailUrl": "./assets/img/accommodation/article/food/thumbnail/restaurant.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/food/fullSize/restaurant.jpg"
+        "thumbnail": "assets/img/accommodation/article/food/thumbnail/restaurant.jpg",
+        "fullSize": "assets/img/accommodation/article/food/fullSize/restaurant.jpg"
       },
       {
         "text": "Recomandarea noastră este să luați masa la localnicii care oferă mese calde.",
-        "thumbnailUrl": "./assets/img/accommodation/article/food/thumbnail/mancare.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/food/fullSize/mancare.jpg"
+        "thumbnail": "assets/img/accommodation/article/food/thumbnail/mancare.jpg",
+        "fullSize": "assets/img/accommodation/article/food/fullSize/mancare.jpg"
       },
       {
         "text": "Fiecare cameră are o mică bucătărie cu frigider, cuptor cu microunde, fierbător, veselă, tacâmuri, ceai și cafea.",
-        "thumbnailUrl": "./assets/img/accommodation/article/rooms/common/thumbnail/kitchen.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/rooms/common/fullSize/kitchen.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/common/thumbnail/kitchen.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/common/fullSize/kitchen.jpg"
       }
     ]
   },
@@ -40,28 +40,28 @@
     "images": [
       {
         "text": "Traseu ghidat centrul istoric Roșia Montană cu un grup din Arad.",
-        "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+        "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+        "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
       },
       {
         "text": "Traseu ghidat spre obiective naturale și zone protejate Roșia Montană cu un grup din Germania.",
-        "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+        "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+        "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
       },
       {
         "text": "Traseu ghidat exploatări miniere cu un grup din India.",
-        "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
+        "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
+        "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
       },
       {
         "text": "Traseu ghidat pe bicicletă, spre obiectivele naturale, cu un grup din Romania.",
-        "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
+        "thumbnail": "assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
+        "fullSize": "assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
       },
       {
         "text": "Traseu ghidat pe bicicletă - din loc în loc ne oprim pentru a vă povesti despre locurile prin care trecem sau pentru asistență reparații bicicletă (dacă e cazul).",
-        "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_reparatii.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_reparatii.jpg"
+        "thumbnail": "assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_reparatii.jpg",
+        "fullSize": "assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_reparatii.jpg"
       }
     ]
   },
@@ -79,18 +79,18 @@
     "images": [
       {
         "text": "Camera cărților - 4 persoane.",
-        "thumbnailUrl": "./assets/img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
       },
       {
         "text": "Camera din căsuță - 2 persoane.",
-        "thumbnailUrl": "./assets/img/accommodation/article/rooms/room2/thumbnail/littleHouseRoom.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/rooms/room2/fullSize/littleHouseRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/room2/thumbnail/littleHouseRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/room2/fullSize/littleHouseRoom.jpg"
       },
       {
         "text": "Camera din târnaț - 3 persoane.",
-        "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/upstairsRoom.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/upstairsRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/room3/thumbnail/upstairsRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/room3/fullSize/upstairsRoom.jpg"
       }
     ]
   },
@@ -108,18 +108,18 @@
     "images": [
       {
         "text": "Cazare - Casa Petri (mai multe imagini pe pagina de cazare)",
-        "thumbnailUrl": "./assets/img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
       },
       {
         "text": "Recomandarea noastră este să luați prânzul la localnicii care oferă mese calde.",
-        "thumbnailUrl": "./assets/img/accommodation/article/food/thumbnail/mancare.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/food/fullSize/mancare.jpg"
+        "thumbnail": "assets/img/accommodation/article/food/thumbnail/mancare.jpg",
+        "fullSize": "assets/img/accommodation/article/food/fullSize/mancare.jpg"
       },
       {
         "text": "Participarea e opțională. Puteți lenevi în grădină în hamac sau să mergeți la o plimbare cu bicicleta.",
-        "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/hammockBike.jpg",
-        "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/hammockBike.jpg"
+        "thumbnail": "assets/img/accommodation/article/outside/thumbnail/hammockBike.jpg",
+        "fullSize": "assets/img/accommodation/article/outside/fullSize/hammockBike.jpg"
       }
     ]
   },

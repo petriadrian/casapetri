@@ -38,7 +38,7 @@ export class SectionManagementComponent implements AfterViewInit {
     this.metaService.updateTag({content: this.urlService.getFullUrl()}, 'property=\'og:url\'');
     this.metaService.updateTag({content: (res as any).metaData.title}, 'property=\'og:title\'');
     this.metaService.updateTag({content: (res as any).metaData.text}, 'property=\'og:description\'');
-    this.metaService.updateTag({content: this.urlService.getHostName() + (res as any).metaData.displayOnShareImg}, 'property=\'og:image\'');
+    this.metaService.updateTag({content: this.urlService.getHostName() + (res as any).metaData.img}, 'property=\'og:image\'');
   }
 
   ngAfterViewInit(): void {

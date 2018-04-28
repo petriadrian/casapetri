@@ -1,13 +1,13 @@
 {
   "metaData": {
-    "title": "Evenimente - Roșia Montană",
-    "text": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și alte activități.",
+    "title": "Photoblog - Roșia Montană",
+    "text": "Articole cu imagini din zona noastră.",
     "img": "/assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
   },
   "headline": {
-    "title": "Evenimente Roșia Montană",
+    "title": "Photoblog - Roșia Montană",
     "videoSource": "",
-    "img": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
+    "img": "/assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
   },
   "sections": [
     {
@@ -20,7 +20,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și alte activități."
+          "text": "Articole cu imagini din zona noastră."
         }
       ]
     },
@@ -28,56 +28,20 @@
       "type": "linkToOtherPages",
       "otherPages": [
         {
-          "title": "1 Mai",
-          "text": "<b>27.04 - 01.05 |</b> În mini vacanta de 1 Mai te asteptam la Roșia Montană cu tururi  ghidate, proiecții, plimbări cu mocănița și ... mici și bere.",
-          "img": "assets/img/events/firstMai/presentation/smallBoxImg.jpg",
+          "title": "Iarna la Roșia",
+          "text": "Satul capătă o nouă înfățișare pe timp de iarnă. Vezi cum arată o drumeție ușoară cu peisaje de poveste",
+          "img": "assets/img/photoblog/winterWalks/presentation/smallBoxImg.jpg",
           "url": {
-            "link": "ro/events/firstmay",
+            "link": "ro/photoblog/winterWalks",
             "textOnMouseOver": "Vezi mai mult..."
           }
         },
         {
-          "title": "La narcise",
-          "text": "<b>11 - 13.05 |</b> Tur ghidat spre un loc magic din Apuseni cu peisaje și miros de neiuitat 'Poiana cu Narcise', apoi vizităm Roșia Montană.",
-          "img": "assets/img/events/narcise/presentation/smallBoxImg.jpg",
+          "title": "Cluj - Rosia",
+          "text": "Drumul de la Cluj la Roșia, pe albia râului Arieș oferă peisaje și locuri deosebite",
+          "img": "assets/img/photoblog/clujRosia/presentation/smallBoxImg.jpg",
           "url": {
-            "link": "ro/events/narcise11-13may",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
-        },
-        {
-          "title": "La narcise",
-          "text": "<b>18 - 20.05 |</b> Tur ghidat spre un loc magic din Apuseni cu peisaje și miros de neiuitat 'Poiana cu Narcise', apoi vizităm Roșia Montană.",
-          "img": "assets/img/events/narcise/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "ro/events/narcise18-20may",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
-        },
-        {
-          "title": "La narcise",
-          "text": "<b>25 - 28.05 |</b> Tur ghidat spre un loc magic din Apuseni cu peisaje și miros de neiuitat 'Poiana cu Narcise', apoi vizităm Roșia Montană.",
-          "img": "assets/img/events/narcise/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "ro/events/narcise",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
-        },
-        {
-          "title": "La Detunata",
-          "text": "<b>8 - 10.06 |</b> Tur ghidat spre un loc cu legende și peisaje deosebite 'Masivul de bazalt Detunata', apoi vizităm Roșia Montană.",
-          "img": "assets/img/events/detunata/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "ro/events/detunata8-10june",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
-        },
-        {
-          "title": "La fân",
-          "text": "<b>23 - 26.08 |</b> Conectează-te la natură și viața moților luând parte la strânsul fânului pentru iernat, ridicarea căpițelor și mulsul vacilor.",
-          "img": "assets/img/events/hayDays/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "ro/events/haydays",
+            "link": "ro/photoblog/clujRosia",
             "textOnMouseOver": "Vezi mai mult..."
           }
         }

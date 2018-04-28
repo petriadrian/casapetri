@@ -2,12 +2,12 @@
   "metaData": {
     "title": "Review-uri Casa Petri Rosia Montana",
     "text": "Oameni faini, de la care am avut multe de învățat, ne-au trecut pragul.",
-    "displayOnShareImg": "/assets/img/reviews/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/reviews/presentation/displayOnShareImg.jpg"
   },
   "headline": {
     "title": "Crestem împreună cu cei ce ne trec pragul",
     "videoSource": "",
-    "fullWidthImg": "./assets/img/reviews/presentation/fullWidthImg.jpg"
+    "img": "/assets/img/reviews/presentation/fullWidthImg.jpg"
   },
   "sections": [
     {

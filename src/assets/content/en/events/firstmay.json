@@ -2,12 +2,12 @@
   "metaData": {
     "title": "1 Mai weekend at Roșia Montană | event",
     "text": "Guided tours (the historic center, the roman galleries, the monuments of nature), movie screenings and steam train rides.",
-    "displayOnShareImg": "/assets/img/events/firstMai/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/events/firstMai/presentation/displayOnShareImg.jpg"
   },
   "headline": {
     "title": "1st of May in Roșia Montană",
     "videoSource": "",
-    "fullWidthImg": "./assets/img/events/firstMai/presentation/fullWidthImg.jpg"
+    "img": "/assets/img/events/firstMai/presentation/fullWidthImg.jpg"
   },
   "sections": [
     {
@@ -35,23 +35,23 @@
           "images": [
             {
               "text": "Guided tour - historic center.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
             },
             {
               "text": "Rosia Montana.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
             },
             {
               "text": "Mining Museum - Roman Galleries (106 AD).",
-              "thumbnailUrl": "./assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
             },
             {
               "text": "Resting place with a view on the trail.",
-              "thumbnailUrl": "./assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
             }
           ]
         },
@@ -60,13 +60,13 @@
           "images": [
             {
               "text": "Movie screening in the garden",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
             },
             {
               "text": "Images from the movie screening",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
             }
           ]
         },
@@ -76,18 +76,18 @@
           "images": [
             {
               "text": "The Roman Galleries - Cârnic",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
             },
             {
               "text": "Raven Stone - natural reservation. Here are the oldest galleries in Rosia Montana, made with a special technique.",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
             },
             {
               "text": "Văidoaia gallery.",
-              "thumbnailUrl": "./assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
+              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
             }
           ]
         },
@@ -100,18 +100,18 @@
           "images": [
             {
               "text": "<b>Detunata</b> - through the basalt block, into the middle of the pine forest is a small glacier.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
             },
             {
               "text": "<b>The view from Detunata</b> - towards the 'Motilor' land.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
             },
             {
               "text": "A resting spot on the trail.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             }
           ]
         },
@@ -120,8 +120,8 @@
           "images": [
             {
               "text": "Evening with 'mici' and beer.",
-              "thumbnailUrl": "./assets/img/events/firstMai/article/thumbnail/miciSiBere.jpg",
-              "fullSizeUrl": "./assets/img/events/firstMai/article/fullSize/miciSiBere.jpg"
+              "thumbnail": "assets/img/events/firstMai/article/thumbnail/miciSiBere.jpg",
+              "fullSize": "assets/img/events/firstMai/article/fullSize/miciSiBere.jpg"
             }
           ]
         },
@@ -148,13 +148,13 @@
           "images": [
             {
               "text": "With the steam train along the Apuseni mountains",
-              "thumbnailUrl": "./assets/img/attractions/article/steamTrain/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/steamTrain/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/steamTrain/fullSize/1.jpg"
             },
             {
               "text": "With the steam train along the Apuseni mountains",
-              "thumbnailUrl": "./assets/img/attractions/article/steamTrain/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/steamTrain/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/steamTrain/fullSize/2.jpg"
             }
           ]
         }

@@ -2,14 +2,14 @@
   "metaData": {
     "title": "Roșia Montană | cazare | trasee | biciclete | drumeții",
     "text": "Cazare într-o casă renovată, de patrimoniu din Centrul Istoric. Trasee de drumeție sau bicicletă spre galerii romane, zone miniere, clădiri de patrimoniu, lacuri și munții din zonă. Rezervă biciclete sau trasee ghidate. Încheie ziua în hamac răsfoind o carte din biblioteca noastră. Roșia Montana, jud. Alba, Munții Apuseni, Transilvania, Romania",
-    "displayOnShareImg": "/assets/img/homePage/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/homePage/presentation/displayOnShareImg.jpg"
   },
   "sections": [
     {
       "type": "carousel",
       "slides": [
         {
-          "img": "./assets/img/attractions/presentation/fullWidthImg.jpg",
+          "img": "assets/img/attractions/presentation/fullWidthImg.jpg",
           "title": "Ai ce vizita la Roșia Montană!",
           "text": "",
           "url": {
@@ -18,7 +18,7 @@
           }
         },
         {
-          "img": "./assets/img/attractions/article/romanGalleries/fullSize/1.jpg",
+          "img": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg",
           "title": "Roșia Montană e istorie",
           "text": "",
           "url": {
@@ -27,7 +27,7 @@
           }
         },
         {
-          "img": "./assets/img/attractions/article/panoramicBench/fullSize/1.jpg",
+          "img": "assets/img/attractions/article/panoramicBench/fullSize/1.jpg",
           "title": "Roșia Montană e patrimoniu",
           "text": "",
           "url": {
@@ -36,7 +36,7 @@
           }
         },
         {
-          "img": "./assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg",
+          "img": "assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg",
           "title": "Roșia Montană e natură",
           "text": "",
           "url": {
@@ -45,7 +45,7 @@
           }
         },
         {
-          "img": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg",
+          "img": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg",
           "title": "Roșia Montană e aventură",
           "text": "",
           "url": {
@@ -54,7 +54,7 @@
           }
         },
         {
-          "img": "./assets/img/attractions/article/lakes/bigLake/fullSize/bike.jpg",
+          "img": "assets/img/attractions/article/lakes/bigLake/fullSize/bike.jpg",
           "title": "Roșia Montană e vacanță",
           "text": "",
           "url": {
@@ -63,7 +63,7 @@
           }
         },
         {
-          "img": "./assets/img/accommodation/article/outside/fullSize/tarnat.jpg",
+          "img": "assets/img/accommodation/article/outside/fullSize/tarnat.jpg",
           "title": "Casa Petri - un loc aparte în Roșia Montană",
           "text": "",
           "url": {
@@ -117,7 +117,7 @@
         {
           "title": "Cazare",
           "text": "<b>Camere, campare - rezervări</b> <br>într-o casă de patrimoniu din centrul istoric Roșia Montană. Camerele au băi și bucătărie propie iar în grădină avem foișor și hamace",
-          "img": "./assets/img/accommodation/shortcut/cazare.jpg",
+          "img": "assets/img/accommodation/shortcut/cazare.jpg",
           "url": {
             "link": "ro/accommodation#rooms",
             "textOnMouseOver": "Click aici..."
@@ -126,7 +126,7 @@
         {
           "title": "Trasee ghidate",
           "text": "<b>Pe jos sau cu bicicleta</b><br>Ținem legătura cu localnici ce organizează trasee ghidate. Vă recomandăm să vizitați Roșia împreună cu un ghid",
-          "img": "./assets/img/accommodation/shortcut/guides.jpg",
+          "img": "assets/img/accommodation/shortcut/guides.jpg",
           "url": {
             "link": "ro/accommodation#guide",
             "textOnMouseOver": "Click aici..."
@@ -135,7 +135,7 @@
         {
           "title": "Biciclete",
           "text": "<b>Închirieri, reparații, trasee</b><br>Avem biciclete de închiriat și un mic garaj pentru reparații sau oferim trasee ghidate pe bicicletă",
-          "img": "./assets/img/accommodation/shortcut/bikes.jpg",
+          "img": "assets/img/accommodation/shortcut/bikes.jpg",
           "url": {
             "link": "ro/accommodation#facilities",
             "textOnMouseOver": "Click aici..."
@@ -179,7 +179,7 @@
         {
           "title": "1 Mai",
           "text": "<b>27.04 - 01.05 |</b> În mini vacanta de 1 Mai te asteptam la Roșia Montană cu tururi  ghidate, proiecții, plimbări cu mocănița și ... mici și bere.",
-          "img": "./assets/img/events/firstMai/presentation/smallBoxImg.jpg",
+          "img": "assets/img/events/firstMai/presentation/smallBoxImg.jpg",
           "url": {
             "link": "ro/events/firstmay",
             "textOnMouseOver": "Vezi mai mult..."
@@ -188,7 +188,7 @@
         {
           "title": "La narcise",
           "text": "<b>18 - 20.05 |</b> Tur ghidat spre un loc magic din Apuseni cu peisaje și miros de neiuitat 'Poiana cu Narcise', apoi vizităm Roșia Montană.",
-          "img": "./assets/img/events/narcise/presentation/smallBoxImg.jpg",
+          "img": "assets/img/events/narcise/presentation/smallBoxImg.jpg",
           "url": {
             "link": "ro/events/narcise18-20may",
             "textOnMouseOver": "Vezi mai mult..."
@@ -197,7 +197,7 @@
         {
           "title": "La Detunata",
           "text": "<b>8 - 10.06 |</b> Tur ghidat spre un loc cu legende și peisaje deosebite 'Masivul de bazalt Detunata', apoi vizităm Roșia Montană.",
-          "img": "./assets/img/events/detunata/presentation/smallBoxImg.jpg",
+          "img": "assets/img/events/detunata/presentation/smallBoxImg.jpg",
           "url": {
             "link": "ro/events/detunata8-10june",
             "textOnMouseOver": "Vezi mai mult..."
@@ -206,7 +206,7 @@
         {
           "title": "Alte evenimente",
           "text": "Vezi aici și alte evenimente pe care le organizăm în zona noastră.",
-          "img": "./assets/img/common/smallBoxImgMore.jpg",
+          "img": "assets/img/common/smallBoxImgMore.jpg",
           "url": {
             "link": "ro/events/all",
             "textOnMouseOver": "Vezi mai mult..."
@@ -249,7 +249,7 @@
         {
           "title": "Iarna la Roșia",
           "text": "Satul capătă o nouă înfățișare pe timp de iarnă. Vezi cum arată o drumeție ușoară cu peisaje de poveste",
-          "img": "./assets/img/photoblog/winterWalks/presentation/smallBoxImg.jpg",
+          "img": "assets/img/photoblog/winterWalks/presentation/smallBoxImg.jpg",
           "url": {
             "link": "ro/photoblog/winterWalks",
             "textOnMouseOver": "Vezi mai mult..."
@@ -258,7 +258,7 @@
         {
           "title": "Cluj - Rosia",
           "text": "Drumul de la Cluj la Roșia, pe albia râului Arieș oferă peisaje și locuri deosebite",
-          "img": "./assets/img/photoblog/clujRosia/presentation/smallBoxImg.jpg",
+          "img": "assets/img/photoblog/clujRosia/presentation/smallBoxImg.jpg",
           "url": {
             "link": "ro/photoblog/clujRosia",
             "textOnMouseOver": "Vezi mai mult..."

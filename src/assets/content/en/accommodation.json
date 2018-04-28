@@ -2,11 +2,11 @@
   "metaData": {
     "title": "Accommodation Rosia Montana",
     "text": "Stay in a heritage house from the Historic Center of Roșia Montana, recently renovated with bathrooms and kitchen access. See also the hiking and bike trails to discover our area: roman galleries, gold mining industry, patrimony buildings, mountains, lakes and many more. Rosia Montana, Alba, Apuseni Mountains, Transylvania - Romania.",
-    "displayOnShareImg": "/assets/img/accommodation/presentation/displayOnShareImg.jpg"
+    "img": "assets/img/accommodation/presentation/displayOnShareImg.jpg"
   },
   "headline": {
     "title": "Plan your visit to Roșia Montană",
-    "fullWidthImg": "./assets/img/accommodation/presentation/fullWidthImg.jpg"
+    "img": "assets/img/accommodation/presentation/fullWidthImg.jpg"
   },
   "sections": [
     {
@@ -32,23 +32,23 @@
           "images": [
             {
               "text": "Books room - We transformed a cupboard into a library with old books, guides about Rosia Montana and board games.",
-              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room1/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room1/fullSize/1.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/room1/thumbnail/1.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/room1/fullSize/1.jpg"
             },
             {
               "text": "Books room - beds",
-              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room1/thumbnail/beds.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room1/fullSize/beds.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/room1/thumbnail/beds.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/room1/fullSize/beds.jpg"
             },
             {
               "text": "Books room - In the showcase are old photos and crystal clusters rocks.",
-              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room1/thumbnail/details.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room1/fullSize/details.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/room1/thumbnail/details.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/room1/fullSize/details.jpg"
             },
             {
               "text": "Books room - private bathroom and kitchenette (equipped with: coffee/tea machine, fridge, microwave, dishes and cutlery).",
-              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room1/thumbnail/bathAndKitchen.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room1/fullSize/bathAndKitchen.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/room1/thumbnail/bathAndKitchen.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/room1/fullSize/bathAndKitchen.jpg"
             }
           ]
         }
@@ -63,23 +63,23 @@
           "images": [
             {
               "text": "Little house room - the outside - has <b>separate entrance</b> from the yard.",
-              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room2/thumbnail/7.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room2/fullSize/7.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/room2/thumbnail/7.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/room2/fullSize/7.jpg"
             },
             {
               "text": "Little house room - The beds can be joined. The library contains maps, books and guides about Roșia Montană",
-              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room2/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room2/fullSize/2.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/room2/thumbnail/2.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/room2/fullSize/2.jpg"
             },
             {
               "text": "Little house room - the entrance in the private bathroom and kitchen are directly from the room. The heating is done by a terracotta stove on woods.",
-              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room2/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room2/fullSize/3.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/room2/thumbnail/3.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/room2/fullSize/3.jpg"
             },
             {
               "text": "Little house room - private bathroom and kitchenette (equipped with: coffee/tea machine, fridge, hob, sink, microwave, dishes and cutlery).",
-              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/bathAndKitchen.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/bathAndKitchen.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/room3/thumbnail/bathAndKitchen.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/room3/fullSize/bathAndKitchen.jpg"
             }
           ]
         }
@@ -94,23 +94,23 @@
           "images": [
             {
               "text": "The Upstairs room - the double bed can be separated. The painting was made in 1960 and is very well preserved",
-              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/room.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/room.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/room3/thumbnail/room.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/room3/fullSize/room.jpg"
             },
             {
               "text": "The Upstairs room - a relaxing area with a chic coffee table and many places with old books.",
-              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/hallway.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/hallway.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/room3/thumbnail/hallway.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/room3/fullSize/hallway.jpg"
             },
             {
               "text": "The Upstairs room - places with old books, vinyls and newspapers and magazines about Rosia Montana.",
-              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/booksPlaces.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/booksPlaces.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/room3/thumbnail/booksPlaces.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/room3/fullSize/booksPlaces.jpg"
             },
             {
               "text": "The Upstairs room - private bathroom and kitchenette (equipped with: coffee/tea machine, fridge, microwave, dishes and cutlery).",
-              "thumbnailUrl": "./assets/img/accommodation/article/rooms/room3/thumbnail/bathAndKitchen.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/rooms/room3/fullSize/bathAndKitchen.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/room3/thumbnail/bathAndKitchen.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/room3/fullSize/bathAndKitchen.jpg"
             }
           ]
         },
@@ -134,18 +134,18 @@
           "images": [
             {
               "text": "Our yard - We have some hammocks to rest after a long hike, read, enjoy the Cârnic view or surf on the internet (there is wifi too).",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/hammock.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/hammock.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/hammock.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/hammock.jpg"
             },
             {
               "text": "Our yard - The gazebo is the perfect place for chatting, to play board games or to eat before going out for a hike.",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gazebo.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gazebo.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gazebo.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gazebo.jpg"
             },
             {
               "text": "Casa Petri - view from the street.",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/house.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/house.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/house.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/house.jpg"
             }
           ]
         }
@@ -166,13 +166,13 @@
           "images": [
             {
               "text": "Camping area fro the yard",
-              "thumbnailUrl": "./assets/img/accommodation/article/camping/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/camping/fullSize/1.jpg"
+              "thumbnail": "assets/img/accommodation/article/camping/thumbnail/1.jpg",
+              "fullSize": "assets/img/accommodation/article/camping/fullSize/1.jpg"
             },
             {
               "text": "Camping area fro the yard",
-              "thumbnailUrl": "./assets/img/accommodation/article/camping/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/camping/fullSize/2.jpg"
+              "thumbnail": "assets/img/accommodation/article/camping/thumbnail/2.jpg",
+              "fullSize": "assets/img/accommodation/article/camping/fullSize/2.jpg"
             }
           ]
         },
@@ -212,18 +212,18 @@
           "images": [
             {
               "text": "We rent bikes or we can organize guided tours on bikes with mechanical assistance on the trail.",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/bikes.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/bikes.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/bikes.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/bikes.jpg"
             },
             {
               "text": "Movie screenings in the garden - usually we play movies with the past of our village.",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
             },
             {
               "text": "We have equipment for badminton, tennis, football or sleighing. Beside the house is a playground, a slight slope and at ~15min is a synthetic field.",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/childrenPark-tennis-sleight.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/childrenPark-tennis-sleight.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/childrenPark-tennis-sleight.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/childrenPark-tennis-sleight.jpg"
             }
           ]
         }

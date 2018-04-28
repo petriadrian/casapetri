@@ -3,7 +3,7 @@
     "title": "Weekend break",
     "headline": "Weekend break - Roșia Montană",
     "text": "Include rezervarea unei camere de <b>2 persoane pe 2 nopți</b> și un <b>traseu ghidat</b> de 6 ore spre principalele obiective culturale și naturale din Roșia Montană.",
-    "fullWidthImg": "./assets/img/packages/weekend/presentation/fullWidthImg.jpg",
+    "img": "/assets/img/packages/weekend/presentation/fullWidthImg.jpg",
     "smallBoxImg": "./assets/img/packages/weekend/presentation/smallBoxImg.jpg"
   },
   "url": {
@@ -13,7 +13,7 @@
   "metaData": {
     "title": "Weekend break - Roșia Montană",
     "text": "Include rezervarea unei camere de 2 persoane pentru 2 nopți și un traseu ghidat de 6 ore în Roșia Montană într-o perioadă din anul 2017. Voucherul va fi primit pe e-mail în format pdf și poate fi printat pentru a fi oferit cadou. Detalii și rezervări aici...",
-    "displayOnShareImg": "/assets/img/packages/weekend/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/packages/weekend/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -33,48 +33,48 @@
           "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
-              "thumbnailUrl": "./assets/img/packages/weekend/article/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/packages/weekend/article/fullSize/1.jpg"
+              "thumbnail": "assets/img/packages/weekend/article/thumbnail/1.jpg",
+              "fullSize": "assets/img/packages/weekend/article/fullSize/1.jpg"
             },
             {
               "text": "Tur ghidat - galeria Văidoaia.",
-              "thumbnailUrl": "./assets/img/packages/weekend/article/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/packages/weekend/article/fullSize/3.jpg"
+              "thumbnail": "assets/img/packages/weekend/article/thumbnail/3.jpg",
+              "fullSize": "assets/img/packages/weekend/article/fullSize/3.jpg"
             },
             {
               "text": "Vizităm câteva tăuri artificiale (lacuri) și aflăm care era rolul lor.",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
             },
             {
               "text": "Popas cu priveliște.",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/carnicPlateau/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/carnicPlateau/fullSize/3.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/carnicPlateau/thumbnail/3.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/carnicPlateau/fullSize/3.jpg"
             },
             {
               "text": "Pe traseu spre Tăul Mare.",
-              "thumbnailUrl": "./assets/img/packages/weekend/article/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/packages/weekend/article/fullSize/2.jpg"
+              "thumbnail": "assets/img/packages/weekend/article/thumbnail/2.jpg",
+              "fullSize": "assets/img/packages/weekend/article/fullSize/2.jpg"
             },
             {
               "text": "Opțional se poate vizita Muzeul Mineritului unde au loc tururi ghidate a galeriilor romane din adâncul masivului Orlea.",
-              "thumbnailUrl": "./assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
             },
             {
               "text": "Proiecții de imagini și filme în curtea Casei Petri despre trecutul și protestele din Roșia Montană.",
-              "thumbnailUrl": "./assets/img/packages/common/article/thumbnail/4.jpg",
-              "fullSizeUrl": "./assets/img/packages/common/article/fullSize/4.jpg"
+              "thumbnail": "assets/img/packages/common/article/thumbnail/4.jpg",
+              "fullSize": "assets/img/packages/common/article/fullSize/4.jpg"
             },
             {
               "text": "Curtea casei are un foișor cu loc pentru făcut grătar și hamace unde vă puteți relaxa sau citi carți din biblioteca noastră.",
-              "thumbnailUrl": "./assets/img/packages/common/article/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/packages/common/article/fullSize/3.jpg"
+              "thumbnail": "assets/img/packages/common/article/thumbnail/3.jpg",
+              "fullSize": "assets/img/packages/common/article/fullSize/3.jpg"
             },
             {
               "text": "Cazarea se face în camere de 2 persoane cu bai private și acces la bucătărie.",
-              "thumbnailUrl": "./assets/img/packages/common/article/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/packages/common/article/fullSize/1.jpg"
+              "thumbnail": "assets/img/packages/common/article/thumbnail/1.jpg",
+              "fullSize": "assets/img/packages/common/article/fullSize/1.jpg"
             }
           ]
         }

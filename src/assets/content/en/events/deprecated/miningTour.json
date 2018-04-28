@@ -4,7 +4,7 @@
     "headline": "Roșia Montană mining evolution tour",
     "descriptionTitle": "28-31 july | package",
     "text": "Guided tour: mining evolution (from mining galleries of 2000 years old to open pits and waste pounds",
-    "fullWidthImg": "./assets/img/packages/miningTour/presentation/fullWidthImg.jpg",
+    "img": "/assets/img/packages/miningTour/presentation/fullWidthImg.jpg",
     "smallBoxImg": "./assets/img/packages/miningTour/presentation/smallBoxImg.jpg"
   },
   "url": {
@@ -14,7 +14,7 @@
   "metaData": {
     "title": "Roșia Montană mining evolution tour | 28-31 july",
     "text": "Hiking guided tour - mining evolution (from mining galleries of 2000 years old to open pits and waste pounds (Roșia Poieni and Geamăna). The package also includes movie screenings, accommodation and food. More details here...",
-    "displayOnShareImg": "/assets/img/packages/miningTour/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/packages/miningTour/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -55,13 +55,13 @@
           "images": [
             {
               "text": "Movie screening in the garden",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
             },
             {
               "text": "Images form the movie screening.",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
             }
           ]
         },
@@ -71,43 +71,43 @@
           "images": [
             {
               "text": "The Roman galleries (106 – 272 AD)",
-              "thumbnailUrl": "./assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
             },
             {
               "text": "The installations used to process the gold.",
-              "thumbnailUrl": "./assets/img/attractions/article/romanGalleries/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/romanGalleries/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/2.jpg"
             },
             {
               "text": "The Raven Stone Cârnic - here some of the oldest galleries in the area build with a special technique",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
             },
             {
               "text": "The Roman galleries from Cârnic",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
             },
             {
               "text": "In the historic center we will discover the churches, the houses and the habits of the goldsmiths.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
             },
             {
               "text": "We will visit some of the lakes from the area and will find their role in the gold mining. ",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/braziLake/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg"
             },
             {
               "text": "On the trail - Cârnic.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             },
             {
               "text": "The 'corandă' galleries visit.",
-              "thumbnailUrl": "./assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
+              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
             }
           ]
         },
@@ -120,18 +120,18 @@
           "images": [
             {
               "text": "The Cetate open pit - mining marks made during communism period to extract the gold",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/sphinx/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/sphinx/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/sphinx/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/sphinx/fullSize/2.jpg"
             },
             {
               "text": "The Roșia Poieni open pit - 24 floors, each 15m high.",
-              "thumbnailUrl": "./assets/img/attractions/article/copperPit/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/copperPit/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/copperPit/fullSize/1.jpg"
             },
             {
               "text": "Guided tour - Roșia Poieni - the acces is allowed only from observation points.",
-              "thumbnailUrl": "./assets/img/attractions/article/copperPit/thumbnail/rosiaPoieniTourists.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/copperPit/fullSize/rosiaPoieniTourists.jpg"
+              "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/rosiaPoieniTourists.jpg",
+              "fullSize": "assets/img/attractions/article/copperPit/fullSize/rosiaPoieniTourists.jpg"
             }
           ]
         },
@@ -140,18 +140,18 @@
           "images": [
             {
               "text": "Geamăna - the rood around it is ~20km long.",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/geamana/thumbnail/6.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/geamana/fullSize/6.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/6.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/6.jpg"
             },
             {
               "text": "Geamăna - only the tower of the church can be seen now from the old village.",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/geamana/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/1.jpg"
             },
             {
               "text": "Lupșa Monastery - 1421 AD",
-              "thumbnailUrl": "./assets/img/attractions/article/churches/lupsa/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/churches/lupsa/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/churches/lupsa/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/churches/lupsa/fullSize/1.jpg"
             }
           ]
         }

@@ -2,11 +2,11 @@
   "metaData": {
     "title": "Adunatul fânului cu fermierii din Apuseni | event",
     "text": "Conectează-te la natură și la viața moților luând parte la strânsul fânului pentru iernat, ridicarea căpițelor și mulsul vacilor. Descoperă tradiția străveche din Apuseni împreună cu fermierii din Rosia Montana, Transylvania în perioada 28-31 Iulie.",
-    "displayOnShareImg": "/assets/img/events/hayDays/presentation/displayOnShareImg_ro.jpg"
+    "img": "/assets/img/events/hayDays/presentation/displayOnShareImg_ro.jpg"
   },
   "headline": {
     "title": "Adunatul fânului cu fermierii din Apuseni",
-    "fullWidthImg": "./assets/img/events/hayDays/presentation/fullWidthImg.jpg"
+    "img": "/assets/img/events/hayDays/presentation/fullWidthImg.jpg"
   },
   "sections": [
     {
@@ -23,58 +23,58 @@
           "images": [
             {
               "text": "Fânul uscat se greblează și se adună în mici brazde pentru a fi mai ușor de transportat.",
-              "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/1.jpg"
+              "thumbnail": "assets/img/events/hayDays/article/thumbnail/1.jpg",
+              "fullSize": "assets/img/events/hayDays/article/fullSize/1.jpg"
             },
             {
               "text": "Brazdele se adună cu caii și este dus în locurile mai stabile unde se fac clăile.",
-              "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/2.jpg"
+              "thumbnail": "assets/img/events/hayDays/article/thumbnail/2.jpg",
+              "fullSize": "assets/img/events/hayDays/article/fullSize/2.jpg"
             },
             {
               "text": "Odată ce claia e gata, cel mai voinic se va urca pe ea pentru a-i pune o coroniță de fân în vârf.",
-              "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/3.jpg"
+              "thumbnail": "assets/img/events/hayDays/article/thumbnail/3.jpg",
+              "fullSize": "assets/img/events/hayDays/article/fullSize/3.jpg"
             },
             {
               "text": "Astfel se formează cât mai multe clăi.",
-              "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/4.jpg",
-              "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/4.jpg"
+              "thumbnail": "assets/img/events/hayDays/article/thumbnail/4.jpg",
+              "fullSize": "assets/img/events/hayDays/article/fullSize/4.jpg"
             },
             {
               "text": "Strânsul fânului e distractiv și educativ pentru cei mici.",
-              "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/5.jpg",
-              "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/5.jpg"
+              "thumbnail": "assets/img/events/hayDays/article/thumbnail/5.jpg",
+              "fullSize": "assets/img/events/hayDays/article/fullSize/5.jpg"
             },
             {
               "text": "Câmpul pregătit de cosit.",
-              "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/6.jpg",
-              "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/6.jpg"
+              "thumbnail": "assets/img/events/hayDays/article/thumbnail/6.jpg",
+              "fullSize": "assets/img/events/hayDays/article/fullSize/6.jpg"
             },
             {
               "text": "Între timp, văcuțele pasc pe ogor cât e vara de lungă, iar la iarnă se vor hrăni cu fân.",
-              "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/7.jpg",
-              "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/7.jpg"
+              "thumbnail": "assets/img/events/hayDays/article/thumbnail/7.jpg",
+              "fullSize": "assets/img/events/hayDays/article/fullSize/7.jpg"
             },
             {
               "text": "Seara participăm la mulsul vacilor.",
-              "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/8.jpg",
-              "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/8.jpg"
+              "thumbnail": "assets/img/events/hayDays/article/thumbnail/8.jpg",
+              "fullSize": "assets/img/events/hayDays/article/fullSize/8.jpg"
             },
             {
               "text": "La fermă.",
-              "thumbnailUrl": "./assets/img/events/hayDays/article/thumbnail/vitel.jpg",
-              "fullSizeUrl": "./assets/img/events/hayDays/article/fullSize/vitel.jpg"
+              "thumbnail": "assets/img/events/hayDays/article/thumbnail/vitel.jpg",
+              "fullSize": "assets/img/events/hayDays/article/fullSize/vitel.jpg"
             },
             {
               "text": "Într-una din zile vom organiza un traseu ghidat localitatea cu obiceurile și istoria ei printr-un traseu ghidat.",
-              "thumbnailUrl": "./assets/img/events/common/article/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/events/common/article/fullSize/2.jpg"
+              "thumbnail": "assets/img/events/common/article/thumbnail/2.jpg",
+              "fullSize": "assets/img/events/common/article/fullSize/2.jpg"
             },
             {
               "text": "Cazarea se face în camere private cu baie și acces bucătărie.",
-              "thumbnailUrl": "./assets/img/events/common/article/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/events/common/article/fullSize/1.jpg"
+              "thumbnail": "assets/img/events/common/article/thumbnail/1.jpg",
+              "fullSize": "assets/img/events/common/article/fullSize/1.jpg"
             }
           ]
         }

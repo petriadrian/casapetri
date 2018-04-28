@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
+To make the build run:
+npm run build:universal
+
+To start the project(in background) run:
+pm2 start dist/server.js
+
+To start the project:
+npm run serve:universal
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

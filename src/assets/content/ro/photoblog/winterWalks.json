@@ -2,12 +2,12 @@
   "metaData": {
     "title": "Iarna la Rosia Montană | Fotoblog",
     "text": "Satul capătă o nouă înfățișare pe timp de iarnă. Vezi cum arată o drumeție ușoară cu peisaje de poveste",
-    "displayOnShareImg": "/assets/img/photoblog/winterWalks/presentation/displayOnShareImg_ro.jpg"
+    "img": "/assets/img/photoblog/winterWalks/presentation/displayOnShareImg_ro.jpg"
   },
   "headline": {
     "title": "Iarna la Rosia Montană",
     "videoSource": "./assets/img/photoblog/winterWalks/presentation/intro.mp4",
-    "fullWidthImg": "./assets/img/photoblog/winterWalks/presentation/fullWidthImg.jpg"
+    "img": "/assets/img/photoblog/winterWalks/presentation/fullWidthImg.jpg"
   },
   "sections": [
     {
@@ -24,68 +24,68 @@
           "images": [
             {
               "text": "Centrul istoric",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/carnic.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/carnic.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/carnic.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/carnic.jpg"
             },
             {
               "text": "Ninge",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/ninge.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/ninge.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/ninge.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/ninge.jpg"
             },
             {
               "text": "Biserici și clădiri istorice",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/centruDrum.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/centruDrum.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/centruDrum.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/centruDrum.jpg"
             },
             {
               "text": "Zona Berg - Roșia Montană",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/berg.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/berg.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/berg.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/berg.jpg"
             },
             {
               "text": "Cu sania pe derdelușul de langă casă.",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/sleighing.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/sleighing.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/sleighing.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/sleighing.jpg"
             },
             {
               "text": "Tăul Brazi.",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/taul_brazi.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/taul_brazi.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/taul_brazi.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/taul_brazi.jpg"
             },
             {
               "text": "Pădurea de mesteacăni de pe Țarină.",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/copacIarna.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/copacIarna.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/copacIarna.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/copacIarna.jpg"
             },
             {
               "text": "Grigoras si Tom",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/pisicSiCatelRosia.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/pisicSiCatelRosia.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/pisicSiCatelRosia.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/pisicSiCatelRosia.jpg"
             },
             {
               "text": "Centrul istoric",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/centruDeLaPlatouRosia.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/centruDeLaPlatouRosia.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/centruDeLaPlatouRosia.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/centruDeLaPlatouRosia.jpg"
             },
             {
               "text": "Gospodărie",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/gospodarieRosia.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/gospodarieRosia.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/gospodarieRosia.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/gospodarieRosia.jpg"
             },
             {
               "text": "Gospodăria lui tanti Mărioara",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/grajdOi.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/grajdOi.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/grajdOi.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/grajdOi.jpg"
             },
             {
               "text": "Noi prieteni",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/noiPrieteniCatel.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/noiPrieteniCatel.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/noiPrieteniCatel.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/noiPrieteniCatel.jpg"
             },
             {
               "text": "Ultimele raze de soare",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/pisicSiCatelRosia2.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/pisicSiCatelRosia2.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/pisicSiCatelRosia2.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/pisicSiCatelRosia2.jpg"
             }
           ]
         }
@@ -105,33 +105,33 @@
           "images": [
             {
               "text": "Noaptea prin sat",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/noapteRosia1.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/noapteRosia1.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/noapteRosia1.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/noapteRosia1.jpg"
             },
             {
               "text": "Seară cu zăpadă",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/noapteRosia2.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/noapteRosia2.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/noapteRosia2.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/noapteRosia2.jpg"
             },
             {
               "text": "Ulița din fața casei",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/berg_noapte.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/berg_noapte.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/berg_noapte.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/berg_noapte.jpg"
             },
             {
               "text": "Biserica unitariană",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/biserica_noapte.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/biserica_noapte.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/biserica_noapte.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/biserica_noapte.jpg"
             },
             {
               "text": "Drumul spre sat",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/rosiaSoare.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/rosiaSoare.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/rosiaSoare.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/rosiaSoare.jpg"
             },
             {
               "text": "Apus peste valea Roșiei",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/apus.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/apus.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/apus.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/apus.jpg"
             }
           ]
         }
@@ -151,18 +151,18 @@
           "images": [
             {
               "text": "Căsuța din grădină",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/petriCasuta.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/petriCasuta.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/petriCasuta.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/petriCasuta.jpg"
             },
             {
               "text": "Curtea casei",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/petriTerasaGradina.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/petriTerasaGradina.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/petriTerasaGradina.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/petriTerasaGradina.jpg"
             },
             {
               "text": "Priveliștea de pe terasă",
-              "thumbnailUrl": "./assets/img/photoblog/winterWalks/article/thumbnail/petriVedereCurte.jpg",
-              "fullSizeUrl": "./assets/img/photoblog/winterWalks/article/fullSize/petriVedereCurte.jpg"
+              "thumbnail": "assets/img/photoblog/winterWalks/article/thumbnail/petriVedereCurte.jpg",
+              "fullSize": "assets/img/photoblog/winterWalks/article/fullSize/petriVedereCurte.jpg"
             }
           ]
         }

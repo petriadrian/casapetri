@@ -2,12 +2,12 @@
   "metaData": {
     "title": "Drumeție la Detunata Apuseni (8-10 Iunie) | event",
     "text": "Pachet cu drumeții spre o arie protejată cu peisaje și legende deosebite - Masivul de bazalt Detunata Apuseni, iar apoi vom descoperi poveștile și legendele aurarilor din Rosia Montana (traseele se pot face si cu bicicleta)",
-    "displayOnShareImg": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/packages/narcise/presentation/displayOnShareImg.jpg"
   },
   "headline": {
     "title": "Drumeție la Detunata Apuseni",
     "videoSource": "",
-    "fullWidthImg": "./assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
+    "img": "/assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
   },
   "sections": [
     {
@@ -35,53 +35,53 @@
           "images": [
             {
               "text": "La masivul de bazalt Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata2.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata2.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata2.jpg"
             },
             {
               "text": "Spre Detunata.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/raza.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/raza.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/raza.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/raza.jpg"
             },
             {
               "text": "Priveliștea de pe Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/lumea.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
             },
             {
               "text": "Priveliștea de pe Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/frunze.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/frunze.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/frunze.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/frunze.jpg"
             },
             {
               "text": "Priveliștea de pe Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/priveliste.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/priveliste.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/priveliste.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/priveliste.jpg"
             },
             {
               "text": "La masivul de bazalt Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/detunata.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/detunata.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata.jpg"
             },
             {
               "text": "Priveliștea de pe Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/priveliste2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/priveliste2.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/priveliste2.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/priveliste2.jpg"
             },
             {
               "text": "Spre Detunata cu mic cu mare.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/traseu.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/traseu.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/traseu.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/traseu.jpg"
             },
             {
               "text": "Spre Detunata.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/road.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/road.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/road.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/road.jpg"
             },
             {
               "text": "Priveliștea de pe Detunata Apuseni.",
-              "thumbnailUrl": "./assets/img/attractions/article/detunata/thumbnail/varf.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/detunata/fullSize/varf.jpg"
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/varf.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/varf.jpg"
             }
           ]
         },
@@ -90,13 +90,13 @@
           "images": [
             {
               "text": "Proiecții în grădină",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
             },
             {
               "text": "Imagini din proiecție",
-              "thumbnailUrl": "./assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
             }
           ]
         },
@@ -106,43 +106,43 @@
           "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
             },
             {
               "text": "Centrul istoric.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
             },
             {
               "text": "Fostele case ale aurarilor - cladiri de patrimoniu din centrul istoric.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/3.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/3.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/3.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/3.jpg"
             },
             {
               "text": "Ornamente ale clădirilor de patrimoniu din centrul istoric Roșia Montană.",
-              "thumbnailUrl": "./assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
+              "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
+              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
             },
             {
               "text": "Lângă centrul istoric sunt câteva tăuri. Vom afla acolo de ce au fost construite în apropierea satului și rolul lor în producția aurului.",
-              "thumbnailUrl": "./assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
             },
             {
               "text": "Popas cu priveliște.",
-              "thumbnailUrl": "./assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
+              "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
+              "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
             },
             {
               "text": "Pe traseu - punct de belvedere Cârnic.",
-              "thumbnailUrl": "./assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSizeUrl": "./assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             },
             {
               "text": "Piatra Corbului Cârnic - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
-              "thumbnailUrl": "./assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSizeUrl": "./assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
             }
           ]
         }
