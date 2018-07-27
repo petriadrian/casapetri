@@ -351,6 +351,7 @@
       "specificArticles": [
         {
           "title": "<i class='fas fa-blind'></i> Tururi ghidate",
+          "id": "guidedTour",
           "text": "Poți să mergi în drumeții spre atracțiile specificate mai sus dar noi îți sugerăm să le vezi împreună cu un ghid deoarece povestea contează. Roșia Montană are un trecut de aur - modul de funcționare al galeriilor, tăurilor, carierelor și a altor obiective folosite în extracția aurului, povestea clădirilor de patrimoniu sau impactul megaproiectului minier propus de firma canadiană și protestele de atunci sunt doar câteva din motivele pentru care vă recomandăm să vizitați Roșia Montana împreună cu un ghid (pe jos sau cu bicicleta). Dacă sunteți interesați de:",
           "seeAlso": [
             {
@@ -384,6 +385,7 @@
         },
         {
           "title": "<i class='fas fa-bicycle'></i> Ciclism",
+          "id": "bike",
           "text": "Ne aflăm într-o zonă cu dealuri, văi și sate apusene legate de drumuri de țară ideale de ciclism montan. Oferim biciclete de munte de închiriat sau trasee ghidate pe bicicletă. Mai jos sunt câteva din traseele pe care le-ai putea face la noi:",
           "seeAlso": [
             {

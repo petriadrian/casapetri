@@ -352,6 +352,7 @@
       "specificArticles": [
         {
           "title": "<i class='fas fa-blind'></i> Guided tours",
+          "id": "guidedTour",
           "text": "You can walk by your own to the above attractions but we suggest to do that with a guide because the stories really matters. Rosia Montana has a golden past. How the gold mining worked through galleries, watter mills, pounds and open pits, the past of the patrimony buildings from the historic center or the impact of the mega mining project proposed here by the canadian company and the massive protests against it are just a few reasons why we recommend to visit Roșia Montana with a guide. If you are interested in: ",
           "seeAlso": [
             {
@@ -385,6 +386,7 @@
         },
         {
           "title": "<i class='fas fa-bicycle'></i> Cycling",
+          "id": "bike",
           "text": "We are located in an area with hills, valleys and rural roads between villages which are just perfect for cycling. We offer mountain bikes for rent or guided tours on bikes. See below some of the tracks you can do here:",
           "seeAlso": [
             {
