@@ -429,7 +429,10 @@
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/bikes.jpg",
               "fullSize": "assets/img/accommodation/article/outside/fullSize/bikes.jpg"
             }
-          ]
+          ],
+          "iframe": {
+            "src": "https://www.youtube.com/embed/D3VBw_5DmH8"
+          }
         },
         {
           "title": "<i class='fas fa-train'></i> Steam train",
