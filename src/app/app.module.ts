@@ -21,6 +21,7 @@ import {ArticleBodyComponent} from './body/section/article/article-body/article-
 import {CommonArticleComponent} from './body/section/article/common-article/common-article.component';
 import {LinkComponent} from './body/section/link/link.component';
 import {SocialButtonsComponent} from './body/section/social-buttons/social-buttons.component';
+import { LinkDetailBoxBigComponent } from './body/section/link-detail-box-big/link-detail-box-big.component';
 
 @NgModule({
   declarations: [
@@ -40,7 +41,8 @@ import {SocialButtonsComponent} from './body/section/social-buttons/social-butto
     ArticleBodyComponent,
     CommonArticleComponent,
     LinkComponent,
-    SocialButtonsComponent
+    SocialButtonsComponent,
+    LinkDetailBoxBigComponent
   ],
   imports: [
     BrowserModule.withServerTransition({appId: 'casapetri'}),

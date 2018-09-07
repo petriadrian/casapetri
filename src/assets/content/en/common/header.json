@@ -12,19 +12,19 @@
       "textOnMouseOver": "hiking or cycling gps trails, guided trails, hammocks, tennis, running"
     },
     {
-      "text": "Sleep & eat",
-      "link": "en/accommodation",
-      "textOnMouseOver": "accommodation, camping, guided tours, bikes rent, food info - bookings"
-    },
-    {
-      "text": "Events",
-      "link": "en//events/all",
+      "text": "Packages",
+      "link": "en/events/all",
       "textOnMouseOver": "events"
     },
     {
-      "text": "PhotoBlog",
-      "link": "en/home#photoblog",
-      "textOnMouseOver": "photo articles from Rosia"
+      "text": "Sleep & eat",
+      "link": "en/accommodation",
+      "textOnMouseOver": "accommodation, guided tours, bikes rent, food info - bookings"
+    },
+    {
+      "text": "Blog",
+      "link": "en/blog/all",
+      "textOnMouseOver": "articles"
     },
     {
       "text": "Reviews",

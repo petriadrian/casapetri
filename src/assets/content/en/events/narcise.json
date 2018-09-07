@@ -20,18 +20,15 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "In the <b>25 - 28 May 2018</b> weekend will organize guided tours and other activities in our amazing area. <br>We will meet on <b>Friday evening - check in -</b> at Casa Petri Rosia Montana ",
-          "seeAlso": [
-            {
-              "text": "(see here how to reach us)",
-              "textOnMouseOver": "Click here...",
-              "link": "en/accommodation#directions"
-            }
-          ]
+          "text": "In the <b>weekends of May </b> we organize guided tours towards the Daffodils meadow from our area. This package tour includes accommodation, food, guided tours and other activities during <b>2 nights and 3 days</b>  "
         },
         {
-          "title": "Saturday",
-          "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Guided Tour Daffodil meadow</b> <br> From Casa Petri will go to a magic place from Carpathians mountains - the protected area 'Negrileasa Apuseni' to discover the daffodil meadow. The amazing landscape and the daffodil smell will make an unique experience from this trip. There are a couple of ways to get there (according to the group preference and weather): by car (~30min) followed by a 2 hour walk or by bike on the country road (~4h) – if you don't come with your own bike you can rent one from us.",
+          "title": "Day 1",
+          "text": "<b><i class='far fa-clock'></i> 18:00 - 20:00</b> - check in at Casa Petri Roșia Montană - accommodation and get to know each other. <br><b><i class='far fa-clock'></i> 21:00</b> - Dinner"
+        },
+        {
+          "title": "Day 2",
+          "text": "<b><i class='far fa-clock'></i> 09:00</b> - Breakfast <br><b><i class='far fa-clock'></i> 10:00 - 16:00 - Guided Tour Daffodil meadow</b> <br> From Rosia Montana will go to a magic place from Carpathians mountains - the protected area 'Negrileasa Apuseni' to discover the daffodil meadow. The amazing landscape and the daffodil smell will make an unique experience from this trip. There are a couple of ways to get there (according to the group preference and weather): by car (~30min) followed by a 2 hour walk or by bike on the country road (~4h) – if you don't come with your own bike you can rent one from us.",
           "images": [
             {
               "text": "At the daffodil meadow Apuseni.",
@@ -76,23 +73,26 @@
           ]
         },
         {
-          "text": "<br><br><b><i class='far fa-clock'></i> Evening - Movie in the garden 'The story of Roșia Montană'</b><br> Images, movies and stories about the past of the village and the today life (if will be cold will hold the screening inside).",
+          "text": "<br><br><b><i class='far fa-clock'></i> 16:00</b> - Launch <br><b><i class='far fa-clock'></i> Evening - Relaxing in the hammock or an easy walk to the farm</b> <br>We have a library full with books and hammocks in the garden (or you can go with the hammock in the pine forest nearby). Other option is to visit a traditional farm from the area from where we can also get milk products.",
           "images": [
             {
-              "text": "Movie screening in the garden",
-              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+              "text": "Relaxing in the hammock.",
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/hammock.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/hammock.jpg"
             },
             {
-              "text": "Images from the movie screening",
-              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "text": "Visiting a traditional farm.",
+              "thumbnail": "assets/img/events/hayDays/article/thumbnail/vitel.jpg",
+              "fullSize": "assets/img/events/hayDays/article/fullSize/vitel.jpg"
             }
           ]
         },
         {
-          "title": "Sunday",
-          "text": "<b><i class='far fa-clock'></i> 09:00 - 14:00 - Guided tour Roșia Montană</b><br> Will discover the goldsmiths stories and legends by visiting the patrimony buildings form the historical center of Rosia Montana (schools, churches or the goldsmith houses built by various civilizations who came here since antiquity to find gold, the reason why the area was proposed as UNESCO site). At the end if you will have time and energy will hike on the Cârnic massif where will have an amazing view upon the village.",
+          "text": "<br><b><i class='far fa-clock'></i> 21:00</b> - Dinner - evening snack"
+        },
+        {
+          "title": "Day 3",
+          "text": "<b><i class='far fa-clock'></i> 09:00</b> - Breakfast <br><b><i class='far fa-clock'></i> 10:00 - 13:00 - Guided tour Roșia Montană</b><br> Will discover the goldsmiths stories and legends by visiting the patrimony buildings form the historical center of Rosia Montana (schools, churches or the goldsmith houses built by various civilizations who came here since antiquity to find gold, the reason why the area was proposed as UNESCO site).",
           "images": [
             {
               "text": "Guided tour - historic center Rosia Montana.",
@@ -123,37 +123,6 @@
               "text": "Guided tour - historic center Rosia Montana.",
               "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
               "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
-            },
-            {
-              "text": "Guided tour - Carnic - Rosia Montana.",
-              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
-            },
-            {
-              "text": "Guided tour - Carnic - Rosia Montana.",
-              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
-            }
-          ]
-        },
-        {
-          "title": "Monday",
-          "text": "<b><i class='far fa-clock'></i> 09:00 - 16:00 - Guided trail - Detunata massif</b>. <br>This 80m high massive formed from basalt columns is a protected area with huge stone blocks. The area has great legends, the people are welcoming and they also make some amazing cheese pies.",
-          "images": [
-            {
-              "text": "<b>Detunata</b> - through the basalt block, into the middle of the pine forest is a small glacier.",
-              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
-            },
-            {
-              "text": "<b>The view from Detunata</b> - towards the 'Motilor' land.",
-              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
-            },
-            {
-              "text": "A resting spot on the trail.",
-              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             }
           ]
         }
@@ -186,7 +155,91 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<br>The price is 70€/person (or 55€</b>/person for those who want to stay only from Friday until Sunday). <b>Includes:</b> accommodation, the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
+          "text": "<br>The price is <b>82€/person</b>. Includes: accommodation, food and the guided tours."
+        }
+      ]
+    },
+    {
+      "id": "eventsBookingForm",
+      "type": "form",
+      "afterFormText": "<i class='fa fa-info-circle'></i> The booking will be valid only when a <b>confirmation email or phone</b> will be received!",
+      "submitButtonText": "Send the booking",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "errorMessage": "ERROR! Contact us by email petriadrian@gmail.com",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
+          "placeholder": "Phone",
+          "required": true
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "required": true,
+          "iconFortAwesomeCode": "<i class='fas fa-bed fa-fw'></i>",
+          "placeholder": "Choose room type",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ add",
+            "removeButtonText": "- remove",
+            "minOccurs": 1,
+            "maxOccurs": 15
+          },
+          "inputs": [
+            {
+              "name": "room",
+              "selectOptions": [
+                {
+                  "text": "1 person room"
+                },
+                {
+                  "text": "2 persons room"
+                },
+                {
+                  "text": "3 persons room"
+                },
+                {
+                  "text": "4 persons room"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "selectBox",
+          "required": true,
+          "iconFortAwesomeCode": "<i class='far fa-calendar-alt fa-fw'></i>",
+          "placeholder": "Period",
+          "selectOptions": [
+            {
+              "text": "3 - 5 May 2019"
+            },
+            {
+              "text": "10 -12 May 2019"
+            },
+            {
+              "text": "17 -19 May 2019"
+            },
+            {
+              "text": "24 - 26 May 2019"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
+          "placeholder": "Other details? Write here...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
         }
       ]
     },
@@ -196,33 +249,10 @@
         "category": "ourServices",
         "ids": [
           {
-            "id": "eventsBookingForm"
-          },
-          {
             "id": "eventsFacebookInterested"
           }
         ]
       }
-    },
-    {
-      "type": "article",
-      "specificArticles": [
-        {
-          "text": "We will also organize this even in: ",
-          "seeAlso": [
-            {
-              "text": "11 - 13 May ",
-              "textOnMouseOver": "Click here...",
-              "link": "en/events/narcise11-13may"
-            },
-            {
-              "text": "| 18 - 20 May ",
-              "textOnMouseOver": "Click here...",
-              "link": "en/events/narcise18-20may"
-            }
-          ]
-        }
-      ]
     },
     {
       "type": "socialButtons"

@@ -1,18 +1,18 @@
 {
   "metaData": {
-    "title": "Events in Roșia Montană",
+    "title": "Package tours in Rosia Montana",
     "text": "We know our area and what can you do and visit here, that's why we prepared some packages with accommodation, guided trails and other activities.",
-    "img": "/assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
+    "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
   },
   "headline": {
-    "title": "Events in Roșia Montană",
+    "title": "Package tours in Rosia Montana",
     "videoSource": "",
-    "img": "/assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
+    "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
   },
   "sections": [
     {
       "type": "title",
-      "text": "<i class='far fa-calendar-alt'></i> Events",
+      "text": "<i class='far fa-calendar-alt'></i> Packages",
       "sectionId": "events",
       "addLinkInPageHeadline": true
     },
@@ -28,45 +28,18 @@
       "type": "linkToOtherPages",
       "otherPages": [
         {
-          "title": "1st of May",
-          "text": "<b>27.04 - 01.05 |</b> Village break in Roșia Montană: guided tours, movie screenings, steam train rides and the traditional 'mici' and beer.",
-          "img": "assets/img/events/firstMai/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "en/events/firstmay",
-            "textOnMouseOver": "See more..."
-          }
-        },
-        {
-          "title": "To Daffodils",
-          "text": "<b>11 - 13.05 |</b> Guided tour to a place with an unforgettable smell and landscape 'The daffodil Meadow' and then will visit Rosia Montana",
-          "img": "assets/img/events/narcise/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "en/events/narcise11-13may",
-            "textOnMouseOver": "See more..."
-          }
-        },
-        {
-          "title": "To Daffodils",
-          "text": "<b>18 - 20.05 |</b> Guided tour to a place with an unforgettable smell and landscape 'The daffodil Meadow' and then will visit Rosia Montana",
-          "img": "assets/img/events/narcise/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "en/events/narcise18-20may",
-            "textOnMouseOver": "See more..."
-          }
-        },
-        {
-          "title": "To Daffodils",
-          "text": "<b>25 - 28.05 |</b> Guided tour to a place with an unforgettable smell and landscape 'The daffodil Meadow' and then will visit Rosia Montana",
-          "img": "assets/img/events/narcise/presentation/smallBoxImg.jpg",
+          "title": "Daffodils tour",
+          "text": "<b>In the weekends of May</b> we organize guided tours to a place with unforgettable smell and landscape 'The daffodil Meadow'",
+          "img": "assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
           "url": {
             "link": "en/events/narcise",
             "textOnMouseOver": "See more..."
           }
         },
         {
-          "title": "To Detunata",
+          "title": "Detunata tour",
           "text": "<b>8 - 10.06 |</b> Guided tour to a place with legends and amazing landscapes 'The Detunata massif' and then will visit Rosia Montana",
-          "img": "assets/img/events/detunata/presentation/smallBoxImg.jpg",
+          "img": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
           "url": {
             "link": "en/events/detunata8-10june",
             "textOnMouseOver": "See more..."
@@ -75,7 +48,7 @@
         {
           "title": "Hay days",
           "text": "<b>23 - 26.08 |</b> Connect to the nature and to the life of local farmers by participating at the hay making and cow hand-milking",
-          "img": "assets/img/events/hayDays/presentation/smallBoxImg.jpg",
+          "img": "assets/img/events/hayDays/article/thumbnail/4.jpg",
           "url": {
             "link": "en/events/haydays",
             "textOnMouseOver": "See more..."

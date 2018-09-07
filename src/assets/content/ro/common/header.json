@@ -13,19 +13,19 @@
       "textOnMouseOver": "atracții, trasee gps de drumeție sau ciclism, trasee ghidate, tenis, hamace, cărți"
     },
     {
+      "text": "Pachete",
+      "link": "ro/events/all",
+      "textOnMouseOver": "pachete cu tururi"
+    },
+    {
       "text": "Cazare",
       "link": "ro/accommodation",
-      "textOnMouseOver": "cazare, campare, trasee ghidate, închirieri biciclete, info mâncare - rezervări"
+      "textOnMouseOver": "cazare, trasee ghidate, închirieri biciclete, info mâncare - rezervări"
     },
     {
-      "text": "Evenimente",
-      "link": "ro/events/all",
-      "textOnMouseOver": "evenimente"
-    },
-    {
-      "text": "FotoBlog",
-      "link": "ro/home#photoblog",
-      "textOnMouseOver": "articole foto Roșia"
+      "text": "Blog",
+      "link": "ro/blog/all",
+      "textOnMouseOver": "articole"
     },
     {
       "text": "Reviews",

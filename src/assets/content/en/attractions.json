@@ -1,7 +1,7 @@
 {
   "metaData": {
     "title": "Things to do and see in Roșia Montană",
-    "text": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. We offer guided tours and there are 4 marked tracks that starts from the front of our house.",
+    "text": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. See here some of these attractions and participate to a guided tour we organise in our area to see and discover more about them.",
     "img": "/assets/img/attractions/presentation/displayOnShareImg.jpg"
   },
   "headline": {
@@ -20,11 +20,11 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. We offer guided tours and there are 4 marked tracks that starts from the front of our house."
+          "text": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. See bellow some of these attractions and participate to a guided tour that we organise in our area to see and discover more about them."
         },
         {
           "title": "Historic Center",
-          "text": "In the historic center of the oldest documented settlement in Romania, Rosia Montana year 131 there are several patrimony buildings (churches and cemeteries belonging to 5 different confessions, goldsmith houses, stamp mills, former lofts and institutions). <br><i class='fa fa-map-signs'></i> <b> How to get there?</b> 10min walk - ",
+          "text": "In the historic center of the oldest documented settlement in Romania, Rosia Montana year 131, are several patrimony buildings (churches and cemeteries belonging to 5 different confessions, goldsmith houses, stamp mills, former lofts, institutions, The Unitarian Parish with old photo / mining objects exhibits and from the church tower a great view upon the village) <br><i class='fa fa-map-signs'></i> <b> How to get there?</b> 10min walk - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -45,15 +45,15 @@
               "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
             },
             {
-              "text": "German school and goldsmith houses - patrimony buildings from the Geman neighbourhood of Berg'",
+              "text": "The <b>German</b> neighbourhood - goldsmith houses",
               "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/1.jpg",
               "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/1.jpg"
             }
           ]
         },
         {
-          "title": "Roman galeries",
-          "text": "Rosia Montana has <b>one of the largest underground gold mining system in the world</b> (~120km), made since the roman times. At the ROSIAMIN Mining Museum can be visited via guided tours a part of the roman galleries. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 15min walk - ",
+          "title": "Mining Museum",
+          "text": "At the ROSIAMIN Mining Museum can be visited a part of the roman galleries, photo exhibits, stamp mills and other objects used in gold mining. <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 15min walk - ",
           "seeAlso": [
             {
               "text": "see map",
@@ -63,7 +63,7 @@
           ],
           "images": [
             {
-              "text": "<b>Roman Galleries</b> - to visit them you will go 157 stairs under the earth",
+              "text": "<b>Roman Galleries</b> - to visit them you will go 157 stairs under the mountain.",
               "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
               "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
             },
@@ -73,9 +73,35 @@
               "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/2.jpg"
             },
             {
-              "text": "Near the museum there is a church with the most impressive local legend, build as a result of a pact with the gallery spirits. To find the full story go visit this place...",
+              "text": "Near the museum there is a church with the most impressive local legend, build as a result of a pact with the <b>gallery spirits</b>. To find the full story go visit this place...",
               "thumbnail": "assets/img/attractions/article/churches/orthodoxChurch/thumbnail/1.jpg",
               "fullSize": "assets/img/attractions/article/churches/orthodoxChurch/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": "The mining galleries",
+          "text": "Rosia Montana has <b>one of the largest underground gold mining system in the world</b>, a 120km labyrinth underneath the earth made of roman, dacian or habsburgic galleries. We reccomend to visit them only with a guide!",
+          "images": [
+            {
+              "text": "<b>Habsburgic</b> galleries.",
+              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/prietenie.jpg",
+              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
+            },
+            {
+              "text": "<b>Roman</b> galleries.",
+              "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/zeus-galerii-romane-carnic-oriz-rosia.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/zeus-galerii-romane-carnic-oriz-rosia.jpg"
+            },
+            {
+              "text": "Cetate galleries.",
+              "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/zeus-galerii-carnic-coranda-mare-rosia.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/zeus-galerii-carnic-coranda-mare-rosia.jpg"
+            },
+            {
+              "text": "Carnic galleries.",
+              "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/galerii-romane-carnic.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/galerii-romane-carnic.jpg"
             }
           ]
         },
@@ -96,7 +122,7 @@
               "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
             },
             {
-              "text": "<b> Cârnic Sphinx</b> - the cross was placed by the miners to have luck while searching for gold.",
+              "text": "<b>Sphinx</b> - the cross was placed by the miners to have luck while searching for gold.",
               "thumbnail": "assets/img/attractions/article/carnic/sphinx/thumbnail/1.jpg",
               "fullSize": "assets/img/attractions/article/carnic/sphinx/fullSize/1.jpg"
             },
@@ -104,29 +130,11 @@
               "text": "<b>Sulei Massif</b> - Suleis’ mountain peak is so tight it makes you feel like you are tightrope walking.",
               "thumbnail": "assets/img/attractions/article/letySulei/thumbnail/1.jpg",
               "fullSize": "assets/img/attractions/article/letySulei/fullSize/1.jpg"
-            }
-          ]
-        },
-        {
-          "title": "Jig-Văidoaia",
-          "text": "That's the best place to observe the gold diggings made in the Habsburgic period. Climb the mountain and enjoy the view towards the Motilor Land.  <br><i class='fa fa-map-signs'></i> <b>,How to get there?</b> 15min walk - ",
-          "seeAlso": [
-            {
-              "text": "see map",
-              "textOnMouseOver": "Click here...",
-              "link": "https://www.google.com/maps/dir/Casa+Petri+Rosia+Montana/Galeria+V%C4%83idoaia,+DC146,+Ro%C8%99ia+Montan%C4%83,+Romania/@46.3078066,23.1312485,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474eccde2c4dbf79:0x8cc0476aa0920e36!2m2!1d23.1363648!2d46.309055!3e2?hl=en-US"
-            }
-          ],
-          "images": [
-            {
-              "text": "<b> Vaidoaia Galleries</b> - This is the hearth of Rosia Montana. Judging after the rocks around you will easily figure out the origin of the settlement’s name (Rosia means Red).",
-              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/1.jpg"
             },
             {
-              "text": "<b>Jig-Văidoaia Peak</b> - the Vadoaia Gallery is part of this massive.",
-              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/2.jpg"
+              "text": "<b>Stalagmites</b> of the galleries.",
+              "thumbnail": "assets/img/attractions/article/carnic/stalagnite/thumbnail/stalagnite-carnic-rosia.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/stalagnite/fullSize/stalagnite-carnic-rosia.jpg"
             }
           ]
         },
@@ -147,7 +155,7 @@
               "fullSize": "assets/img/attractions/article/lakes/tariniLake/fullSize/1.jpg"
             },
             {
-              "text": "Big Lake or Hearth Lake (due to his heart shape).",
+              "text": "Big Lake or <b>Hearth Lake</b> (due to his heart shape).",
               "thumbnail": "assets/img/attractions/article/lakes/bigLake/thumbnail/10.jpg",
               "fullSize": "assets/img/attractions/article/lakes/bigLake/fullSize/10.jpg"
             },
@@ -155,6 +163,27 @@
               "text": "<b>Pine lake</b> - the house belongs to a painter who use the view as inspiration for his work. ",
               "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/1.jpg",
               "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Overview Points",
+          "text": "Places on the top of the village with amazing views, nature and fresh air.",
+          "images": [
+            {
+              "text": "The Cârnic overview.",
+              "thumbnail": "assets/img/attractions/article/carnic/carnic/thumbnail/natura-flori-vara-carnic-ceata-rosia-montana.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/carnic/fullSize/natura-flori-vara-carnic-ceata-rosia-montana.jpg"
+            },
+            {
+              "text": "The lakes overview.",
+              "thumbnail": "assets/img/attractions/article/carnic/carnic/thumbnail/tauri-carnic-natura-rosia-montana.jpg",
+              "fullSize": "assets/img/attractions/article/carnic/carnic/fullSize/tauri-carnic-natura-rosia-montana.jpg"
+            },
+            {
+              "text": "The Roșia Valley overview.",
+              "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/fog-ceata-rosia-montana-vaidoaia-primavara.jpg",
+              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/fog-ceata-rosia-montana-vaidoaia-primavara.jpg"
             }
           ]
         },
@@ -188,14 +217,14 @@
             {
               "text": "see map",
               "textOnMouseOver": "Click here...",
-              "link": "https://www.google.ro/maps/dir/Casa+Petri,+DC146,+Ro%C8%99ia+Montan%C4%83/Geam%C4%83na/@46.3298268,23.1429159,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!2m2!1d23.2042788!2d46.3299984!3e2?hl=ro"
+              "link": "https://www.google.ro/maps/dir/Casa+Petri,+DC146,+Ro%C8%99ia+Montan%C4%83/Geam%C4%83na/@46.3430812,23.1073464,12.49z/data=!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!2m2!1d23.2042788!2d46.3299984!3e0?hl=en"
             }
           ],
           "images": [
             {
-              "text": "The church tower of the sunken village Geamana.",
-              "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/1.jpg"
+              "text": "Copper open pit - Rosia Poieni - it has 24 stairs, each 15m height",
+              "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/copperPit/fullSize/1.jpg"
             },
             {
               "text": "Former households from Geamana village.",
@@ -203,9 +232,9 @@
               "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/2.jpg"
             },
             {
-              "text": "Copper open pit - Rosia Poieni - it has 24 stairs, each 15m height",
-              "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/copperPit/fullSize/1.jpg"
+              "text": "The church tower of the sunken village Geamana.",
+              "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
+              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/1.jpg"
             }
           ]
         },
@@ -244,7 +273,7 @@
           ],
           "images": [
             {
-              "text": "<b>Detunata</b> - through the basalt block, into the middle of the pine forest is a small glacier.",
+              "text": "Detunata- basalt wall",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
               "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
             },
@@ -252,17 +281,22 @@
               "text": "<b>The view from Detunata</b> - towards the 'Motilor' land.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
               "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
+            },
+            {
+              "text": "Detunata - the basalt sea (the view from the top).",
+              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata-pietre-jos-brazi.jpg",
+              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata-pietre-jos-brazi.jpg"
             }
           ]
         },
         {
-          "title": "Muzeul Buciumanilor",
+          "title": "Buciumanilor Museum",
           "text": "Near Roșia Montană is another great place with old gold mining galleries, history and heritage. Visit the Buciumanilor Museum from Bucium Poieni.",
           "seeAlso": [
             {
               "text": "<br><i class='fa fa-map-signs'></i> <b>How to get there?</b> 30min by car - see map",
               "textOnMouseOver": "Click here...",
-              "link": "https://www.google.fr/maps/dir/Casa+Petri+Rosia+Montana,+Ro%C8%99ia+Montan%C4%83,+Romania/Poieni/@46.2854183,23.1113928,11623m/data=!3m1!1e3!4m19!4m18!1m10!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!3m4!1m2!1d23.1886184!2d46.2586559!3s0x474ecbbec6e3bb95:0x90b78bf3d46e1ed5!1m5!1m1!1s0x474eca356fe72e45:0x402264baade5c37!2m2!1d23.1983706!2d46.2526027!3e0"
+              "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Muzeul+Buciumanilor,+Poieni/@46.2855654,23.0514532,11.54z/data=!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474ecb60f701d409:0xfec892598003f6c4!2m2!1d23.1987534!2d46.2520053!3e0?hl=ro"
             },
             {
               "text": "<br> See here contact data and opening hours",
@@ -270,9 +304,18 @@
               "link": "http://www.baiadomnilor.ro/ullamcorper-cras-aenean"
             }
           ],
-          "iframe": {
-            "src": "https://www.youtube.com/embed/drov7FPfoKI"
-          }
+          "images": [
+            {
+              "text": "Mining objects - Stamp Mill.",
+              "thumbnail": "assets/img/attractions/article/muzeulBuciumanilor/thumbnail/weaming-loom-razboi-de-cusut.jpg",
+              "fullSize": "assets/img/attractions/article/muzeulBuciumanilor/fullSize/weaming-loom-razboi-de-cusut.jpg"
+            },
+            {
+              "text": "Articles used inside the houses - weaming loom",
+              "thumbnail": "assets/img/attractions/article/muzeulBuciumanilor/thumbnail/steamp-minerit-bucium-muzeu.jpg",
+              "fullSize": "assets/img/attractions/article/muzeulBuciumanilor/fullSize/steamp-minerit-bucium-muzeu.jpg"
+            }
+          ]
         },
         {
           "title": "Brad Gold Museum",
@@ -284,9 +327,18 @@
               "link": "https://www.google.fr/maps/dir/Casa+Petri+Rosia+Montana,+Ro%C8%99ia+Montan%C4%83,+Romania/Gold+Museum+Brad,+Strada+Independen%C8%9Bei+3,+Brad+335200,+Romania/@46.2132086,22.8208342,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474edc27fe255555:0x38ae2fbee961bb90!2m2!1d22.7909237!2d46.1290106"
             }
           ],
-          "iframe": {
-            "src": "https://www.youtube.com/embed/t9wdiR4M9cw"
-          }
+          "images": [
+            {
+              "text": "Gold exhibits - Brad Gold Museum.",
+              "thumbnail": "assets/img/attractions/article/bradGoldMuseum/thumbnail/aurBrad1.jpg",
+              "fullSize": "assets/img/attractions/article/bradGoldMuseum/fullSize/aurBrad1.jpg"
+            },
+            {
+              "text": "Gold exhibits - Brad Gold Museum.",
+              "thumbnail": "assets/img/attractions/article/bradGoldMuseum/thumbnail/aurBrad2.jpg",
+              "fullSize": "assets/img/attractions/article/bradGoldMuseum/fullSize/aurBrad2.jpg"
+            }
+          ]
         },
         {
           "title": "Scărișoara Glacier",
@@ -363,7 +415,7 @@
             {
               "text": "<br><b>- standard guided trails</b> - see here the packages with guided trails that we prepared",
               "textOnMouseOver": "Click aici...",
-              "link": "en/accommodation#packages"
+              "link": "en/events/all"
             }
           ],
           "images": [
@@ -431,10 +483,23 @@
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/bikes.jpg",
               "fullSize": "assets/img/accommodation/article/outside/fullSize/bikes.jpg"
             }
-          ],
-          "iframe": {
-            "src": "https://www.youtube.com/embed/D3VBw_5DmH8"
-          }
+          ]
+        },
+        {
+          "title": "Archery",
+          "text": "Beside us is a mountain club specilized in archery that offers beginner or advanced courses in archery. They have different types of arcs and an archery field.",
+          "images": [
+            {
+              "text": "Archery classes in Rosia Montana.",
+              "thumbnail": "assets/img/accommodation/article/archery/thumbnail/tir-cu-arcul-archery-rosia-montana3.jpg",
+              "fullSize": "assets/img/accommodation/article/archery/fullSize/tir-cu-arcul-archery-rosia-montana3.jpg"
+            },
+            {
+              "text": "Archery classes in Rosia Montana.",
+              "thumbnail": "assets/img/accommodation/article/archery/thumbnail/tir-cu-arcul-archery-rosia-montana2.jpg",
+              "fullSize": "assets/img/accommodation/article/archery/fullSize/tir-cu-arcul-archery-rosia-montana2.jpg"
+            }
+          ]
         },
         {
           "title": "<i class='fas fa-train'></i> Steam train",

@@ -20,18 +20,15 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "În weekendul <b>25 - 28 Mai 2018</b> organizăm tururi ghidate și alte activități în zona noastră deosebită. <br>Ne vedem <b>vineri seara - check in -</b> la Casa Petri Roșia Montană ",
-          "seeAlso": [
-            {
-              "text": "(vezi aici cum ajungi)",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#directions"
-            }
-          ]
+          "text": "În weekendurile din <b>luna Mai</b> organizăm tururi ghidate de drumeție spre Poiana cu Narcise din Apuseni. Pachetul include cazare, mâncare, tururi ghidate și alte activități pe perioada a <b>2 nopți și 3 zile</b>."
         },
         {
-          "title": "Sâmbătă",
-          "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Vizită la Poiana cu Narcise</b> <br>De la Casa Petri o să pornim spre aria protejată Negrileasa Apuseni pentru descoperi poiana cu narcise. Pe lângă peisajul de poveste, mirosul acestora este cu siguranță o amintire de neuitat. Sunt două variante de a ajunge acolo (in functie de alegerea grupului): cu mașina(~30min) urmat de o drumeție de ~2h sau cu bicicleta pe un drum de țară (~4h) - se pot închiria biciclete de la noi. Vă recomandăm să nu culegeți prea multe narcise deoarece se ofilesc destul de rapid, adevăratul lor farmec este aici în mediul lor natural.",
+          "title": "Ziua 1",
+          "text": "<b><i class='far fa-clock'></i> 18:00 - 20:00</b> - sosirea la Casa Petri Roșia Montană - cazare și prezentare activități. <br><b><i class='far fa-clock'></i> 21:00</b> - Cina"
+        },
+        {
+          "title": "Ziua 2",
+          "text": "<b><i class='far fa-clock'></i> 09:00</b> - Mic dejun <br><b><i class='far fa-clock'></i> 10:00 - 16:00 - Vizităm Poiana cu Narcise</b> <br>Din Rosia Montană o sa pornim spre aria protejată Negrileasa Apuseni pentru a descoperi poiana cu narcise. Pe lângă peisajul de poveste, mirosul acestora este cu siguranță o amintire de neuitat. Sunt două variante de a ajunge acolo (in functie de alegerea grupului): cu mașina(~30min) urmat de o drumeție de ~2h sau cu bicicleta pe un drum de țară (~4h) - se pot închiria biciclete de la noi. Vă recomandăm să nu culegeți prea multe narcise deoarece se ofilesc destul de rapid, adevăratul lor farmec este aici în mediul lor natural.",
           "images": [
             {
               "text": "La poiana cu narcise Apuseni.",
@@ -76,23 +73,26 @@
           ]
         },
         {
-          "text": "<br><br><b><i class='far fa-clock'></i> Seara - Proiecție în grădină 'De ce e Roșia și Montană?'</b><br> Imagini, filme și povești despre trecutul și evoluția satului, modul de extracție al aurului din trecut până în prezent și viața de azi (dacă va fi frig vom ține proiecția în interior).",
+          "text": "<br><br><b><i class='far fa-clock'></i> 16:00</b> - Prânz <br><b><i class='far fa-clock'></i> Seara - Relaxare în hamac sau plimbare la fermă</b> <br> Avem o biblitecă destul de consistentă și locuri cu hamace în grădină (sau puteți merge cu hamacul în pădurea de brad din apropiere). Altă opține de petrecere a serii este o vizită la o fermă tradițională din apropiere de unde se pot lua produse lactate.",
           "images": [
             {
-              "text": "Proiecții în grădină",
-              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+              "text": "Relaxare în hamac",
+              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/hammock.jpg",
+              "fullSize": "assets/img/accommodation/article/outside/fullSize/hammock.jpg"
             },
             {
-              "text": "Imagini din proiecție",
-              "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "text": "Vizită la ferma de vaci",
+              "thumbnail": "assets/img/events/hayDays/article/thumbnail/vitel.jpg",
+              "fullSize": "assets/img/events/hayDays/article/fullSize/vitel.jpg"
             }
           ]
         },
         {
-          "title": "Duminică",
-          "text": "<b><i class='far fa-clock'></i> 09:00 - 16:00 - Tur ghidat Roșia Montană</b> <br>Vom descoperi poveștile și legendele aurarilor printr-un tur al clădirilor de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau casele aurarilor construite de diverse popoare venite aici încă din antichitate pentru a căuta aur, motiv pentru care zona a fost propusă ca sit UNESCO). La final, dacă mai aveți timp și energie vom urca pe masivul Cârnic de unde vă promitem o priveliște deosebită asupra satului.",
+          "text": "<br><b><i class='far fa-clock'></i> 21:00</b> - Cina - gustare de seară"
+        },
+        {
+          "title": "Ziua 3",
+          "text": "<b><i class='far fa-clock'></i> 09:00</b> - Mic dejun <br><b><i class='far fa-clock'></i> 10:00 - 13:00 - Tur ghidat centrul istoric Roșia Montană</b> <br>Vom descoperi poveștile și legendele aurarilor printr-un tur al clădirilor de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau casele aurarilor construite de diverse popoare venite aici încă din antichitate pentru a căuta aur, motiv pentru care zona a fost propusă ca sit UNESCO).",
           "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
@@ -123,37 +123,6 @@
               "text": "Popas cu priveliște.",
               "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
               "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
-            },
-            {
-              "text": "Pe traseu - punct de belvedere Cârnic.",
-              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
-            },
-            {
-              "text": "Piatra Corbului Cârnic - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
-              "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
-            }
-          ]
-        },
-        {
-          "title": "Luni",
-          "text": "<b><i class='far fa-clock'></i> 09:00 ~ 16:00 - Tur ghidat - masivul Detunata</b>. <br>Aici se află o arie protejată formată din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră. Aici a trait Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase.",
-          "images": [
-            {
-              "text": "<b>Detunata</b> - Printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar.",
-              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
-            },
-            {
-              "text": "<b>Priveliștea de pe Detunata</b> - spre ținutul Moților.",
-              "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
-            },
-            {
-              "text": "Pe traseu - punct de belvedere.",
-              "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
             }
           ]
         }
@@ -178,7 +147,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='far fa-calendar-check'></i> Prețuri și Rezervări",
+      "text": "<i class='far fa-calendar-check'></i> Preț și Rezervări",
       "sectionId": "bookings",
       "addLinkInPageHeadline": true
     },
@@ -186,7 +155,90 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<br>Prețul este 320lei/persoană (sau 250lei/persoană pentru cei care vor să stea doar de vineri până duminică). <b>Include</b> cazarea, traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
+          "text": "<br>Prețul este <b>375 lei/persoană</b>. Include cazarea, masă și traseele ghidate."
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "afterFormText": "Rezervarea va fi validă doar la primirea unui <b>telefon sau email de confirmare!</b>",
+      "submitButtonText": "Trimite rezervarea",
+      "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
+      "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
+          "placeholder": "Telefon",
+          "required": true
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "required": true,
+          "iconFortAwesomeCode": "<i class='fas fa-bed fa-fw'></i>",
+          "placeholder": "Tip cameră",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ adaugă",
+            "removeButtonText": "- șterge",
+            "minOccurs": 1,
+            "maxOccurs": 15
+          },
+          "inputs": [
+            {
+              "name": "room",
+              "selectOptions": [
+                {
+                  "text": "o cameră de o persoană"
+                },
+                {
+                  "text": "o cameră de 2 persoane"
+                },
+                {
+                  "text": "o cameră de 3 pers"
+                },
+                {
+                  "text": "o cameră de 4 pers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "selectBox",
+          "required": true,
+          "iconFortAwesomeCode": "<i class='far fa-calendar-alt fa-fw'></i>",
+          "placeholder": "Perioada",
+          "selectOptions": [
+            {
+              "text": "3 - 5 Mai 2019"
+            },
+            {
+              "text": "10 -12 Mai 2019"
+            },
+            {
+              "text": "17 -19 Mai 2019"
+            },
+            {
+              "text": "24 - 26 Mai 2019"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
+          "placeholder": "Alte detalii? Scrie-ne aici...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
         }
       ]
     },
@@ -196,33 +248,10 @@
         "category": "ourServices",
         "ids": [
           {
-            "id": "eventsBookingForm"
-          },
-          {
             "id": "eventsFacebookInterested"
           }
         ]
       }
-    },
-    {
-      "type": "article",
-      "specificArticles": [
-        {
-          "text": "Vom mai organiza acest eveniment și în perioadele: ",
-          "seeAlso": [
-            {
-              "text": "11 - 13 Mai ",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/events/narcise11-13may"
-            },
-            {
-              "text": "| 18 - 20 Mai ",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/events/narcise18-20may"
-            }
-          ]
-        }
-      ]
     },
     {
       "type": "socialButtons"

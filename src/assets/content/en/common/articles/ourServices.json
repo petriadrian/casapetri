@@ -79,25 +79,25 @@
     "images": [
       {
         "text": "Books room - 4 persons",
-        "thumbnail": "assets/img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
-        "fullSize": "assets/img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/booksRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/booksRoom.jpg"
       },
       {
         "text": "Little house room - 2 persons",
-        "thumbnail": "assets/img/accommodation/article/rooms/room2/thumbnail/littleHouseRoom.jpg",
-        "fullSize": "assets/img/accommodation/article/rooms/room2/fullSize/littleHouseRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/casuta/thumbnail/littleHouseRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/casuta/fullSize/littleHouseRoom.jpg"
       },
       {
         "text": "Upstairs room - 3 persons",
-        "thumbnail": "assets/img/accommodation/article/rooms/room3/thumbnail/upstairsRoom.jpg",
-        "fullSize": "assets/img/accommodation/article/rooms/room3/fullSize/upstairsRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/upstairsRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/upstairsRoom.jpg"
       }
     ]
   },
   {
     "id": "eventsInfo",
     "type": "article",
-    "text": "<br><b>Accommodation</b> is in the historic center of Roșia Montană at Casa Petri or others accommodations from the area in rooms with private bathroom or 1 bathroom for 2 rooms. <br><b>Food</b> - the kitchen is perfect for preparing breakfast or dinner and there are 3 grocery stores around. We can organize traditional launch at locals (if you want that, check the 'meals at locals' box) <br><b>Equipment</b> recommended - rain coat, hiking boots and sun protection. <br><b>Children</b> - you can bring the little ones if you think they can handle the activities. We offer 50% discount for children under 12 and free for those under 4 (without extra bed). <br><b>The activities are optional</b>, we also offer bikes, board games, library or you can relax in the hammock. <br><b>Do you want to stay less or more?</b> let us know in the 'Other details' box and we will get back to you. <br><b>Number of participants</b> - between 3 and 15 persons. <br><b>Reviews</b> - what others said about our events? ",
+    "text": "<br><b>Accommodation</b> is in the historic center of Roșia Montană at Casa Petri or others accommodations from the area in rooms with private bathroom or 1 bathroom for 2 rooms. <br><b>Food</b> - if you are vegetarian or you have other preferences, write in the 'Other detail' box <br><b>Equipment</b> recommended - rain coat, hiking boots and sun protection. <br><b>Children</b> - we offer 50% discount for children under 12 and free for those under 4 (without extra bed). <br><b>The activities are optional</b>, we also offer bikes, board games, library or you can relax in the hammock. <br><b>Do you want to stay less or more?</b> let us know in the 'Other details' box and we will get back to you. <br><b>Number of participants</b> - between 3 and 20 persons. <br><b>Reviews</b> - what others said about our events? ",
     "seeAlso": [
       {
         "text": "see here",
@@ -108,13 +108,8 @@
     "images": [
       {
         "text": "Accommodation - Casa Petri (more images on the accommodation page)",
-        "thumbnail": "assets/img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
-        "fullSize": "assets/img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
-      },
-      {
-        "text": "Our recommendation is to take the lunch at locals who offers hot traditional meals.",
-        "thumbnail": "assets/img/accommodation/article/food/thumbnail/mancare.jpg",
-        "fullSize": "assets/img/accommodation/article/food/fullSize/mancare.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/booksRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/booksRoom.jpg"
       },
       {
         "text": "The activities are optional. You can also lay in the garden hammock or walk with the bikes.",
@@ -177,20 +172,6 @@
         ]
       },
       {
-        "type": "checkBoxes",
-        "title": "I wish:",
-        "checkBoxes": [
-          {
-            "name": "reserveFood",
-            "text": "<b>meals at locals</b> (which meals? are you vegetarian? fill the 'Other details' box)"
-          },
-          {
-            "name": "voucherGift",
-            "text": "to <b>offer this trip as a gift</b> (will be paid online and will send you a voucher)"
-          }
-        ]
-      },
-      {
         "type": "textarea",
         "name": "others",
         "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
@@ -215,7 +196,7 @@
     ]
   },
   {
-    "id": "photoBlogPlanAVisit",
+    "id": "blogPlanAVisit",
     "type": "form",
     "beforeFormText": "We restored our grandparents house from the historic center of Rosia Montana Transylvania and now we offer accommodation (the rooms have fire places, private bathrooms and kitchen). We can organize traditional meals at locals, guided tours in the area and we also offer bikes or sleights. If you wish to visit us leve your contact data bellow or make a direct booking on the ",
     "beforeFormTextSeeAlso": [

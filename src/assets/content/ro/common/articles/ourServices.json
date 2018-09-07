@@ -2,15 +2,15 @@
   {
     "id": "food",
     "type": "article",
-    "text": "Variantele propuse pentru luatul mesei sunt: <br><b>Masa la localnici în sat</b> - avem vecini care oferă mese tradiționale, la ei în ogradă - la efectuarea unei rezervări vă dăm mai multe detalii. <br><b>Bucătăriile din camere</b> - ideale pentru a prepara micul dejun sau cina. Avem grătar în grădină și lângă noi (~2min) sunt 2 <b>magazine alimentare</b>.",
+    "text": "Variantele propuse pentru luatul mesei sunt: <br><b>Masa la localnici</b> - dacă ne informați din timp vă putem pregăti gustări calde pe perioada șederii. <br><b>Bucătăriile din camere</b> - ideale pentru a prepara micul dejun sau cina. Avem grătar în grădină, iar în apropiere sunt 2 <b>magazine alimentare</b>.",
     "images": [
       {
-        "text": "La un pahar de țuică, înainte de masa la localnici, cu un grup din Germania.",
+        "text": "La un pahar de țuică, înainte de masă, cu un grup din Germania.",
         "thumbnail": "assets/img/accommodation/article/food/thumbnail/restaurant.jpg",
         "fullSize": "assets/img/accommodation/article/food/fullSize/restaurant.jpg"
       },
       {
-        "text": "Recomandarea noastră este să luați masa la localnicii care oferă mese calde.",
+        "text": "Mese calde.",
         "thumbnail": "assets/img/accommodation/article/food/thumbnail/mancare.jpg",
         "fullSize": "assets/img/accommodation/article/food/fullSize/mancare.jpg"
       },
@@ -79,25 +79,25 @@
     "images": [
       {
         "text": "Camera cărților - 4 persoane.",
-        "thumbnail": "assets/img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
-        "fullSize": "assets/img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/booksRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/booksRoom.jpg"
       },
       {
         "text": "Camera din căsuță - 2 persoane.",
-        "thumbnail": "assets/img/accommodation/article/rooms/room2/thumbnail/littleHouseRoom.jpg",
-        "fullSize": "assets/img/accommodation/article/rooms/room2/fullSize/littleHouseRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/casuta/thumbnail/littleHouseRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/casuta/fullSize/littleHouseRoom.jpg"
       },
       {
         "text": "Camera din târnaț - 3 persoane.",
-        "thumbnail": "assets/img/accommodation/article/rooms/room3/thumbnail/upstairsRoom.jpg",
-        "fullSize": "assets/img/accommodation/article/rooms/room3/fullSize/upstairsRoom.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/upstairsRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/upstairsRoom.jpg"
       }
     ]
   },
   {
     "id": "eventsInfo",
     "type": "article",
-    "text": "<br><b>Cazarea</b> va fi în centrul istoric Roșia Montană la Casa Petri sau alte pensiuni din zonă în cameră cu baie privată sau o baie la 2 camere. <br><b>Mâncare</b> - bucătăriile sunt ideale pentru a vă prepara micul dejun sau cina, iar în apropiere sunt 3 magazine alimentare. Putem organiza prânzul la localnici (dacă doriți asta bifați căsuța 'masa la localnici') <br><b>Echipament</b> recomandat - pelerină de ploaie, bocanci de munte și protecție pentru soare. <br><b>Copii</b> - veniți și cu cei mici dacă credeți că rezistă la activitățile propuse. Oferim 50% reducere pentru copii sub 12 ani și gratuit pentru copii sub 4 ani (fără pat suplimentar). <br><b>Activitățile sunt opționale</b>, vă punem la dispoziție și biciclete, board games, bibliotecă sau vă puteți relaxa în hamac. <br><b>Vrei să stai mai puțin sau mai mult?</b> scrie-ne în căsuța 'Alte detalii' și revenim cu un răspuns. <br><b>Număr participanți</b> - între 3 și 20 de persoane. <br><b>Reviews</b> - ce spun cei care au mai venit la noi? ",
+    "text": "<br><b>Cazarea</b> va fi în centrul istoric Roșia Montană la Casa Petri sau alte pensiuni din zonă în cameră cu baie privată sau o baie la 2 camere. <br><b>Mâncare</b> - dacă sunteți vegetarieni sau aveți alte preferințe vă rugăm să ne scrieți în căsuța 'Alte detalii'   <br><b>Echipament</b> recomandat - pelerină de ploaie, bocanci de munte și protecție pentru soare. <br><b>Copii</b> - oferim 50% reducere pentru copii sub 10 ani și gratuit pentru copii sub 3 ani (fără pat suplimentar). <br><b>Activitățile sunt opționale</b>, vă punem la dispoziție și biciclete, board games, bibliotecă sau vă puteți relaxa în hamac. <br><b>Vrei să stai mai puțin sau mai mult?</b> scrie-ne în căsuța 'Alte detalii' și revenim cu un răspuns. <br><b>Număr participanți</b> - între 3 și 20 de persoane. <br><b>Reviews</b> - ce spun cei care au mai venit la noi? ",
     "seeAlso": [
       {
         "text": "vezi aici",
@@ -108,13 +108,8 @@
     "images": [
       {
         "text": "Cazare - Casa Petri (mai multe imagini pe pagina de cazare)",
-        "thumbnail": "assets/img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
-        "fullSize": "assets/img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
-      },
-      {
-        "text": "Recomandarea noastră este să luați prânzul la localnicii care oferă mese calde.",
-        "thumbnail": "assets/img/accommodation/article/food/thumbnail/mancare.jpg",
-        "fullSize": "assets/img/accommodation/article/food/fullSize/mancare.jpg"
+        "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/booksRoom.jpg",
+        "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/booksRoom.jpg"
       },
       {
         "text": "Participarea e opțională. Puteți lenevi în grădină în hamac sau să mergeți la o plimbare cu bicicleta.",
@@ -177,20 +172,6 @@
         ]
       },
       {
-        "type": "checkBoxes",
-        "title": "Doresc:",
-        "checkBoxes": [
-          {
-            "name": "reserveFood",
-            "text": "<b>masa la localnici</b> (ce mese? sunteți vegetarieni? scrie în căsuța 'Alte detalii')"
-          },
-          {
-            "name": "voucherGift",
-            "text": "să <b>ofer excursia cadou</b> (plătiți online și vă trimitem un voucher)"
-          }
-        ]
-      },
-      {
         "type": "textarea",
         "name": "others",
         "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
@@ -215,7 +196,7 @@
     ]
   },
   {
-    "id": "photoBlogPlanAVisit",
+    "id": "blogPlanAVisit",
     "type": "form",
     "beforeFormText": "Ne aflăm în centrul istoric din Roșia Montnă într-o casă veche moștenită de la bunici pe care am transformat-o în spațiu de cazare (avem 4 camere cu bai, bucătărie și încălzire pe teracote cu lemne). Organizăm mese tradițioinale la localnici, tururi ghidate în zonă și oferim biciclete de închiriat sau sănii. Dacă doriți să ne vizitați lăsați-ne datele de contact sau puteți face o rezervare direct pe pagina de ",
     "beforeFormTextSeeAlso": [

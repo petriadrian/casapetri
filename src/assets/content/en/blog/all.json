@@ -1,0 +1,54 @@
+{
+  "metaData": {
+    "title": "Blog from Roșia Montană",
+    "text": "Articole cu imagini din zona noastră.",
+    "img": "/assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
+  },
+  "headline": {
+    "title": "Blog from Roșia Montană",
+    "videoSource": "",
+    "img": "/assets/img/attractions/article/sicilianStreet/fullSize/centrul-istoric-rosia-montana.jpg"
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='far fa-calendar-alt'></i> Blog",
+      "sectionId": "blog",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "text": "We are locals, we know the stories, we visit and explore the soundings and we have time we put here articles with unique experiences that you can also have while visiting our area."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "otherPages": [
+        {
+          "title": "Winter walks",
+          "text": "Winter at Rosia Montana. Easy walks, greats landscapes",
+          "img": "assets/img/blog/winterWalks/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "en/blog/winterWalks",
+            "textOnMouseOver": "See more..."
+          }
+        },
+        {
+          "title": "Cluj - Rosia",
+          "text": "The road from Cluj-Napoca to Rosia, beside the Aries river offers amazing landscapes and places",
+          "img": "assets/img/blog/clujRosia/presentation/smallBoxImg.jpg",
+          "url": {
+            "link": "en/blog/clujRosia",
+            "textOnMouseOver": "See more..."
+          }
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    }
+  ]
+}

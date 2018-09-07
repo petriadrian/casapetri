@@ -89,7 +89,7 @@
           "text": "",
           "seeAlso": [
             {
-              "text": "<b>Top 10 atracții</b> de vizitat în Roșia Montană!",
+              "text": "<b>Top 10 atracții</b> - vezi aici",
               "textOnMouseOver": "Click here...",
               "link": "ro/attractions#toSee"
             }
@@ -104,164 +104,78 @@
       "sectionId": "casaPetri"
     },
     {
-      "type": "article",
-      "specificArticles": [
-        {
-          "text": "Ne dorim să ai o experiență unică și autentică în Roșia Montană, de aceea oferim cazare în centrul istoric și te punem în contact cu localnici ce oferă trasee ghidate, închirieri de biciclete sau mâncare tradițională."
-        }
-      ]
-    },
-    {
-      "type": "linkToOtherPages",
+      "type": "linkToOtherPagesBig",
       "otherPages": [
         {
-          "title": "Cazare",
-          "text": "<b>Camere, campare - rezervări</b> <br>într-o casă de patrimoniu din centrul istoric Roșia Montană. Camerele au băi și bucătărie propie iar în grădină avem foișor și hamace",
-          "img": "assets/img/accommodation/shortcut/cazare.jpg",
+          "text": "Am restaurat casa bunicilor din centrul istoric Roșia Montană, o casă de patrimoniu cu poveste deoarece aici era locul unde minerii schimbau aurul extras în bani și dinamită. Am pus în valoare trecutul iar acum oferim servicii turistice: <b>cazare, tururi ghidate și biciclete</b>. Vezi aici detalii, imagini și rezervări.",
+          "img": "/assets/img/accommodation/article/rooms/cartilor/fullSize/1.jpg",
           "url": {
-            "link": "ro/accommodation#rooms",
+            "link": "ro/accommodation",
             "textOnMouseOver": "Click aici..."
           }
-        },
-        {
-          "title": "Trasee ghidate",
-          "text": "<b>Pe jos sau cu bicicleta</b><br>Ținem legătura cu localnici ce organizează trasee ghidate. Vă recomandăm să vizitați Roșia împreună cu un ghid",
-          "img": "assets/img/accommodation/shortcut/guides.jpg",
-          "url": {
-            "link": "ro/accommodation#guide",
-            "textOnMouseOver": "Click aici..."
-          }
-        },
-        {
-          "title": "Biciclete",
-          "text": "<b>Închirieri, reparații, trasee</b><br>Avem biciclete de închiriat și un mic garaj pentru reparații sau oferim trasee ghidate pe bicicletă",
-          "img": "assets/img/accommodation/shortcut/bikes.jpg",
-          "url": {
-            "link": "ro/accommodation#facilities",
-            "textOnMouseOver": "Click aici..."
-          }
-        }
-      ]
-    },
-    {
-      "type": "article",
-      "specificArticles": [
-        {
-          "text": "<b>Cum ajungi la noi?</b> - ",
-          "seeAlso": [
-            {
-              "text": "vezi aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#directions"
-            }
-          ]
         }
       ]
     },
     {
       "type": "title",
-      "text": "<i class='far fa-calendar-alt'></i> Evenimente",
+      "text": "<i class='far fa-calendar-alt'></i> Pachete",
       "sectionId": "events",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "article",
-      "specificArticles": [
-        {
-          "title": "",
-          "text": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și alte activități."
-        }
-      ]
-    },
-    {
-      "type": "linkToOtherPages",
+      "type": "linkToOtherPagesBig",
       "otherPages": [
         {
-          "title": "1 Mai",
-          "text": "<b>27.04 - 01.05 |</b> În mini vacanta de 1 Mai te asteptam la Roșia Montană cu tururi  ghidate, proiecții, plimbări cu mocănița și ... mici și bere.",
-          "img": "assets/img/events/firstMai/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "ro/events/firstmay",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
-        },
-        {
-          "title": "La narcise",
-          "text": "<b>18 - 20.05 |</b> Tur ghidat spre un loc magic din Apuseni cu peisaje și miros de neiuitat 'Poiana cu Narcise', apoi vizităm Roșia Montană.",
-          "img": "assets/img/events/narcise/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "ro/events/narcise18-20may",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
-        },
-        {
-          "title": "La Detunata",
-          "text": "<b>8 - 10.06 |</b> Tur ghidat spre un loc cu legende și peisaje deosebite 'Masivul de bazalt Detunata', apoi vizităm Roșia Montană.",
-          "img": "assets/img/events/detunata/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "ro/events/detunata8-10june",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
-        },
-        {
-          "title": "Alte evenimente",
-          "text": "Vezi aici și alte evenimente pe care le organizăm în zona noastră.",
-          "img": "assets/img/common/smallBoxImgMore.jpg",
+          "text": "Ne dorim să ai o <b>experiență unică</b> la Roșia Montană, cunoaștem zona noastră, știm ce poți face și vizita aici de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și/sau participarea la diferite alte activități. <b>Vezi aici</b> ce pachete ți-am pregătit!",
+          "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg",
           "url": {
             "link": "ro/events/all",
-            "textOnMouseOver": "Vezi mai mult..."
+            "textOnMouseOver": "Click aici..."
           }
-        }
-      ]
-    },
-    {
-      "type": "article",
-      "specificArticles": [
-        {
-          "text": "<b>Ce zic cei care au participat la evenimente?</b> - ",
-          "seeAlso": [
-            {
-              "text": "vezi aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/review"
-            }
-          ]
         }
       ]
     },
     {
       "type": "title",
-      "text": "<i class='far fa-images'></i> FotoBlog",
-      "sectionId": "photoblog",
+      "text": "<i class='far fa-images'></i> Blog",
+      "sectionId": "blog",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPagesBig",
+      "otherPages": [
+        {
+          "text": "Suntem localnici, ținem legătura cu oamenii din sat, vizităm și explorăm locurile din împrejurimi iar când mai avem timp postam câte un articol cu o experiență pe care o poti avea și tu în zonă. <b>Vezi aici</b>!",
+          "img": "/assets/img/attractions/article/lakes/bigLake/fullSize/tau-mare-caine-apus-natura-vara-nature-rosia-montana.jpg",
+          "url": {
+            "link": "ro/blog/all",
+            "textOnMouseOver": "Click aici..."
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-location-arrow'></i> Cum ajung?",
+      "sectionId": "directions",
       "addLinkInPageHeadline": false
     },
     {
       "type": "article",
       "specificArticles": [
         {
-          "text": "Articole cu imagini din zona noastră."
-        }
-      ]
-    },
-    {
-      "type": "linkToOtherPages",
-      "otherPages": [
-        {
-          "title": "Iarna la Roșia",
-          "text": "Satul capătă o nouă înfățișare pe timp de iarnă. Vezi cum arată o drumeție ușoară cu peisaje de poveste",
-          "img": "assets/img/photoblog/winterWalks/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "ro/photoblog/winterWalks",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "text": "Ne aflăm în centrul istoric Roșia Montană, 331A, Munții Apuseni, Transilvania. Pentru a ajunge la noi <b>setați pe gps 'Casa Petri Rosia Montana'</b>. Dacă veniți cu autobuzul cea mai apropiată stație este la Gura Roșia (6km) - de aici faceți autostopul sau sunați-ne și venim după voi. Odată ajunși în centrul vechi din Rosia Montana o să vedeți în stânga un bloc de 3 etaje și chiar după el este casa noastră, o casă albă cu etaj. Intrarea se face prin curte, pe partea stangă a casei. Dacă veniți de la Cluj la Roșia cu mașina musai să vedeți ",
+          "seeAlso": [
+            {
+              "text": "acest articol",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/blog/clujRosia"
+            }
+          ]
         },
         {
-          "title": "Cluj - Rosia",
-          "text": "Drumul de la Cluj la Roșia, pe albia râului Arieș oferă peisaje și locuri deosebite",
-          "img": "assets/img/photoblog/clujRosia/presentation/smallBoxImg.jpg",
-          "url": {
-            "link": "ro/photoblog/clujRosia",
-            "textOnMouseOver": "Vezi mai mult..."
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc"
           }
         }
       ]

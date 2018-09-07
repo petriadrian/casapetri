@@ -11,8 +11,8 @@
   <app-link-detail-box *ngIf="section?.type == 'linkToOtherPages'" [content]="section.otherPages"></app-link-detail-box>
   <!--SOCIAL-->
   <app-social-buttons *ngIf="section?.type == 'socialButtons'"></app-social-buttons>
-  <!--<span *ngIf="!!content?.banner">-->
-  <!--<ng-container *ngTemplateOutlet="banner; context:{content: content}"></ng-container></span>-->
+  <!-- PRESENTATION OF OTHER PAGES BIG-->
+  <app-link-detail-box-big *ngIf="section?.type == 'linkToOtherPagesBig'" [content]="section.otherPages"></app-link-detail-box-big>
   <!-- CAROUSEL -->
   <app-carousel *ngIf="section?.type == 'carousel'" [content]="section"></app-carousel>
   <!--FORM-->
