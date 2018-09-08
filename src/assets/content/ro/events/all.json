@@ -51,20 +51,11 @@
           }
         },
         {
-          "title": "La Detunata",
-          "text": "<b>8 - 10.06 |</b> Tur ghidat spre un loc cu legende și peisaje deosebite 'Masivul de bazalt Detunata', apoi vizităm Roșia Montană.",
-          "img": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
+          "title": "Atelier foto de toamnă",
+          "text": "<b>5 - 7.10 |</b> Vom colinda diverse locuri panoramice în diferite momente ale zilei însoțiți de un fotograf experimentat ce ne va arăta diverse tehnici și setări pentru fotografia de peisaj.",
+          "img": "assets/img/attractions/dslr-aparat-foto.jpg",
           "url": {
-            "link": "ro/events/detunata8-10june",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
-        },
-        {
-          "title": "La fân",
-          "text": "<b>23 - 26.08 |</b> Conectează-te la natură și viața moților luând parte la strânsul fânului pentru iernat, ridicarea căpițelor și mulsul vacilor.",
-          "img": "assets/img/events/hayDays/article/thumbnail/4.jpg",
-          "url": {
-            "link": "ro/events/haydays",
+            "link": "ro/events/fotoWorkshopAutumn",
             "textOnMouseOver": "Vezi mai mult..."
           }
         }
@@ -109,7 +100,7 @@
         {
           "type": "phone",
           "name": "phone",
-          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
+          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw fa-rotate-90'></i>",
           "placeholder": "Telefon",
           "required": true
         },

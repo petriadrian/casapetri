@@ -177,7 +177,7 @@
         {
           "type": "phone",
           "name": "phone",
-          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
+          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw fa-rotate-90'></i>",
           "placeholder": "Phone",
           "required": true
         },

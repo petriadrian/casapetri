@@ -49,24 +49,6 @@
             "link": "en/events/narcise",
             "textOnMouseOver": "See more..."
           }
-        },
-        {
-          "title": "Detunata tour",
-          "text": "<b>8 - 10.06 |</b> Guided tour to a place with legends and amazing landscapes 'The Detunata massif' and then will visit Rosia Montana",
-          "img": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
-          "url": {
-            "link": "en/events/detunata8-10june",
-            "textOnMouseOver": "See more..."
-          }
-        },
-        {
-          "title": "Hay days",
-          "text": "<b>23 - 26.08 |</b> Connect to the nature and to the life of local farmers by participating at the hay making and cow hand-milking",
-          "img": "assets/img/events/hayDays/article/thumbnail/4.jpg",
-          "url": {
-            "link": "en/events/haydays",
-            "textOnMouseOver": "See more..."
-          }
         }
       ]
     },
@@ -109,7 +91,7 @@
         {
           "type": "phone",
           "name": "phone",
-          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
+          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw fa-rotate-90'></i>",
           "placeholder": "Phone",
           "required": true
         },
