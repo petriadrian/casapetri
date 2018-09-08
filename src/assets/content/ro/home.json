@@ -107,7 +107,8 @@
       "type": "linkToOtherPagesBig",
       "otherPages": [
         {
-          "text": "Am restaurat casa bunicilor din centrul istoric Roșia Montană, o casă de patrimoniu cu poveste deoarece aici era locul unde minerii schimbau aurul extras în bani și dinamită. Am pus în valoare trecutul iar acum oferim servicii turistice: <b>cazare, tururi ghidate și biciclete</b>. Vezi aici detalii, imagini și rezervări.",
+          "title": "Cazare, tururi ghidate, biciclete",
+          "text": "Am restaurat casa bunicilor din <b>centrul istoric Roșia Montană</b>, o casă de patrimoniu cu poveste deoarece aici era locul unde minerii schimbau aurul extras în bani și dinamită. Am pus în valoare trecutul iar acum oferim servicii turistice. Vezi aici imagini și rezervări.",
           "img": "/assets/img/accommodation/article/rooms/cartilor/fullSize/1.jpg",
           "url": {
             "link": "ro/accommodation",
