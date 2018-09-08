@@ -1,18 +1,32 @@
 {
   "metaData": {
-    "title": "Pachete turistice în Roșia Montană",
+    "title": "Pachete și Evenimente în Roșia Montană",
     "text": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și alte activități.",
     "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
   },
   "headline": {
-    "title": "Pachete turistice în Roșia Montană",
+    "title": "Pachete și Evenimente în Roșia Montană",
     "videoSource": "",
     "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
   },
   "sections": [
     {
       "type": "title",
-      "text": "<i class='far fa-calendar-alt'></i> Pachete",
+      "text": "<i class='fas fa-briefcase'></i> Pachete",
+      "sectionId": "packages",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "text": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și alte activități ce pot fi rezervate în orice perioadă doriți. <br><br>Acestă secțiune e în lucru, revenim în curând cu noutăți."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-calendar-alt'></i> Evenimente",
       "sectionId": "events",
       "addLinkInPageHeadline": true
     },
@@ -20,7 +34,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și alte activități."
+          "text": "Sărbători locale, momente cheie ale anotimpurilor sau alte mici activități ce au loc într-o anumită perioadă."
         }
       ]
     },

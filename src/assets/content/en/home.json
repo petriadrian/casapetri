@@ -119,7 +119,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='far fa-calendar-alt'></i> Package tours",
+      "text": "<i class='far fa-calendar-alt'></i> Packages \\ Events",
       "sectionId": "events",
       "addLinkInPageHeadline": false
     },
@@ -127,7 +127,7 @@
       "type": "linkToOtherPagesBig",
       "otherPages": [
         {
-          "text": "We want you to have an <b>unique experience</b> at Roșia Montană, we know our area, what can you doo and visit here, that's why we created some packages that includes accommodation, guided tours and/or different activities. <b>See here</b> these packages!",
+          "text": "We want you to have an <b>unique experience</b> at Roșia Montană, we know our area, what can you doo and visit here, that's why we created some packages that includes accommodation, guided tours and/or different activities.",
           "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg",
           "url": {
             "link": "en/events/all",
@@ -146,7 +146,7 @@
       "type": "linkToOtherPagesBig",
       "otherPages": [
         {
-          "text": "We are locals, we know our village stories, we visit and explore the soundings and sometimes we put here articles with unique experiences that you can also have while visiting our area. <b>See here</b>!",
+          "text": "We are locals, we know our village stories, we visit and explore the soundings and sometimes we put here articles with unique experiences that you can also have while visiting our area.",
           "img": "/assets/img/attractions/article/lakes/bigLake/fullSize/tau-mare-caine-apus-natura-vara-nature-rosia-montana.jpg",
           "url": {
             "link": "en/blog/all",

@@ -1,18 +1,32 @@
 {
   "metaData": {
-    "title": "Package tours in Rosia Montana",
+    "title": "Package tours and events in Rosia Montana",
     "text": "We know our area and what can you do and visit here, that's why we prepared some packages with accommodation, guided trails and other activities.",
     "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
   },
   "headline": {
-    "title": "Package tours in Rosia Montana",
+    "title": "Package tours and events",
     "videoSource": "",
     "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
   },
   "sections": [
     {
       "type": "title",
-      "text": "<i class='far fa-calendar-alt'></i> Packages",
+      "text": "<i class='fas fa-briefcase'></i> Packages",
+      "sectionId": "packages",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "text": "We know our area and what can you do and visit here, that's why we prepared some packages with accommodation, guided trails and other activities that can be booked in any period you want. <br><br>We are still working on this section but we will update it soon."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-calendar-alt'></i> Events",
       "sectionId": "events",
       "addLinkInPageHeadline": true
     },
@@ -20,7 +34,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "We know our area and what can you do and visit here, that's why we prepared some packages with accommodation, guided trails and other activities."
+          "text": "Local habits, key moments in time or other activities that happens in a certain period."
         }
       ]
     },

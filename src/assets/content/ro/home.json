@@ -119,7 +119,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='far fa-calendar-alt'></i> Pachete",
+      "text": "<i class='far fa-calendar-alt'></i> Pachete \\ Evenimente",
       "sectionId": "events",
       "addLinkInPageHeadline": false
     },
@@ -127,7 +127,7 @@
       "type": "linkToOtherPagesBig",
       "otherPages": [
         {
-          "text": "Ne dorim să ai o <b>experiență unică</b> la Roșia Montană, cunoaștem zona noastră, știm ce poți face și vizita aici de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și/sau participarea la diferite alte activități. <b>Vezi aici</b> ce pachete ți-am pregătit!",
+          "text": "Ne dorim să ai o <b>experiență unică</b> la Roșia Montană, cunoaștem zona noastră, știm ce poți face și vizita aici de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și/sau participarea la diferite alte activități.",
           "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg",
           "url": {
             "link": "ro/events/all",
@@ -146,7 +146,7 @@
       "type": "linkToOtherPagesBig",
       "otherPages": [
         {
-          "text": "Suntem localnici, ținem legătura cu oamenii din sat, vizităm și explorăm locurile din împrejurimi iar când mai avem timp postam câte un articol cu o experiență pe care o poti avea și tu în zonă. <b>Vezi aici</b>!",
+          "text": "Suntem localnici, ținem legătura cu oamenii din sat, vizităm și explorăm locurile din împrejurimi iar când mai avem timp postam câte un articol cu o experiență pe care o poti avea și tu în zonă.",
           "img": "/assets/img/attractions/article/lakes/bigLake/fullSize/tau-mare-caine-apus-natura-vara-nature-rosia-montana.jpg",
           "url": {
             "link": "ro/blog/all",
