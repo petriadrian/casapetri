@@ -28,7 +28,7 @@
         },
         {
           "title": "Sâmbătă",
-          "text": "<b><i class='far fa-clock'></i> 07:00 - 12:00 - Turul foto de dimineață</b> - surprindem răsăritul și ceața de dimineață de pe masivele din zonă (la micul dejun vom avea pregătite câteva sandwichuri și vom face un picnic pe traseu). <br><b><i class='far fa-clock'></i> 13:00 - 15:00 - Prânzul</b> la un localnic, în aer liber și relaxare în hamac. <br><b><i class='far fa-clock'></i> 15:00 - 17:00 Tur foto - centrul istoric</b> - clădiri, ornamente și alte obiective de patrimoniu. <br><b><i class='far fa-clock'></i> 17:00 - 20:00 Turul foto de seară</b> - surprinderea apusului peste Apuseni din vechi galerii și corande aurifere <br><b><i class='far fa-clock'></i> 20:00 - Cina</b> și relaxare în hamac",
+          "text": "<b><i class='far fa-clock'></i> 07:00 - 12:00 - Turul foto de dimineață</b> - surprindem răsăritul și ceața de dimineață de pe masivele din zonă (la micul dejun vom avea pregătite câteva sandwichuri și vom face un picnic pe traseu). <br><b><i class='far fa-clock'></i> 13:00 - 15:00 - Prânzul</b> la un localnic, în aer liber și relaxare în hamac. <br><b><i class='far fa-clock'></i> 15:00 - 17:00 Tur foto - centrul istoric</b> - clădiri, ornamente și alte obiective de patrimoniu. <br><b><i class='far fa-clock'></i> 17:00 - 20:00 Turul foto de seară</b> - surprinderea apusului din vechi galerii și corande aurifere. <br><b><i class='far fa-clock'></i> 20:00 - Cina</b> și relaxare în hamac",
           "images": [
             {
               "text": "Urcăm spre puncte de belvedere pentru a surprinde peisaje de poveste.",
@@ -41,7 +41,7 @@
               "fullSize": "assets/img/attractions/ceata-centrul-istoric-vaidoaia.jpg"
             },
             {
-              "text": "Toamna",
+              "text": "Ne aflăm în Munții Apuseni, înconjurați de păduri de foioase excelente pentru a surprinde spectacolul toamnei.",
               "thumbnail": "assets/img/attractions/toamna-padure-seliste-th.jpg",
               "fullSize": "assets/img/attractions/toamna-padure-seliste.jpg"
             }
@@ -49,15 +49,15 @@
         },
         {
           "title": "Duminică",
-          "text": "<b><i class='far fa-clock'></i> 09:00</b> - Mic dejun  <br><b><i class='far fa-clock'></i> 10:00 - 12:00 Selectare și prelucrare imagini</b> tehnici și sugestii. Vom alege 10 fotografii ale principalelor atracții din Roșia Montană ce vor fi printate și expuse în #turnulCuPriveliște și posibil și la Muzeul Mineritului, astfel că turiștii care vizitează aceste locuri să vadă că au mult mai multe obiective minunate de vizitat la Roșia și în acest mod să contribuim puțin la dezvoltarea turistică a zonei.",
+          "text": "<b><i class='far fa-clock'></i> 09:00</b> - Mic dejun  <br><b><i class='far fa-clock'></i> 10:00 - 12:00 Selectare și prelucrare imagini</b> - tehnici și sugestii. La final alegem 10 fotografii ale principalelor atracții din Roșia Montană ce vor fi printate și expuse în #turnulCuPriveliște și posibil și la Muzeul Mineritului, astfel că turiștii ce vor vizita aceste locuri să vadă că au mult mai multe obiective minunate de vizitat la Roșia și în acest mod să contribuim puțin la dezvoltarea turistică a zonei.",
           "images": [
             {
-              "text": "Vom expune Bisericii Unitariene.",
+              "text": "Vom expune cele mai reușite 10 poze în turnul Bisericii Unitariene.",
               "thumbnail": "assets/img/attractions/article/churches/unitarianChurch/thumbnail/1.jpg",
               "fullSize": "assets/img/attractions/article/churches/unitarianChurch/fullSize/1.jpg"
             },
             {
-              "text": "Locul unde vor fi expuse.",
+              "text": "Locul unde vor fi expuse cele mai reușite 10 poze.",
               "thumbnail": "assets/img/attractions/biserica-unitariana-turnul-cu-priveliste-expozitie-foto-interior-th.jpg",
               "fullSize": "assets/img/attractions/biserica-unitariana-turnul-cu-priveliste-expozitie-foto-interior.jpg"
             }
