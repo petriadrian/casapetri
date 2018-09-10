@@ -51,8 +51,17 @@
           }
         },
         {
+          "title": "Viața la țară",
+          "text": "<b>În ultimele 2 săptămâni din August</b> vă invităm să vă conectați la viața moților din Apuseni (cosit, strânsul fânului, ridicarea căpițelor, mulsul vacilor și alte activități la fermă)",
+          "img": "assets/img/events/hayDays/article/thumbnail/fan-zeno-vulcan-rosia.jpg",
+          "url": {
+            "link": "ro/events/haydays",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
           "title": "Atelier foto de toamnă",
-          "text": "<b>5 - 7 Octombrie |</b> Vom colinda diverse locuri panoramice în diferite momente ale zilei însoțiți de un fotograf experimentat ce ne va arăta diverse tehnici și setări pentru fotografia de peisaj.",
+          "text": "<b>În primul weekend din Octombrie</b> organizăm un tur foto de toamnă însoțiți de un fotograf experimentat ce ne va arăta diverse tehnici și setări pentru fotografia de peisaj.",
           "img": "assets/img/attractions/dslr-aparat-foto.jpg",
           "url": {
             "link": "ro/events/fotoWorkshopAutumn",

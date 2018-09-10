@@ -49,6 +49,15 @@
             "link": "en/events/narcise",
             "textOnMouseOver": "See more..."
           }
+        },
+        {
+          "title": "Live as a local",
+          "text": "<b>In the last 2 weeks from August</b> you can connect to the nature and to the traditional life of the locals by helping them in their daily work (haymaking, hay stacks, cow milking and other local activities)",
+          "img": "assets/img/events/hayDays/article/thumbnail/fan-zeno-vulcan-rosia.jpg",
+          "url": {
+            "link": "en/events/haydays",
+            "textOnMouseOver": "See more..."
+          }
         }
       ]
     },
