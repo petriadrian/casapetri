@@ -75,7 +75,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<br>Ne va însoți un <b>fotograf profesionist</b> care ne va arăta sau sugera diverse tehnici pentru fotografia de peisaj. <br><b>Cazarea</b> va fi în centrul istoric Roșia Montană la Casa Petri sau alte pensiuni din zonă în cameră cu baie privată sau o baie la 2 camere. <br><b>Mâncare</b> - dacă sunteți vegetarieni sau aveți alte preferințe vă rugăm să ne scrieți în căsuța 'Alte detalii'   <br><b>Echipament</b> recomandat - aparat foto cu setări manuale, trepied, pelerină de ploaie, bocanci de munte și protecție pentru soare. <br><b>Număr participanți</b> - între 3 și 20 de persoane.",
+          "text": "<br><b>Cazarea</b> va fi în centrul istoric Roșia Montană la Casa Petri sau alte pensiuni din zonă în cameră cu baie privată sau o baie la 2 camere. <br><b>Mâncare</b> - dacă sunteți vegetarieni sau aveți alte preferințe vă rugăm să ne scrieți în căsuța 'Alte detalii'   <br><b>Echipament</b> recomandat - aparat foto cu setări manuale, trepied, pelerină de ploaie, bocanci de munte și protecție pentru soare. <br><b>Număr participanți</b> - între 3 și 20 de persoane.",
           "images": [
             {
               "text": "Recomandăm să aveți un aparat foto cu setări manuale.",
@@ -93,6 +93,54 @@
     },
     {
       "type": "title",
+      "text": "Cine ne însoțește?",
+      "sectionId": "guide",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "title": "Tehnici foto",
+          "text": "Cu o vasta experienta in televiziune, atat ca operator, cat si director de imagine, iar apoi ca location coordinator la o casa de productie de film, <b>Camil Iamandescu</b> ne va insoti in acest tur foto si ne va povesti chiar la fata locului despre tehnicile fotografiei de peisaj. <br>'Pasionat de fotografie si documentar - atat fotografic, cat si filmat. Dar si pasionat de a calatori si a povesti... Fac fotografii alb negru din 1986, diapozitive color am facut intre anii 1989 si circa 2002, iar pe suporturile digitale lucrez inca din anul 2000, cand am descoperit una din primele camere Sony Handicam/Mavica. Sunt dornic sa acopar oice foto-documentar, si de asemenea sa calatoresc, sa vad oameni noi, locuri noi. Ma bucur sa fac portret, atat in exterior, cat si in studio. Din octombrie voi deschide in sfarsit studioul mult-visat, pentru a realiza portrete de toate genurile, dar mai ales in stilul film-noir al anilor 40. <br>Rosia Montana m-a cucerit nu doar prin peisajul ei molcom, cat prin istoria pe care o poti citi in pietre, in taurile acum napadite de vegetatie, sau in casele cazute in paragina. Asezarea ei intre munti molcomi face ca vremea sa fie mereu variabila, in sensul cel mai fotogenic al expresiei. Mereu e ceva nou de fotografiat la Rosia Montana!'",
+          "images": [
+            {
+              "text": "Fotografiile lui Camil Iamandescu la Rosia Montana.",
+              "thumbnail": "assets/img/attractions/taul-tarini-copac-drona-camil-iamandescu-th.jpg",
+              "fullSize": "assets/img/attractions/taul-tarini-copac-drona-camil-iamandescu.jpg"
+            },
+            {
+              "text": "Fotografiile lui Camil Iamandescu la Rosia Montana.",
+              "thumbnail": "assets/img/attractions/geamana-vinta-biserica-camil-iamandescu-th.jpg",
+              "fullSize": "assets/img/attractions/geamana-vinta-biserica-camil-iamandescu.jpg"
+            },
+            {
+              "text": "Fotografiile lui Camil Iamandescu la Rosia Montana.",
+              "thumbnail": "assets/img/attractions/peisaj-catel-toamna-camil-iamandescu-th.jpg",
+              "fullSize": "assets/img/attractions/peisaj-catel-toamna-camil-iamandescu.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Ghid trasee",
+          "text": "A umblat cu zeci de turisti in tururi ghidate ale Rosiei Montane, cunoaste fiecare locusor si stie de unde e cea mai buna lumina in functie de fiecare moment al zilei. In cadrul acestui atelier foto, <b>Calin Capros</b> ne va plimba si povesti despre istoria celor mai frumoase obiective din Rosia Montana pentru a ne oferi o mica sursa de inspiratie in realizarea fotografiilor.",
+          "images": [
+            {
+              "text": "Tur ghidat Rosia Montana.",
+              "thumbnail": "assets/img/attractions/article/letySulei/thumbnail/turisti-bancuta-rosia-montana.jpg",
+              "fullSize": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
+            },
+            {
+              "text": "Tur ghidat Rosia Montana.",
+              "thumbnail": "assets/img/attractions/article/letySulei/thumbnail/1.jpg",
+              "fullSize": "/assets/img/attractions/article/letySulei/fullSize/1.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
       "text": "<i class='far fa-calendar-check'></i> Preț și Rezervări",
       "sectionId": "bookings",
       "addLinkInPageHeadline": true
@@ -101,7 +149,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<br>Prețul este <b>390 lei/persoană</b> - include cazarea, masă și tururile foto."
+          "text": "<br>Prețul este <b>450 lei/persoană</b> - include cazarea, masa și tururile foto."
         }
       ]
     },
