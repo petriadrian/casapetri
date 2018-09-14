@@ -24,11 +24,11 @@
         },
         {
           "title": "Vineri",
-          "text": "<b><i class='far fa-clock'></i> 18:00 - 21:00</b> - sosirea la Casa Petri Roșia Montană - cazare, cunoaștere, 'ședință tehnică' (împărțirea temelor de fotografiat). <br><b><i class='far fa-clock'></i> 22:00</b> - Cina"
+          "text": "<b><i class='far fa-clock'></i> 18:00</b> - sosirea la Casa Petri Roșia Montană - cazare, cunoaștere, 'ședință tehnică' (împărțirea temelor de fotografiat). <br><b><i class='far fa-clock'></i> 22:00</b> - Cina"
         },
         {
           "title": "Sâmbătă",
-          "text": "<b><i class='far fa-clock'></i> 07:00 - 12:00 - Turul foto de dimineață</b> - surprindem răsăritul și ceața de dimineață de pe masivele din zonă (la micul dejun vom avea pregătite câteva sandwichuri pentru un picnic pe traseu). <br><b><i class='far fa-clock'></i> 13:00 - 15:00 - Prânzul</b> la un localnic, în aer liber și relaxare în hamac. <br><b><i class='far fa-clock'></i> 15:00 - 17:00 Tur foto - centrul istoric</b> - clădiri, ornamente și alte obiective de patrimoniu. <br><b><i class='far fa-clock'></i> 17:00 - 20:00 Turul foto de seară</b> - surprinderea apusului din vechi galerii și corande aurifere. <br><b><i class='far fa-clock'></i> 20:00 - Cina</b> și relaxare în hamac",
+          "text": "<b><i class='far fa-clock'></i> 07:00 - Turul foto de dimineață</b> - surprindem răsăritul și ceața de dimineață de pe masivele din zonă (la micul dejun vom avea pregătite câteva sandwichuri pentru un <b>picnic pe traseu</b>). <br><b><i class='far fa-clock'></i> 13:00 Prânzul</b> la un localnic (în aer liber) și <b>relaxare în hamac</b>. <br><b><i class='far fa-clock'></i> 15:00 - Tur foto - centrul istoric</b> - clădiri, ornamente și alte obiective de patrimoniu. <br><b><i class='far fa-clock'></i> 17:00 - Turul foto de seară</b> - surprinderea apusului din vechi galerii și corande aurifere. <br><b><i class='far fa-clock'></i> 20:00 - Cina</b> și relaxare în hamac",
           "images": [
             {
               "text": "Urcăm spre puncte de belvedere pentru a surprinde peisaje de poveste.",
@@ -49,7 +49,7 @@
         },
         {
           "title": "Duminică",
-          "text": "<b><i class='far fa-clock'></i> 09:00</b> - Mic dejun  <br><b><i class='far fa-clock'></i> 10:00 - 12:00 Selectare și prelucrare imagini</b> - tehnici și sugestii. La final alegem 10 fotografii ale principalelor atracții din Roșia Montană ce vor fi printate și expuse în #turnulCuPriveliște și posibil și la Muzeul Mineritului, astfel că turiștii ce vor vizita aceste locuri să vadă că au mult mai multe obiective minunate de vizitat la Roșia și în acest mod să contribuim puțin la dezvoltarea turistică a zonei.",
+          "text": "<b><i class='far fa-clock'></i> 09:00</b> - Mic dejun  <br><b><i class='far fa-clock'></i> 10:00 - Selectare și prelucrare imagini</b> - tehnici și sugestii. La final alegem 10 fotografii ale principalelor atracții din Roșia Montană ce vor fi printate și expuse în #turnulCuPriveliște și posibil și la Muzeul Mineritului, astfel că turiștii ce vor vizita aceste locuri să vadă că au mult mai multe obiective minunate de vizitat la Roșia și în acest mod să contribuim puțin la dezvoltarea turistică a zonei.",
           "images": [
             {
               "text": "Vom expune cele mai reușite 10 poze în turnul Bisericii Unitariene.",
@@ -139,7 +139,7 @@
       "type": "article",
       "specificArticles": [
         {
-          "text": "<br>Prețul este <b>450 lei/persoană</b> - include cazarea, masa și tururile foto."
+          "text": "<br>Prețul este <b>450 lei/persoană</b> - include cazarea, masa și tururile foto. La confirmarea rezervării se va achita 50% avans."
         }
       ]
     },
