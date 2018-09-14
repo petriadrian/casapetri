@@ -3,15 +3,17 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 cd casaPetri
-*maybe needs 2gb machine ram
 
-To make the build run:
+To make the build run (needs min 2gb machine ram):
 npm run build:universal
 
-To start the project(in background) run:
+To START the project(in background) run:
 pm2 start dist/server.js
+To STOP the project(in background) run:
+pm2 start dist/server.js
+pm2 stop all
 
-To start the project:
+To start the project (will be automatically closed):
 npm run serve:universal
 
 ## Development server
