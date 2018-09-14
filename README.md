@@ -10,7 +10,6 @@ npm run build:universal
 To START the project(in background) run:
 pm2 start dist/server.js
 To STOP the project(in background) run:
-pm2 start dist/server.js
 pm2 stop all
 
 To start the project (will be automatically closed):
