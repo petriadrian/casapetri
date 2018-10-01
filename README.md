@@ -2,17 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
+To make the build
+- turn off machine from digital ocean
+- resize machine to min 2gb ram
+- open machine and log in from mobaXterm
 cd casaPetri
-
-To make the build run (needs min 2gb machine ram):
+git pull
 npm run build:universal
-
-To START the project(in background) run:
+- to START the project(in background) run:
 pm2 start dist/server.js
-To STOP the project(in background) run:
+- to STOP the project(in background) run:
 pm2 stop all
-
-To start the project (will be automatically closed):
+-to start the project (will be automatically closed on closing the window):
 npm run serve:universal
 
 ## Development server
