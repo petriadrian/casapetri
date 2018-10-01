@@ -3,9 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 To make the build
-- turn off machine from digital ocean
-- resize machine to min 2gb ram
-- open machine and log in from mobaXterm
+- open 167.99.196.145 from mobaXterm
 cd casaPetri
 git pull
 npm run build:ssr
