@@ -24,6 +24,7 @@ import {SocialButtonsComponent} from './body/section/social-buttons/social-butto
 import {LinkDetailBoxBigComponent} from './body/section/link-detail-box-big/link-detail-box-big.component';
 import {InfoModalComponent} from './info-modal/info-modal.component';
 import {NgbActiveModal, NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import { isPlatformBrowser } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -62,16 +63,11 @@ import {NgbActiveModal, NgbModule} from '@ng-bootstrap/ng-bootstrap';
 })
 export class AppModule {
 
-  // constructor(
-  //   @Inject(PLATFORM_ID) private platformId: Object,
-  //   @Inject(APP_ID) private appId: string) {
-  //   const platform = isPlatformBrowser(platformId) ?
-  //     'in the browser' : 'on the server';
-  //   console.log(`Running ${platform} with appId=${appId}`);
-  // }
-
-  constructor(private urlService: UrlService) {
-    const platform = urlService.isHostOnBrowser() ? 'in the browser' : 'on the server';
-    console.log(`Running ${platform}`);
+  constructor(
+    @Inject(PLATFORM_ID) private platformId: Object,
+    @Inject(APP_ID) private appId: string) {
+    const platform = isPlatformBrowser(platformId) ?
+      'in the browser' : 'on the server';
+    console.log(`Running ${platform} with appId=${appId}`);
   }
 }
