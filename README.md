@@ -8,7 +8,7 @@ To make the build
 - open machine and log in from mobaXterm
 cd casaPetri
 git pull
-npm run build:universal
+npm run build:ssr
 - to START the project(in background) run:
 pm2 start dist/server.js
 - to STOP the project(in background) run:
