@@ -1,0 +1,51 @@
+{
+  "modal": {
+    "button": "Am înțeles",
+    "text": "Folosim cookie și alte tehnologii pentru a îmbunătăți experiența pe acest site. Prin continuarea navigării confirmi acceptarea Politicii de confidiențalitate pe care o găsești ",
+    "seeAlso": [
+      {
+        "text": "aici",
+        "textOnMouseOver": "Click aici...",
+        "link": "ro/common/privacyPolicy"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "Politica de confidiențalitate",
+      "sectionId": "privacyPolicy"
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "text": "Vrem sa te simti confortabil pe site-ul nostru asa cum te simti si atunci cand ne treci pragul. Prin urmare conform noilor reglementari propuse de Regulamentul (UE) 2016/679 privind protectia persoanelor fizice în ceea ce priveste prelucrarea datelor cu caracter personal te informam ce date prelucram si in ce scop."
+        },
+        {
+          "text": "Te asiguram ca iti administram datele personale in siguranta si doar in scopul in care ni le furnizezi fara a le transmite sau vinde catre terte parti."
+        },
+        {
+          "text": "Atunci cand doresti sa faci o rezervare sau sa ne transmit un mesaj prin intermediul site-ului iti vom solicita adresa de email si numarul de telefon. Ulterior, odata ce servicile noastre de cazare iti vor fi furnizate vom emite factură fiscală, pentru aceasta avem nevoie de datele din buletin sau pasaport (nume, adresa completa, serie si numar act de identitate)."
+        },
+        {
+          "text": "Pe langa aceste date personale site-ul nostru foloseste cookie-uri ce ne permit să numărăm vizitele, timpul petrecut pe site și sursele de trafic, astfel încât să putem măsura și îmbunătăți performanța site-ului nostru. Toate informațiile pe care le colectează aceste cookie-uri sunt agregate și, prin urmare, anonime."
+        },
+        {
+          "text": "Pentru a aduce imbunatatiri site-ului nostru si a analiza activitatea acestuia utilizam cookie-uri de performanta si anume Google Analytics ce genereaza statistici anonime pe baza datelor colectate. Prin aceste date mentionam ca nu putem sa identificam persoane ci doar sa analizam activitatea utilizatorilor pe site. Informații detaliate cu privire la Google Analytics și protecția datelor cu caracter personal (inclusiv modul în care puteți controla informațiile trimise către Google) pot fi găsite ",
+          "seeAlso": [
+            {
+              "text": "aici",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://policies.google.com/technologies?hl=ro"
+            }
+          ]
+        },
+        {
+          "text": "Prin continuarea navigarii pe site-ul nostru confirmi acceptarea utilizarii fisierelor de tip cookie si faptul ca ai inteles ce tip de date iti for fi solicitate in cazul in care doresti sa ne contactezi online."
+        }
+      ]
+    }
+  ]
+}
+

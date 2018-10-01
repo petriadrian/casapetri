@@ -3,7 +3,21 @@
     "link": "ro/review",
     "textOnMouseOver": "Vezi sau adaugă recenzii..."
   },
-  "googleMapLink": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyAAfI8jQQrhfmikiG-nBj2_t5r-P98cem8",
+  "credentials": {
+    "text": "<i class='far fa-copyright'></i> Casa Petri <br><i class='fas fa-phone fa-rotate-90'></i> +40 743 188 186 <br><i class='fas fa-map-marker-alt'></i> Roșia Montană 331A, Alba, Romania",
+    "seeAlso": [
+      {
+        "text": "<br><i class='fas fa-lock'></i> Politica de confidențialitate",
+        "textOnMouseOver": "Click aici...",
+        "link": "ro/common/privacyPolicy"
+      },
+      {
+        "text": "<br><i class='fas fa-location-arrow'></i> Cum ajung?",
+        "textOnMouseOver": "Click aici...",
+        "link": "ro/home#directions"
+      }
+    ]
+  },
   "weatherLink": "https://www.meteoblue.com/en/weather/widget/daily/ro%c8%99ia-montan%c4%83_romania_668639?days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&pictoicon=1&maxtemperature=1&layout=dark",
   "facebookLink": "https://www.facebook.com/casapetrirosiamontana",
   "form": {
@@ -15,7 +29,7 @@
         "type": "textarea",
         "name": "feedback",
         "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
-        "placeholder": "Vrem să ne îmbunatătim. Lasă-ne un feedback! ...",
+        "placeholder": "Scrie-ne un mesaj...",
         "rows": 3,
         "maxChars": 350,
         "required": true

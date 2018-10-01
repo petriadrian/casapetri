@@ -21,7 +21,9 @@ import {ArticleBodyComponent} from './body/section/article/article-body/article-
 import {CommonArticleComponent} from './body/section/article/common-article/common-article.component';
 import {LinkComponent} from './body/section/link/link.component';
 import {SocialButtonsComponent} from './body/section/social-buttons/social-buttons.component';
-import { LinkDetailBoxBigComponent } from './body/section/link-detail-box-big/link-detail-box-big.component';
+import {LinkDetailBoxBigComponent} from './body/section/link-detail-box-big/link-detail-box-big.component';
+import {InfoModalComponent} from './info-modal/info-modal.component';
+import {NgbActiveModal, NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   declarations: [
@@ -42,16 +44,21 @@ import { LinkDetailBoxBigComponent } from './body/section/link-detail-box-big/li
     CommonArticleComponent,
     LinkComponent,
     SocialButtonsComponent,
-    LinkDetailBoxBigComponent
+    LinkDetailBoxBigComponent,
+    InfoModalComponent
   ],
   imports: [
     BrowserModule.withServerTransition({appId: 'casapetri'}),
     FormsModule,
+    NgbModule,
     RouterModule.forRoot(ROUTES), // to display logs add {enableTracing: true} as 2nd param,
     HttpClientModule
   ],
-  providers: [UrlService],
-  bootstrap: [AppComponent]
+  providers: [UrlService, NgbActiveModal],
+  bootstrap: [AppComponent],
+  entryComponents: [
+    InfoModalComponent
+  ]
 })
 export class AppModule {
   constructor(private urlService: UrlService) {
