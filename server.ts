@@ -15,6 +15,7 @@ enableProdMode();
 
 // Express server
 const app = express();
+const bodyParser = require('body-parser');
 
 const PORT = process.env.PORT || 80;
 const DIST_FOLDER = join(process.cwd(), 'dist');
@@ -23,7 +24,7 @@ const DIST_FOLDER = join(process.cwd(), 'dist');
 const template = readFileSync(join(DIST_FOLDER, 'browser', 'index.html')).toString();
 
 // * NOTE :: leave this as require() since this file is built Dynamically from webpack
-const {AppServerModuleNgFactory, LAZY_MODULE_MAP} = require('./dist/server/main.bundle');
+const {AppServerModuleNgFactory, LAZY_MODULE_MAP} = require('./dist/server/main');
 
 const {provideModuleMap} = require('@nguniversal/module-map-ngfactory-loader');
 
@@ -40,6 +41,7 @@ app.engine('html', (_, options, callback) => {
 
 app.use(express.json());       // to support JSON-encoded bodies
 app.use(express.urlencoded());
+app.use(bodyParser.urlencoded({extended: true}));
 
 app.set('view engine', 'html');
 app.set('views', join(DIST_FOLDER, 'browser'));

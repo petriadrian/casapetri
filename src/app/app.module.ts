@@ -1,5 +1,5 @@
 import {BrowserModule} from '@angular/platform-browser';
-import {NgModule} from '@angular/core';
+import {APP_ID, Inject, NgModule, PLATFORM_ID} from '@angular/core';
 import {HttpClientModule} from '@angular/common/http';
 
 
@@ -61,6 +61,15 @@ import {NgbActiveModal, NgbModule} from '@ng-bootstrap/ng-bootstrap';
   ]
 })
 export class AppModule {
+
+  // constructor(
+  //   @Inject(PLATFORM_ID) private platformId: Object,
+  //   @Inject(APP_ID) private appId: string) {
+  //   const platform = isPlatformBrowser(platformId) ?
+  //     'in the browser' : 'on the server';
+  //   console.log(`Running ${platform} with appId=${appId}`);
+  // }
+
   constructor(private urlService: UrlService) {
     const platform = urlService.isHostOnBrowser() ? 'in the browser' : 'on the server';
     console.log(`Running ${platform}`);
