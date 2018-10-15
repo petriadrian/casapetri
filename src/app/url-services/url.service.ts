@@ -86,8 +86,8 @@ export class UrlService {
     return !isPlatformServer(this.platformId);
   }
 
-  public getRouterUrl() {
-    return this.router.url;
+  public getFullUrl() {
+    return this.getHostName() + this.router.url;
   }
 
   public scrollToAnchorIfValid(anchor) {
