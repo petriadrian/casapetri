@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://www.casapetrirosiamontana.com/sitemap.xml
+Sitemap: http://www.casapetrirosiamontana.ro/sitemap.xml
