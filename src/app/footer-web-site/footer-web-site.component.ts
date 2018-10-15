@@ -1,8 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {HttpClient} from '@angular/common/http';
 import {UrlService} from '../url-services/url.service';
-import {Inject, Injectable} from '@angular/core';
-import {DOCUMENT} from '@angular/common';
+import {Injectable} from '@angular/core';
 
 @Injectable()
 @Component({
