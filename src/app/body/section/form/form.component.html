@@ -104,11 +104,11 @@
       <div *ngIf="field.type == 'checkBoxes'" class="text-left">
         <p [innerHTML]="field.title | trustHtml"></p>
 
-        <div *ngFor="let checkBox of field.checkBoxes" class="checkbox">
-          <label>
+        <div *ngFor="let checkBox of field.checkBoxes">
+          <label class="checkbox">
             <input type="checkbox"
-                   ngModel name="{{checkBox.name}}"
-                   title="{{checkBox.name}}"
+                   ngModel name="{{checkBox.id}}"
+                   title="{{checkBox.id}}"
                    value="true"/>
             <span [innerHTML]="checkBox.text | trustHtml"></span>
           </label>

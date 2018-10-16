@@ -13,7 +13,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-alt'></i> Program",
-      "sectionId": "schedule",
+      "id": "schedule",
       "addLinkInPageHeadline": true
     },
     {
@@ -68,7 +68,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-info-circle'></i> Info",
-      "sectionId": "info",
+      "id": "info",
       "addLinkInPageHeadline": true
     },
     {
@@ -132,7 +132,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-check'></i> Preț și Rezervări",
-      "sectionId": "bookings",
+      "id": "bookings",
       "addLinkInPageHeadline": true
     },
     {

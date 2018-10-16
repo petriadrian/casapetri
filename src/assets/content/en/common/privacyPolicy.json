@@ -14,7 +14,7 @@
     {
       "type": "title",
       "text": "Privacy Policy",
-      "sectionId": "privacyPolicy"
+      "id": "privacyPolicy"
     },
     {
       "type": "article",

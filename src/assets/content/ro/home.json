@@ -77,21 +77,83 @@
       "type": "title",
       "text": "De ce ai vizita zona noastră?",
       "addLinkInPageHeadline": false,
-      "sectionId": "whyVisitRosia"
+      "id": "whyVisitRosia"
     },
     {
       "type": "article",
       "specificArticles": [
         {
-          "text": "<b>Descoperă un 'peisaj cultural unic'</b> construit încă din antichitate de diverse civilizații pentru a extrage aur (propus ca sit <b>UNESCO</b>) <br><b>Vezi exploatările miniere</b> existente și ce impact ar avea una nouă pe cianuri ca cea propusă de canadieni. <br><b>Natură și liniște</b> - drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și zone protejate din Munții Apuseni."
-        },
+          "text": "<b>Descoperă un 'peisaj cultural unic'</b> construit încă din antichitate de diverse civilizații pentru a extrage aur (propus ca sit <b>UNESCO</b>) <br><b>Natură și liniște</b> - drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și zone protejate din Munții Apuseni. <br><b>Vezi exploatările miniere</b> existente și ce impact ar avea una nouă pe cianuri ca cea propusă de canadieni."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Stai într-o casă cu poveste",
+      "addLinkInPageHeadline": false,
+      "id": "accommodation"
+    },
+    {
+      "type": "article",
+      "specificArticles": [
         {
-          "text": "",
+          "text": "Am restaurat casa bunicilor din <b>centrul istoric Roșia Montană</b>, locul unde minerii schimbau aurul extras în bani și dinamită. Am pus în valoare trecutul iar acum oferim ",
           "seeAlso": [
             {
-              "text": "<b>Top 10 atracții</b> - vezi aici",
-              "textOnMouseOver": "Click here...",
-              "link": "ro/attractions#toSee"
+              "text": " cazare, tururi ghidate și biciclete.",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "otherPages": [
+        {
+          "title": "Casa Cărților",
+          "text": "Fost sediu de bancă cu pereți de piatră de un metru grosime transformat într-un spațiu cu bibliotecă, baie și chicinetă.",
+          "img": "assets/img/accommodation/article/rooms/cartilor/thumbnail/1.jpg",
+          "url": {
+            "link": "ro/accommodation#booksHouse",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "Casa din târnaț",
+          "text": "Aici sunt camerele de oaspeți ale bunicilor cu zugraveala veche de aproape 100 de ani, expoziție de flori de mină, goblene și cărți.",
+          "img": "assets/img/accommodation/article/rooms/tarnat/thumbnail/hallway.jpg",
+          "url": {
+            "link": "ro/accommodation#tarnatHouse",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "Căsuța din grădină",
+          "text": "Vechea bucătărie de vară, locul unde se preparau bucate și se facea pălinca e acum un spațiu unde o să găsiți tot confortul unui mic apartament.",
+          "img": "assets/img/accommodation/article/rooms/casuta/thumbnail/7.jpg",
+          "url": {
+            "link": "ro/accommodation#littleHouse",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "specificArticles": [
+        {
+          "seeAlso": [
+            {
+              "text": "<br><i class='far fa-dot-circle'></i> Rezervări ",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            },
+            {
+              "text": " <i class='far fa-dot-circle'></i> Facilități",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#facilities"
             }
           ]
         }
@@ -99,35 +161,15 @@
     },
     {
       "type": "title",
-      "text": "Ce oferim?",
-      "addLinkInPageHeadline": false,
-      "sectionId": "casaPetri"
-    },
-    {
-      "type": "linkToOtherPagesBig",
-      "otherPages": [
-        {
-          "title": "Cazare, tururi ghidate, biciclete",
-          "text": "Am restaurat casa bunicilor din <b>centrul istoric Roșia Montană</b>, o casă de patrimoniu cu poveste deoarece aici era locul unde minerii schimbau aurul extras în bani și dinamită. Am pus în valoare trecutul iar acum oferim servicii turistice. Vezi aici imagini și rezervări.",
-          "img": "/assets/img/accommodation/article/rooms/cartilor/fullSize/1.jpg",
-          "url": {
-            "link": "ro/accommodation",
-            "textOnMouseOver": "Click aici..."
-          }
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='far fa-calendar-alt'></i> Pachete \\ Evenimente",
-      "sectionId": "events",
+      "text": "<i class='fas fa-hiking'></i> <i class='fas fa-walking'></i> Tururi ghidate",
+      "id": "events",
       "addLinkInPageHeadline": false
     },
     {
       "type": "linkToOtherPagesBig",
       "otherPages": [
         {
-          "text": "Ne dorim să ai o <b>experiență unică</b> la Roșia Montană, cunoaștem zona noastră, știm ce poți face și vizita aici de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și/sau participarea la diferite alte activități.",
+          "text": "Cunoaștem zona noastră și împrejurimile, știm ce poți face și vizita aici de aceea organizăm tururi ghidate.",
           "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg",
           "url": {
             "link": "ro/events/all",
@@ -138,19 +180,103 @@
     },
     {
       "type": "title",
-      "text": "<i class='far fa-images'></i> Blog",
-      "sectionId": "blog",
+      "text": "Bucură-te de natură și aer curat",
+      "id": "experiences",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "linkToOtherPagesBig",
+      "type": "linkToOtherPages",
       "otherPages": [
         {
-          "text": "Suntem localnici, ținem legătura cu oamenii din sat, vizităm și explorăm locurile din împrejurimi iar când mai avem timp postam câte un articol cu o experiență pe care o poti avea și tu în zonă.",
-          "img": "/assets/img/attractions/article/lakes/bigLake/fullSize/tau-mare-caine-apus-natura-vara-nature-rosia-montana.jpg",
+          "title": "La narcise",
+          "text": "<b> În weekendurile din luna Mai</b> organizam drumeții spre un loc magic din Apuseni cu peisaje de poveste și miros de neiuitat: 'Poiana cu Narcise'",
+          "img": "assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
           "url": {
-            "link": "ro/blog/all",
-            "textOnMouseOver": "Click aici..."
+            "link": "ro/events/narcise",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "Viața la țară",
+          "text": "<b>În ultimele 2 săptămâni din August</b> vă invităm să vă conectați la viața moților din Apuseni (cosit, strânsul fânului, ridicarea căpițelor, mulsul vacilor și alte activități la fermă)",
+          "img": "assets/img/events/hayDays/article/thumbnail/fan-zeno-vulcan-rosia.jpg",
+          "url": {
+            "link": "ro/events/haydays",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "Atelier foto de toamnă",
+          "text": "<b>În primul weekend din Octombrie</b> organizăm un tur foto de toamnă însoțiți de un fotograf experimentat ce ne va arăta diverse tehnici și setări pentru fotografia de peisaj.",
+          "img": "assets/img/attractions/dslr-aparat-foto.jpg",
+          "url": {
+            "link": "ro/events/fotoWorkshopAutumn",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Locuri încărcate cu istorie la tot pasul",
+      "id": "experiences",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "otherPages": [
+        {
+          "title": "La narcise",
+          "text": "<b> În weekendurile din luna Mai</b> organizam drumeții spre un loc magic din Apuseni cu peisaje de poveste și miros de neiuitat: 'Poiana cu Narcise'",
+          "img": "assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
+          "url": {
+            "link": "ro/events/narcise",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "Viața la țară",
+          "text": "<b>În ultimele 2 săptămâni din August</b> vă invităm să vă conectați la viața moților din Apuseni (cosit, strânsul fânului, ridicarea căpițelor, mulsul vacilor și alte activități la fermă)",
+          "img": "assets/img/events/hayDays/article/thumbnail/fan-zeno-vulcan-rosia.jpg",
+          "url": {
+            "link": "ro/events/haydays",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "Atelier foto de toamnă",
+          "text": "<b>În primul weekend din Octombrie</b> organizăm un tur foto de toamnă însoțiți de un fotograf experimentat ce ne va arăta diverse tehnici și setări pentru fotografia de peisaj.",
+          "img": "assets/img/attractions/dslr-aparat-foto.jpg",
+          "url": {
+            "link": "ro/events/fotoWorkshopAutumn",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "La narcise",
+          "text": "<b> În weekendurile din luna Mai</b> organizam drumeții spre un loc magic din Apuseni cu peisaje de poveste și miros de neiuitat: 'Poiana cu Narcise'",
+          "img": "assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
+          "url": {
+            "link": "ro/events/narcise",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "Viața la țară",
+          "text": "<b>În ultimele 2 săptămâni din August</b> vă invităm să vă conectați la viața moților din Apuseni (cosit, strânsul fânului, ridicarea căpițelor, mulsul vacilor și alte activități la fermă)",
+          "img": "assets/img/events/hayDays/article/thumbnail/fan-zeno-vulcan-rosia.jpg",
+          "url": {
+            "link": "ro/events/haydays",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "Atelier foto de toamnă",
+          "text": "<b>În primul weekend din Octombrie</b> organizăm un tur foto de toamnă însoțiți de un fotograf experimentat ce ne va arăta diverse tehnici și setări pentru fotografia de peisaj.",
+          "img": "assets/img/attractions/dslr-aparat-foto.jpg",
+          "url": {
+            "link": "ro/events/fotoWorkshopAutumn",
+            "textOnMouseOver": "Vezi mai mult..."
           }
         }
       ]
@@ -158,7 +284,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-location-arrow'></i> Cum ajung?",
-      "sectionId": "directions",
+      "id": "directions",
       "addLinkInPageHeadline": false
     },
     {

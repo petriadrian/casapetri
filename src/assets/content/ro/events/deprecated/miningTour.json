@@ -23,7 +23,7 @@
     {
       "type": "title",
       "text": " ",
-      "sectionId": "intro",
+      "id": "intro",
       "addLinkInPageHeadline": false
     },
     {
@@ -40,7 +40,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-alt'></i> Program",
-      "sectionId": "schedule",
+      "id": "schedule",
       "addLinkInPageHeadline": true
     },
     {
@@ -171,7 +171,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-info-circle'></i> Info",
-      "sectionId": "info",
+      "id": "info",
       "addLinkInPageHeadline": true
     },
     {
@@ -188,7 +188,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-bed'></i> Cazare",
-      "sectionId": "accommodation",
+      "id": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
@@ -205,7 +205,7 @@
     {
       "type": "title",
       "text": "<i class='fas fa-utensils'></i> Mâncare",
-      "sectionId": "food",
+      "id": "food",
       "addLinkInPageHeadline": false
     },
     {
@@ -222,7 +222,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-puzzle-piece'></i> Activități alternative",
-      "sectionId": "otherActivities",
+      "id": "otherActivities",
       "addLinkInPageHeadline": false
     },
     {
@@ -242,7 +242,7 @@
     {
       "type": "title",
       "text": "Alte informații",
-      "sectionId": "otherInfo",
+      "id": "otherInfo",
       "addLinkInPageHeadline": false
     },
     {
@@ -259,7 +259,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-check'></i> Prețuri și Rezervări",
-      "sectionId": "bookings",
+      "id": "bookings",
       "addLinkInPageHeadline": true
     },
     {
@@ -329,7 +329,7 @@
           "type": "checkBoxes",
           "checkBoxes": [
             {
-              "name": "reserveFood",
+              "id": "reserveFood",
               "text": "<i class='fas fa-utensils fa-fw'></i> | <b>doresc masa la localnici ~40lei/pers/zi</b>"
             }
           ]
@@ -348,7 +348,7 @@
     {
       "type": "title",
       "text": " ",
-      "sectionId": "notInterested",
+      "id": "notInterested",
       "addLinkInPageHeadline": false
     },
     {
@@ -368,7 +368,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-      "sectionId": "seeAlso",
+      "id": "seeAlso",
       "addLinkInPageHeadline": false
     },
     {

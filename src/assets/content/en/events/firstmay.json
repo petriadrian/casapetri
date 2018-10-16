@@ -13,7 +13,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-alt'></i> Schedule",
-      "sectionId": "schedule",
+      "id": "schedule",
       "addLinkInPageHeadline": true
     },
     {
@@ -163,7 +163,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-info-circle'></i> Info",
-      "sectionId": "info",
+      "id": "info",
       "addLinkInPageHeadline": true
     },
     {
@@ -180,7 +180,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-check'></i> Booking and price",
-      "sectionId": "bookings",
+      "id": "bookings",
       "addLinkInPageHeadline": true
     },
     {

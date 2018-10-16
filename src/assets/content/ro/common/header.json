@@ -8,14 +8,9 @@
   },
   "leftButtons": [
     {
-      "text": "Atracții",
-      "link": "ro/attractions",
-      "textOnMouseOver": "atracții, trasee gps de drumeție sau ciclism, trasee ghidate, tenis, hamace, cărți"
-    },
-    {
-      "text": "Pachete",
-      "link": "ro/events/all",
-      "textOnMouseOver": "pachete cu tururi"
+      "text": "Experiențe",
+      "link": "ro/experiences/all",
+      "textOnMouseOver": "Experiențe"
     },
     {
       "text": "Cazare",
@@ -23,9 +18,9 @@
       "textOnMouseOver": "cazare, trasee ghidate, închirieri biciclete, info mâncare - rezervări"
     },
     {
-      "text": "Blog",
-      "link": "ro/blog/all",
-      "textOnMouseOver": "articole"
+      "text": "Evenimente",
+      "link": "ro/events/all",
+      "textOnMouseOver": "pachete cu tururi"
     },
     {
       "text": "Reviews",

@@ -23,7 +23,7 @@
     {
       "type": "title",
       "text": " ",
-      "sectionId": "intro",
+      "id": "intro",
       "addLinkInPageHeadline": false
     },
     {
@@ -40,7 +40,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-alt'></i> Schedule",
-      "sectionId": "schedule",
+      "id": "schedule",
       "addLinkInPageHeadline": true
     },
     {
@@ -171,7 +171,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-info-circle'></i> Info",
-      "sectionId": "info",
+      "id": "info",
       "addLinkInPageHeadline": true
     },
     {
@@ -188,7 +188,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-bed'></i> Accommodation",
-      "sectionId": "accommodation",
+      "id": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
@@ -205,7 +205,7 @@
     {
       "type": "title",
       "text": "<i class='fas fa-utensils'></i> Food",
-      "sectionId": "food",
+      "id": "food",
       "addLinkInPageHeadline": false
     },
     {
@@ -222,7 +222,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-puzzle-piece'></i> Alternative activities",
-      "sectionId": "otherActivities",
+      "id": "otherActivities",
       "addLinkInPageHeadline": false
     },
     {
@@ -242,7 +242,7 @@
     {
       "type": "title",
       "text": "Other information",
-      "sectionId": "otherInfo",
+      "id": "otherInfo",
       "addLinkInPageHeadline": false
     },
     {
@@ -259,7 +259,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-check'></i> Prices and Bookings",
-      "sectionId": "bookings",
+      "id": "bookings",
       "addLinkInPageHeadline": true
     },
     {
@@ -330,11 +330,11 @@
           "title": "I want:",
           "checkBoxes": [
             {
-              "name": "reserveFood",
+              "id": "reserveFood",
               "text": "<i class='fas fa-utensils fa-fw'></i> | <b>meals at locals ~12€/pers/day</b>"
             },
             {
-              "name": "clujTransport",
+              "id": "clujTransport",
               "text": "<i class='fa fa-fw fa-car'></i> | <b>transport from Cluj Romania ~10€/pers</b>"
             }
           ]
@@ -353,7 +353,7 @@
     {
       "type": "title",
       "text": " ",
-      "sectionId": "notInterested",
+      "id": "notInterested",
       "addLinkInPageHeadline": false
     },
     {
@@ -373,7 +373,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> See also",
-      "sectionId": "seeAlso",
+      "id": "seeAlso",
       "addLinkInPageHeadline": false
     },
     {

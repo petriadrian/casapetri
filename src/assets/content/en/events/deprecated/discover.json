@@ -23,7 +23,7 @@
     {
       "type": "title",
       "text": "",
-      "sectionId": "intro",
+      "id": "intro",
       "addLinkInPageHeadline": false
     },
     {
@@ -37,7 +37,7 @@
     {
       "type": "title",
       "text": "Day 1",
-      "sectionId": "day1",
+      "id": "day1",
       "addLinkInPageHeadline": true
     },
     {
@@ -67,7 +67,7 @@
     {
       "type": "title",
       "text": "Day 2",
-      "sectionId": "day2",
+      "id": "day2",
       "addLinkInPageHeadline": true
     },
     {
@@ -175,7 +175,7 @@
     {
       "type": "title",
       "text": "Day 3",
-      "sectionId": "day3",
+      "id": "day3",
       "addLinkInPageHeadline": true
     },
     {
@@ -328,7 +328,7 @@
     {
       "type": "title",
       "text": "Day 4",
-      "sectionId": "day4",
+      "id": "day4",
       "addLinkInPageHeadline": true
     },
     {
@@ -495,7 +495,7 @@
     {
       "type": "title",
       "text": "Day 5",
-      "sectionId": "day5",
+      "id": "day5",
       "addLinkInPageHeadline": false
     },
     {
@@ -533,7 +533,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-info-circle'></i> Info",
-      "sectionId": "info",
+      "id": "info",
       "addLinkInPageHeadline": true
     },
     {
@@ -547,7 +547,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-bed'></i> Accommodation",
-      "sectionId": "accommodation",
+      "id": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
@@ -564,7 +564,7 @@
     {
       "type": "title",
       "text": "<i class='fas fa-utensils'></i> Food",
-      "sectionId": "food",
+      "id": "food",
       "addLinkInPageHeadline": false
     },
     {
@@ -589,7 +589,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-puzzle-piece'></i> Other activities",
-      "sectionId": "otherActivities",
+      "id": "otherActivities",
       "addLinkInPageHeadline": false
     },
     {
@@ -606,7 +606,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-bicycle'></i> Bikes",
-      "sectionId": "bike",
+      "id": "bike",
       "addLinkInPageHeadline": false
     },
     {
@@ -623,7 +623,7 @@
     {
       "type": "title",
       "text": "Other info",
-      "sectionId": "otherInfo",
+      "id": "otherInfo",
       "addLinkInPageHeadline": false
     },
     {
@@ -637,7 +637,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-check'></i> Bookings",
-      "sectionId": "bookings",
+      "id": "bookings",
       "addLinkInPageHeadline": true
     },
     {
@@ -722,7 +722,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> See also",
-      "sectionId": "seeAlso",
+      "id": "seeAlso",
       "addLinkInPageHeadline": false
     },
     {

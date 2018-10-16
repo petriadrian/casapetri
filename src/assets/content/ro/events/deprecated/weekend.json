@@ -22,7 +22,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-info-circle'></i> Detalii",
-      "sectionId": "details",
+      "id": "details",
       "addLinkInPageHeadline": true
     },
     {
@@ -83,7 +83,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-alt'></i> Program",
-      "sectionId": "schedule",
+      "id": "schedule",
       "addLinkInPageHeadline": true
     },
     {
@@ -121,7 +121,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-check'></i> Rezervări",
-      "sectionId": "bookings",
+      "id": "bookings",
       "addLinkInPageHeadline": true
     },
     {
@@ -177,7 +177,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-      "sectionId": "seeAlso",
+      "id": "seeAlso",
       "addLinkInPageHeadline": false
     },
     {

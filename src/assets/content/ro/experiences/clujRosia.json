@@ -13,7 +13,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-images'></i> Blog",
-      "sectionId": "winter",
+      "id": "winter",
       "addLinkInPageHeadline": true
     },
     {
@@ -119,7 +119,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-images'></i> Punțile Arieșului",
-      "sectionId": "winter",
+      "id": "winter",
       "addLinkInPageHeadline": false
     },
     {
@@ -155,7 +155,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-location-arrow'></i> Harta",
-      "sectionId": "map",
+      "id": "map",
       "addLinkInPageHeadline": true
     },
     {
@@ -172,7 +172,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-check'></i> Planifică o vizită",
-      "sectionId": "bookings",
+      "id": "bookings",
       "addLinkInPageHeadline": true
     },
     {

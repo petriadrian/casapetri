@@ -13,7 +13,7 @@
     {
       "type": "title",
       "text": "Other accommodations",
-      "sectionId": "accommodation",
+      "id": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
@@ -27,7 +27,7 @@
     {
       "type": "title",
       "text": "<i class='fas fa-home'></i> Alina",
-      "sectionId": "alina",
+      "id": "alina",
       "addLinkInPageHeadline": true
     },
     {
@@ -63,7 +63,7 @@
     {
       "type": "title",
       "text": "<i class='fas fa-home'></i> Daniel",
-      "sectionId": "daniel",
+      "id": "daniel",
       "addLinkInPageHeadline": true
     },
     {
@@ -109,7 +109,7 @@
     {
       "type": "title",
       "text": "<i class='fas fa-home'></i> Eugen",
-      "sectionId": "eugen",
+      "id": "eugen",
       "addLinkInPageHeadline": true
     },
     {
@@ -160,7 +160,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-map'></i> Map",
-      "sectionId": "map",
+      "id": "map",
       "addLinkInPageHeadline": true
     },
     {

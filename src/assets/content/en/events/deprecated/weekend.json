@@ -23,7 +23,7 @@
     {
       "type": "title",
       "text": " ",
-      "sectionId": "intro",
+      "id": "intro",
       "addLinkInPageHeadline": false
     },
     {
@@ -37,7 +37,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-alt'></i> Program",
-      "sectionId": "schedule",
+      "id": "schedule",
       "addLinkInPageHeadline": true
     },
     {
@@ -142,7 +142,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-info-circle'></i> Info",
-      "sectionId": "info",
+      "id": "info",
       "addLinkInPageHeadline": true
     },
     {
@@ -156,7 +156,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-bed'></i> Accommodation",
-      "sectionId": "accommodation",
+      "id": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
@@ -173,7 +173,7 @@
     {
       "type": "title",
       "text": "<i class='fas fa-utensils'></i> Food",
-      "sectionId": "food",
+      "id": "food",
       "addLinkInPageHeadline": false
     },
     {
@@ -190,7 +190,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-puzzle-piece'></i> Other activities",
-      "sectionId": "otherActivities",
+      "id": "otherActivities",
       "addLinkInPageHeadline": false
     },
     {
@@ -207,7 +207,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-bicycle'></i> Bikes",
-      "sectionId": "bike",
+      "id": "bike",
       "addLinkInPageHeadline": false
     },
     {
@@ -224,7 +224,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-check'></i> Bookings",
-      "sectionId": "bookings",
+      "id": "bookings",
       "addLinkInPageHeadline": true
     },
     {
@@ -297,7 +297,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> See also",
-      "sectionId": "seeAlso",
+      "id": "seeAlso",
       "addLinkInPageHeadline": false
     },
     {

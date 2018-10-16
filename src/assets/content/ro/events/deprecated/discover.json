@@ -23,7 +23,7 @@
     {
       "type": "title",
       "text": "",
-      "sectionId": "intro",
+      "id": "intro",
       "addLinkInPageHeadline": false
     },
     {
@@ -37,7 +37,7 @@
     {
       "type": "title",
       "text": "Ziua 1",
-      "sectionId": "day1",
+      "id": "day1",
       "addLinkInPageHeadline": true
     },
     {
@@ -67,7 +67,7 @@
     {
       "type": "title",
       "text": "Ziua 2",
-      "sectionId": "day2",
+      "id": "day2",
       "addLinkInPageHeadline": true
     },
     {
@@ -154,7 +154,7 @@
     {
       "type": "title",
       "text": "Ziua 3",
-      "sectionId": "day3",
+      "id": "day3",
       "addLinkInPageHeadline": true
     },
     {
@@ -296,7 +296,7 @@
     {
       "type": "title",
       "text": "Ziua 4",
-      "sectionId": "day4",
+      "id": "day4",
       "addLinkInPageHeadline": true
     },
     {
@@ -463,7 +463,7 @@
     {
       "type": "title",
       "text": "Ziua 5",
-      "sectionId": "day5",
+      "id": "day5",
       "addLinkInPageHeadline": false
     },
     {
@@ -501,7 +501,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-info-circle'></i> Info",
-      "sectionId": "info",
+      "id": "info",
       "addLinkInPageHeadline": true
     },
     {
@@ -515,7 +515,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-bed'></i> Cazare",
-      "sectionId": "accommodation",
+      "id": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
@@ -532,7 +532,7 @@
     {
       "type": "title",
       "text": "<i class='fas fa-utensils'></i> Mâncare",
-      "sectionId": "food",
+      "id": "food",
       "addLinkInPageHeadline": false
     },
     {
@@ -557,7 +557,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-puzzle-piece'></i> Activități alternative",
-      "sectionId": "otherActivities",
+      "id": "otherActivities",
       "addLinkInPageHeadline": false
     },
     {
@@ -574,7 +574,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-bicycle'></i> Biciclete",
-      "sectionId": "bike",
+      "id": "bike",
       "addLinkInPageHeadline": false
     },
     {
@@ -591,7 +591,7 @@
     {
       "type": "title",
       "text": "Alte informații",
-      "sectionId": "otherInfo",
+      "id": "otherInfo",
       "addLinkInPageHeadline": false
     },
     {
@@ -605,7 +605,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-check'></i> Rezervări",
-      "sectionId": "bookings",
+      "id": "bookings",
       "addLinkInPageHeadline": true
     },
     {
@@ -693,7 +693,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-      "sectionId": "seeAlso",
+      "id": "seeAlso",
       "addLinkInPageHeadline": false
     },
     {

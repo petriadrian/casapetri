@@ -12,7 +12,7 @@
     {
       "type": "title",
       "text": "Accommodation",
-      "sectionId": "accommodation",
+      "id": "accommodation",
       "addLinkInPageHeadline": true
     },
     {
@@ -25,15 +25,15 @@
     },
     {
       "type": "title",
-      "text": "Books House",
-      "sectionId": "booksHouse",
+      "text": "<i class='fas fa-book'></i> Books House",
+      "id": "booksHouse",
       "addLinkInPageHeadline": false
     },
     {
       "type": "article",
       "specificArticles": [
         {
-          "text": "In the past here was a bank where the miners changed the gold in money and dynamite, has one meter wide walls made of rocks, a room with 2 bunk beds and a closet filled with old books, bath and kitchenette. <br><i class='fa fa-male'></i> max 4 persons - <i class='fa fa-wifi'></i> wifi - <i class='fa fa-shower'></i> private bathroom  - <i class='fas fa-utensils'></i> kitchenette - <i class='fa fa-book'></i> library",
+          "text": "In the past here was a bank with one meter wide stone walls, where the miners changed the gold in money and dynamite. Here are 2 bunk beds for 4 pers and on request can be added 2 extra beds, so in total <i class='fa fa-male'></i> max 6 pers + <i class='fa fa-shower'></i> bathroom + <i class='fas fa-utensils'></i> kitchenette + <i class='fa fa-book'></i> library + <i class='fa fa-wifi'></i> wifi",
           "images": [
             {
               "text": "Books house - We transformed a cupboard into a library with old books, guides about Rosia Montana and board games.",
@@ -61,15 +61,15 @@
     },
     {
       "type": "title",
-      "text": "Little House",
-      "sectionId": "littleHouse",
+      "text": "<i class='fas fa-home'></i> Little House",
+      "id": "littleHouse",
       "addLinkInPageHeadline": false
     },
     {
       "type": "article",
       "specificArticles": [
         {
-          "text": "This place was the old summer house, it has one room with two beds, bathroom and kitchen <br><i class='fa fa-male'></i> max 2 persons - <i class='fa fa-wifi'></i> wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fas fa-utensils'></i> kitchen - <i class='fa fa-book'></i> library",
+          "text": "This place was the old summer house, it's like a small apartment with a fully equipped kitchen. Here are 2 simple beds that can be joined to make a double bed and on request can be added an extra bed so in total <i class='fa fa-male'></i> max 3 pers + <i class='fa fa-shower'></i> bathroom + <i class='fas fa-utensils'></i> kitchen + <i class='fa fa-book'></i> library + <i class='fa fa-wifi'></i> wifi",
           "images": [
             {
               "text": "Little house - the beds can be joined. The library contains maps, books and guides about Roșia Montană",
@@ -83,8 +83,8 @@
             },
             {
               "text": "Little house room - private bathroom and kitchenette (equipped with: coffee/tea machine, fridge, hob, sink, microwave, dishes and cutlery).",
-              "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/bathAndKitchen.jpg",
-              "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/bathAndKitchen.jpg"
+              "thumbnail": "assets/img/accommodation/article/rooms/casuta/thumbnail/bathAndKitchen.jpg",
+              "fullSize": "assets/img/accommodation/article/rooms/casuta/fullSize/bathAndKitchen.jpg"
             }
           ]
         }
@@ -92,15 +92,15 @@
     },
     {
       "type": "title",
-      "text": "Tarnat house",
-      "sectionId": "tarnatHouse",
+      "text": "<i class='fas fa-vihara'></i> Tarnat house",
+      "id": "tarnatHouse",
       "addLinkInPageHeadline": false
     },
     {
       "type": "article",
       "specificArticles": [
         {
-          "text": "The 'tarnat' has <b>2 rooms</b> with some old and well preserved characteristics: the access through 'tarant' (an external hallway with small windows), the almost 100 years old painting, mine flowers and embroidery exhibits,  a small living connected to the bathroom and kitchenette <br><i class='fa fa-male'></i> max 3 persons/room (6 in total) - <i class='fa fa-wifi'></i> wifi - <i class='fa fa-shower'></i> bathroom - <i class='fas fa-utensils'></i> kitchenette - <i class='fa fa-book'></i> library",
+          "text": "The 'tarnat' has <b>2 rooms</b> with some old and well preserved characteristics: the access through 'tarant' (an external hallway with small windows), the almost 100 years old painting and some small exhibits. Each room has a double bed and on request can be added an extra bed/room so in total <i class='fa fa-male'></i> max 6 pers + <i class='fa fa-shower'></i> bathroom + <i class='fas fa-utensils'></i> kitchenette + <i class='fa fa-book'></i> library + <i class='fa fa-wifi'></i> wifi",
           "images": [
             {
               "text": "Tarnat room 1 - has one double bed and an extendable bed for 1 person.",
@@ -129,7 +129,7 @@
     {
       "type": "title",
       "text": "Facilities",
-      "sectionId": "facilities",
+      "id": "facilities",
       "addLinkInPageHeadline": true
     },
     {
@@ -165,7 +165,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-check'></i> Bookings",
-      "sectionId": "bookings",
+      "id": "bookings",
       "addLinkInPageHeadline": true
     },
     {
@@ -199,51 +199,40 @@
           "toInputName": "Check Out"
         },
         {
-          "type": "selectBoxAllowDuplicates",
-          "required": true,
-          "iconFortAwesomeCode": "<i class='fas fa-bed fa-fw'></i>",
-          "placeholder": "Room and prices",
-          "allowToDuplicateSettings": {
-            "addButtonText": "+ add",
-            "removeButtonText": "- remove",
-            "minOccurs": 1,
-            "maxOccurs": 4
-          },
-          "inputs": [
-            {
-              "name": "room",
-              "selectOptions": [
-                {
-                  "text": "1 person room - 22€/night"
-                },
-                {
-                  "text": "2 persons room - 26€/night"
-                },
-                {
-                  "text": "3 persons room - 33€/night"
-                },
-                {
-                  "text": "4 persons room - 39€/night"
-                }
-              ]
-            }
-          ]
-        },
-        {
           "type": "checkBoxes",
-          "title": "I also want:",
+          "title": "I will book:",
           "checkBoxes": [
             {
-              "name": "guidedTours",
-              "text": "<i class='fa fa-fw fa-blind'></i> | <b>guided tours</b> (by foot or by bike? what you want to visit? fill the 'Other details' box)"
+              "text": " <i class='fas fa-book'></i> <b>Books House - 4</b> <i class='fas fa-male'></i> - 180lei/night",
+              "id": "booksHouse"
             },
             {
-              "name": "rentBikes",
-              "text": "<i class='fa fa-fw fa-bicycle'></i> | <b>to rent bikes</b> (how many, what type, how many days? fill the 'Other details' box)"
+              "text": " <i class='fas fa-home'></i> <b>Little House - 2</b> <i class='fas fa-male'></i> - 130lei/night",
+              "id": "littleHouse"
             },
             {
-              "name": "reserveFood",
-              "text": "<i class='fas fa-utensils fa-fw'></i> | <b>prepared meals</b> (which meals? are you vegetarian? fill the 'Other details' box)"
+              "text": " <i class='fas fa-vihara'></i> <b>Room 1 from Tarnat - 2</b> <i class='fas fa-male'></i> - 110lei/night",
+              "id": "tarnatHouse1"
+            },
+            {
+              "text": " <i class='fas fa-vihara'></i> <b>Room 2 from Tarnat - 2</b> <i class='fas fa-male'></i> - 110lei/night",
+              "id": "tarnatHouse2"
+            },
+            {
+              "id": "extraBed",
+              "text": " <i class='fa fa-fw fa-bed'></i> <b>Extra bed</b> (+30lei/bed) (in which room you need extra beds? - fill the 'Other details' box)"
+            },
+            {
+              "id": "guidedTours",
+              "text": " <i class='fas fa-fw fa-hiking'></i> <b>Guided tours</b> (by foot or bike? what you want to visit? - fill the 'Other details' box)"
+            },
+            {
+              "id": "bike",
+              "text": " <i class='fa fa-fw fa-bicycle'></i> <b>Bikes</b> (how many? - fill the 'Other details' box)"
+            },
+            {
+              "id": "food",
+              "text": " <i class='fas fa-utensils fa-fw'></i> <b>Meals</b> (which meals? vegetarian? - fill the 'Other details' box)"
             }
           ]
         },

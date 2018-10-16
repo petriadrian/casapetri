@@ -16,6 +16,11 @@ form,
   margin: 2% 0;
 }
 
+.checkbox:HOVER {
+  cursor: pointer;
+  color: #157f15;
+}
+
 .listOfItems span {
   font-size: 1.4em;
 }

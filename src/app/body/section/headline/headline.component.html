@@ -10,7 +10,7 @@
     <div id="stickPageIntroMenuOnTheTop">
         <span *ngFor="let section of content?.sections">
             <a *ngIf="section?.type == 'title' && section?.addLinkInPageHeadline"
-               (click)="scrollTo(section?.sectionId)"
+               (click)="scrollTo(section?.id)"
                class="btn btn-large btn-primary">{{section?.text | removeHtmlFromText}}</a>
         </span>
     </div>

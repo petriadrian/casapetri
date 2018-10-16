@@ -14,7 +14,7 @@
     {
       "type": "title",
       "text": "Politica de confidiențalitate",
-      "sectionId": "privacyPolicy"
+      "id": "privacyPolicy"
     },
     {
       "type": "article",
