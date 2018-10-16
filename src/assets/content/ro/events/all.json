@@ -13,7 +13,7 @@
     {
       "type": "title",
       "text": "<i class='fas fa-briefcase'></i> Pachete",
-      "sectionId": "packages",
+      "id": "packages",
       "addLinkInPageHeadline": true
     },
     {
@@ -27,7 +27,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-calendar-alt'></i> Evenimente",
-      "sectionId": "events",
+      "id": "events",
       "addLinkInPageHeadline": true
     },
     {
@@ -88,7 +88,7 @@
     {
       "type": "title",
       "text": "<i class='fas fa-child'></i> Teambuilding",
-      "sectionId": "teambuilding",
+      "id": "teambuilding",
       "addLinkInPageHeadline": true
     },
     {
