@@ -2,7 +2,7 @@
   "metaData": {
     "title": "Review-uri Casa Petri Rosia Montana",
     "text": "Oameni faini, de la care am avut multe de învățat, ne-au trecut pragul.",
-    "img": "/assets/img/reviews/presentation/displayOnShareImg.jpg"
+    "img": "/assets/img/reviews/presentation/fullWidthImg.jpg"
   },
   "headline": {
     "title": "Crestem împreună cu cei ce ne trec pragul",
@@ -13,7 +13,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-comments'></i> Reviews",
-      "sectionId": "reviews",
+      "id": "reviews",
       "addLinkInPageHeadline": true
     },
     {
@@ -100,7 +100,7 @@
     {
       "type": "title",
       "text": "<i class='far fa-edit'></i> Adaugă un review",
-      "sectionId": "addReview",
+      "id": "addReview",
       "addLinkInPageHeadline": true
     },
     {
@@ -170,7 +170,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-      "sectionId": "accommodation",
+      "id": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
