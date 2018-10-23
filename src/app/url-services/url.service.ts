@@ -66,10 +66,10 @@ export class UrlService {
       jsonContentPath = '/en/home';
     } else {
       if (this.contains(this.router.url, '#') || this.contains(this.router.url, '?')) {
-        if (this.contains(this.router.url, '#')) {
-          jsonContentPath = this.router.url.substring(0, this.router.url.indexOf('#'));
-        } else if (this.contains(this.router.url, '?')) {
+        if (this.contains(this.router.url, '?')) {
           jsonContentPath = this.router.url.substring(0, this.router.url.indexOf('?'));
+        } else if (this.contains(this.router.url, '#')) {
+          jsonContentPath = this.router.url.substring(0, this.router.url.indexOf('#'));
         }
       } else {
         jsonContentPath = this.router.url;
