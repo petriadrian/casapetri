@@ -59,19 +59,23 @@ export class UrlService {
   }
 
   public getJsonContentUrl() {
-    let localPath = '';
+    let jsonContentPath = '';
     if (this.router.url === '/') {
-      localPath = '/ro/home';
+      jsonContentPath = '/ro/home';
     } else if (this.router.url === '/en') {
-      localPath = '/en/home';
+      jsonContentPath = '/en/home';
     } else {
-      if (this.contains(this.router.url, '#')) {
-        localPath = this.router.url.substring(0, this.router.url.indexOf('#'));
+      if (this.contains(this.router.url, '#') || this.contains(this.router.url, '?')) {
+        if (this.contains(this.router.url, '#')) {
+          jsonContentPath = this.router.url.substring(0, this.router.url.indexOf('#'));
+        } else if (this.contains(this.router.url, '?')) {
+          jsonContentPath = this.router.url.substring(0, this.router.url.indexOf('?'));
+        }
       } else {
-        localPath = this.router.url;
+        jsonContentPath = this.router.url;
       }
     }
-    const jsonContentUrl = this.getHostName() + '/assets/content' + localPath + '.json';
+    const jsonContentUrl = this.getHostName() + '/assets/content' + jsonContentPath + '.json';
     // console.log('JsonContentUrl: ' + jsonContentUrl);
     return jsonContentUrl;
   }
@@ -95,6 +99,9 @@ export class UrlService {
 
   public scrollToAnchorIfValid(anchor) {
     if (this.notEmpty(anchor)) {
+      if (this.contains(anchor, '?')) {
+        anchor = anchor.substring(0, anchor.indexOf('?'));
+      }
       setTimeout(function () {
         if (document.querySelector('#' + anchor)) {
           document.querySelector('#' + anchor).scrollIntoView();
