@@ -3,6 +3,7 @@ import {ActivatedRoute} from '@angular/router';
 import {HttpClient} from '@angular/common/http';
 import {Meta, Title} from '@angular/platform-browser';
 import {UrlService} from '../../url-services/url.service';
+import {Router} from '@angular/router';
 
 @Component({
   selector: 'app-content-management',
@@ -18,13 +19,17 @@ export class ContentManagementComponent implements AfterViewInit {
               private metaService: Meta,
               private title: Title,
               private urlService: UrlService,
+              private router: Router,
               @Inject(PLATFORM_ID) private platformId: Object) {
     this.activatedRoute.url.subscribe(url => {
         if (urlService.urlRoutePathValid()) {
           this.http.get(urlService.getJsonContentUrl()).subscribe(res => {
             this.content = res;
             this.updateSeoMetadata(this.content);
-          }, error => console.log('Error on loading json content ' + error));
+          }, error => {
+            console.log('Error on loading json content ' + error + 'redirect to home');
+            this.router.navigate(['/']);
+        });
           if (urlService.isHostOnBrowser()) {
             window.scroll(0, 0);
           }
