@@ -28,7 +28,9 @@ export class ContentManagementComponent implements AfterViewInit {
             this.updateSeoMetadata(this.content);
           }, error => {
             console.log('Error on loading json content ' + error + 'redirect to home');
-            this.router.navigate(['/']);
+            if (this.urlService.isHostOnBrowser()) {
+              window.location.href = './';
+            }
         });
           if (urlService.isHostOnBrowser()) {
             window.scroll(0, 0);
