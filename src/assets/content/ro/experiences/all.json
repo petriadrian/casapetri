@@ -219,6 +219,53 @@
     {
       "article": {
         "heading": {
+          "id": "hayHouses",
+          "subtitle": "<i class='fas fa-home'></i> 'Muzeu în aer liber'. Casele cu paie"
+        },
+        "content": [
+          {
+            "text": "Din păcate multe din satele din jurul zonei noastre sunt părăsite datorită mutării tinerilor la oraș dar partea bună este că unele gospodării au rămas conservate exact așa cum erau acum câteva zeci sau chiar sute de ani. O plimbare spre casele și șurile acoperite cu paie sau bisericiile mici de lemn specifice zonei noastre este asemeni unei călătorii în timp. La cerere organizăm "
+          },
+          {
+            "link": {
+              "text": "tururi ghidate",
+              "textOnMouseOver": "vezi aici detalii",
+              "link": "ro/experiences/all#guidedTour"
+            }
+          },
+          {
+            "text": " spre aceste locuri. Recomandăm să facem turul acestora pe bicicletă dar se poate și cu mașina urmate de mici drumeții."
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Vizitați Casele cu paie.",
+          "thumbnail": "assets/img/attractions/mogos-sura-casa-paie-gemenele-th.jpg",
+          "fullSize": "assets/img/attractions/mogos-sura-casa-paie-gemenele.jpg"
+        },
+        {
+          "text": "Șurile cu paie.",
+          "thumbnail": "assets/img/attractions/mogos-sura-casa-paie-flori-galbene-th.jpg",
+          "fullSize": "assets/img/attractions/mogos-sura-casa-paie-flori-galbene.jpg"
+        },
+        {
+          "text": "Casele cu paie - detaliu.",
+          "thumbnail": "assets/img/attractions/mogos-biserica-lemn-ornament-th.jpg",
+          "fullSize": "assets/img/attractions/mogos-biserica-lemn-ornament.jpg"
+        },
+        {
+          "text": "Porniți într-un tur cu bicicleta al caselor cu paie.",
+          "thumbnail": "assets/img/attractions/mogos-bicicleta-drum-tara-sura-paie-th.jpg",
+          "fullSize": "assets/img/attractions/mogos-bicicleta-drum-tara-sura-paie.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
           "id": "communism",
           "subtitle": "<i class='fas fa-city'></i> Descoperă exploatările perioadei comuniste"
         },
@@ -435,53 +482,6 @@
           "text": "Detunata - marea de bazalt (vederea din vârf).",
           "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata-pietre-jos-brazi.jpg",
           "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata-pietre-jos-brazi.jpg"
-        }
-      ]
-    },
-    {
-      "article": {
-        "heading": {
-          "id": "hayHouses",
-          "subtitle": "<i class='fas fa-home'></i> Muzeu în aer liber - Casele cu paie"
-        },
-        "content": [
-          {
-            "text": "Din păcate multe din satele din jurul zonei noastre sunt părăsite datorită mutării tinerilor la oraș dar partea bună este că unele gospodării au rămas conservate exact așa cum erau acum câteva zeci sau chiar sute de ani. Printre acestea sunt casele și șurile acoperite cu paie specifice zonei noastre sau bisericiile mici de lemn. O plimbare pe dealurile Apusenilor, într-un tur al acestor obiective este asemeni unei călătorii în timp. La cerere organizăm "
-          },
-          {
-            "link": {
-              "text": "tururi ghidate",
-              "textOnMouseOver": "vezi aici detalii",
-              "link": "ro/experiences/all#guidedTour"
-            }
-          },
-          {
-            "text": " spre aceste zone. "
-          }
-        ]
-      }
-    },
-    {
-      "images": [
-        {
-          "text": "Vizitați Casele cu paie.",
-          "thumbnail": "assets/img/attractions/mogos-sura-casa-paie-gemenele-th.jpg",
-          "fullSize": "assets/img/attractions/mogos-sura-casa-paie-gemenele.jpg"
-        },
-        {
-          "text": "Șurile cu paie.",
-          "thumbnail": "assets/img/attractions/mogos-sura-casa-paie-flori-galbene-th.jpg",
-          "fullSize": "assets/img/attractions/mogos-sura-casa-paie-flori-galbene.jpg"
-        },
-        {
-          "text": "Casele cu paie - detaliu.",
-          "thumbnail": "assets/img/attractions/mogos-biserica-lemn-ornament-th.jpg",
-          "fullSize": "assets/img/attractions/mogos-biserica-lemn-ornament.jpg"
-        },
-        {
-          "text": "Porniți într-un tur cu bicicleta al caselor cu paie.",
-          "thumbnail": "assets/img/attractions/mogos-bicicleta-drum-tara-sura-paie-th.jpg",
-          "fullSize": "assets/img/attractions/mogos-bicicleta-drum-tara-sura-paie.jpg"
         }
       ]
     },

@@ -196,7 +196,7 @@
           }
         },
         {
-          "title": "Plimbări cu bicicletă",
+          "title": "Plimbări cu bicicleta",
           "text": "Ne aflăm într-o zonă cu dealuri, văi și sate apusene legate de drumuri de țară ideale de ciclism montan. <b>Închiriem biciclete de munte!</b>",
           "img": "assets/img/attractions/article/rotunduPeak/thumbnail/9.jpg",
           "url": {
@@ -219,15 +219,6 @@
           "img": "assets/img/attractions/article/vartop/thumbnail/12.jpg",
           "url": {
             "link": "ro/experiences/all#berry",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
-        },
-        {
-          "title": "Casele cu paie",
-          "text": "Descoperă casele și șurile acoperite cu paie specifice zonei noastre sau bisericiile mici de lemn. Un tur al acestora este asemeni unei călătorii în timp.",
-          "img": "assets/img/attractions/mogos-sura-casa-paie-gemenele-th.jpg",
-          "url": {
-            "link": "ro/experiences/all#hayhouse",
             "textOnMouseOver": "Vezi mai mult..."
           }
         },
@@ -285,6 +276,15 @@
           "img": "assets/img/attractions/article/carnic/galleries/thumbnail/galerii-romane-carnic.jpg",
           "url": {
             "link": "ro/experiences/all#galleries",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
+          "title": "Casele cu paie",
+          "text": "Descoperă casele și șurile acoperite cu paie specifice zonei noastre sau bisericiile mici de lemn. Un tur al acestora este asemeni unei călătorii în timp.",
+          "img": "assets/img/attractions/mogos-sura-casa-paie-gemenele-th.jpg",
+          "url": {
+            "link": "ro/experiences/all#hayhouse",
             "textOnMouseOver": "Vezi mai mult..."
           }
         },
