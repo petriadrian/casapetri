@@ -14,10 +14,10 @@
       "type": "title",
       "text": "Other accommodations",
       "id": "accommodation",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Bellow are other accommodations nearby Casa Petri."
@@ -31,11 +31,11 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Alina is our next door neighbour. Offers 2 rooms (one for 2 person and other for 3 person) with living and 1 bathroom at 2 rooms.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Room",
               "thumbnail": "assets/img/accommodation/article/neighbours/alina/thumbnail/camera1.jpg",
@@ -67,11 +67,11 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Daniel is at 2 minute walking from us. Offers 4 rooms (3 for 2 person and one for 3 person) with living and one bathroom for 2 rooms.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Room",
               "thumbnail": "assets/img/accommodation/article/neighbours/daniel/thumbnail/camera1.jpg",
@@ -113,11 +113,11 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Eugen is at 15 minute walking from us (on a unpaved road). Offers 4 rooms (2 for 2 persons and 2 for 4 persons) with living and common bathroom. Even if they are not so close, the good part is that they have a farm and they can offer local food.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Room",
               "thumbnail": "assets/img/accommodation/article/neighbours/eugen/thumbnail/camera1.jpg",
@@ -164,11 +164,11 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Bellow you can see how are they located according to our house (Petri)",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Map - click on it to expand it.",
               "thumbnail": "assets/img/accommodation/article/neighbours/common/thumbnail/map.jpg",

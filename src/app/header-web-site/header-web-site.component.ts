@@ -20,10 +20,6 @@ export class HeaderWebSiteComponent implements OnInit {
     this.http.get(contentPath).subscribe(res => this.headerContent = res);
   }
 
-  public buildLangLinkAndGo(newLang) {
-    this.urlService.buildLangLinkAndGo(newLang);
-  }
-
   public buildLinkAndGo(link) {
     this.urlService.buildLinkAndGo(link);
   }

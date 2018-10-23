@@ -17,7 +17,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "In the <b>weekends of May </b> we organize guided tours towards the Daffodils meadow from our area. This package tour includes accommodation, food, guided tours and other activities during <b>2 nights and 3 days</b>  "
@@ -29,7 +29,7 @@
         {
           "title": "Day 2",
           "text": "<b><i class='far fa-clock'></i> 09:00</b> - Breakfast <br><b><i class='far fa-clock'></i> 10:00 - 16:00 - Guided Tour Daffodil meadow</b> <br> From Rosia Montana will go to a magic place from Carpathians mountains - the protected area 'Negrileasa Apuseni' to discover the daffodil meadow. The amazing landscape and the daffodil smell will make an unique experience from this trip. There are a couple of ways to get there (according to the group preference and weather): by car (~30min) followed by a 2 hour walk or by bike on the country road (~4h) – if you don't come with your own bike you can rent one from us.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "At the daffodil meadow Apuseni.",
               "thumbnail": "assets/img/attractions/article/narcise/thumbnail/1.jpg",
@@ -74,7 +74,7 @@
         },
         {
           "text": "<br><br><b><i class='far fa-clock'></i> 16:00</b> - Launch <br><b><i class='far fa-clock'></i> Evening - Relaxing in the hammock or an easy walk to the farm</b> <br>We have a library full with books and hammocks in the garden (or you can go with the hammock in the pine forest nearby). Other option is to visit a traditional farm from the area from where we can also get milk products.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Relaxing in the hammock.",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/hammock.jpg",
@@ -93,7 +93,7 @@
         {
           "title": "Day 3",
           "text": "<b><i class='far fa-clock'></i> 09:00</b> - Breakfast <br><b><i class='far fa-clock'></i> 10:00 - 13:00 - Guided tour Roșia Montană</b><br> Will discover the goldsmiths stories and legends by visiting the patrimony buildings form the historical center of Rosia Montana (schools, churches or the goldsmith houses built by various civilizations who came here since antiquity to find gold, the reason why the area was proposed as UNESCO site).",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Guided tour - historic center Rosia Montana.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
@@ -135,7 +135,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -152,7 +152,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<br>The price is <b>82€/person</b>. Includes: accommodation, food and the guided tours."
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [

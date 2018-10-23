@@ -1,6 +1,6 @@
 {
   "logo": {
-    "text": "casa petri",
+    "text": "Casa Petri Roșia Montană",
     "imgUrl": "./assets/img/common/logo_white.png",
     "link": "/en",
     "textOnMouseOver": "return to homepage..."
@@ -8,13 +8,8 @@
   "leftButtons": [
     {
       "text": "See & do",
-      "link": "en/attractions",
-      "textOnMouseOver": "hiking or cycling gps trails, guided trails, hammocks, tennis, running"
-    },
-    {
-      "text": "Packages",
-      "link": "en/events/all",
-      "textOnMouseOver": "events"
+      "link": "en/experiences/all",
+      "textOnMouseOver": "experiences"
     },
     {
       "text": "Sleep & eat",
@@ -22,27 +17,27 @@
       "textOnMouseOver": "accommodation, guided tours, bikes rent, food info - bookings"
     },
     {
-      "text": "Blog",
-      "link": "en/blog/all",
-      "textOnMouseOver": "articles"
-    },
-    {
       "text": "Reviews",
       "link": "en/review",
-      "textOnMouseOver": "click to open reviews"
+      "textOnMouseOver": "reviews"
     }
   ],
   "rightButtons": [
     {
-      "text": "<i class='fas fa-phone fa-lg fa-rotate-90'></i> (+4)0743188186",
-      "link": "tel:(+4)0743188186",
+      "text": "Bookings",
+      "link": "en/accommodation#bookings",
+      "textOnMouseOver": "click here to make a reservation"
+    },
+    {
+      "text": "<i class='fas fa-phone fa-lg fa-rotate-90'></i> (+4)0745678159",
+      "link": "tel:(+4)0745678159",
       "textOnMouseOver": "call us"
     }
   ],
   "languageButtons": [
     {
       "text": "RO",
-      "languageCode": "ro",
+      "link": "ro",
       "textOnMouseOver": "schimbă în română"
     }
   ]

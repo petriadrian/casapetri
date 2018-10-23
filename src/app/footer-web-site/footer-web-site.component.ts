@@ -23,7 +23,7 @@ export class FooterWebSiteComponent implements OnInit {
     this.http.get(footerContentPath).subscribe(res => this.footerContent = res);
 
     // get reviews articles
-    const reviewsArticlesPath = './assets/content/' + this.changeUrlService.getCurrentLang() + '/common/articles/reviews.json';
+    const reviewsArticlesPath = './assets/content/' + this.changeUrlService.getCurrentLang() + '/common/articles/allReviews.json';
     this.http.get(reviewsArticlesPath).subscribe(res => this.reviews = res);
 
     if (this.changeUrlService.isHostOnBrowser()) {

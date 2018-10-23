@@ -26,11 +26,11 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Voucherul include rezervarea unei camere de <b>2 persoane pentru 2 nopți</b> la Casa Petri (situată în centrul istoric din Roșia Montană) <b>și un traseu ghidat de 6 ore</b> spre principalele obiective naturale și culturale (centrul istoric, clădiri de patrimoniu, lucrări miniere realizate pentru extragerea aurului (galerii, tăuri, cariere) și câteva atracții naturale (vârfuri și puncte panoramice). <b>Seara vom organiza o proiecție de imagini și filme</b> despre Roșia Montană, iar ziua următoare puteți vizita Muzeul Mineritului. Ca idee, vedeți imaginile de mai jos la care au participat și alte grupuri:",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
               "thumbnail": "assets/img/packages/weekend/article/thumbnail/1.jpg",
@@ -87,7 +87,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Un posibil weekend în Roșia Montană, folosind acest voucher ar putea arăta așa:"
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<b>Vineri</b> <br>Sosirea, ne cunoaștem"
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<b>Sâmbătă</b> <br><b>Dimineața</b> - tur ghidat al principalelor obiective culturale și naturale <br><b>Seara</b> - proiecții de imagini și filme despre trecutul Roșiei Montane"
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<b>Duminică</b> <br>Vizita la Muzeul Mineritului, unde se organizează tururi ghidate a galeriilor romane (cost intrare: 10lei)"
@@ -125,7 +125,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Prețul voucherului este de <b>240lei</b>, iar <b>plata se face prin transfer bancar.</b> După plasarea comenzii veți primi pe e-mail datele pentru transferul bancar și voucherul în format pdf. Acesta are o serie unică ce devine validă după efectuarea plății (moment în care vă trimitem pe e-mail factura și confirmarea). Odată achiziționat ne puteți suna (sau ne pot suna cei care l-au primit cadou) pentru a face o rezervare cu cel puțin 3 zile înainte de sosire. Rezervarea se face în orice perioadă în care avem camere libere din <b>anul 2017</b>, cu excepția perioadelor cu evenimente (maraton sau festivalul Fân Fest) sau a celor cu sărbători importante (Revelion, Crăciun, Paști, 1 Mai sau 1 Decembrie). La sosire va trebui să ne arătați voucherul printat sau în format electronic pe telefon. Un voucher poate fi folosit doar o singură dată."
@@ -177,8 +177,8 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-      "id": "seeAlso",
-      "addLinkInPageHeadline": false
+      "id": "linkText",
+
     },
     {
       "type": "linkToOtherPages",

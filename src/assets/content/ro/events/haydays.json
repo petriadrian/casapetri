@@ -16,11 +16,11 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "În <b>ultimele 2 săptămâni din August</b> vă invităm să vă conectați la viața moților din Apuseni participând la cositul ierbii, ridicarea căpițelor, strânsul fânului (ce va fi folosit la iarnă pentru animale), mulsul și adăpatul vacilor și alte treburi gospodărești. În trecut la strânsul fânului (sau polog cum îi zicem noi pe aici) se facea o clacă (se adunau vecinii, neamurile) dar mulți dintre aceștia au plecat după ce firma canadiană de minerit a cumpărat proprietăți sau datorită plecării tinerilor spre oraș. Fermieriilor rămași le-ar prinde bine o mână de ajutor iar pentru tine va fi o experiență unică și relaxantă deoarece vei învăța un meșteșug tradițional și te vei conecta la natură și la acest obicei străvechi bine păstrat în Apuseni. Seara ne vom ospăta din bucatele oferite de gazdă drept răsplată și într-una din zile vom organiza un tur ghidat al localității pentru a afla mai multe despre zonă și obiceiuri.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Fânul uscat se greblează și se adună în mici brazde pentru a fi mai ușor de transportat.",
               "thumbnail": "assets/img/events/hayDays/article/thumbnail/1.jpg",
@@ -84,10 +84,10 @@
       "type": "title",
       "text": "Importanța aceastei activități?",
       "id": "whyImportant",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "'Hay meadows provide an immense range of benefits to farming communities and wider society. They create some of Europe’s most spectacular scenery and cultural landscapes. Simply to watch this natural, environmental and cultural heritage disappear before our eyes is, surely, not an option” said the Prince of Wales at the European Parliament, Brussels, 2012. Bellow you can see the video were Prince Charles speaks about the importance of hay meadows.",
@@ -104,7 +104,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<b>În prima zi</b> - sosirea, ne cunoaștem, vedem zona și vă prezentăm activitățile de la fermă. <br><b>Următoarele zile</b> - experimentăm viața la fermă prin a participa activitățile dorite <br><b>Ultima zi</b> - traseu ghidat al localității."
@@ -118,7 +118,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Puteți participa în orice perioada de la final de August doriți. Cazarea se face în camere private cu baie și acces la bucătărie la prețul de 45lei/persoană/noapte."

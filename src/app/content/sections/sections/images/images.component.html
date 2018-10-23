@@ -1,0 +1,13 @@
+<section class="images">
+  <a *ngFor="let image of content"
+     class="fancybox"
+     title="{{image.text}}"
+     data-fancybox="gallery"
+     data-type="image"
+     [href]="image.fullSize">
+    <figure>
+      <img [src]="image.thumbnail | safeUrl" [alt]="image.title">
+      <figcaption [innerHTML]="image.text | trustHtml"></figcaption>
+    </figure>
+  </a>
+</section>

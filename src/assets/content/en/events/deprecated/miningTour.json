@@ -24,10 +24,10 @@
       "type": "title",
       "text": " ",
       "id": "intro",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<b>touristic package on 28-31 july | last day to register: 23 july"
@@ -44,7 +44,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<br><b><i class='far fa-clock'></i> 16:00 - 21:00 - friday - check in</b> at the accommodation place - Casa Petri, historic center of Rosia Montană 331 - Romania."
@@ -52,7 +52,7 @@
         {
           "title": "Movie 'The story of gold'",
           "text": "<b><i class='far fa-clock'></i> 21:00 - 22:30 - friday</b> <br>Movie screening in the garden - 'The story of Roșia Montană gold' - images, movies and stories about the gold mining methods that were used here (from the past to nowadays), the life of the goldsmiths and the impact of opening a new open pit to extract the remaining gold. The projection is a intro for the next day tours.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Movie screening in the garden",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/film-proiectie-gradina-casa-petri.jpg",
@@ -68,7 +68,7 @@
         {
           "title": "The gold galleries tour",
           "text": "<b><i class='far fa-clock'></i> 10:00 - 18:00 - saturday</b> <br>A guide from the Mining Museum will present us one of the oldest gold exploitations in the area (the roman galleries) and after we will visit the fire and water galleries from the Cârnic massif and the 'corandă' galleries from Văidoaia. We will also see the gold processing installations, the houses and the local habits of the different nations who come here during the years to extract gold.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "The Roman galleries (106 – 272 AD)",
               "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
@@ -117,7 +117,7 @@
         },
         {
           "text": "<b><i class='far fa-clock'></i> 09:00 - 17:00 - sunday</b> <br>Hiking to the Cetate open pit and then to Roșia Poieni open pit.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "The Cetate open pit - mining marks made during communism period to extract the gold",
               "thumbnail": "assets/img/attractions/article/carnic/sphinx/thumbnail/2.jpg",
@@ -137,7 +137,7 @@
         },
         {
           "text": "<br><br><b><i class='far fa-clock'></i> 09:00 - 16:00 - monday</b> <br>Geamăna tour - we will decide together if we will visit it by car or by foot. In our way we can stop to one of the oldest monastery from our region - Lupșa - 1421 AD.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Geamăna - the rood around it is ~20km long.",
               "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/6.jpg",
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -175,7 +175,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -189,10 +189,10 @@
       "type": "title",
       "text": "<i class='fa fa-bed'></i> Accommodation",
       "id": "accommodation",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -206,10 +206,10 @@
       "type": "title",
       "text": "<i class='fas fa-utensils'></i> Food",
       "id": "food",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -223,10 +223,10 @@
       "type": "title",
       "text": "<i class='fa fa-puzzle-piece'></i> Alternative activities",
       "id": "otherActivities",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -243,10 +243,10 @@
       "type": "title",
       "text": "Other information",
       "id": "otherInfo",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -263,7 +263,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -354,10 +354,10 @@
       "type": "title",
       "text": " ",
       "id": "notInterested",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -373,8 +373,8 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> See also",
-      "id": "seeAlso",
-      "addLinkInPageHeadline": false
+      "id": "linkText",
+
     },
     {
       "type": "linkToOtherPages",

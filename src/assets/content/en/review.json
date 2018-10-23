@@ -4,199 +4,135 @@
     "text": "See the experiences and reviews from people who visited us. Some of them can be even contacted. You should also discover Rosia Montana through the hiking and bike trails which can be found on our website. Book rooms, bikes, guided tours or camping",
     "img": "/assets/img/reviews/presentation/fullWidthImg.jpg"
   },
-  "headline": {
-    "title": "Reviews Casa Petri Rosia Montana",
-    "videoSource": "",
-    "img": "/assets/img/reviews/presentation/fullWidthImg.jpg"
-  },
   "sections": [
     {
-      "type": "title",
-      "text": "<i class='fa fa-comments'></i> Reviews",
-      "id": "reviews",
-      "addLinkInPageHeadline": true
-    },
-    {
-      "type": "article",
-      "specificArticles": [
-        {
-          "text": "We had a lot to learn from the people who visited us, we care a lot about their reviews and due to them we manage to improve day by day. See bellow how they felt and at the end please also add your review. Beside these: ",
-          "seeAlso": [
-            {
-              "text": "<br>- see also the reviews from <i class='fab fa-facebook-square fa-lg'></i> <b>facebook</b>",
-              "textOnMouseOver": "Click here...",
-              "link": "https://www.facebook.com/pg/casapetrirosiamontana/reviews"
-            },
-            {
-              "text": "<br>- see also the reviews from <i class='fab fa-google fa-lg'></i> <b>google</b>",
-              "textOnMouseOver": "Click here...",
-              "link": "https://www.google.ro/search?safe=active&source=hp&ei=Ok9TWtXjF8WTsAG1oo7YBw&q=casa+petri+rosia&oq=casa+petri+rosia&gs_l=psy-ab.3..35i39k1l2.1120.7140.0.7293.19.17.1.0.0.0.148.1716.4j12.16.0....0...1c.1.64.psy-ab..2.17.1723.0..0j46j0i67k1j0i20i263k1j0i46k1j0i203k1j0i22i30k1j33i22i29i30k1.0.xIwjIRKKFns#lrd=0x474ecce046c99d41:0xc76f83a95070630c,1,,,"
-            },
-            {
-              "text": "<br>- see also the reviews from <i class='fab fa-tripadvisor fa-lg'></i> <b>tripadvisor</b>",
-              "textOnMouseOver": "Click here...",
-              "link": "https://www.tripadvisor.com/Hotel_Review-g9998203-d9871602-Reviews-Casa_Petri_Rosia_Montana-Rosia_Montana_Alba_County_Central_Romania_Transylvania.html#REVIEWS"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "article",
-      "commonArticles": {
-        "category": "reviews",
-        "ids": [
+      "imageVideoTextButtons": {
+        "text": "Reviews Casa Petri Rosia Montana",
+        "videoSource": "",
+        "img": "/assets/img/reviews/presentation/fullWidthImg.jpg",
+        "buttons": [
           {
-            "id": "15"
+            "text": "Reviews",
+            "link": "en/review#reviews",
+            "textOnMouseOver": "Reviews"
           },
           {
-            "id": "16"
-          },
-          {
-            "id": "1"
-          },
-          {
-            "id": "2"
-          },
-          {
-            "id": "6"
-          },
-          {
-            "id": "11"
-          },
-          {
-            "id": "12"
-          },
-          {
-            "id": "13"
-          },
-          {
-            "id": "2"
-          },
-          {
-            "id": "6"
-          },
-          {
-            "id": "3"
-          },
-          {
-            "id": "4"
-          },
-          {
-            "id": "5"
-          },
-          {
-            "id": "7"
-          },
-          {
-            "id": "8"
-          },
-          {
-            "id": "9"
-          },
-          {
-            "id": "10"
-          },
-          {
-            "id": "14"
+            "text": "Add review",
+            "link": "en/review#addReview",
+            "textOnMouseOver": "Add review"
           }
         ]
       }
     },
     {
-      "type": "title",
-      "text": "<i class='far fa-edit'></i> Add a review",
-      "id": "addReview",
-      "addLinkInPageHeadline": true
+      "article": {
+        "heading": {
+          "id": "review",
+          "title": "<i class='fa fa-comments'></i> Reviews"
+        },
+        "content": [
+          {
+            "text": "We had a lot to learn from the people who visited us, we care a lot about their reviews and due to them we manage to improve day by day. See bellow how they felt and at the end please also add your review. Beside these: "
+          },
+          {
+            "link": {
+              "text": "<br>- see also the reviews from <i class='fab fa-facebook-square fa-lg'></i> <b>facebook</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.facebook.com/pg/casapetrirosiamontana/reviews"
+            }
+          },
+          {
+            "link": {
+              "text": "<br>- see also the reviews from <i class='fab fa-google fa-lg'></i> <b>google</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.google.ro/search?safe=active&source=hp&ei=Ok9TWtXjF8WTsAG1oo7YBw&q=casa+petri+rosia&oq=casa+petri+rosia&gs_l=psy-ab.3..35i39k1l2.1120.7140.0.7293.19.17.1.0.0.0.148.1716.4j12.16.0....0...1c.1.64.psy-ab..2.17.1723.0..0j46j0i67k1j0i20i263k1j0i46k1j0i203k1j0i22i30k1j33i22i29i30k1.0.xIwjIRKKFns#lrd=0x474ecce046c99d41:0xc76f83a95070630c,1,,,"
+            }
+          },
+          {
+            "link": {
+              "text": "<br>- see also the reviews from <i class='fab fa-tripadvisor fa-lg'></i> <b>tripadvisor</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.tripadvisor.com/Hotel_Review-g9998203-d9871602-Reviews-Casa_Petri_Rosia_Montana-Rosia_Montana_Alba_County_Central_Romania_Transylvania.html#REVIEWS"
+            }
+          }
+        ]
+      }
     },
     {
-      "type": "article",
-      "specificArticles": [
-        {
-          "text": "Please add your review on our social media pages because they have a higher visual impact (then we will import it also here):",
-          "seeAlso": [
-            {
+      "commonItem": {
+        "id": "allReviews"
+      }
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "addReview",
+          "title": "<i class='far fa-edit'></i> Add a review"
+        },
+        "content": [
+          {
+            "text": "Please add your review on our social media pages because they have a higher visual impact (then we will import it also here):"
+          },
+          {
+            "link": {
               "text": "<br>+ add your reviw on <i class='fab fa-facebook-square'></i> <b>facebook</b>",
               "textOnMouseOver": "Click here...",
               "link": "https://www.facebook.com/pg/casapetrirosiamontana/reviews"
-            },
-            {
+            }
+          },
+          {
+            "link": {
               "text": "<br>+ add your reviw on <i class='fab fa-google fa-lg'></i> <b>google</b>",
               "textOnMouseOver": "Click here...",
               "link": "https://www.google.ro/search?safe=active&source=hp&ei=Ok9TWtXjF8WTsAG1oo7YBw&q=casa+petri+rosia&oq=casa+petri+rosia&gs_l=psy-ab.3..35i39k1l2.1120.7140.0.7293.19.17.1.0.0.0.148.1716.4j12.16.0....0...1c.1.64.psy-ab..2.17.1723.0..0j46j0i67k1j0i20i263k1j0i46k1j0i203k1j0i22i30k1j33i22i29i30k1.0.xIwjIRKKFns#lrd=0x474ecce046c99d41:0xc76f83a95070630c,1,,,"
-            },
-            {
+            }
+          },
+          {
+            "link": {
               "text": "<br>+ add your reviw on <i class='fab fa-tripadvisor'></i> <b>tripadvisor</b>",
               "textOnMouseOver": "Click here...",
               "link": "https://www.tripadvisor.com/Hotel_Review-g9998203-d9871602-Reviews-Casa_Petri_Rosia_Montana-Rosia_Montana_Alba_County_Central_Romania_Transylvania.html#REVIEWS"
             }
-          ]
-        }
-      ]
+          },
+          {
+            "text": "<br><br>If not, add your review directly on our site:"
+          }
+        ]
+      }
     },
     {
-      "type": "article",
-      "specificArticles": [
-        {
-          "text": "If not, add your review directly on our site:"
-        }
-      ]
-    },
-    {
-      "type": "form",
-      "successMessage": "Thank you! Your review will help others in choosing Roșia Montană for their next trip.",
-      "errorMessage": "ERROR! Contact us by email petriadrian@gmail.com",
-      "submitButtonText": "Send review",
-      "fields": [
-        {
-          "type": "textarea",
-          "name": "feedback",
-          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
-          "placeholder": "Share here your experience at Casa Petri...",
-          "rows": 3,
-          "maxChars": 350,
-          "required": true
-        },
-        {
-          "type": "text",
-          "name": "name",
-          "iconFortAwesomeCode": "<i class='far fa-user fa-fw'></i>",
-          "placeholder": "Name",
-          "maxChars": 30,
-          "required": true
-        },
-        {
-          "type": "text",
-          "name": "locality",
-          "iconFortAwesomeCode": "<i class='fas fa-map-marker fa-fw'></i>",
-          "placeholder": "City - Country",
-          "maxChars": 30,
-          "required": false
-        }
-      ]
-    },
-    {
-      "type": "socialButtons"
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-coffee'></i> See also",
-      "id": "accommodation",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
-          "page": "en/accommodation"
-        },
-        {
-          "page": "en/trails/summary"
-        },
-        {
-          "page": "en/packages/summary"
-        }
-      ]
+      "form": {
+        "successMessage": "Thank you! Your review will help others in choosing Roșia Montană for their next trip.",
+        "errorMessage": "ERROR! Contact us by email petriadrian@gmail.com",
+        "submitButtonText": "Send review",
+        "fields": [
+          {
+            "type": "textarea",
+            "name": "feedback",
+            "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
+            "placeholder": "Share here your experience at Casa Petri...",
+            "rows": 3,
+            "maxChars": 350,
+            "required": true
+          },
+          {
+            "type": "text",
+            "name": "name",
+            "iconFortAwesomeCode": "<i class='far fa-user fa-fw'></i>",
+            "placeholder": "Name",
+            "maxChars": 30,
+            "required": true
+          },
+          {
+            "type": "text",
+            "name": "locality",
+            "iconFortAwesomeCode": "<i class='fas fa-map-marker fa-fw'></i>",
+            "placeholder": "City - Country",
+            "maxChars": 30,
+            "required": false
+          }
+        ]
+      }
     }
   ]
 }

@@ -1,50 +1,64 @@
 {
+  "metaData": {
+    "title": "Politica de confidiențalitate",
+    "text": "Politica de confidiențalitate",
+    "img": "/assets/img/homePage/presentation/displayOnShareImg.jpg"
+  },
   "modal": {
     "button": "Am înțeles",
-    "text": "Folosim cookie și alte tehnologii pentru a îmbunătăți experiența pe acest site. Prin continuarea navigării confirmi acceptarea Politicii de confidiențalitate pe care o găsești ",
-    "seeAlso": [
-      {
-        "text": "aici",
-        "textOnMouseOver": "Click aici...",
-        "link": "ro/common/privacyPolicy"
-      }
-    ]
+    "article": {
+      "content": [
+        {
+          "text": "Folosim cookie și alte tehnologii pentru a îmbunătăți experiența pe acest site și salvăm datele introduse în formulare. Prin continuarea navigării confirmi acceptarea"
+        },
+        {
+          "link": {
+            "text": "Politicii de confidiențalitate",
+            "textOnMouseOver": "Click aici...",
+            "link": "ro/common/privacyPolicy"
+          }
+        }
+      ]
+    }
   },
   "sections": [
     {
-      "type": "title",
-      "text": "Politica de confidiențalitate",
-      "id": "privacyPolicy"
-    },
-    {
-      "type": "article",
-      "specificArticles": [
-        {
-          "text": "Vrem sa te simti confortabil pe site-ul nostru asa cum te simti si atunci cand ne treci pragul. Prin urmare conform noilor reglementari propuse de Regulamentul (UE) 2016/679 privind protectia persoanelor fizice în ceea ce priveste prelucrarea datelor cu caracter personal te informam ce date prelucram si in ce scop."
+      "article": {
+        "heading": {
+          "id": "privacyPolicy",
+          "title": "Politica de confidiențalitate"
         },
-        {
-          "text": "Te asiguram ca iti administram datele personale in siguranta si doar in scopul in care ni le furnizezi fara a le transmite sau vinde catre terte parti."
-        },
-        {
-          "text": "Atunci cand doresti sa faci o rezervare sau sa ne transmit un mesaj prin intermediul site-ului iti vom solicita adresa de email si numarul de telefon. Ulterior, odata ce servicile noastre de cazare iti vor fi furnizate vom emite factură fiscală, pentru aceasta avem nevoie de datele din buletin sau pasaport (nume, adresa completa, serie si numar act de identitate)."
-        },
-        {
-          "text": "Pe langa aceste date personale site-ul nostru foloseste cookie-uri ce ne permit să numărăm vizitele, timpul petrecut pe site și sursele de trafic, astfel încât să putem măsura și îmbunătăți performanța site-ului nostru. Toate informațiile pe care le colectează aceste cookie-uri sunt agregate și, prin urmare, anonime."
-        },
-        {
-          "text": "Pentru a aduce imbunatatiri site-ului nostru si a analiza activitatea acestuia utilizam cookie-uri de performanta si anume Google Analytics ce genereaza statistici anonime pe baza datelor colectate. Prin aceste date mentionam ca nu putem sa identificam persoane ci doar sa analizam activitatea utilizatorilor pe site. Informații detaliate cu privire la Google Analytics și protecția datelor cu caracter personal (inclusiv modul în care puteți controla informațiile trimise către Google) pot fi găsite ",
-          "seeAlso": [
-            {
+        "content": [
+          {
+            "text": "Vrem sa te simti confortabil pe site-ul nostru asa cum te simti si atunci cand ne treci pragul. Prin urmare conform noilor reglementari propuse de Regulamentul (UE) 2016/679 privind protectia persoanelor fizice în ceea ce priveste prelucrarea datelor cu caracter personal te informam ce date prelucram și în ce scop."
+          },
+          {
+            "text": "<br><br>Suntem înregistrați la Registrul Comertului cu numele Adrian Petri Persoană Fizică Autorizată, cod: 34837872, număr: F1/819/31.07.2015 cu sediul in Rosia Montana, nr 331A, Judetul Alba, România."
+          },
+          {
+            "text": "<br>Te asiguram ca iti administram datele personale in siguranta si doar in scopul in care ni le furnizezi fara a le transmite sau vinde catre terte parti."
+          },
+          {
+            "text": "<br>Atunci cand faci o rezervare sau ne transmiți un mesaj prin intermediul site-ului iti vom solicita adresa de email și numărul de telefon, date pe care le vom salva pentru efectuarea rezervării pentru a te putea contacta să îți confirmăm rezervarea și pentru a putea verifica la sosire dacă tu ai făcut rezervarea. Le vom folosi de asemenea pentru emiterea facturii fiscale (pentru care vom avem nevoie de datele din buletin sau pasaport (nume, adresa completa, serie si numar act de identitate) date ce vor fi folosite și pentru înregistrarea în Registru de Sosire-Plecări, conform legii. Prin completarea și trimiterea unui formular pe site-ul nostru te declari că ești de acord cu acestea."
+          },
+          {
+            "text": "<br>Pe langa acesta site-ul nostru foloseste cookie-uri ce ne permit să numărăm vizitele, timpul petrecut pe site și sursele de trafic, astfel încât să putem măsura și îmbunătăți performanța site-ului nostru. Toate informațiile pe care le colectează aceste cookie-uri sunt agregate și, prin urmare, anonime."
+          },
+          {
+            "text": "<br>Pentru a aduce imbunatatiri site-ului nostru si a analiza activitatea acestuia utilizam cookie-uri de performanta si anume Google Analytics ce genereaza statistici anonime pe baza datelor colectate. Prin aceste date mentionam ca nu putem sa identificam persoane ci doar sa analizam activitatea utilizatorilor pe site. Informații detaliate cu privire la Google Analytics și protecția datelor cu caracter personal (inclusiv modul în care puteți controla informațiile trimise către Google) pot fi găsite "
+          },
+          {
+            "link": {
               "text": "aici",
               "textOnMouseOver": "Click aici...",
               "link": "https://policies.google.com/technologies?hl=ro"
             }
-          ]
-        },
-        {
-          "text": "Prin continuarea navigarii pe site-ul nostru confirmi acceptarea utilizarii fisierelor de tip cookie si faptul ca ai inteles ce tip de date iti for fi solicitate in cazul in care doresti sa ne contactezi online."
-        }
-      ]
+          },
+          {
+            "text": "<br>Prin continuarea navigarii pe site-ul nostru confirmi că ești de acord cu cele menționate mai sus, că accepți utilizarea fisierelor de tip cookie si faptul că ai înțeles ce tip de date îți vor fi solicitate și la ce ne folosesc."
+          }
+        ]
+      }
     }
   ]
 }

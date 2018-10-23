@@ -17,7 +17,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și alte activități ce pot fi rezervate în orice perioadă doriți. <br><br>Acestă secțiune e în lucru, revenim în curând cu noutăți."
@@ -31,7 +31,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Sărbători locale, momente cheie ale anotimpurilor sau alte mici activități ce au loc într-o anumită perioadă."
@@ -71,11 +71,12 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
-          "text": "<b>Ce zic cei care au participat la evenimente?</b> - ",
-          "seeAlso": [
+          "text": "<b>Ce zic cei care au participat la evenimente?</b> - "},
+{
+          "link":
             {
               "text": "vezi aici",
               "textOnMouseOver": "Click aici...",
@@ -125,7 +126,7 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "",

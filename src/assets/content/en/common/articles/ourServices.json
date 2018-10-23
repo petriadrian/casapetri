@@ -1,9 +1,9 @@
 [
   {
     "id": "food",
-    "type": "article",
+    "article": {         "heading": {
     "text": "The options for taking the meal are: <br><b>Homemade meals at locals</b> - some of our neighbours offers traditional meals at their place - check this option while making a booking. <br><b>Each room has a kitchen</b> - great for breakfast or dinner. There is also a <b>barbecue</b> in the garden and 2 <b>grocery stores</b> near by (~2min).",
-    "images": [
+                }           }         ]       }     },     {       "images": [
       {
         "text": "A glass of 'țuica', before dinner at locals, with a group from Germany.",
         "thumbnail": "assets/img/accommodation/article/food/thumbnail/restaurant.jpg",
@@ -23,9 +23,9 @@
   },
   {
     "id": "guide",
-    "type": "article",
+    "article": {         "heading": {
     "text": "Rosia Montana has a golden past. How the gold mining worked through galleries, watter mills, pounds and open pits, the past of the patrimony buildings from the historic center or the impact of the mega mining project proposed here by the canadian company and the massive streets protests against it are just a few reasons why we recommend to visit Roșia Montana with a guide. The locality is not really designed for tourism so it will be pretty difficult to see and find all this by your own. We stay in touch with local guides who offers guided tours by foot or by bike (also technical assistance on the road). So, if you are interested in:",
-    "seeAlso": [
+    "linkText": [
       {
         "text": "<br><b>- custom guided trails</b> - specify while booking a room and we will contact you by email or phone - see here",
         "textOnMouseOver": "Click here...",
@@ -37,7 +37,7 @@
         "link": "en/accommodation#packages"
       }
     ],
-    "images": [
+                }           }         ]       }     },     {       "images": [
       {
         "text": "The historic center guided tour with a group from Romania.",
         "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
@@ -67,16 +67,16 @@
   },
   {
     "id": "accommodationShortInfo",
-    "type": "article",
+    "article": {         "heading": {
     "text": "Will stay at Casa Petri from the historic center of Rosia Montana 331, Romania, in a heritage house, recently restored with 2, 3 or 4 person rooms that have kitchenette, library, private bathroom and a yard with gazebo, hammocks and a nice view to Cârnic massif. More info and images on ",
-    "seeAlso": [
+    "linkText": [
       {
         "text": "accommodation page",
         "textOnMouseOver": "Click here...",
         "link": "en/accommodation#rooms"
       }
     ],
-    "images": [
+                }           }         ]       }     },     {       "images": [
       {
         "text": "Books room - 4 persons",
         "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/booksRoom.jpg",
@@ -96,16 +96,16 @@
   },
   {
     "id": "eventsInfo",
-    "type": "article",
+    "article": {         "heading": {
     "text": "<br><b>Accommodation</b> is in the historic center of Roșia Montană at Casa Petri or others accommodations from the area in rooms with private bathroom or 1 bathroom for 2 rooms. <br><b>Food</b> - if you are vegetarian or you have other preferences, write in the 'Other detail' box <br><b>Equipment</b> recommended - rain coat, hiking boots and sun protection. <br><b>Children</b> - we offer 50% discount for children under 12 and free for those under 4 (without extra bed). <br><b>The activities are optional</b>, we also offer bikes, board games, library or you can relax in the hammock. <br><b>Do you want to stay less or more?</b> let us know in the 'Other details' box and we will get back to you. <br><b>Number of participants</b> - between 3 and 20 persons. <br><b>Reviews</b> - what others said about our events? ",
-    "seeAlso": [
+    "linkText": [
       {
         "text": "see here",
         "textOnMouseOver": "Click here...",
         "link": "en/review"
       }
     ],
-    "images": [
+                }           }         ]       }     },     {       "images": [
       {
         "text": "Accommodation - Casa Petri (more images on the accommodation page)",
         "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/booksRoom.jpg",
@@ -184,10 +184,10 @@
   },
   {
     "id": "eventsFacebookInterested",
-    "type": "article",
+    "article": {         "heading": {
     "title": "Interested?",
     "text": "<b>Not sure if you want to participate?</b> <br>Go on the the facebook event and click on 'Interested' to receive reminders ",
-    "seeAlso": [
+    "linkText": [
       {
         "text": "(the event can be found here)",
         "textOnMouseOver": "click here...",
@@ -199,7 +199,7 @@
     "id": "blogPlanAVisit",
     "type": "form",
     "beforeFormText": "We restored our grandparents house from the historic center of Rosia Montana Transylvania and now we offer accommodation (the rooms have fire places, private bathrooms and kitchen). We can organize traditional meals at locals, guided tours in the area and we also offer bikes or sleights. If you wish to visit us leve your contact data bellow or make a direct booking on the ",
-    "beforeFormTextSeeAlso": [
+    "beforeFormTextlinkText": [
       {
         "text": "accommodation page",
         "textOnMouseOver": "Click here...",

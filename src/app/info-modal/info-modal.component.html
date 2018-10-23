@@ -1,5 +1,5 @@
 <div class="modal-body">
-  <app-article-body [content]="content?.modal"></app-article-body>
+  <app-article [content]="content?.modal?.article"></app-article>
 </div>
 <div class="modal-footer">
   <button type="button" class="btn btn-primary" (click)="activeModal.close('Close click')">{{content?.modal?.button}}</button>

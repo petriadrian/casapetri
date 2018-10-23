@@ -1,6 +1,6 @@
 import {Routes} from '@angular/router';
-import {SectionManagementComponent} from './body/section-management/section-management.component';
+import {ContentManagementComponent} from './content/content-management/content-management.component';
 
 export const ROUTES: Routes = [
-  {path: '**', component: SectionManagementComponent, pathMatch: 'full'}
+  {path: '**', component: ContentManagementComponent, pathMatch: 'full'}
 ];

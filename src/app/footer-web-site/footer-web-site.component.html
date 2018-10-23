@@ -7,14 +7,15 @@
     <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 reviewPreviewArea">
       <div class="carousel slide" data-ride="carousel" data-interval="9000">
         <div class="carousel-inner">
-          <div *ngFor="let review of reviews; let isFirstRow=first" [ngClass]="{'active' : isFirstRow}"
-               class="carousel-item">
+        <ng-container *ngFor="let review of reviews?.sections; let isFirstRow=first">
+          <div *ngIf="review?.article" [ngClass]="{'active' : isFirstRow}" class="carousel-item">
             <div class="carousel-caption">
               <h5><i class="fas fa-comment-alt"></i> Review:
-                <span class="reviewTitle" [innerHTML]="review.title"></span></h5>
-              <p [innerHTML]="review.text | trustHtml"></p>
+                <span class="reviewTitle" [innerHTML]="review?.article?.heading?.subtitle"></span></h5>
+              <p [innerHTML]="review?.article?.content[0].text | trustHtml"></p>
             </div>
           </div>
+        </ng-container>
         </div>
       </div>
     </div>
@@ -23,7 +24,7 @@
   <!--credentials-->
   <div class="row">
     <section class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-      <app-article-body [content]="footerContent?.credentials"></app-article-body>
+      <app-article [content]="footerContent?.credentials?.article"></app-article>
     </section>
 
     <!--facebook-->

@@ -22,18 +22,10 @@ export class UrlService {
     }
   }
 
-  public buildLangLinkAndGo(newLang) {
-    const currentPathWithoutLang = location.pathname.substring(3);
-    if (!currentPathWithoutLang && newLang === this.RO_LOCALE) {
-      location.pathname = '/';
-    } else if (!currentPathWithoutLang && newLang !== this.RO_LOCALE) {
-      location.pathname = '/' + newLang;
-    } else {
-      location.pathname = newLang + currentPathWithoutLang;
-    }
-  }
-
   public buildLinkAndGo(link) {
+    if (link === this.RO_LOCALE || link === this.EN_LOCALE) {
+      this.buildLangLinkAndGo(link);
+    }
     if (link.startsWith('http')) {
       window.open(link, '_blank');
     } else if (link.startsWith('tel:')) {
@@ -46,6 +38,17 @@ export class UrlService {
         const linkNoHash = link.substring(0, link.indexOf('#'));
         this.router.navigate([linkNoHash], {fragment: hash});
       }
+    }
+  }
+
+  public buildLangLinkAndGo(newLang) {
+    const currentPathWithoutLang = location.pathname.substring(3);
+    if (!currentPathWithoutLang && newLang === this.RO_LOCALE) {
+      location.pathname = '/';
+    } else if (!currentPathWithoutLang && newLang !== this.RO_LOCALE) {
+      location.pathname = '/' + newLang;
+    } else {
+      location.pathname = newLang + currentPathWithoutLang;
     }
   }
 

@@ -17,11 +17,12 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
-          "text": "In the <b>27.04 - 01.05.2018</b> weekend will organize guided tours and other activities in our amazing area. <br>We will meet on <b>Friday evening - check in -</b> at Casa Petri Rosia Montana ",
-          "seeAlso": [
+          "text": "In the <b>27.04 - 01.05.2018</b> weekend will organize guided tours and other activities in our amazing area. <br>We will meet on <b>Friday evening - check in -</b> at Casa Petri Rosia Montana "},
+{
+          "link":
             {
               "text": "(see here how to reach us)",
               "textOnMouseOver": "Click here...",
@@ -32,7 +33,7 @@
         {
           "title": "Saturday",
           "text": "<b><i class='far fa-clock'></i> 09:00 ~ 16:00 - Guided tour Rosia Montana.</b><br> Will start with the roman galleries from the Mining Museum and then will discover the goldsmiths stories and legends by visiting the patrimony buildings form the historical center of Rosia Montana (schools, churches or the goldsmith houses built by various civilizations who came here since antiquity to find gold, the reason why the area was proposed as UNESCO site).",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Guided tour - historic center.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
@@ -57,7 +58,7 @@
         },
         {
           "text": "<br><br><b><i class='far fa-clock'></i> Evening - Movie in the garden 'The story of Roșia Montană'</b><br> Images, movies and stories about the past of the village and the today life (if will be cold will hold the screening inside).",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Movie screening in the garden",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/film-proiectie-gradina-casa-petri.jpg",
@@ -73,7 +74,7 @@
         {
           "title": "Sunday",
           "text": "<b><i class='far fa-clock'></i> 09:00 ~ 14:00 - Guided tour - Gold stories</b> <br> Will follow the old golden veins of the Cârnic massif, visit some galleries and find their stories and how were they made.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "The Roman Galleries - Cârnic",
               "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
@@ -97,7 +98,7 @@
         {
           "title": "Monday",
           "text": "<b><i class='far fa-clock'></i> 09:00 ~ 16:00 - Guided trail - Detunata massif</b>. <br>This 80m high massive formed from basalt columns is a protected area with huge stone blocks. The area has great legends, the people are welcoming and they also make some amazing cheese pies.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "<b>Detunata</b> - through the basalt block, into the middle of the pine forest is a small glacier.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
@@ -117,7 +118,7 @@
         },
         {
           "text": "<br><br><b><i class='far fa-clock'></i> Evening - 'mici', beer and vinyl</b> <br>In the evening will make a barbecue in the backyard with some traditional romanian food from the house ('mici' and beer) and listen music from pick-up (vinyl).",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Evening with 'mici' and beer.",
               "thumbnail": "assets/img/events/firstMai/article/thumbnail/miciSiBere.jpg",
@@ -127,8 +128,9 @@
         },
         {
           "title": "Tuesday",
-          "text": "<b>Steam train rides</b> <br>The <b>steamtrain</b> was used in the past to carry miners and gold from Gura Rosie factory and now has been open for tourists. There are 2 steamtrains near us: <b>Abrud - Câmpeni steamtrain</b> (~10min by car from us; the tour last 3h) and <b>Crișcior - Brad steamtrain</b> (~45min by car from us; the tour last 2h). <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> - ",
-          "seeAlso": [
+          "text": "<b>Steam train rides</b> <br>The <b>steamtrain</b> was used in the past to carry miners and gold from Gura Rosie factory and now has been open for tourists. There are 2 steamtrains near us: <b>Abrud - Câmpeni steamtrain</b> (~10min by car from us; the tour last 3h) and <b>Crișcior - Brad steamtrain</b> (~45min by car from us; the tour last 2h). <br><i class='fa fa-map-signs'></i> <b>How to get there?</b> - "},
+{
+          "link":
             {
               "text": "see map for Abrud steamtrain ",
               "textOnMouseOver": "Click here...",
@@ -145,7 +147,7 @@
               "link": "http://www.cfi.ro/index.php?p=1_15"
             }
           ],
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "With the steam train along the Apuseni mountains",
               "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/1.jpg",
@@ -167,7 +169,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -184,7 +186,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<br>The price is <b>100€</b>/person. <b>Includes:</b> accommodation, the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
@@ -192,7 +194,7 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [

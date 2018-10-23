@@ -1,9 +1,9 @@
 {
-  "type": "article",
+  "article": {         "heading": {
   "specificArticles": [
     {
       "text": "Acest tur s-a încheiat - vedeți pe următorul link cum s-a desfășurat: ",
-      "seeAlso": [
+      "linkText": [
         {
           "text": "imagini și review-uri pachet",
           "textOnMouseOver": "Click aici...",

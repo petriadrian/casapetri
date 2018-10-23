@@ -17,11 +17,12 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
-          "text": "În weekendul <b>8 - 10 Iunie 2018</b> organizăm tururi ghidate și alte activități în zona noastră deosebită. <br>Ne vedem <b>vineri seara - check in -</b> la Casa Petri Roșia Montană ",
-          "seeAlso": [
+          "text": "În weekendul <b>8 - 10 Iunie 2018</b> organizăm tururi ghidate și alte activități în zona noastră deosebită. <br>Ne vedem <b>vineri seara - check in -</b> la Casa Petri Roșia Montană "},
+{
+          "link":
             {
               "text": "(vezi aici cum ajungi)",
               "textOnMouseOver": "Click aici...",
@@ -32,7 +33,7 @@
         {
           "title": "Sâmbătă",
           "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Tur ghidat masivul Detunata</b> <br>De la Casa Petri o să pornim spre aria protejată Detunata Apuseni - un masiv din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră printre care uneori apare un mic ghețar. Aici a trait și Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase. Sunt mai multe variante de a ajunge acolo (in functie de alegerea grupului și de vreme): drumeție(~4h) sau cu mașina(~1h) urmat de o drumeție(~1h) sau cu bicicleta(~3h) - dacă nu veniți cu bicicleta personală, se pot închiria de la noi.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "La masivul de bazalt Detunata Apuseni.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata2.jpg",
@@ -87,7 +88,7 @@
         },
         {
           "text": "<br><br><b><i class='far fa-clock'></i> Seara - Proiecție în grădină 'De ce e Roșia și Montană?'</b><br> Imagini, filme și povești despre trecutul și evoluția satului, modul de extracție al aurului din trecut până în prezent și viața de azi (dacă va fi frig vom ține proiecția în interior).",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Proiecții în grădină",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/film-proiectie-gradina-casa-petri.jpg",
@@ -103,7 +104,7 @@
         {
           "title": "Duminică",
           "text": "<b><i class='far fa-clock'></i> 09:00 - 14:00 - Tur ghidat Roșia Montană</b> <br>Vom descoperi poveștile și legendele aurarilor printr-un tur al clădirilor de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau casele aurarilor construite de diverse popoare venite aici încă din antichitate pentru a căuta aur, motiv pentru care zona a fost propusă ca sit UNESCO). La final, dacă mai aveți timp și energie vom urca pe masivul Cârnic de unde vă promitem o priveliște deosebită asupra satului.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
@@ -155,7 +156,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -172,7 +173,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<br>Prețul este <b>220lei</b>/persoană. <b>Include</b> cazarea, traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
@@ -180,7 +181,7 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [

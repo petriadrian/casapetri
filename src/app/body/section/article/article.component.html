@@ -1,8 +1,0 @@
-<span *ngIf="!!content?.specificArticles">
-      <span *ngFor="let item of content?.specificArticles">
-        <app-article-body [content]="item"></app-article-body></span>
-</span>
-<span *ngIf="!!content?.commonArticles">
-  <app-common-article [content]="content?.commonArticles"></app-common-article>
-</span>
-<div style="clear:both"></div>

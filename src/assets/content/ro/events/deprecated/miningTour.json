@@ -24,10 +24,10 @@
       "type": "title",
       "text": " ",
       "id": "intro",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<b>pachet turistic | 28-31 iulie | încheiere înscrieri: 23 iulie"
@@ -44,7 +44,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<br><b><i class='far fa-clock'></i> 16:00 - 21:00 - vineri - check in</b> la locul de cazare - Casa Petri, nr. 331, centru istoric Rosia Montană, jud. Alba."
@@ -52,7 +52,7 @@
         {
           "title": "Proiecție 'Povestea aurului'",
           "text": "<b><i class='far fa-clock'></i> 21:00 - 22:30 - vineri</b> <br>Proiecție în grădină - 'Povestea aurului din Roșia Montană' - imagini, filme și povești despre modul de extracție al aurului din trecut până în prezent, viața căutătorilor de aur și impactul deschiderii unei noi cariere pentru a extrage aurul rămas. Proiecția este și o introducere în traseele ghidate din zilele următoare.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Proiecții în grădină",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/film-proiectie-gradina-casa-petri.jpg",
@@ -68,7 +68,7 @@
         {
           "title": "Turul galeriilor",
           "text": "<b><i class='far fa-clock'></i> 10:00 - 18:00 - sâmbătă</b> <br>Împreună cu un ghid de la Muzeul Mineritului o să vizităm cele mai vechi exploatări de aur din zonă (galeriile romane), după care vom urca la galeriile de apă și foc ale masivului Cârnic și galeriile tip corandă de la Văidoaia. Pe parcurs o să urmărim și instalațiile de procesare a minereului aurifer, casele și obiceiurile diferitelor nații ce au venit aici de-a lungul timpului pentru a căuta aur.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Galeriile Romane (106 – 272 d.Hr.)",
               "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
@@ -117,7 +117,7 @@
         },
         {
           "text": "<b><i class='far fa-clock'></i> 09:00 - 17:00 - duminică</b> <br>Drumeție spre cariera Cetate și apoi cariera Roșia Poieni.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Cariera Cetate - exploatări relizate în perioada comunistă pentru extracția aurului.",
               "thumbnail": "assets/img/attractions/article/carnic/sphinx/thumbnail/2.jpg",
@@ -137,7 +137,7 @@
         },
         {
           "text": "<br><br><b><i class='far fa-clock'></i> 09:00 - 16:00 - luni</b> <br>Vizită la Geamăna - în funcție de alegerea grupului se poate ajunge cu mașina sau pe jos. Pe drum putem opri și la Mănăstirea Lupșa - cea mai veche așezare monahală de pe Valea Ariesului - anul 1421.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Geamăna - este înconjurată de un drum de ~20km lungime.",
               "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/6.jpg",
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -175,7 +175,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -189,10 +189,10 @@
       "type": "title",
       "text": "<i class='fa fa-bed'></i> Cazare",
       "id": "accommodation",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -206,10 +206,10 @@
       "type": "title",
       "text": "<i class='fas fa-utensils'></i> Mâncare",
       "id": "food",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -223,10 +223,10 @@
       "type": "title",
       "text": "<i class='fa fa-puzzle-piece'></i> Activități alternative",
       "id": "otherActivities",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -243,10 +243,10 @@
       "type": "title",
       "text": "Alte informații",
       "id": "otherInfo",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -263,7 +263,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -349,10 +349,10 @@
       "type": "title",
       "text": " ",
       "id": "notInterested",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -368,8 +368,8 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-      "id": "seeAlso",
-      "addLinkInPageHeadline": false
+      "id": "linkText",
+
     },
     {
       "type": "linkToOtherPages",

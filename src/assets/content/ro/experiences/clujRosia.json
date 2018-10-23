@@ -17,11 +17,11 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Marea parte din drumul de la Cluj la Roșia Montană este pe albia râului Arieș și durează cam 2 ore ... dacă nu vă opriți să admirați peisajul.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Cheile Borzești",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/borzesti.jpg",
@@ -120,14 +120,14 @@
       "type": "title",
       "text": "<i class='far fa-images'></i> Punțile Arieșului",
       "id": "winter",
-      "addLinkInPageHeadline": false
+
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Câteva locuri cu totul speciale sunt punțile (poduri) peste râul Arieș ce leagă mici sate sau cătune de 'civilizație'.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Punte Aries",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/punte_lemn_aries.jpg",
@@ -159,7 +159,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Acesta este traseul pentru a ajunge la noi (Casa Petri Rosia Montana) din Cluj.",
@@ -176,7 +176,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [

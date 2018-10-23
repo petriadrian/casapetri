@@ -17,7 +17,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "We know our area and what can you do and visit here, that's why we prepared some packages with accommodation, guided trails and other activities that can be booked in any period you want. <br><br>We are still working on this section but we will update it soon."
@@ -31,7 +31,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "Local habits, key moments in time or other activities that happens in a certain period."
@@ -62,11 +62,12 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
-          "text": "<b>What others said about such events?</b> ",
-          "seeAlso": [
+          "text": "<b>What others said about such events?</b> "},
+{
+          "link":
             {
               "text": "see reviews",
               "textOnMouseOver": "Click here...",
@@ -116,11 +117,11 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Teambuilding - guided hiking tour.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",

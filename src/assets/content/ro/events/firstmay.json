@@ -17,11 +17,12 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
-          "text": "În weekendul <b>27.04 - 01.05.2018</b> organizăm tururi ghidate și alte activități în zona noastră deosebită. <br>Ne vedem <b>vineri seara - check in -</b> la Casa Petri Roșia Montană ",
-          "seeAlso": [
+          "text": "În weekendul <b>27.04 - 01.05.2018</b> organizăm tururi ghidate și alte activități în zona noastră deosebită. <br>Ne vedem <b>vineri seara - check in -</b> la Casa Petri Roșia Montană "},
+{
+          "link":
             {
               "text": "(vezi aici cum ajungi)",
               "textOnMouseOver": "Click aici...",
@@ -32,7 +33,7 @@
         {
           "title": "Sâmbătă",
           "text": "<b><i class='far fa-clock'></i> 09:00 - 16:00 - Tur ghidat Roșia Montană</b> <br>Începem cu o vizită la galeriile romane de la Muzeul Mineritului, iar apoi vom descoperi poveștile și legendele aurarilor printr-un tur al centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau casele aurarilor construite de diverse popoare venite aici încă din antichitate pentru a căuta aur, motiv pentru care zona a fost propusă ca sit UNESCO).",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
@@ -57,7 +58,7 @@
         },
         {
           "text": "<br><br><b><i class='far fa-clock'></i> Seara - Proiecție în grădină 'De ce e Roșia și Montană?'</b><br> Imagini, filme și povești despre trecutul și evoluția satului, modul de extracție al aurului din trecut până în prezent și viața de azi (dacă va fi frig vom ține proiecția în interior).",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Proiecții în grădină",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/film-proiectie-gradina-casa-petri.jpg",
@@ -73,7 +74,7 @@
         {
           "title": "Duminică",
           "text": "<b><i class='far fa-clock'></i> 09:00 ~ 14:00 - Tur ghidat - Poveștile aurului</b> <br>Pornim pe urmele vechilor filoane de aur, vizităm galeriile masivului Cârnic și aflăm povestea și modul de realizare al acestora.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Galeriile Cârnic",
               "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
@@ -97,7 +98,7 @@
         {
           "title": "Luni",
           "text": "<b><i class='far fa-clock'></i> 09:00 ~ 16:00 - Tur ghidat - masivul Detunata</b>. <br>Aici se află o arie protejată formată din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră. Aici a trait Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "<b>Detunata</b> - Printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
@@ -117,7 +118,7 @@
         },
         {
           "text": "<br><br><b><i class='far fa-clock'></i> Seara - mici, bere și vinil</b><br> Seara o vom petrece la un grătar în grădină cu mâncare tradițională de 1 Mai din partea casei (mici cu bere) și muzică de la pick-up (vinil).",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Seară cu mici și bere.",
               "thumbnail": "assets/img/events/firstMai/article/thumbnail/miciSiBere.jpg",
@@ -127,8 +128,9 @@
         },
         {
           "title": "Marți",
-          "text": "<b>Plimbare cu Mocănițele din Apuseni</b> <br>Mocănițele erau folosite în trecut pentru a transporta minerii și minereul aurifer de la unzina Gura Roșia, iar acum funcționează în scop turistic. Sunt 2 mocănițe în apropiere: <b>Mocănița Abrud - Câmpeni</b> (~10min de mers cu mașina de noi; turul durează 3 ore) și <b>Mocănița Crișcior - Brad</b> (~45min de mers cu mașina de noi; turul durează 2 ore). <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> - ",
-          "seeAlso": [
+          "text": "<b>Plimbare cu Mocănițele din Apuseni</b> <br>Mocănițele erau folosite în trecut pentru a transporta minerii și minereul aurifer de la unzina Gura Roșia, iar acum funcționează în scop turistic. Sunt 2 mocănițe în apropiere: <b>Mocănița Abrud - Câmpeni</b> (~10min de mers cu mașina de noi; turul durează 3 ore) și <b>Mocănița Crișcior - Brad</b> (~45min de mers cu mașina de noi; turul durează 2 ore). <br><i class='fa fa-map-signs'></i> <b>Cum ajung?</b> - "},
+{
+          "link":
             {
               "text": "vezi harta mocănița Abrud ",
               "textOnMouseOver": "Click aici...",
@@ -145,7 +147,7 @@
               "link": "http://www.cfi.ro/index.php?p=1_15"
             }
           ],
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Cu mocănița prin Apuseni",
               "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/1.jpg",
@@ -167,7 +169,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -184,7 +186,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<br>Prețul este <b>450lei</b>/persoană. <b>Include</b> cazarea, traseele ghidate și proiecțiile. <b>Nu include</b> mâncarea și biletele de intrare la obiective."
@@ -192,7 +194,7 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [

@@ -6,11 +6,10 @@
   },
   "sections": [
     {
-      "type": "carousel",
-      "slides": [
+      "carousel": [
         {
           "img": "assets/img/attractions/presentation/fullWidthImg.jpg",
-          "title": "Great place to visit - Rosia Montana",
+          "title": "Welcome to Rosia Montana",
           "text": "",
           "url": {
             "link": "en/attractions",
@@ -74,115 +73,240 @@
       ]
     },
     {
-      "type": "title",
-      "text": "Why visit our area?",
-      "addLinkInPageHeadline": false,
-      "id": "whyVisitRosia"
+      "article": {
+        "heading": {
+          "id": "whyVisit",
+          "title": "Why visit our area?"
+        },
+        "content": [
+          {
+            "text": "<b>Discover an unique cultural heritage</b> built by various civilizations since antiquity to extract gold (proposed as <b>UNESCO</b> site) <br><b>Nature and serenity</b> - all around us are massifs, lakes and protected natural areas great for hiking or cycling. <br><b>See the existing open pits</b> and how could impact a new one with cyanide like the one proposed by canadians."
+          }
+        ]
+      }
     },
     {
-      "type": "article",
-      "specificArticles": [
+      "article": {
+        "heading": {
+          "id": "accommodation",
+          "title": "Stay in a cosy house"
+        },
+        "content": [
+          {
+            "text": "We restored our grandparents house from the <b>historic center of Roșia Montană</b>, the place where the old miners changed the gold with money and dynamite). We restore it and now we offer"
+          },
+          {
+            "link": {
+              "text": "accommodation, guided tours and bikes.",
+              "textOnMouseOver": "Click here...",
+              "link": "en/accommodation"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "linkImageText": [
         {
-          "text": "<b>Discover an unique cultural heritage</b> built by various civilizations since antiquity to extract gold (proposed as <b>UNESCO</b> site) <br><b>See the existing open pits</b> and how could impact a new one with cyanide like the one proposed by canadians. <br><b>Nature and serenity</b> - all around us are massifs, lakes and protected natural areas great for hiking or cycling."
+          "title": "Books house",
+          "text": "In the past here was a bank with one meter wide stone walls transformed in a space with a library, bath and kitchenette",
+          "img": "assets/img/accommodation/article/rooms/cartilor/thumbnail/1.jpg",
+          "url": {
+            "link": "en/accommodation#booksHouse",
+            "textOnMouseOver": "See more..."
+          }
         },
         {
-          "text": "",
-          "seeAlso": [
-            {
-              "text": "<b>Top 10 attractions</b> - see here",
-              "textOnMouseOver": "Click here...",
-              "link": "en/attractions#toSee"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "What we offer?",
-      "addLinkInPageHeadline": false,
-      "id": "ourOffer"
-    },
-    {
-      "type": "linkToOtherPagesBig",
-      "otherPages": [
-        {
-          "title": "Rooms, guided tours, bikes",
-          "text": "We restored our grandparents house from the <b>historic center of Roșia Montană</b>, a house with a past (here was the place where the old miners changed the gold with money and dynamite) and now we offer touristic services. See here details, photos and reservations.",
-          "img": "/assets/img/accommodation/article/rooms/cartilor/fullSize/1.jpg",
+          "title": "Tarnat house",
+          "text": "Here are the guests rooms of the household with 100years old painting, mineral and textiles exhibits plus a library with old books.",
+          "img": "assets/img/accommodation/article/rooms/tarnat/thumbnail/hallway.jpg",
           "url": {
-            "link": "en/accommodation",
-            "textOnMouseOver": "Click here..."
+            "link": "en/accommodation#tarnatHouse",
+            "textOnMouseOver": "See more..."
+          }
+        },
+        {
+          "title": "Little house",
+          "text": "This place was the old summer house, the place where traditional foods and drinks were made. See here more...",
+          "img": "assets/img/accommodation/article/rooms/casuta/thumbnail/2.jpg",
+          "url": {
+            "link": "en/accommodation#littleHouse",
+            "textOnMouseOver": "See more..."
           }
         }
       ]
     },
     {
-      "type": "title",
-      "text": "<i class='far fa-calendar-alt'></i> Packages \\ Events",
-      "id": "events",
-      "addLinkInPageHeadline": false
+      "article": {
+        "content": [
+          {
+            "link": {
+              "text": "<br><i class='far fa-dot-circle'></i> Bookings",
+              "textOnMouseOver": "Click here...",
+              "link": "en/accommodation#bookings"
+            }
+          },
+          {
+            "link": {
+              "text": "<i class='far fa-dot-circle'></i> Facilities",
+              "textOnMouseOver": "Click aici...",
+              "link": "en/accommodation#facilities"
+            }
+          }
+        ]
+      }
     },
     {
-      "type": "linkToOtherPagesBig",
-      "otherPages": [
+      "article": {
+        "heading": {
+          "id": "guidedTour",
+          "title": "<i class='fas fa-hiking'></i> Come in a tour of our area"
+        }
+      }
+    },
+    {
+      "linkImageBigText": [
         {
-          "text": "We want you to have an <b>unique experience</b> at Roșia Montană, we know our area, what can you doo and visit here, that's why we created some packages that includes accommodation, guided tours and/or different activities.",
+          "text": "Our area has unique historic and natural objectives, we know our soundings and what can you do and visit here to make an <b>unique experience</b> from your trip to Roșia Montană. See here details about the tours we make around and how can you join them...",
           "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg",
           "url": {
-            "link": "en/events/all",
+            "link": "en/experiences/all#guidedTour",
             "textOnMouseOver": "Click here..."
           }
         }
       ]
     },
     {
-      "type": "title",
-      "text": "<i class='far fa-images'></i> Blog",
-      "id": "blog",
-      "addLinkInPageHeadline": false
+      "article": {
+        "heading": {
+          "id": "nature",
+          "title": "Enjoy the nature and fresh air"
+        }
+      }
     },
     {
-      "type": "linkToOtherPagesBig",
-      "otherPages": [
+      "linkImageText": [
         {
-          "text": "We are locals, we know our village stories, we visit and explore the soundings and sometimes we put here articles with unique experiences that you can also have while visiting our area.",
-          "img": "/assets/img/attractions/article/lakes/bigLake/fullSize/tau-mare-caine-apus-natura-vara-nature-rosia-montana.jpg",
+          "title": "Hiking",
+          "text": "Have a walk towards the massive from our area to see the natural objectives. Marked hiking trails starts from the historic center.",
+          "img": "assets/img/attractions/article/letySulei/thumbnail/1.jpg",
           "url": {
-            "link": "en/blog/all",
-            "textOnMouseOver": "Click here..."
+            "link": "en/experiences/all#hiking",
+            "textOnMouseOver": "See more..."
           }
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-location-arrow'></i> How to reach us?",
-      "id": "directions",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "article",
-      "specificArticles": [
-        {
-          "text": "We are in the historic center of Roșia Montană, 331A, Carpathian Mountains, Transylvania. To reach us <b>set on gps 'Casa Petri Rosia Montana'</b>. If you came by bus, the closest stations is in Gura Roșia (6 km), from here hitchhike or call us and we will come to pick you. Once in the historic center of Rosia Montana you will see on the left a 3 floor block of flats and in the back of you will see our house (one floor white house). The  entrance is through the yard on the left of the house. If you came from Cluj-Napoca to Rosia by car see also ",
-          "seeAlso": [
-            {
-              "text": "this article",
-              "textOnMouseOver": "Click here...",
-              "link": "en/blog/clujRosia"
-            }
-          ]
         },
         {
-          "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc"
+          "title": "Bike rides",
+          "text": "We live in an area surrounded by hills, valleys and mountain villages connected with unpaved paths perfect for mountain bikes. <b>We also rent bikes!</b>",
+          "img": "assets/img/attractions/article/rotunduPeak/thumbnail/9.jpg",
+          "url": {
+            "link": "en/experiences/all#bike",
+            "textOnMouseOver": "See more..."
+          }
+        },
+        {
+          "title": "Discover the lakes",
+          "text": "The lakes, relaxing and calm places perfect to catch an amazing sunset or to have a break from you hike.",
+          "img": "assets/img/attractions/article/lakes/bigLake/thumbnail/10.jpg",
+          "url": {
+            "link": "en/experiences/all#lake",
+            "textOnMouseOver": "See more..."
+          }
+        },
+        {
+          "title": "Raspberry, Strawberry?",
+          "text": "Depending upon the season, our area has various goodies directly from the source. Around will find  raspberry, strawberry, blackberry, mushrooms...",
+          "img": "assets/img/attractions/article/vartop/thumbnail/12.jpg",
+          "url": {
+            "link": "en/experiences/all#berry",
+            "textOnMouseOver": "See more..."
+          }
+        },
+        {
+          "title": "Visit the daffodils meadow",
+          "text": "In the May weekends we organize visits to a magical place from our area with amazing landscapes and unforgettable smell: 'The daffodils meadow'",
+          "img": "assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
+          "url": {
+            "link": "en/experiences/all#narcise",
+            "textOnMouseOver": "See more..."
+          }
+        },
+        {
+          "title": "Live as a local farmer",
+          "text": "Live in the nature. We put you in touch with local farms where you can learn a traditional job (haymaking, hand cow milking...",
+          "img": "assets/img/events/hayDays/article/thumbnail/fan-zeno-vulcan-rosia.jpg",
+          "url": {
+            "link": "en/experiences/all#farmer",
+            "textOnMouseOver": "See more..."
           }
         }
       ]
     },
     {
-      "type": "socialButtons"
+      "article": {
+        "heading": {
+          "title": "Discover our historic objectives",
+          "id": "history"
+        }
+      }
+    },
+    {
+      "linkImageText": [
+        {
+          "title": "Historic center",
+          "text": "Have a walk in the historic center of the oldest attested locality from Romania (Rosia Montană, year 131) to discover the heritage buildings",
+          "img": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+          "url": {
+            "link": "en/experiences/all#historicCenter",
+            "textOnMouseOver": "See more..."
+          }
+        },
+        {
+          "title": "Goldsmith stories",
+          "text": "At the museums you can see the gold processing techniques evolution, tools and mining machines, golden veins and galleries.",
+          "img": "assets/img/attractions/article/romanGalleries/thumbnail/2.jpg",
+          "url": {
+            "link": "en/experiences/all#museums",
+            "textOnMouseOver": "See more..."
+          }
+        },
+        {
+          "title": "Mining galleries",
+          "text": "Discover the marks of our ancestors: the mining galleries (romans, preromans or hamburgs) proposed to become an <b>UNESCO</b> site",
+          "img": "assets/img/attractions/article/carnic/galleries/thumbnail/galerii-romane-carnic.jpg",
+          "url": {
+            "link": "en/experiences/all#galleries",
+            "textOnMouseOver": "See more..."
+          }
+        },
+        {
+          "title": "Communisms Period",
+          "text": "Discover the megaprojects of the communism period, open pits and wasting lakes. Geamăna. Roșia Poieni. Cetate.",
+          "img": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
+          "url": {
+            "link": "en/experiences/all#communism",
+            "textOnMouseOver": "See more..."
+          }
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "directions",
+          "title": "<i class='fa fa-location-arrow'></i> How to reach us?"
+        },
+        "content": [
+          {
+            "text": "We are in the historic center of Roșia Montană, 331A, Carpathian Mountains, Transylvania. To reach us <b>set on gps 'Casa Petri Rosia Montana'</b>."
+          }
+        ]
+      }
+    },
+    {
+      "iframe": {
+        "src": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc"
+      }
     }
   ]
 }

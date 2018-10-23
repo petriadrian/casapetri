@@ -1,0 +1,6 @@
+<section>
+  <span *ngFor="let item of content">
+    <span *ngIf="!!item?.text" [innerHTML]="item?.text | trustHtml"></span>
+    <app-link-text *ngIf="!!item?.link" [content]=item?.link [cssClass]="'lookLikeLink'"></app-link-text>
+  </span>
+</section>

@@ -1,0 +1,42 @@
+.images {
+  padding: 0.5% 0;
+}
+
+figure {
+  max-width: 320px;
+  margin: 5px;
+  background-color: rgba(256, 256, 256, 0.8);
+  box-shadow: 0px 3px 5px rgba(34, 25, 25, 0.4);
+  padding: 1%;
+  display: inline-block;
+  column-break-inside: avoid;
+}
+
+figure img {
+  max-width: 100%;
+  max-height: 320px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 15px;
+  margin-bottom: 5px;
+}
+
+figure {
+  font-size: .85em;
+  color: black;
+}
+
+.hideFigCaption figcaption {
+  display: none;
+}
+figure:HOVER {
+  background-color: #142522;
+  color: white !important;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+figure:ACTIVE,
+figure:FOCUS {
+  outline: 0;
+  text-decoration: none;
+}

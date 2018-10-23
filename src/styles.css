@@ -28,15 +28,6 @@ body {
   padding-top: 55px;
 }
 
-.anchorParent {
-  position: relative;
-}
-
-.anchor {
-  position: absolute;
-  top: -110px;
-}
-
 .row {
   width: 100%;
 }

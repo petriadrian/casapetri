@@ -1,0 +1,14 @@
+<section *ngFor="let section of content?.sections">
+  <app-article *ngIf="!!section?.article" [content]="section?.article"></app-article>
+  <app-images *ngIf="!!section?.images" [content]="section?.images"></app-images>
+  <app-iframe *ngIf="!!section?.iframe" [content]="section?.iframe"></app-iframe>
+  <app-form *ngIf="!!section?.form" [content]="section?.form"
+            [classResponsive]="'col-xs-12 col-sm-12 col-md-12 col-lg-8'"></app-form>
+  <app-carousel *ngIf="!!section?.carousel" [content]="section?.carousel"></app-carousel>
+  <app-link-image-text *ngIf="!!section?.linkImageText" [content]="section?.linkImageText"></app-link-image-text>
+  <app-link-image-big-text *ngIf="!!section?.linkImageBigText"
+                           [content]="section?.linkImageBigText"></app-link-image-big-text>
+  <app-image-video-text-buttons *ngIf="!!section?.imageVideoTextButtons"
+                                [content]="section?.imageVideoTextButtons"></app-image-video-text-buttons>
+  <app-common-item *ngIf="!!section?.commonItem" [content]="section?.commonItem"></app-common-item>
+</section>

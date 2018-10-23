@@ -17,11 +17,11 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
-          "text": "In the <b>11 - 13 May 2018</b> weekend will organize guided tours and other activities in our amazing area. <br>We will meet on <b>Friday evening - check in -</b> at Casa Petri Rosia Montana ",
-          "seeAlso": [
+          "text": "In the <b>11 - 13 May 2018</b> weekend will organize guided tours and other activities in our amazing area. <br>We will meet on <b>Friday evening - check in -</b> at Casa Petri Rosia Montana "}
+          "link":
             {
               "text": "(see here how to reach us)",
               "textOnMouseOver": "Click here...",
@@ -32,7 +32,7 @@
         {
           "title": "Saturday",
           "text": "<b><i class='far fa-clock'></i> 09:00 - 18:00 - Visit the daffodil meadow</b> <br> From Casa Petri we will go towards a protected area called 'Poiana Negrileasa Apuseni' to discover the daffodil meadow. The amazing landscape and the daffodil smell will be an unique experience for you during this trip. There are two ways to get there (according to the group preference): by car (~30min) followed by a 2 hour walk or by bike on the country road (~4h) – bikes can be rented from casa Petri.",
-          "images": [
+                      }           }         ]       }     },     {                   }           }         ]       }     },     {       "images": [
             {
               "text": "At the daffodil meadow Apuseni.",
               "thumbnail": "assets/img/attractions/article/narcise/thumbnail/1.jpg",
@@ -77,7 +77,7 @@
         },
         {
           "text": "<br><br><b><i class='far fa-clock'></i> Evening - Movie in the garden 'The story of Roșia Montană'</b><br> Images, movies and stories about the past of the village and the today life (if will be cold will hold the screening inside).",
-          "images": [
+                      }           }         ]       }     },     {                   }           }         ]       }     },     {       "images": [
             {
               "text": "Movie screening in the garden",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/film-proiectie-gradina-casa-petri.jpg",
@@ -93,7 +93,7 @@
         {
           "title": "Sunday",
           "text": "<b><i class='far fa-clock'></i> 09:00 - 14:00 - Guided tour Roșia Montană</b><br> In the historic center of Rosia Montana there are several patrimony buildings (schools, churches or the goldsmith houses) built by various civilizations that came here for gold. We will also visit the roman galleries from the Mining Museum and will end the tour in a place with an amazing view upon the village.",
-          "images": [
+                      }           }         ]       }     },     {       "images": [
             {
               "text": "Guided tour - historic center Rosia Montana.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
@@ -145,7 +145,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -162,7 +162,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
           "text": "<br>The price is <b>55€</b>/person. <b>Includes:</b> accommodation, the guided tours and the screenings. <b>Not included:</b> the food and the entrance fees."
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "commonArticles": {
         "category": "ourServices",
         "ids": [
@@ -185,11 +185,12 @@
       }
     },
     {
-      "type": "article",
+      "article": {         "heading": {
       "specificArticles": [
         {
-          "text": "We will also organize this even in: ",
-          "seeAlso": [
+          "text": "We will also organize this even in: "},
+{
+          "link":
             {
               "text": "18 - 20 May ",
               "textOnMouseOver": "Click here...",

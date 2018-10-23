@@ -18,11 +18,6 @@
       "textOnMouseOver": "cazare, trasee ghidate, închirieri biciclete, info mâncare - rezervări"
     },
     {
-      "text": "Evenimente",
-      "link": "ro/events/all",
-      "textOnMouseOver": "pachete cu tururi"
-    },
-    {
       "text": "Reviews",
       "link": "ro/review",
       "textOnMouseOver": "click pentru a deschide pagina cu review-uri"
@@ -30,15 +25,20 @@
   ],
   "rightButtons": [
     {
-      "text": "<i class='fas fa-phone fa-lg fa-rotate-90'></i> 0743188186",
-      "link": "tel:(+4)0743188186",
+      "text": "Rezervări",
+      "link": "ro/accommodation#bookings",
+      "textOnMouseOver": "click pentru a face o rezervare"
+    },
+    {
+      "text": "<i class='fas fa-phone fa-lg fa-rotate-90'></i> 0745678159",
+      "link": "tel:(+4)0745678159",
       "textOnMouseOver": "contacteaza-ne la telefon"
     }
   ],
   "languageButtons": [
     {
       "text": "EN",
-      "languageCode": "/en",
+      "link": "en",
       "textOnMouseOver": "switch to english"
     }
   ]

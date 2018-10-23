@@ -1,0 +1,904 @@
+{
+  "metaData": {
+    "title": "Ai ce vizita la Roșia Montană",
+    "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Pentru a le descoperi oferim trasee ghidate, iar din fața casei pornesc 5 trasee marcate.",
+    "img": "/assets/img/attractions/presentation/fullWidthImg.jpg"
+  },
+  "sections": [
+    {
+      "imageVideoTextButtons": {
+        "text": "Ai ce vizita la Roșia Montană!",
+        "videoSource": "",
+        "img": "/assets/img/attractions/presentation/fullWidthImg.jpg",
+        "buttons": [
+          {
+            "text": "De văzut",
+            "link": "ro/experiences/all#toSee",
+            "textOnMouseOver": "De văzut"
+          },
+          {
+            "text": "De făcut",
+            "link": "ro/experiences/all#toDo",
+            "textOnMouseOver": "De făcut"
+          }
+        ]
+      }
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "toSee",
+          "title": "<i class='far fa-heart'></i> De văzut"
+        },
+        "content": [
+          {
+            "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur - vezi mai jos câteva experiențe pentru a descoperi atracțiile zonei."
+          }
+        ]
+      }
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "historicCenter",
+          "subtitle": "<i class='fas fa-home'></i> O plimbare printre clădirile vechi încărcate cu povești"
+        },
+        "content": [
+          {
+            "text": "În <b>Centrul Istoric</b> al celei mai vechi localități atestate documentar din Romania (Rosia Montană, anul 131) vei descoperi obiective de patrimoniu, biserici de 5 culte diferite, casele aurarilor, șteampuri, foste ateliere, cimitire vechi, săli cu expozitii mierești. Pentru a le vizita și descoperi povestea organizăm "
+          },
+          {
+            "link": {
+              "text": "tururi ghidate",
+              "textOnMouseOver": "vezi aici detalii",
+              "link": "ro/experiences/all#guidedTour"
+            }
+          },
+          {
+            "text": " în centrul istoric Roșia Montană (dacă dorești să participi specifică la efectuarea unei "
+          },
+          {
+            "link": {
+              "text": "rezervări)",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Descoperă ornamentele clădirilor de patrimoniu.",
+          "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
+          "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
+        },
+        {
+          "text": "Plimbă-te prin centrul istoric.",
+          "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+          "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+        },
+        {
+          "text": "Descoperă cartierul german Berg și casele aurarilor",
+          "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/1.jpg"
+        },
+        {
+          "text": "Vezi interiorul Bisericii Unitariene - monument de patrimoniu din 1796.",
+          "thumbnail": "assets/img/attractions/article/churches/unitarianChurch/thumbnail/4.jpg",
+          "fullSize": "assets/img/attractions/article/churches/unitarianChurch/fullSize/4.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "museums",
+          "subtitle": "<i class='fas fa-university'></i> Află istoria aurarilor din Apuseni - Muzee"
+        },
+        "content": [
+          {
+            "text": "Vizitează Muzeele din zonă unde poți vedea evoluția tehnicilor de scoatere și prelucrare a metalelor prețioase, unelte și instalații folosite în industria minieră, filoane de aur nativ și galerii miniere."
+          },
+          {
+            "text": "<br>- la <b>Muzeul Mineritului Roșia Montană</b>"
+          },
+          {
+            "link": {
+              "text": "(hartă)",
+              "textOnMouseOver": "Vezi aici cum ajungi",
+              "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Muzeul+Mineritului+Galeriile+Romane,+Ro%C8%99ia+Montan%C4%83/@46.3047767,23.1181138,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474ecd1ba8291199:0x3f86ed8bb68ce1d3!2m2!1d23.1147891!2d46.3046869!3e0?hl=ro"
+            }
+          },
+          {
+            "text": " vei putea intra în interiorul unei galerii romane reazilizate acum 2000 de ani și să vezi cum funcțonau utilajele minerești."
+          },
+          {
+            "text": "<br>- la <b>Muzeul Aurului Brad</b> "
+          },
+          {
+            "link": {
+              "text": "(hartă)",
+              "textOnMouseOver": "Vezi aici cum ajungi",
+              "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Muzeul+Aurului,+Strada+Independen%C8%9Bei,+Brad/@46.2134462,22.8208341,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474edc27fe255555:0x38ae2fbee961bb90!2m2!1d22.7909237!2d46.1290106!3e0?hl=ro"
+            }
+          },
+          {
+            "text": " vei vedea cum arată un filon de aur nativ neprelucrat și expoziții de minerale.</b>"
+          },
+          {
+            "text": "<br>- la <b>Muzeul Buciumanilor</b> "
+          },
+          {
+            "link": {
+              "text": "(hartă)",
+              "textOnMouseOver": "vezi aici cum ajungi",
+              "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Muzeul+Buciumanilor,+Poieni/@46.2755131,23.0918287,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474ecb60f701d409:0xfec892598003f6c4!2m2!1d23.1987534!2d46.2520053!3e0?hl=ro"
+            }
+          },
+          {
+            "text": " vei vedea o instalație de prelucrare a aurului din perioada habsburgică complet funcțională, un mic muzeu al satului și expoziții de minerale."
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Intră pe Galeriile Romane - Muzeul Roșia Montană",
+          "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+        },
+        {
+          "text": "Vezi utilaje pentru prelucrarea aurului - Muzeul Roșia Montană",
+          "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/2.jpg",
+          "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/2.jpg"
+        },
+        {
+          "text": "Vezi filoane native de aur - Muzeul Aurului Brad",
+          "thumbnail": "assets/img/attractions/article/bradGoldMuseum/thumbnail/aurBrad1.jpg",
+          "fullSize": "assets/img/attractions/article/bradGoldMuseum/fullSize/aurBrad1.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "galleries",
+          "subtitle": "<i class='fas fa-dungeon'></i> Mergi pe urmele căutătorilor de aur"
+        },
+        "content": [
+          {
+            "text": "Roșia Montană deține una din <b>cele mai extinse complexe de mine aurifere din lume</b>, un labirint subteran de peste 120km format din galerii romane, preromane sau habsburgice, de o importanță istorică deosebită, propuse ca sit <b>UNESCO</b>. Datorită lor putem vedea și atesta prezența locuitorilor de acum 2000 de ani până în prezent. Pentru a le vizita organizăm"
+          },
+          {
+            "link": {
+              "text": "tururi ghidate",
+              "textOnMouseOver": "vezi aici detalii",
+              "link": "ro/experiences/all#guidedTour"
+            }
+          },
+          {
+            "text": " (specifică la efectuarea unei "
+          },
+          {
+            "link": {
+              "text": "rezervări)",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Fragment de Galerii din perioada romană.",
+          "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/zeus-galerii-romane-carnic-oriz-rosia.jpg",
+          "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/zeus-galerii-romane-carnic-oriz-rosia.jpg"
+        },
+        {
+          "text": "Corande trainice din perioada habsburgică.",
+          "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/zeus-galerii-carnic-coranda-mare-rosia.jpg",
+          "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/zeus-galerii-carnic-coranda-mare-rosia.jpg"
+        },
+        {
+          "text": "Explorând masivele din zonă vei descoperi porțile în timp.",
+          "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/galerii-romane-carnic.jpg",
+          "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/galerii-romane-carnic.jpg"
+        },
+        {
+          "text": "Aerul rece din galerii te poartă în timp.",
+          "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/prietenie.jpg",
+          "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "communism",
+          "subtitle": "<i class='fas fa-city'></i> Descoperă exploatările perioadei comuniste"
+        },
+        "content": [
+          {
+            "text": "Descopră megaproiectele miniere comuniste: exploatări și lacuri de decantare imense, utilaje și clădiri industriale, vezi efectele acestora și prețul plătit pentru obținerea metalelor prețioase la scară industrială. În zonă se află exploatarea <b>Roșia Poieni</b> (cea mai extinsă exploatare de suprafață din Europa), iazul de deșeuri miniere <b>Geamăna</b> (ce a scufundat 2 sate) și eploatarea de suprafață <b>Cetate</b>. Organizăm "
+          },
+          {
+            "link": {
+              "text": "tururi ghidate",
+              "textOnMouseOver": "vezi aici detalii",
+              "link": "ro/experiences/all#guidedTour"
+            }
+          },
+          {
+            "text": " spre aceste obiecteve, dar trebuie făcută o "
+          },
+          {
+            "link": {
+              "text": "rezervare",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": " cât mai din timp (deoarece va trebui să facem o cerere spre instituție)."
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Mândria perioadei comuniste - <b>Cariera de Cupru Roșia Poieni</b>.",
+          "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/copperPit/fullSize/1.jpg"
+        },
+        {
+          "text": "Turla bisericii din fostul sat <b>Geamăna</b>, acoperit acum de iazul de decantare.",
+          "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/1.jpg"
+        },
+        {
+          "text": "Cariera de aur <b>Cetate</b> realizată peste o 'fortăreață' de galerii romane.",
+          "thumbnail": "assets/img/attractions/article/carnic/cetatePit/thumbnail/cariera.jpg",
+          "fullSize": "assets/img/attractions/article/carnic/cetatePit/fullSize/cariera.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "saveRosiaMontana",
+          "subtitle": "<i class='fas fa-flag'></i> Unde și cum a apărut campania 'Salvați Roșia Montană'"
+        },
+        "content": [
+          {
+            "text": "Timp de 15 ani au avut loc la Roșia Montană acțiuni împotriva companiei canadiene ce dorea o mare exploatare cu cianuri la Roșia Montană pentru a extrage aurul rămas. Împotriva acestui proiect au avut loc ample proteste de stradă în marile orașe din România și diasporă. Pentru a afla unde și de ce a apărut acestă campanie, cum urmau să arate locurile afectate de megaproiectul canadian și impactul asupra comunității vă așteptăm într-un "
+          },
+          {
+            "link": {
+              "text": "tur ghidat",
+              "textOnMouseOver": "vezi aici detalii",
+              "link": "ro/experiences/all#guidedTour"
+            }
+          },
+          {
+            "text": " al campaniei 'Salvați Roșia Montană'. "
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Ferma lui David Eugen - aici au început multe acțiuni pentru salvarea Roșiei Montane. Un ONG din Paris a realizat sculpturile - aflați acolo povestea lor.",
+          "thumbnail": "assets/img/attractions/article/sculpture/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/sculpture/fullSize/1.jpg"
+        },
+        {
+          "text": "Reduta de pe Țarină - locul unde anual se organiza festivalul de mediu și activism FânFest",
+          "thumbnail": "assets/img/attractions/article/fanfest/thumbnail/fanfest.jpg",
+          "fullSize": "assets/img/attractions/article/fanfest/fullSize/fanfest.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "hiking",
+          "subtitle": "<i class='fas fa-tree'></i> Drumeție spre Monumentele Naturii - trasee marcate"
+        },
+        "content": [
+          {
+            "text": "Drumeții în natură, aer curat, sau plimbări cu bicicleta? Vă invităm să descoperiți masivele din zona Roșia Montană unde se află diverse obiective naturale ce merită vizitate. Din centrul localității pornesc 4 <b>trasee marcate</b> de diferite niveluri de dificultate și durată (3, 5 sau 8 ore)."
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "<b>Piatra Corbului</b> - rezervație naturală protejată. Galeriile de aici sunt unele din cele mai vechi din Roșia Montană, făcute de agatârși folosind doar apă și foc",
+          "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+        },
+        {
+          "text": "<b>Sfinxul Cârnic</b> - Crucea de pe Sfinx a fost pusă aici de baieși (mineri) pentru a fi călauziți în mină când căutau aur.",
+          "thumbnail": "assets/img/attractions/article/carnic/sphinx/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/carnic/sphinx/fullSize/1.jpg"
+        },
+        {
+          "text": "Creasta îngustă a <b>Masivului Sulei</b>.",
+          "thumbnail": "assets/img/attractions/article/letySulei/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/letySulei/fullSize/1.jpg"
+        },
+        {
+          "text": "Stalagnitele galeriilor aurifere.",
+          "thumbnail": "assets/img/attractions/article/carnic/stalagnite/thumbnail/stalagnite-carnic-rosia.jpg",
+          "fullSize": "assets/img/attractions/article/carnic/stalagnite/fullSize/stalagnite-carnic-rosia.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "lake",
+          "subtitle": "<i class='fas fa-leaf'></i> Tăurile, locuri de liniște și relaxare"
+        },
+        "content": [
+          {
+            "text": "Peste 100 de tăuri artificiale au fost construite în perioada habsburgică pentru a ajuta la prelucrarea aurului, dar acum au mai rămas doar șapte. Pentru a le vizita se urmează traseul 'Circuitul Tăurilor' marcat cu punct albastru  (4h drumeție) ce pornește din centrul istoric Roșia Montană."
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "<b>Tăul Țarinii</b> - un mic lac de munte superb pe timp de toamnă.",
+          "thumbnail": "assets/img/attractions/article/lakes/tariniLake/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/lakes/tariniLake/fullSize/1.jpg"
+        },
+        {
+          "text": "Tăul Mare sau Tăul inimă (datorită formei lui).",
+          "thumbnail": "assets/img/attractions/article/lakes/bigLake/thumbnail/10.jpg",
+          "fullSize": "assets/img/attractions/article/lakes/bigLake/fullSize/10.jpg"
+        },
+        {
+          "text": "<b>Tăul Brazi</b> - Casa este a unui pictor care folosește priveliștea ca sursă de inspirație. ",
+          "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "viewPoints",
+          "subtitle": "<i class='fas fa-walking'></i> Cucerește punctele de belvedere din zonă"
+        },
+        "content": [
+          {
+            "text": "Locuri cu priveliști deosebite, natură, liniște, relaxare. Roșia Montană e spectaculoasă din toate unghiurile așa că lasați-vă purtați de poteci pe culmile din zonă și porniți într-o aventură pe drumurile mai puțin umblate din zona noastră."
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Punct de belvedere Cârnic.",
+          "thumbnail": "assets/img/attractions/article/carnic/carnic/thumbnail/natura-flori-vara-carnic-ceata-rosia-montana.jpg",
+          "fullSize": "assets/img/attractions/article/carnic/carnic/fullSize/natura-flori-vara-carnic-ceata-rosia-montana.jpg"
+        },
+        {
+          "text": "Punct de belvedere Tăuri.",
+          "thumbnail": "assets/img/attractions/article/carnic/carnic/thumbnail/tauri-carnic-natura-rosia-montana.jpg",
+          "fullSize": "assets/img/attractions/article/carnic/carnic/fullSize/tauri-carnic-natura-rosia-montana.jpg"
+        },
+        {
+          "text": "Punct de belvedere Valea Roșiei.",
+          "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/fog-ceata-rosia-montana-vaidoaia-primavara.jpg",
+          "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/fog-ceata-rosia-montana-vaidoaia-primavara.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "detunata",
+          "subtitle": "<i class='fas fa-mountain'></i> Spre acoperișul de bazalt al Apusenilor - Detunata"
+        },
+        "content": [
+          {
+            "text": "Detunata este o arie protejată formată din coloane de bazalt de 80m înalțime la baza căruia s-a format o mare de blocuri de piatră printre care uneori apare un mic ghețar. Aici a trait și Fefeleaga (personajul lui Agârbiceanu), zona are legende impresionante, oamenii sunt primitori și alocuri se vând plăcinte cu brânză delicioase. Pentru a descoperi masivul urmați traseul de 3h drumeție marcat cu cruce roșie."
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Porniți spre acoperișul de bazalt - Detunata.",
+          "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
+          "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
+        },
+        {
+          "text": "Priveliștea de pe Detunata - spre ținutul Moților.",
+          "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
+          "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
+        },
+        {
+          "text": "Detunata - marea de bazalt (vederea din vârf).",
+          "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata-pietre-jos-brazi.jpg",
+          "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata-pietre-jos-brazi.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "hayHouses",
+          "subtitle": "<i class='fas fa-home'></i> Muzeu în aer liber - Casele cu paie"
+        },
+        "content": [
+          {
+            "text": "Din păcate multe din satele din jurul zonei noastre sunt părăsite datorită mutării tinerilor la oraș dar partea bună este că unele gospodării au rămas conservate exact așa cum erau acum câteva zeci sau chiar sute de ani. Printre acestea sunt casele și șurile acoperite cu paie specifice zonei noastre sau bisericiile mici de lemn. O plimbare pe dealurile Apusenilor, într-un tur al acestor obiective este asemeni unei călătorii în timp. La cerere organizăm "
+          },
+          {
+            "link": {
+              "text": "tururi ghidate",
+              "textOnMouseOver": "vezi aici detalii",
+              "link": "ro/experiences/all#guidedTour"
+            }
+          },
+          {
+            "text": " spre aceste zone. "
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Vizitați Casele cu paie.",
+          "thumbnail": "assets/img/attractions/mogos-sura-casa-paie-gemenele-th.jpg",
+          "fullSize": "assets/img/attractions/mogos-sura-casa-paie-gemenele.jpg"
+        },
+        {
+          "text": "Șurile cu paie.",
+          "thumbnail": "assets/img/attractions/mogos-sura-casa-paie-flori-galbene-th.jpg",
+          "fullSize": "assets/img/attractions/mogos-sura-casa-paie-flori-galbene.jpg"
+        },
+        {
+          "text": "Casele cu paie - detaliu.",
+          "thumbnail": "assets/img/attractions/mogos-biserica-lemn-ornament-th.jpg",
+          "fullSize": "assets/img/attractions/mogos-biserica-lemn-ornament.jpg"
+        },
+        {
+          "text": "Porniți într-un tur cu bicicleta al caselor cu paie.",
+          "thumbnail": "assets/img/attractions/mogos-bicicleta-drum-tara-sura-paie-th.jpg",
+          "fullSize": "assets/img/attractions/mogos-bicicleta-drum-tara-sura-paie.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "scarisoara",
+          "subtitle": "<i class='fab fa-modx'></i> În apropiere e Ghețarul Scărișoara"
+        },
+        "content": [
+          {
+            "text": "Pestera din inima Apusenilor gazduieste cel mai mare ghețar subteran din lume și este prima peșteră din Romania declarata monument al naturii (1938). Pentru a-l vizita se merge 1h cu mașina"
+          },
+          {
+            "link": {
+              "text": "(harta).",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.google.com/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/Glacier+Cave+Scarisoara,+Romania/@46.3962379,22.8293194,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x4748d16f214d425f:0x3c356cdce6edf2d6!2m2!1d22.8107369!2d46.4898586!3e0?hl=en-US"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Drumul spre Ghețarul Scărișoara",
+          "thumbnail": "assets/img/attractions/article/scarisoaraRoad/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/scarisoaraRoad/fullSize/1.jpg"
+        },
+        {
+          "text": "Peștera Scărișoara",
+          "thumbnail": "assets/img/attractions/article/scarisoara/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/scarisoara/fullSize/1.jpg"
+        },
+        {
+          "text": "Ghețarul Scărișoara",
+          "thumbnail": "assets/img/attractions/article/scarisoara/thumbnail/2.jpg",
+          "fullSize": "assets/img/attractions/article/scarisoara/fullSize/2.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "narcise",
+          "subtitle": "<i class='fas fa-spa'></i> Cel mai cel loc al lunii Mai - Poiana cu narcise"
+        },
+        "content": [
+          {
+            "text": "Narcisele înfloresc în Mai într-o poiană din apropierea Roșiei Montane și țin toată primăvara, iar mirosul și priveliștea din de aici e ceva ce nu o să uiți niciodată. Pentru a ajunge acolo se merge o oră cu mașina + o jumătate de oră pe jos (organizăm"
+          },
+          {
+            "link": {
+              "text": "tururi ghidate",
+              "textOnMouseOver": "vezi aici detalii",
+              "link": "ro/experiences/all#guidedTour"
+            }
+          },
+          {
+            "text": " în fiecare weekend din luna Mai spre această poiană, faceți o"
+          },
+          {
+            "link": {
+              "text": "rezervare",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": " cât mai din timp!)"
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "<b>Poiana cu Narcise</b> - Nu culegeți multe narcise, odată rupte se ofilesc destul de rapid și își pierd mirosul ... magia lor are efect doar aici.",
+          "thumbnail": "assets/img/attractions/article/narcise/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/narcise/fullSize/1.jpg"
+        },
+        {
+          "text": "<b>Poiana cu Narcise</b> - Zona este înconjurată de culmi montane și păduri de conifere.",
+          "thumbnail": "assets/img/attractions/article/narcise/thumbnail/2.jpg",
+          "fullSize": "assets/img/attractions/article/narcise/fullSize/2.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "farmer",
+          "subtitle": "<i class='fas fa-horse'></i> Încearcă viața la țară"
+        },
+        "content": [
+          {
+            "text": "Vă punem în contact cu o familie de fermieri din zona nostră unde ve-ți participa la treburile zilnice (cositul ierbii, mulsul și adăpatul vacilor, ridicarea căpițelor, strânsul fânului (ce va fi folosit la iarnă pentru animale). Fermierilor le-ar prinde bine o mână de ajutor iar pentru tine va fi o experiență unică deoarece vei învăța meșteșuguri tradiționale și te vei conecta la natură și la obiceiuri străvechi bine păstrate în Apuseni. Dacă doriți să participați la o astfel de experiență, specificați la efectuarea unei"
+          },
+          {
+            "link": {
+              "text": "rezervări.",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": " De ce e important să păstrăm aceste tradiții? - Chiar Prințul Charles explică în"
+          },
+          {
+            "link": {
+              "text": "acest video.",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.youtube.com/watch?v=aGhHtbF6zKk"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Vei participa la treburile zilnice de la fermă ca și cositul și adunatul fânului.",
+          "thumbnail": "assets/img/attractions/fan-clai-lucru-nene-th.jpg",
+          "fullSize": "assets/img/attractions/fan-clai-lucru-nene.jpg"
+        },
+        {
+          "text": "Te vei împrieteni cu animalele și vei participa la mulsul sau adăpatul vacilor.",
+          "thumbnail": "assets/img/events/hayDays/article/thumbnail/vitel.jpg",
+          "fullSize": "assets/img/events/hayDays/article/fullSize/vitel.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "winter",
+          "subtitle": "<i class='far fa-snowflake'></i> Descoperă satul acoperit cu zăpadă"
+        },
+        "content": [
+          {
+            "text": "Iarna la Roșia Montană scoate la iveală peisaje de poveste cu case vechi acoperite de zăpadă, locuri ideale de dat cu sania, iar ulițele satului devin locuri perfecte pentru a face drumeții ușoare într-o dimineață cu ninsoare."
+          },
+          {
+            "link": {
+              "text": "Vezi aici mai multe imagini și detalii.",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/experiences/winterWalks"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Hai cu sania pe derdelușul de langă casă.",
+          "thumbnail": "assets/img/accommodation/article/outside/thumbnail/sleighing.jpg",
+          "fullSize": "assets/img/accommodation/article/outside/fullSize/sleighing.jpg"
+        },
+        {
+          "text": "Bucură-te de ninsoare de dimineață",
+          "thumbnail": "assets/img/blog/winterWalks/article/thumbnail/ninge.jpg",
+          "fullSize": "assets/img/blog/winterWalks/article/fullSize/ninge.jpg"
+        },
+        {
+          "text": "Pune-ți bocancii și pornește la o plimbare în centrul istoric pe timp de iarnă",
+          "thumbnail": "assets/img/blog/winterWalks/article/thumbnail/berg.jpg",
+          "fullSize": "assets/img/blog/winterWalks/article/fullSize/berg.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "clujRosia",
+          "subtitle": "<i class='fas fa-car'></i> De veniți de la Cluj, porniți de dimineață"
+        },
+        "content": [
+          {
+            "text": "Dacă veniți la Roșia dinspre Cluj, porniți de dimineață, drumul pe albia râului Arieș oferă peisaje de poveste, în special primăvara când înfloresc salcâmii"
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Pe drum",
+          "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/drum2.jpg",
+          "fullSize": "assets/img/blog/clujRosia/article/fullSize/drum2.jpg"
+        },
+        {
+          "text": "Punte Aries",
+          "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/punte2.jpg",
+          "fullSize": "assets/img/blog/clujRosia/article/fullSize/punte2.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "toDo",
+          "title": "<i class='fas fa-child'></i> De făcut"
+        }
+      }
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "guidedTour",
+          "subtitle": "<i class='fas fa-hiking'></i> Hai într-un tur ghidat"
+        },
+        "content": [
+          {
+            "text": "Povestea contează, iar Roșia Montană are un trecut de aur. Modul de funcționare al galeriilor, tăurilor, carierelor și a altor obiective folosite în extracția aurului de 2000 de ani încoace, centrul istoric, zona propusă ca sit UNESCO sau impactul megaproiectului minier propus de firma canadiană și protestele de atunci sunt doar câteva din motivele pentru care vă recomandăm să vizitați Roșia Montana împreună cu un ghid. Dacă doriți să participați la un tur ghidat specificați la efectuarea unei "
+          },
+          {
+            "link": {
+              "text": "rezervări.",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Traseu ghidat centrul istoric Roșia Montană cu un grup din Arad.",
+          "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+          "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+        },
+        {
+          "text": "Traseu ghidat spre obiective naturale și zone protejate Roșia Montană cu un grup din Germania.",
+          "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+          "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+        },
+        {
+          "text": "Traseu ghidat exploatări miniere cu un grup din India.",
+          "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
+          "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "bike",
+          "subtitle": "<i class='fas fa-bicycle'></i> Pedalează pe văile Roșiei Montane"
+        },
+        "content": [
+          {
+            "text": "Ne aflăm într-o zonă cu dealuri, văi și sate apusene legate de drumuri de țară ideale de ciclism montan. Oferim biciclete de munte de închiriat sau trasee ghidate pe bicicletă. Mai jos sunt câteva din traseele pe care le-ai putea face la noi:"
+          },
+          {
+            "link": {
+              "text": "<br><b>- Traseul Tăurilor</b> - 7km - vezi harta, profil și date gps",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.bikemap.net/en/r/4121632"
+            }
+          },
+          {
+            "link": {
+              "text": "<br><b>- Traseul Vârtop</b> - 12km - vezi harta, profil și date gps",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.bikemap.net/en/r/3594806"
+            }
+          },
+          {
+            "link": {
+              "text": "<br><b>- Traseul Detunata</b> - 20km - vezi harta, profil și date gps",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.bikemap.net/en/r/4122612/"
+            }
+          },
+          {
+            "link": {
+              "text": "<br><b>- Traseul Geamăna</b> - 34km - vezi harta, profil și date gps",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.bikemap.net/en/r/3873269"
+            }
+          },
+          {
+            "link": {
+              "text": "<br><b>- Traseul Negrileasa</b> - 39km - vezi harta, profil și date gps",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.bikemap.net/en/r/3873321"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Spre Vârtop cu bicicleta.",
+          "thumbnail": "assets/img/attractions/article/rotunduPeak/thumbnail/9.jpg",
+          "fullSize": "assets/img/attractions/article/rotunduPeak/fullSize/9.jpg"
+        },
+        {
+          "text": "Spre Geamăna cu bicicleta.",
+          "thumbnail": "assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
+          "fullSize": "assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
+        },
+        {
+          "text": "Oferim biciclete de închiriat și trasee ghidate pe bicicletă cu asistență mecanică pe traseu.",
+          "thumbnail": "assets/img/accommodation/article/outside/thumbnail/bikes.jpg",
+          "fullSize": "assets/img/accommodation/article/outside/fullSize/bikes.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "berry",
+          "subtitle": "<i class='fas fa-concierge-bell'></i> O plimbare delicioasă"
+        },
+        "content": [
+          {
+            "text": "În funcție de sezon, zona noastră oferă diverse bunătăți direct de la sursă. De veniți în luna Mai sau Iunie o să găsiți <b>fragi și muguri de brad</b> iar în luna Iulie sau August <b>zmeură, afine, mure și merișoare</b>. Înarmați-vă cu răbdare și haideți la cules de fructe de pădure, la sosire o să vă dăm toate detaliile necesare."
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Fă o pauză de la drumeție în Poiana cu Zmeură.",
+          "thumbnail": "assets/img/attractions/article/vartop/thumbnail/12.jpg",
+          "fullSize": "assets/img/attractions/article/vartop/fullSize/12.jpg"
+        },
+        {
+          "text": "Hai la cules de mure, excelente pentru dulceață.",
+          "thumbnail": "assets/img/attractions/article/vartop/thumbnail/18.jpg",
+          "fullSize": "assets/img/attractions/article/vartop/fullSize/18.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "archery",
+          "subtitle": "<i class='fas fa-angle-right'></i> Hai la un curs de Tir cu arcul"
+        },
+        "content": [
+          {
+            "text": "În Roșia Montană își desfășoară activitatea un club montan specializat în tir cu arcul ce oferă cursuri de inițiere sau perfecționare pentru adulți și copii. Dacă doriți să participați la cursuri de tir cu arcul specificați la efectuarea unei "
+          },
+          {
+            "link": {
+              "text": "rezervări.",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Cursuri de tir cu arcul Rosia Montana.",
+          "thumbnail": "assets/img/accommodation/article/archery/thumbnail/tir-cu-arcul-archery-rosia-montana3.jpg",
+          "fullSize": "assets/img/accommodation/article/archery/fullSize/tir-cu-arcul-archery-rosia-montana3.jpg"
+        },
+        {
+          "text": "Cursuri de tir cu arcul Rosia Montana.",
+          "thumbnail": "assets/img/accommodation/article/archery/thumbnail/tir-cu-arcul-archery-rosia-montana2.jpg",
+          "fullSize": "assets/img/accommodation/article/archery/fullSize/tir-cu-arcul-archery-rosia-montana2.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "steamTrain",
+          "subtitle": "<i class='fas fa-train'></i> Cu mocănița prin Apuseni"
+        },
+        "content": [
+          {
+            "text": "<b>Mocănița cu aburi</b> funcționează în scop turistic de la Crișcior la Brad, cam la 45 de minute de mers cu mașina de noi. Un tur cu mocănița durează cam 2 ore."
+          },
+          {
+            "link": {
+              "text": "Vezi aici cum ajungi",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Ro%C8%99ia+Montan%C4%83/Cri%C8%99cior/@46.2155288,22.8577319,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474edce95166256f:0x243ce1f1a0f481fb!2m2!1d22.866127!2d46.1234715!3e0"
+            }
+          },
+          {
+            "text": " și "
+          },
+          {
+            "link": {
+              "text": "aici programul mocăniței și date de contact",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.cfi.ro/index.php?p=1_15"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Cu mocănița prin Apuseni",
+          "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/1.jpg",
+          "fullSize": "assets/img/attractions/article/steamTrain/fullSize/1.jpg"
+        },
+        {
+          "text": "Cu mocănița prin Apuseni",
+          "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/2.jpg",
+          "fullSize": "assets/img/attractions/article/steamTrain/fullSize/2.jpg"
+        }
+      ]
+    }
+  ]
+}

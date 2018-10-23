@@ -1,0 +1,19 @@
+<ng-container *ngIf="isArray(content)">
+  <span *ngFor="let item of content" [ngClass]=classCollection>
+    <ng-container *ngTemplateOutlet="link; context:{content: item, cssClass:cssClass}"></ng-container>
+  </span>
+</ng-container>
+
+<ng-container *ngIf="!isArray(content)">
+    <ng-container *ngTemplateOutlet="link; context:{content: content, cssClass:cssClass}"></ng-container>
+</ng-container>
+
+<ng-template #link let-content="content" let-cssClass="cssClass">
+  <span *ngIf="cssClass === 'lookLikeLink'">&nbsp;</span>
+  <a data-toggle="collapse" data-target=".navbar-collapse.show"
+     (click)="buildLinkAndGo(content?.link)"
+     title="{{content?.textOnMouseOver}}"
+     [ngClass]=cssClass
+     [style.backgroundColor]="content?.backgroundColor"
+     [innerHTML]="content?.text | trustHtml"></a>
+</ng-template>
