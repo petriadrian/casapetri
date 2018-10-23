@@ -223,6 +223,15 @@
           }
         },
         {
+          "title": "Casele cu paie",
+          "text": "Descoperă casele și șurile acoperite cu paie specifice zonei noastre sau bisericiile mici de lemn. Un tur al acestora este asemeni unei călătorii în timp.",
+          "img": "assets/img/attractions/mogos-sura-casa-paie-gemenele-th.jpg",
+          "url": {
+            "link": "ro/experiences/all#hayhouse",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        },
+        {
           "title": "Hai la poiana cu narcise",
           "text": "În weekendurile din luna Mai organizam drumeții spre un loc magic din Apuseni cu peisaje de poveste și miros de neiuitat: 'Poiana cu Narcise'",
           "img": "assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
