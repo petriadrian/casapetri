@@ -574,6 +574,33 @@
     {
       "article": {
         "heading": {
+          "id": "vulcan",
+          "subtitle": "<i class='fas fa-mountain'></i> Drumeție spre masivul Vulcan"
+        },
+        "content": [
+          {
+            "text": "Masivul Vulcan este într-adevăr un fost vulcan stins acum 2 milioane de ani. Impresionantă este forma lui convexă pe care o poți observa dacă ajungi pe vârful acestuia. Spre acest masiv se poate ajunge cu bicicleta (3h) sau cu mașina (45min) urmat de o drumeție de 1h."
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Spre masivul Vulcan.",
+          "thumbnail": "assets/img/attractions/vulcan-gard-toamna-th.jpg",
+          "fullSize": "assets/img/attractions/vulcan-gard-toamna.jpg"
+        },
+        {
+          "text": "Masivul Vulcan.",
+          "thumbnail": "assets/img/attractions/vulcan-flori-mov-toamna-th.jpg",
+          "fullSize": "assets/img/attractions/vulcan-flori-mov-toamna.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
           "id": "farmer",
           "subtitle": "<i class='fas fa-horse'></i> Încearcă viața la țară"
         },

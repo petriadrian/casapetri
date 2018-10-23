@@ -574,6 +574,33 @@
     {
       "article": {
         "heading": {
+          "id": "vulcan",
+          "subtitle": "<i class='fas fa-mountain'></i> Hiking to Vulcan massif"
+        },
+        "content": [
+          {
+            "text": "The Vulcan massif is a former volcano that erupted 2 millions years ago. The most interesting fact it's is convex shape that can be observed oance you are on the top of it. You can get here by bike (3h) or by car (45min) followed by a 1h hike."
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "To Vulcan Massif.",
+          "thumbnail": "assets/img/attractions/vulcan-gard-toamna-th.jpg",
+          "fullSize": "assets/img/attractions/vulcan-gard-toamna.jpg"
+        },
+        {
+          "text": "Vulcan Massif.",
+          "thumbnail": "assets/img/attractions/vulcan-flori-mov-toamna-th.jpg",
+          "fullSize": "assets/img/attractions/vulcan-flori-mov-toamna.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
           "id": "farmer",
           "subtitle": "<i class='fas fa-horse'></i> Live as a local farmer"
         },
