@@ -220,11 +220,11 @@
       "article": {
         "heading": {
           "id": "hayhouse",
-          "subtitle": "<i class='fas fa-home'></i> 'Open air museum'. Hay houses"
+          "subtitle": "<i class='fas fa-home'></i> Discover an 'Open air museum'. Hay houses"
         },
         "content": [
           {
-            "text": "Unfortunately most of the villages from our area were abandoned because the youngsters moved to the cities, but the good thing is that some of the household were preserved exactly as they were a few decades or even hundreds of years ago. A tour of the houses and the stables covered with hay and of the small wooden churches specific to our area is like a journey back in time. On request we also organize"
+            "text": "A walking tour among the villages around our area is like a journey back in time. A part of the household, houses, stables, churches remained preserved exactly as they were a few tens or even hundreds of years ago, covered with hay or wood. On request we also organize"
           },
           {
             "link": {
@@ -324,7 +324,7 @@
       "article": {
         "heading": {
           "id": "saveRosiaMontana",
-          "subtitle": "<i class='fas fa-flag'></i> Where and why started 'The Save Rosia Montana' campaign"
+          "subtitle": "<i class='fas fa-flag'></i> See where and how started 'Save Rosia Montana' campaign"
         },
         "content": [
           {
@@ -346,14 +346,19 @@
     {
       "images": [
         {
-          "text": " Eugene’s farm - the place where multiple actions towards saving Rosia Montana have been initiated. Sculptures are made by a Paris NGO - find out more about their story on the site",
+          "text": "Find out why were made these sculptures by a NGO from Paris at a farm.",
           "thumbnail": "assets/img/attractions/article/sculpture/thumbnail/1.jpg",
           "fullSize": "assets/img/attractions/article/sculpture/fullSize/1.jpg"
         },
         {
-          "text": "Țarină - the place where the environment and activism festival took place - FânFest",
+          "text": "See the places where environment and activism festivals took place.",
           "thumbnail": "assets/img/attractions/article/fanfest/thumbnail/fanfest.jpg",
           "fullSize": "assets/img/attractions/article/fanfest/fullSize/fanfest.jpg"
+        },
+        {
+          "text": "See on the spot what was the canadians plan and how are looking the impacted areas.",
+          "thumbnail": "assets/img/attractions/rmgc-plan-new-open-pit-th.jpg",
+          "fullSize": "assets/img/attractions/rmgc-plan-new-open-pit.jpg"
         }
       ]
     },
@@ -707,7 +712,7 @@
         },
         "content": [
           {
-            "text": "The local stories really matters and Rosia Montana has a golden past. How the gold mining worked through galleries, watter mills, pounds and open pits, the past of the patrimony buildings from the historic center, the proposed UNESCO area or the impact of the mega mining project proposed here by the canadian company and the massive protests against it are just a few reasons why we recommend to visit Roșia Montana with a guide. If you are interested in participating to a guided tour in our area please specify while making a"
+            "text": "The local stories matters and Rosia Montana has a golden past. How the gold mining worked through galleries, watter mills, pounds and open pits, the past of the patrimony buildings from the historic center, the proposed UNESCO area or the impact of the canadian mining project proposed here and the massive protests against it are just a few reasons why we recommend to visit Roșia Montana with a guide. If you are interested in participating to a guided tour in our area please specify while making a"
           },
           {
             "link": {

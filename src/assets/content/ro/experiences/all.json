@@ -151,7 +151,7 @@
           "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
         },
         {
-          "text": "Vezi utilaje pentru prelucrarea aurului - Muzeul Roșia Montană",
+          "text": "Vezi utilajele folosite la prelucrarea aurului - Muzeul Roșia Montană",
           "thumbnail": "assets/img/attractions/muzeu-minerit-steampuri-vagon-th.jpg",
           "fullSize": "assets/img/attractions/muzeu-minerit-steampuri-vagon.jpg"
         },
@@ -220,11 +220,11 @@
       "article": {
         "heading": {
           "id": "hayhouse",
-          "subtitle": "<i class='fas fa-home'></i> 'Muzeu în aer liber'. Casele cu paie"
+          "subtitle": "<i class='fas fa-home'></i> Descoperă un 'Muzeu în aer liber'. Casele cu paie"
         },
         "content": [
           {
-            "text": "Din păcate multe din satele din jurul zonei noastre sunt părăsite datorită mutării tinerilor la oraș dar partea bună este că unele gospodării au rămas conservate exact așa cum erau acum câteva zeci sau chiar sute de ani. O plimbare spre casele și șurile acoperite cu paie sau bisericiile mici de lemn specifice zonei noastre este asemeni unei călătorii în timp. La cerere organizăm "
+            "text": "O plimbare spre satele din apropierea zonei noastre este asemeni unei călătorii în timp. O parte din gospodării, case, șuri, biserici au rămas conservate exact așa cum erau acum câteva zeci sau chiar sute de ani, acoperite cu paie sau șindrilă de lemn. La cerere organizăm "
           },
           {
             "link": {
@@ -234,7 +234,7 @@
             }
           },
           {
-            "text": " spre aceste locuri. Recomandăm să facem turul acestora pe bicicletă dar se poate și cu mașina urmate de mici drumeții."
+            "text": " spre aceste locuri. Recomandăm turul acestora pe bicicletă dar se poate și cu mașina urmat de mici drumeții."
           }
         ]
       }
@@ -271,7 +271,7 @@
         },
         "content": [
           {
-            "text": "Descopră megaproiectele miniere comuniste: exploatări și lacuri de decantare imense, utilaje și clădiri industriale, vezi efectele acestora și prețul plătit pentru obținerea metalelor prețioase la scară industrială. În zonă se află exploatarea <b>Roșia Poieni</b> (cea mai extinsă exploatare de suprafață din Europa), iazul de deșeuri miniere <b>Geamăna</b> (ce a scufundat 2 sate) și eploatarea de suprafață <b>Cetate</b>. Organizăm "
+            "text": "Descopră megaproiectele perioadei comuniste: exploatări miniere și lacuri de decantare imense, utilaje și clădiri industriale, vezi efectele acestora și prețul plătit pentru obținerea metalelor prețioase la scară industrială. În zonă se află exploatarea <b>Roșia Poieni</b> (cea mai extinsă exploatare de suprafață din Europa), iazul de deșeuri miniere <b>Geamăna</b> (ce a scufundat 2 sate) și eploatarea de suprafață <b>Cetate</b>. Organizăm"
           },
           {
             "link": {
@@ -281,7 +281,7 @@
             }
           },
           {
-            "text": " spre aceste obiecteve, dar trebuie făcută o "
+            "text": " spre aceste obiecteve, dar trebuie făcută o"
           },
           {
             "link": {
@@ -324,7 +324,7 @@
       "article": {
         "heading": {
           "id": "saveRosiaMontana",
-          "subtitle": "<i class='fas fa-flag'></i> Unde și cum a apărut campania 'Salvați Roșia Montană'"
+          "subtitle": "<i class='fas fa-flag'></i> Vezi unde și cum a apărut campania 'Salvați Roșia Montană'"
         },
         "content": [
           {
@@ -346,14 +346,19 @@
     {
       "images": [
         {
-          "text": "Ferma lui David Eugen - aici au început multe acțiuni pentru salvarea Roșiei Montane. Un ONG din Paris a realizat sculpturile - aflați acolo povestea lor.",
+          "text": "Află de ce a realizat un ONG din Paris sculpturi monumentale pe locul unei ferme.",
           "thumbnail": "assets/img/attractions/article/sculpture/thumbnail/1.jpg",
           "fullSize": "assets/img/attractions/article/sculpture/fullSize/1.jpg"
         },
         {
-          "text": "Reduta de pe Țarină - locul unde anual se organiza festivalul de mediu și activism FânFest",
+          "text": "Vezi locurile unde se organizau festivale de mediu și activism.",
           "thumbnail": "assets/img/attractions/article/fanfest/thumbnail/fanfest.jpg",
           "fullSize": "assets/img/attractions/article/fanfest/fullSize/fanfest.jpg"
+        },
+        {
+          "text": "Vezi la fața locului care era planul canadienilor și cum arată locurile ce urmau să fie impactate.",
+          "thumbnail": "assets/img/attractions/rmgc-plan-new-open-pit-th.jpg",
+          "fullSize": "assets/img/attractions/rmgc-plan-new-open-pit.jpg"
         }
       ]
     },
@@ -734,14 +739,17 @@
         },
         "content": [
           {
-            "text": "Povestea contează, iar Roșia Montană are un trecut de aur. Modul de funcționare al galeriilor, tăurilor, carierelor și a altor obiective folosite în extracția aurului de 2000 de ani încoace, centrul istoric, zona propusă ca sit UNESCO sau impactul megaproiectului minier propus de firma canadiană și protestele de atunci sunt doar câteva din motivele pentru care vă recomandăm să vizitați Roșia Montana împreună cu un ghid. Dacă doriți să participați la un tur ghidat specificați la efectuarea unei "
+            "text": "Povestea contează, iar Roșia Montană are un trecut de aur. Modul de funcționare al galeriilor, tăurilor, carierelor și a altor obiective folosite în extracția aurului, centrul istoric, zona propusă ca sit UNESCO sau impactul megaproiectului canadian și protestele de atunci sunt doar câteva din motivele pentru care vă recomandăm să vizitați Roșia Montana împreună cu un ghid. Specificați la efectuarea unei"
           },
           {
             "link": {
-              "text": "rezervări.",
+              "text": "rezervări",
               "textOnMouseOver": "Click aici...",
               "link": "ro/accommodation#bookings"
             }
+          },
+          {
+          "text": " că doriți să participați la tururi ghidate."
           }
         ]
       }
