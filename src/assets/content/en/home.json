@@ -160,7 +160,7 @@
       "article": {
         "heading": {
           "id": "guidedTour",
-          "title": "<i class='fas fa-hiking'></i> Come in a tour of our area"
+          "title": "<i class='fas fa-hiking'></i> Hop on a tour of our area"
         }
       }
     },
@@ -280,16 +280,16 @@
           }
         },
         {
-          "title": "Hay houses",
-          "text": "Discover the houses and the stables covered with hay specific to our area or the small wooden churches. A tour of these objectives is like a journey back in time.",
+          "title": "Hay covered houses",
+          "text": "A tour of the houses and stables covered with hay and of the small wooden churches specific to our area is like a journey back in time.",
           "img": "assets/img/attractions/mogos-sura-casa-paie-gemenele-th.jpg",
           "url": {
-            "link": "ro/experiences/all#hayhouse",
+            "link": "en/experiences/all#hayhouse",
             "textOnMouseOver": "Vezi mai mult..."
           }
         },
         {
-          "title": "Communisms Period",
+          "title": "Communism Period",
           "text": "Discover the megaprojects of the communism period, open pits and wasting lakes. Geamăna. Roșia Poieni. Cetate.",
           "img": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
           "url": {

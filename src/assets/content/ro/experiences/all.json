@@ -152,8 +152,8 @@
         },
         {
           "text": "Vezi utilaje pentru prelucrarea aurului - Muzeul Roșia Montană",
-          "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/2.jpg",
-          "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/2.jpg"
+          "thumbnail": "assets/img/attractions/muzeu-minerit-steampuri-vagon-th.jpg",
+          "fullSize": "assets/img/attractions/muzeu-minerit-steampuri-vagon.jpg"
         },
         {
           "text": "Vezi filoane native de aur - Muzeul Aurului Brad",
@@ -219,7 +219,7 @@
     {
       "article": {
         "heading": {
-          "id": "hayHouses",
+          "id": "hayhouse",
           "subtitle": "<i class='fas fa-home'></i> 'Muzeu în aer liber'. Casele cu paie"
         },
         "content": [
@@ -302,6 +302,11 @@
           "text": "Mândria perioadei comuniste - <b>Cariera de Cupru Roșia Poieni</b>.",
           "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/1.jpg",
           "fullSize": "assets/img/attractions/article/copperPit/fullSize/1.jpg"
+        },
+        {
+          "text": "Cladiri industriala de procesare.",
+          "thumbnail": "assets/img/attractions/rosia-poieni-concasor-instalatii-industriale-th.jpg",
+          "fullSize": "assets/img/attractions/rosia-poieni-concasor-instalatii-industriale.jpg"
         },
         {
           "text": "Turla bisericii din fostul sat <b>Geamăna</b>, acoperit acum de iazul de decantare.",
@@ -639,6 +644,11 @@
           "text": "Te vei împrieteni cu animalele și vei participa la mulsul sau adăpatul vacilor.",
           "thumbnail": "assets/img/events/hayDays/article/thumbnail/vitel.jpg",
           "fullSize": "assets/img/events/hayDays/article/fullSize/vitel.jpg"
+        },
+        {
+          "text": "Te vei împrieteni cu animalele și vei participa la mulsul sau adăpatul vacilor.",
+          "thumbnail": "assets/img/attractions/vaci-pasc-tara-peisaj-th.jpg",
+          "fullSize": "assets/img/attractions/vaci-pasc-tara-peisaj.jpg"
         }
       ]
     },
