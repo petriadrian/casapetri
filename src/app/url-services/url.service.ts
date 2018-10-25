@@ -28,7 +28,7 @@ export class UrlService {
     }
     if (link.startsWith('http')) {
       window.open(link, '_blank');
-    } else if (link.startsWith('tel:')) {
+    } else if (link.startsWith('tel:') || link.startsWith('mailto:')) {
       window.open(link, '_self');
     } else {
       if (link.indexOf('#') === -1) {
