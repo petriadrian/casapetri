@@ -50,7 +50,7 @@
         },
         "content": [
           {
-            "text": "Acesta era fostul sediu de bancă (locul unde minerii schimbau aurul în bani și dinamită) motiv pentru care pereții de piatră au un metru grosime. Aici sunt 2 paturi etajate unde încap 4 pers și la cerere se mai pot adăuga 2 paturi extra, astfel încap <i class='fa fa-male'></i> max 6 pers + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi"
+            "text": "Acesta era fostul sediu de bancă (locul unde minerii schimbau aurul în bani și dinamită) motiv pentru care pereții de piatră au un metru grosime. Aici sunt 2 paturi etajate unde încap <i class='fa fa-male'></i> 4 pers + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire pe teracotă cu lemne"
           }
         ]
       }
@@ -87,7 +87,7 @@
         },
         "content": [
           {
-            "text": "Casuța era vechea bucătărie de vară a bunicilor, e ca un mic apartament cu o bucătărie bine dotată. Aici sunt 2 paturi simple ce se pot transforma într-un pat dublu și la cerere se poate adăuga un pat extra, astfel încap <i class='fa fa-male'></i> max 3 pers + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> bucătărie + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi"
+            "text": "Casuța era vechea bucătărie de vară a bunicilor transformată într-un un mic apartament pentru <i class='fa fa-male'></i> 2 persoane (twin sau dublu) + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> bucătărie bine dotată + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire pe teracotă cu lemne"
           }
         ]
       }
@@ -119,7 +119,7 @@
         },
         "content": [
           {
-            "text": "Târnațul are <b>2 camere</b> cu caracteristici tradiționale foarte bine păstrate: accesul prin târnaț (un hol exterior cu scări și ferestre mici), zugraveala veche de aproape 100 de ani și câteva mici expoziții. Fiecare cameră are un pat dublu și se mai poate adăuga la cerere un pat extra/cameră, astfel încap <i class='fa fa-male'></i> max 6 pers + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi"
+            "text": "Târnațul are <b>2 camere</b> cu caracteristici tradiționale foarte bine păstrate: accesul prin târnaț (un hol exterior cu scări și ferestre mici), zugraveala veche de aproape 100 de ani și câteva mici expoziții. Aici încap <i class='fa fa-male'></i> 5 persoane (Camera 1 are un pat dublu. Camera 2 are un pat dublu și unul simplu) + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi  + <i class='fas fa-fire'></i> încălzire pe teracotă cu lemne"
           }
         ]
       }
@@ -242,7 +242,7 @@
             "checkBoxes": [
               {
                 "id": "booksHouse",
-                "text": " <i class='fas fa-book'></i> <b>Casa Cărților - 4</b> <i class='fas fa-male'></i> - 180lei/noapte",
+                "text": " <i class='fas fa-book'></i> <b>Casa Cărților - 4</b> <i class='fas fa-male'></i> - 280lei/noapte",
                 "link": {
                   "text": "<i class='fas fa-info-circle'></i>",
                   "textOnMouseOver": "vezi detalii și imagini",
@@ -251,7 +251,7 @@
               },
               {
                 "id": "littleHouse",
-                "text": " <i class='fas fa-home'></i> <b>Căsuța - 2</b> <i class='fas fa-male'></i> - 130lei/noapte",
+                "text": " <i class='fas fa-home'></i> <b>Căsuța - 2</b> <i class='fas fa-male'></i> - 180lei/noapte",
                 "link": {
                   "text": "<i class='fas fa-info-circle'></i>",
                   "textOnMouseOver": "vezi detalii și imagini",
@@ -260,7 +260,7 @@
               },
               {
                 "id": "tarnatHouse1",
-                "text": " <i class='fas fa-vihara'></i> <b>Camera 1 din târnaț - 2</b> <i class='fas fa-male'></i> - 110lei/noapte",
+                "text": " <i class='fas fa-vihara'></i> <b>Camera 1 din târnaț - 2</b> <i class='fas fa-male'></i> - 150lei/noapte",
                 "link": {
                   "text": "<i class='fas fa-info-circle'></i>",
                   "textOnMouseOver": "vezi detalii și imagini",
@@ -269,16 +269,12 @@
               },
               {
                 "id": "tarnatHouse2",
-                "text": " <i class='fas fa-vihara'></i> <b>Camera 2 din târnaț - 2</b> <i class='fas fa-male'></i> - 110lei/noapte",
+                "text": " <i class='fas fa-vihara'></i> <b>Camera 2 din târnaț - 3</b> <i class='fas fa-male'></i> - 160lei/noapte",
                 "link": {
                   "text": "<i class='fas fa-info-circle'></i>",
                   "textOnMouseOver": "vezi detalii și imagini",
                   "link": "ro/accommodation#tarnatHouse"
                 }
-              },
-              {
-                "id": "extraBed",
-                "text": " <i class='fa fa-fw fa-bed'></i> <b>Pat extra</b> (+30lei/pat) (în ce cameră? - scrie în căsuța 'Alte detalii')"
               },
               {
                 "id": "guidedTour",
