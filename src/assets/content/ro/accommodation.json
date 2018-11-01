@@ -242,7 +242,7 @@
             "checkBoxes": [
               {
                 "id": "booksHouse",
-                "text": " <i class='fas fa-book'></i> <b>Casa Cărților - 4</b> <i class='fas fa-male'></i> - 280lei/noapte",
+                "text": " <i class='fas fa-book'></i> <b>Casa Cărților - 4</b> <i class='fas fa-male'></i> - 250lei/noapte",
                 "link": {
                   "text": "<i class='fas fa-info-circle'></i>",
                   "textOnMouseOver": "vezi detalii și imagini",
@@ -251,7 +251,7 @@
               },
               {
                 "id": "littleHouse",
-                "text": " <i class='fas fa-home'></i> <b>Căsuța - 2</b> <i class='fas fa-male'></i> - 180lei/noapte",
+                "text": " <i class='fas fa-home'></i> <b>Căsuța - 2</b> <i class='fas fa-male'></i> - 150lei/noapte",
                 "link": {
                   "text": "<i class='fas fa-info-circle'></i>",
                   "textOnMouseOver": "vezi detalii și imagini",
@@ -260,7 +260,7 @@
               },
               {
                 "id": "tarnatHouse1",
-                "text": " <i class='fas fa-vihara'></i> <b>Camera 1 din târnaț - 2</b> <i class='fas fa-male'></i> - 150lei/noapte",
+                "text": " <i class='fas fa-vihara'></i> <b>Camera 1 din târnaț - 2</b> <i class='fas fa-male'></i> - 140lei/noapte",
                 "link": {
                   "text": "<i class='fas fa-info-circle'></i>",
                   "textOnMouseOver": "vezi detalii și imagini",
@@ -269,7 +269,7 @@
               },
               {
                 "id": "tarnatHouse2",
-                "text": " <i class='fas fa-vihara'></i> <b>Camera 2 din târnaț - 3</b> <i class='fas fa-male'></i> - 160lei/noapte",
+                "text": " <i class='fas fa-vihara'></i> <b>Camera 2 din târnaț - 3</b> <i class='fas fa-male'></i> - 150lei/noapte",
                 "link": {
                   "text": "<i class='fas fa-info-circle'></i>",
                   "textOnMouseOver": "vezi detalii și imagini",
