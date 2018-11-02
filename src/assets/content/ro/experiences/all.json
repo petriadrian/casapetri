@@ -41,7 +41,7 @@
       "article": {
         "heading": {
           "id": "historicCenter",
-          "subtitle": "<i class='fas fa-home'></i> Pornește la o plimbare în centrul istoric"
+          "subtitle": "<i class='fas fa-blind'></i> Pornește la o plimbare în centrul istoric"
         },
         "content": [
           {
@@ -99,46 +99,37 @@
         },
         "content": [
           {
-            "text": "Vizitează Muzeele din zonă unde poți vedea evoluția tehnicilor de scoatere și prelucrare a metalelor prețioase, unelte și instalații folosite în industria minieră, filoane de aur nativ și galerii miniere."
+            "text": "Vizitează Muzeele din zonă, vezi evoluția tehnicilor de scoatere și prelucrare a metalelor prețioase, unelte și instalații folosite în industria minieră, filoane de aur nativ și galerii miniere."
           },
           {
-            "text": "<br>- la <b>Muzeul Mineritului Roșia Montană</b>"
+            "text": "<br>- la <b>Muzeul Mineritului Roșia Montană</b> vei intra în interiorul galeriilor romane reazilizate acum 2000 de ani și o să vezi utilajele minerești"
           },
           {
             "link": {
-              "text": "(hartă)",
+              "text": "<i class='fas fa-map-marker-alt'></i> 15min pe jos - harta",
               "textOnMouseOver": "Vezi aici cum ajungi",
               "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Muzeul+Mineritului+Galeriile+Romane,+Ro%C8%99ia+Montan%C4%83/@46.3047767,23.1181138,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474ecd1ba8291199:0x3f86ed8bb68ce1d3!2m2!1d23.1147891!2d46.3046869!3e0?hl=ro"
             }
           },
           {
-            "text": " vei putea intra în interiorul unei galerii romane reazilizate acum 2000 de ani și să vezi cum funcțonau utilajele minerești."
-          },
-          {
-            "text": "<br>- la <b>Muzeul Aurului Brad</b> "
+            "text": "<br>- la <b>Muzeul Aurului Brad</b> vei vedea filone de aur nativ neprelucrate și expoziții de minerale</b>"
           },
           {
             "link": {
-              "text": "(hartă)",
+              "text": "<i class='fas fa-map-marker-alt'></i> 1h cu mașina - harta",
               "textOnMouseOver": "Vezi aici cum ajungi",
               "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Muzeul+Aurului,+Strada+Independen%C8%9Bei,+Brad/@46.2134462,22.8208341,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474edc27fe255555:0x38ae2fbee961bb90!2m2!1d22.7909237!2d46.1290106!3e0?hl=ro"
             }
           },
           {
-            "text": " vei vedea cum arată un filon de aur nativ neprelucrat și expoziții de minerale.</b>"
-          },
-          {
-            "text": "<br>- la <b>Muzeul Buciumanilor</b> "
+            "text": "<br>- la <b>Muzeul Buciumanilor</b> vei vedea o instalație veche de prelucrare a aurului complet funcțională, un muzeu al satului și expoziții de minerale"
           },
           {
             "link": {
-              "text": "(hartă)",
+              "text": "<i class='fas fa-map-marker-alt'></i> 30min cu mașina - harta",
               "textOnMouseOver": "vezi aici cum ajungi",
               "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Muzeul+Buciumanilor,+Poieni/@46.2755131,23.0918287,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474ecb60f701d409:0xfec892598003f6c4!2m2!1d23.1987534!2d46.2520053!3e0?hl=ro"
             }
-          },
-          {
-            "text": " vei vedea o instalație de prelucrare a aurului din perioada habsburgică complet funcțională, un mic muzeu al satului și expoziții de minerale."
           }
         ]
       }
@@ -267,7 +258,7 @@
       "article": {
         "heading": {
           "id": "communism",
-          "subtitle": "<i class='fas fa-city'></i> Descoperă exploatările perioadei comuniste"
+          "subtitle": "<i class='fas fa-city'></i> Descoperă exploatările comuniste"
         },
         "content": [
           {
@@ -403,7 +394,7 @@
       "article": {
         "heading": {
           "id": "lake",
-          "subtitle": "<i class='fas fa-leaf'></i> Tăurile, locuri de liniște și relaxare"
+          "subtitle": "<i class='far fa-comment'></i> Tăurile, locuri de liniște și relaxare"
         },
         "content": [
           {
@@ -492,45 +483,6 @@
           "text": "Detunata - marea de bazalt (vederea din vârf).",
           "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata-pietre-jos-brazi.jpg",
           "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata-pietre-jos-brazi.jpg"
-        }
-      ]
-    },
-    {
-      "article": {
-        "heading": {
-          "id": "scarisoara",
-          "subtitle": "<i class='fab fa-modx'></i> În apropiere e Ghețarul Scărișoara"
-        },
-        "content": [
-          {
-            "text": "Pestera din inima Apusenilor gazduieste cel mai mare ghețar subteran din lume și este prima peșteră din Romania declarata monument al naturii (1938). Pentru a-l vizita se merge 1h cu mașina"
-          },
-          {
-            "link": {
-              "text": "(harta).",
-              "textOnMouseOver": "Click aici...",
-              "link": "https://www.google.com/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/Glacier+Cave+Scarisoara,+Romania/@46.3962379,22.8293194,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x4748d16f214d425f:0x3c356cdce6edf2d6!2m2!1d22.8107369!2d46.4898586!3e0?hl=en-US"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "images": [
-        {
-          "text": "Drumul spre Ghețarul Scărișoara",
-          "thumbnail": "assets/img/attractions/article/scarisoaraRoad/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/scarisoaraRoad/fullSize/1.jpg"
-        },
-        {
-          "text": "Peștera Scărișoara",
-          "thumbnail": "assets/img/attractions/article/scarisoara/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/scarisoara/fullSize/1.jpg"
-        },
-        {
-          "text": "Ghețarul Scărișoara",
-          "thumbnail": "assets/img/attractions/article/scarisoara/thumbnail/2.jpg",
-          "fullSize": "assets/img/attractions/article/scarisoara/fullSize/2.jpg"
         }
       ]
     },
@@ -660,12 +612,125 @@
     {
       "article": {
         "heading": {
-          "id": "winter",
-          "subtitle": "<i class='far fa-snowflake'></i> Descoperă satul acoperit cu zăpadă"
+          "id": "apuseni",
+          "subtitle": "<i class='far fa-star'></i> Descoperă minunățiile Apusenilor"
         },
         "content": [
           {
-            "text": "Iarna la Roșia Montană scoate la iveală peisaje de poveste cu case vechi acoperite de zăpadă, locuri ideale de dat cu sania, iar ulițele satului devin locuri perfecte pentru a face drumeții ușoare într-o dimineață cu ninsoare."
+            "text": "<b>Ghețarul Scărișoara</b> - cel mai mare ghețar subteran din lume aflat în inima Apusenilor și primul monument al naturii din România"
+          },
+          {
+            "link": {
+              "text": "<i class='fas fa-map-marker-alt'></i> 1h cu mașina - harta",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.google.com/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/Glacier+Cave+Scarisoara,+Romania/@46.3962379,22.8293194,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x4748d16f214d425f:0x3c356cdce6edf2d6!2m2!1d22.8107369!2d46.4898586!3e0?hl=ro"
+            }
+          },
+          {
+            "text": "<br><b>Cascada Pișoaia</b> și <b>Dealul cu Melci</b> - descoperă rezervaţiile peisagistice din zona Vidra, Apuseni"
+          },
+          {
+            "link": {
+              "text": "<i class='fas fa-map-marker-alt'></i> 45min cu mașina - harta",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Dealul+cu+Melci,+DJ762,+Lunca+Bisericii/Cascada+Pi%C5%9Foaia,+DJ762,+Neme%C8%99i/@46.3408919,22.9331367,12z/data=!3m1!4b1!4m20!4m19!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474ed55ebf757697:0x3f50569becd03b53!2m2!1d22.8757845!2d46.3661696!1m5!1m1!1s0x474ed56781a8eb2b:0xda0df61035261491!2m2!1d22.8774828!2d46.3613567!3e0?hl=ro"
+            }
+          },
+          {
+            "text": "<br>Pornește pe valea <b>Râului Arieș</b> spre vechea <b>Mănăstire Lupșa</b> și peștera uriașilor din timpuri străvechi <b>Huda lui Papară</b>"
+          },
+          {
+            "link": {
+              "text": "<i class='fas fa-map-marker-alt'></i> 1h cu mașina - harta",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Biserica+de+lemn+a+M%C4%83n%C4%83stirii+Lup%C8%99a,+M%C4%83n%C4%83stire/Huda+lui+Papar%C4%83,+DC130,+Sub+Piatr%C4%83/@46.3712909,23.1798602,11.22z/data=!4m20!4m19!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x47493248cd8377eb:0xf362b2eb49735abc!2m2!1d23.1735361!2d46.3750216!1m5!1m1!1s0x474948e3b4765f87:0x6595be78560a94a0!2m2!1d23.4611586!2d46.3814033!3e0?hl=ro"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Descoperă drumurile pitoresti din Apuseni cu mașina sau bicicleta.",
+          "thumbnail": "assets/img/attractions/apuseni-drumuri-scarisoara-roads-th.jpg",
+          "fullSize": "assets/img/attractions/apuseni-drumuri-scarisoara-roads.jpg"
+        },
+        {
+          "text": "Vezi cel mai mare ghețar subteran din Europa - <b>Peștera Scărișoara</b>.",
+          "thumbnail": "assets/img/attractions/apuseni-ghetar-scarisoara-glacier-th.jpg",
+          "fullSize": "assets/img/attractions/apuseni-ghetar-scarisoara-glacier.jpg"
+        },
+        {
+          "text": "Revigorează-te! În apropiere e <b>Cascada Pișoaia</b> (20m înălţime).",
+          "thumbnail": "assets/img/attractions/apuseni-pisoaia-cascada-waterfall-th.jpg",
+          "fullSize": "assets/img/attractions/apuseni-pisoaia-cascada-waterfall.jpg"
+        },
+        {
+          "text": "Decoperă punțile înguste peste <b>râului Arieș</b>.",
+          "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/punte2.jpg",
+          "fullSize": "assets/img/blog/clujRosia/article/fullSize/punte2.jpg"
+        },
+        {
+          "text": "Decoperă una din cele mai vechi biserici din Apuseni - <b>Mănăstirea Lupșa</b> 1421.",
+          "thumbnail": "assets/img/attractions/apuseni-lupsa-manastire-monestery-th.jpg",
+          "fullSize": "assets/img/attractions/apuseni-lupsa-manastire-monestery.jpg"
+        },
+        {
+          "text": "Vezi cea mai lungă și denivelată  peșteră din România - <b>Huda lui Papară</b>.",
+          "thumbnail": "assets/img/attractions/apuseni-huda-papara-pestera-cave-th.jpg",
+          "fullSize": "assets/img/attractions/apuseni-huda-papara-pestera-cave.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "autumn",
+          "subtitle": "<i class='fas fa-leaf'></i> Surprinde culorile toamnei"
+        },
+        "content": [
+          {
+            "text": "Bucură-te de natura de toamnă la Roșia, dimineți reci cu ceață, amiezi blânde și peisaje ideale de surpins în poze. De obicei, în weekendurile din Octombrie pornim în ture foto spre zonele de foioase - dacă dorești să participi, specifică la exectuarea unei"
+          },
+          {
+            "link": {
+              "text": "rezervări",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Surprinde culorile toamnei la Roșia Montană",
+          "thumbnail": "assets/img/attractions/bicicleta-toamna-th.jpg",
+          "fullSize": "assets/img/attractions/bicicleta-toamna.jpg"
+        },
+        {
+          "text": "Surprinde culorile toamnei la Roșia Montană",
+          "thumbnail": "assets/img/attractions/toamna-padure-seliste-th.jpg",
+          "fullSize": "assets/img/attractions/toamna-padure-seliste.jpg"
+        },
+        {
+          "text": "Surprinde culorile toamnei la Roșia Montană",
+          "thumbnail": "assets/img/attractions/taul-tarini-copac-drona-camil-iamandescu-th.jpg",
+          "fullSize": "assets/img/attractions/taul-tarini-copac-drona-camil-iamandescu.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "winter",
+          "subtitle": "<i class='far fa-snowflake'></i> Cu sania, iarna la Roșia"
+        },
+        "content": [
+          {
+            "text": "Iarna la Roșia Montană scoate la iveală peisaje de poveste cu case vechi acoperite de zăpadă și locuri ideale de dat cu sania. Ulițele satului devin locuri perfecte pentru a face drumeții ușoare într-o dimineață cu ninsoare."
           },
           {
             "link": {
@@ -693,33 +758,6 @@
           "text": "Pune-ți bocancii și pornește la o plimbare în centrul istoric pe timp de iarnă",
           "thumbnail": "assets/img/blog/winterWalks/article/thumbnail/berg.jpg",
           "fullSize": "assets/img/blog/winterWalks/article/fullSize/berg.jpg"
-        }
-      ]
-    },
-    {
-      "article": {
-        "heading": {
-          "id": "clujRosia",
-          "subtitle": "<i class='fas fa-car'></i> De veniți de la Cluj, porniți de dimineață"
-        },
-        "content": [
-          {
-            "text": "Dacă veniți la Roșia dinspre Cluj, porniți de dimineață, drumul pe albia râului Arieș oferă peisaje de poveste, în special primăvara când înfloresc salcâmii"
-          }
-        ]
-      }
-    },
-    {
-      "images": [
-        {
-          "text": "Pe drum",
-          "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/drum2.jpg",
-          "fullSize": "assets/img/blog/clujRosia/article/fullSize/drum2.jpg"
-        },
-        {
-          "text": "Punte Aries",
-          "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/punte2.jpg",
-          "fullSize": "assets/img/blog/clujRosia/article/fullSize/punte2.jpg"
         }
       ]
     },

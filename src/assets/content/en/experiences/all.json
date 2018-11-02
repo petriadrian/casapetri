@@ -1,13 +1,13 @@
 {
   "metaData": {
-    "title": "Unique experiences in Roșia Montană, Transylvania",
+    "title": "Your holiday in Roșia Montană, Transylvania",
     "text": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. To discover them we offer guided tours and there are also marked trails.",
     "img": "/assets/img/attractions/presentation/displayOnShareImg.jpg"
   },
   "sections": [
     {
       "imageVideoTextButtons": {
-        "text": "Unique experiences in Roșia Montană, Transylvania",
+        "text": "Your holiday in Roșia Montană, Transylvania",
         "videoSource": "",
         "img": "/assets/img/attractions/presentation/fullWidthImg.jpg",
         "buttons": [
@@ -41,7 +41,7 @@
       "article": {
         "heading": {
           "id": "historicCenter",
-          "subtitle": "Have a walk in the historic center"
+          "subtitle": "<i class='fas fa-blind'></i> Have a walk in the historic center"
         },
         "content": [
           {
@@ -102,43 +102,34 @@
             "text": "Visit the museums from our area where you can see the gold mining techniques evolution, tools and machines used in mining industry, golden veins and galleries."
           },
           {
-            "text": "<br>- at the <b>Mining Museum Roșia Montană</b>"
+            "text": "<br>- at the <b>Mining Museum Roșia Montană</b> will see a roman gallery made 2000 years ago and the gold processing machines"
           },
           {
             "link": {
-              "text": "(map)",
+              "text": "<i class='fas fa-map-marker-alt'></i> 15min walk - map",
               "textOnMouseOver": "Click here...",
               "link": "https://www.google.com/maps/dir/Casa+Petri+Rosia+Montana/Muzeul+Mineritului+Galeriile+Romane,+Ro%C8%99ia+Montan%C4%83,+Rom%C3%A2nia/@46.3042362,23.1182099,16.04z/data=!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474ecd1ba8291199:0x3f86ed8bb68ce1d3!2m2!1d23.1147891!2d46.3046869!3e2?hl=en-US"
             }
           },
           {
-            "text": " will go inside a roman galleries made 2000 years ago and see how the gold processing machines works."
-          },
-          {
-            "text": "<br>- at the <b>Museum Aurul Brad</b> "
+            "text": "<br>- at the <b>Museum Aurul Brad</b> will see how a gold veins looks and minerals exhibits"
           },
           {
             "link": {
-              "text": "(map)",
+              "text": "<i class='fas fa-map-marker-alt'></i> 1h by car - map",
               "textOnMouseOver": "see here how to reach it",
               "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Muzeul+Aurului,+Strada+Independen%C8%9Bei,+Brad/@46.2134462,22.8208341,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474edc27fe255555:0x38ae2fbee961bb90!2m2!1d22.7909237!2d46.1290106!3e0?hl=en-US"
             }
           },
           {
-            "text": " will see how a gold veins looks and minerals exhibits.</b>"
-          },
-          {
-            "text": "<br>- at the <b>Museum Buciumanilor</b> "
+            "text": "<br>- at the <b>Museum Bucium</b> will see a fully functional gold processing plant, a small village museum and minerals."
           },
           {
             "link": {
-              "text": "(map)",
+              "text": "<i class='fas fa-map-marker-alt'></i> 30min by car - map",
               "textOnMouseOver": "see here how to reach it",
               "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Muzeul+Buciumanilor,+Poieni/@46.2755131,23.0918287,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474ecb60f701d409:0xfec892598003f6c4!2m2!1d23.1987534!2d46.2520053!3e0?hl=en-US"
             }
-          },
-          {
-            "text": " will see a fully functional gold processing plant, a small village museum and minerals."
           }
         ]
       }
@@ -403,7 +394,7 @@
       "article": {
         "heading": {
           "id": "lake",
-          "subtitle": "<i class='fas fa-leaf'></i> The lakes (calm and relaxing spots)"
+          "subtitle": "<i class='far fa-comment'></i> The lakes (calm and relaxing spots)"
         },
         "content": [
           {
@@ -492,45 +483,6 @@
           "text": "Detunata - the basalt sea (the view from the top).",
           "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata-pietre-jos-brazi.jpg",
           "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata-pietre-jos-brazi.jpg"
-        }
-      ]
-    },
-    {
-      "article": {
-        "heading": {
-          "id": "scarisoara",
-          "subtitle": "<i class='fab fa-modx'></i> Near by is the Scărișoara Glacier"
-        },
-        "content": [
-          {
-            "text": "Situated in the heart of the Apuseni mountains, here is the biggest underground glacier in the world and is the first cave in Romania to be classified as natural monument. It is situated 1h away by car"
-          },
-          {
-            "link": {
-              "text": "(map)",
-              "textOnMouseOver": "Click here...",
-              "link": "https://www.google.com/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/Glacier+Cave+Scarisoara,+Romania/@46.3962379,22.8293194,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x4748d16f214d425f:0x3c356cdce6edf2d6!2m2!1d22.8107369!2d46.4898586!3e0?hl=en-US"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "images": [
-        {
-          "text": "The road to Scărișoara Glacier",
-          "thumbnail": "assets/img/attractions/article/scarisoaraRoad/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/scarisoaraRoad/fullSize/1.jpg"
-        },
-        {
-          "text": "Scărișoara Cave",
-          "thumbnail": "assets/img/attractions/article/scarisoara/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/scarisoara/fullSize/1.jpg"
-        },
-        {
-          "text": "Scărișoara Glacier",
-          "thumbnail": "assets/img/attractions/article/scarisoara/thumbnail/2.jpg",
-          "fullSize": "assets/img/attractions/article/scarisoara/fullSize/2.jpg"
         }
       ]
     },
@@ -660,8 +612,121 @@
     {
       "article": {
         "heading": {
+          "id": "apuseni",
+          "subtitle": "<i class='far fa-star'></i> Discover the Apuseni Mountains wonders"
+        },
+        "content": [
+          {
+            "text": "<b>Scărișoara Glacier</b> - a natural monument, one of the biggest underground glacier in the world, located in the heart of the mountains"
+          },
+          {
+            "link": {
+              "text": "<i class='fas fa-map-marker-alt'></i> 1h by car - map",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.google.com/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/Glacier+Cave+Scarisoara,+Romania/@46.3962379,22.8293194,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x4748d16f214d425f:0x3c356cdce6edf2d6!2m2!1d22.8107369!2d46.4898586!3e0?hl=en-US"
+            }
+          },
+          {
+            "text": "<br><b>Pișoaia Waterfall</b> and <b>Dealul cu Melci</b> - discover the natural park of Vidra, Apuseni"
+          },
+          {
+            "link": {
+              "text": "<i class='fas fa-map-marker-alt'></i> 45min by car - map",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Dealul+cu+Melci,+DJ762,+Lunca+Bisericii/Cascada+Pi%C5%9Foaia,+DJ762,+Neme%C8%99i/@46.3408919,22.9331367,12z/data=!3m1!4b1!4m20!4m19!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x474ed55ebf757697:0x3f50569becd03b53!2m2!1d22.8757845!2d46.3661696!1m5!1m1!1s0x474ed56781a8eb2b:0xda0df61035261491!2m2!1d22.8774828!2d46.3613567!3e0?hl=en-US"
+            }
+          },
+          {
+            "text": "<br>Explore the valley of the <b>Arieș River</b>, see the old <b>Lupșa Monestery</b> and <b>Huda lui Papară</b> the cave of the giants from ancient times"
+          },
+          {
+            "link": {
+              "text": "<i class='fas fa-map-marker-alt'></i> 1h by car - map",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.google.ro/maps/dir/Casa+Petri+Rosia+Montana,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615/Biserica+de+lemn+a+M%C4%83n%C4%83stirii+Lup%C8%99a,+M%C4%83n%C4%83stire/Huda+lui+Papar%C4%83,+DC130,+Sub+Piatr%C4%83/@46.3675514,23.1498585,11.3z/data=!4m20!4m19!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.129873!2d46.3065798!1m5!1m1!1s0x47493248cd8377eb:0xf362b2eb49735abc!2m2!1d23.1735361!2d46.3750216!1m5!1m1!1s0x474948e3b4765f87:0x6595be78560a94a0!2m2!1d23.4611586!2d46.3814033!3e0?hl=en-US"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Discover the landscapes roads of Apuseni by car or bike.",
+          "thumbnail": "assets/img/attractions/apuseni-drumuri-scarisoara-roads-th.jpg",
+          "fullSize": "assets/img/attractions/apuseni-drumuri-scarisoara-roads.jpg"
+        },
+        {
+          "text": "See the biggest glacier from the world - <b>Scărișoara Glacier</b>.",
+          "thumbnail": "assets/img/attractions/apuseni-ghetar-scarisoara-glacier-th.jpg",
+          "fullSize": "assets/img/attractions/apuseni-ghetar-scarisoara-glacier.jpg"
+        },
+        {
+          "text": "Refresh! Near by is <b>Pișoaia Waterfall</b> (20m high).",
+          "thumbnail": "assets/img/attractions/apuseni-pisoaia-cascada-waterfall-th.jpg",
+          "fullSize": "assets/img/attractions/apuseni-pisoaia-cascada-waterfall.jpg"
+        },
+        {
+          "text": "Discover the narrow bridges of <b>Arieș River</b>.",
+          "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/punte2.jpg",
+          "fullSize": "assets/img/blog/clujRosia/article/fullSize/punte2.jpg"
+        },
+        {
+          "text": "Discover one of the oldest churches from Apuseni - <b>Lupșa Monestery</b> 1421.",
+          "thumbnail": "assets/img/attractions/apuseni-lupsa-manastire-monestery-th.jpg",
+          "fullSize": "assets/img/attractions/apuseni-lupsa-manastire-monestery.jpg"
+        },
+        {
+          "text": "See the longest cave from Romania - <b>Huda lui Papară</b>.",
+          "thumbnail": "assets/img/attractions/apuseni-huda-papara-pestera-cave-th.jpg",
+          "fullSize": "assets/img/attractions/apuseni-huda-papara-pestera-cave.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "autumn",
+          "subtitle": "<i class='fas fa-leaf'></i> Capture the colors of autumn"
+        },
+        "content": [
+          {
+            "text": "Enjoy the autumn nature in Roșia, cold and foggy mornings, gentle afternoons and ideal landscapes to catch in photos. Usually, in October weekends we organize photo tours along the forests areas - if you want to participate, specify while making a"
+          },
+          {
+            "link": {
+              "text": "booking",
+              "textOnMouseOver": "Click here...",
+              "link": "en/accommodation#bookings"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "images": [
+        {
+          "text": "Capture the colors of autumn at Roșia Montană",
+          "thumbnail": "assets/img/attractions/bicicleta-toamna-th.jpg",
+          "fullSize": "assets/img/attractions/bicicleta-toamna.jpg"
+        },
+        {
+          "text": "Capture the colors of autumn at Roșia Montană",
+          "thumbnail": "assets/img/attractions/toamna-padure-seliste-th.jpg",
+          "fullSize": "assets/img/attractions/toamna-padure-seliste.jpg"
+        },
+        {
+          "text": "Capture the colors of autumn at Roșia Montană",
+          "thumbnail": "assets/img/attractions/taul-tarini-copac-drona-camil-iamandescu-th.jpg",
+          "fullSize": "assets/img/attractions/taul-tarini-copac-drona-camil-iamandescu.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
           "id": "winter",
-          "subtitle": "<i class='far fa-snowflake'></i> Discover the village covered by snow"
+          "subtitle": "<i class='far fa-snowflake'></i> On a sleigh in a winter at Rosia"
         },
         "content": [
           {
@@ -670,7 +735,7 @@
           {
             "link": {
               "text": "See here more pictures and details.",
-              "textOnMouseOver": "Click aici...",
+              "textOnMouseOver": "Click here...",
               "link": "en/experiences/winterWalks"
             }
           }
