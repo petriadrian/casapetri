@@ -7,7 +7,7 @@
   "sections": [
     {
       "imageVideoTextButtons": {
-        "text": "Turul celor 100 de case abandonate",
+        "text": "Turul celor 100 de case părăsite",
         "videoSource": "/assets/img/events/abandonedHouses.mp4",
         "img": "",
         "buttons": [
@@ -45,7 +45,7 @@
         },
         "content": [
           {
-            "text": "Pachetul se desfășoară în perioada <b>29.11 - 02.12.2018</b>, la prețul de <b>470lei/pers</b>. Include:"
+            "text": "Pachetul se desfășoară în perioada <b>29.11 - 02.12.2018</b>, la prețul de <b>470lei/pers</b> și include:"
           },
           {
             "text": "<br><b>- 3 nopți de cazare</b> (joi, vineri, sâmbătă) în camere private (cu băi proprii sau o baie la 2 camere) - specificați în căsuța 'Alte detalii' ce tipuri de camere doriți."
