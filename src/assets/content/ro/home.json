@@ -302,6 +302,30 @@
     {
       "article": {
         "heading": {
+          "title": "Evenimente / Pachete",
+          "id": "events"
+        },
+        "content": {
+          "text": "Mai jos sunt câteva evenimente și pachete ce includ diverse activități în zona noastră."
+        }
+      }
+    },
+    {
+      "linkImageText": [
+        {
+          "title": "100 de case părăsite",
+          "text": "29.11 - 02.12.18 <br>De 1 decembrie, centenarul României, vă invităm la Roșia la un tur al caselor vândute, abandonate și părăsite din Roșia Montană",
+          "img": "assets/img/attractions/centrl-istoric-historic-center-parasita-th.jpg",
+          "url": {
+            "link": "/ro/events/abandonedHouses",
+            "textOnMouseOver": "Vezi mai mult..."
+          }
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
           "id": "directions",
           "title": "<i class='fa fa-location-arrow'></i> Cum ajung?"
         },
