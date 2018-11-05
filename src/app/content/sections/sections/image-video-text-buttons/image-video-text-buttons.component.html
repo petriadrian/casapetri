@@ -1,8 +1,6 @@
 <section class="pageIntro">
   <div class="gradientFromWhiteToTransparent">
-    <video *ngIf="!!content?.videoSource" vi-screen autoplay loop muted>
-      <source src="{{content?.videoSource}}" type="video/mp4">
-    </video>
+    <video id="video" *ngIf="!!content?.videoSource" src="{{content?.videoSource}}" type="video/mp4" autoplay loop muted></video>
     <img *ngIf="!content?.videoSource" [src]="content?.img"/>
   </div>
   <div class="introContent">

@@ -1,4 +1,4 @@
-import {Component, HostListener, OnInit, Pipe, PipeTransform} from '@angular/core';
+import {AfterViewInit, Component, ElementRef, HostListener, Pipe, PipeTransform, ViewChild} from '@angular/core';
 import {DomSanitizer, SafeHtml} from '@angular/platform-browser';
 import {UrlService} from './url-services/url.service';
 import * as $ from 'jquery';
@@ -12,7 +12,7 @@ import {HttpClient} from '@angular/common/http';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
+export class AppComponent implements AfterViewInit {
 
   constructor(private urlService: UrlService, private router: Router, private http: HttpClient, private modalService: NgbModal) {
     // google analytics
@@ -25,14 +25,16 @@ export class AppComponent {
         }
       });
     }
-    this.showPrivacyPolicy();
   }
 
-  showPrivacyPolicy(): void {
+  ngAfterViewInit() {
     const privacyPolicyPath = './assets/content/' + this.urlService.getCurrentLang()
       + '/common/privacyPolicy.json';
     this.http.get(privacyPolicyPath).map(res => res).subscribe(result => {
-      this.modalService.open(InfoModalComponent, {backdrop  : 'static'}).componentInstance.content = result;
+      this.modalService.open(InfoModalComponent, {
+        backdrop: 'static',
+        keyboard: false
+      }).componentInstance.content = result;
     });
   }
 

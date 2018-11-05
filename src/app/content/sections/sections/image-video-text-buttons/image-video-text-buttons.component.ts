@@ -1,4 +1,4 @@
-import {Component, HostListener, Input, OnInit} from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-image-video-text-buttons',
@@ -12,10 +12,5 @@ export class ImageVideoTextButtonsComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {}
-
-  scrollTo(divId) {
-    document.querySelector('#' + divId).scrollIntoView();
-  }
-
 
 }

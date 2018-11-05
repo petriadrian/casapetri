@@ -1,5 +1,5 @@
 import {Component, Input} from '@angular/core';
-import {NgbModal, NgbActiveModal} from '@ng-bootstrap/ng-bootstrap';
+import {NgbActiveModal} from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
   selector: 'app-info-modal',
@@ -10,6 +10,13 @@ export class InfoModalComponent {
 
   @Input() content;
 
-  constructor(public activeModal: NgbActiveModal) {}
+  constructor(public activeModal: NgbActiveModal) {
+  }
 
+  onClose() {
+    this.activeModal.close('Close click');
+    if (document.querySelector('video')) {
+      document.querySelector('video').load();
+    }
+  }
 }
