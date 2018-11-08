@@ -23,9 +23,9 @@
       "textOnMouseOver": "cazare, trasee ghidate, închirieri biciclete, info mâncare - rezervări"
     },
     {
-      "text": "Reviews",
+      "text": "Păreri",
       "link": "ro/review",
-      "textOnMouseOver": "click pentru a deschide pagina cu review-uri"
+      "textOnMouseOver": "click pentru a deschide pagina cu păreri"
     }
   ],
   "rightButtons": [
