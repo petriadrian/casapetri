@@ -274,10 +274,6 @@
               {
                 "id": "bike",
                 "text": " <i class='fa fa-fw fa-bicycle'></i> <b>Bike</b> rent (how many? - fill the 'Other details' box)"
-              },
-              {
-                "id": "food",
-                "text": " <i class='fas fa-utensils fa-fw'></i> <b>Meals</b> (which meals? vegetarian? - fill the 'Other details' box)"
               }
             ]
           },

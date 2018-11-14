@@ -283,10 +283,6 @@
               {
                 "id": "bike",
                 "text": " <i class='fa fa-fw fa-bicycle'></i> <b>Biciclete</b> de închiriat (câte și ce perioadă? - scrie în căsuța 'Alte detalii')"
-              },
-              {
-                "id": "food",
-                "text": " <i class='fas fa-utensils fa-fw'></i> <b>Mâncare</b> (ce mese? vegetarieni? - scrie în căsuța 'Alte detalii')"
               }
             ]
           },
