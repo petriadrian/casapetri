@@ -156,18 +156,13 @@
         },
         "content": [
           {
-            "text": "<b>Food</b> - let us know in advance if you need hot meals or local products (jam, syrup, cheese, milk). <br><b>Bikes</b> for rent, bike repair, bike tours. <br><b>Guided tours</b> through the historic center, natural monuments, mining galleries and pits. <br><b>Wifi, board games, library</b>. <br>Backyard with <b>hammocks</b>, <b>gazebo</b>, green grass. <br><b>Movie screenings</b> with documentaries about Rosia Montana <br><b>Sleighing</b> - we have 2 sleighs so during the winter there are sleigh slopes near the house"
+            "text": "<b>Bikes</b> for rent, bike repair, bike tours. <br><b>Guided tours</b> through the historic center, natural monuments, mining galleries and pits. <br><b>Wifi, board games, library</b>. <br>Backyard with <b>hammocks</b>, <b>gazebo</b>, green grass. <br><b>Movie screenings</b> with documentaries about Rosia Montana <br><b>Sleighing</b> - we have 2 sleighs so during the winter there are sleigh slopes near the house"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "text": "Food - local products or hot meals.",
-          "thumbnail": "assets/img/accommodation/article/food/thumbnail/jamAndFood.jpg",
-          "fullSize": "assets/img/accommodation/article/food/fullSize/jamAndFood.jpg"
-        },
         {
           "text": "We offer guided tours (by foot or bike) and we also rent bikes.",
           "thumbnail": "assets/img/accommodation/article/guides/thumbnail/guided-tour-hike-bike-rosia-montana.jpg",

@@ -156,18 +156,13 @@
         },
         "content": [
           {
-            "text": "<b>Mâncare</b> - anunța-ne din timp dacă doriți mese calde sau produse locale (dulceață, sirop, brânză, lapte). <br><b>Biciclete</b> de închiriat, reparații biciclete sau tururi ghidate pe bicicletă. <br><b>Tururi ghidate</b> de drumeție - centrul istoric, monumentele naturii, exploatări miniere. <br><b>Board games, bibliotecă</b> (cărți și reviste vechi). <br><b>Hamace</b>, <b>foișor</b>, iarbă verde și pomi fructiferi <br><b>Proiecții documentare</b> despre trecutul zonei <br><b>Derdeluș</b> - avem sănii pe care le puteți folosi iarna pe derdelușurile din zonă"
+            "text": "<b>Biciclete</b> de închiriat, reparații biciclete sau tururi ghidate pe bicicletă. <br><b>Tururi ghidate</b> de drumeție - centrul istoric, monumentele naturii, exploatări miniere. <br><b>Board games, bibliotecă</b> (cărți și reviste vechi). <br><b>Hamace</b>, <b>foișor</b>, iarbă verde și pomi fructiferi <br><b>Proiecții documentare</b> despre trecutul zonei <br><b>Derdeluș</b> - avem sănii pe care le puteți folosi iarna pe derdelușurile din zonă"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "text": "Produse locale sau mese calde.",
-          "thumbnail": "assets/img/accommodation/article/food/thumbnail/jamAndFood.jpg",
-          "fullSize": "assets/img/accommodation/article/food/fullSize/jamAndFood.jpg"
-        },
         {
           "text": "Tururi ghidate de drumeție sau bicicletă și centru de închiriat biciclete.",
           "thumbnail": "assets/img/accommodation/article/guides/thumbnail/guided-tour-hike-bike-rosia-montana.jpg",
