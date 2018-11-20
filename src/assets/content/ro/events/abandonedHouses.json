@@ -33,29 +33,29 @@
         "content": [
           {
             "text": "Roșia Montană este cea mai veche localitate minieră atestată din România, locul în care istoria țării a ramas gravată în minele din stânci și zugrăveala caselor cândva nobile și pline de viață dar acum în mare parte părăsite și vândute la compania canadină ce își dorea să deschidă aici una din cele mai mari exploatări pe cianuri din Europa. <br>Ce s-a ales cu ele și care e povestea lor? <br>Vă așteptăm de centenar într-un tur al celor 100 de case părăsite din Roșia Montană."
-          },
-          {
-            "images": [
-              {
-                "text": "Descoperă povestea centrului istoric, de 1 Decembrie la Roșia Montană.",
-                "thumbnail": "assets/img/attractions/centrl-istoric-historic-center-parasita2-th.jpg",
-                "fullSize": "assets/img/attractions/centrl-istoric-historic-center-parasita2.jpg"
-              },
-              {
-                "text": "Vom vizita și vom afla povestea caselor părăsite din Roșia Montană.",
-                "thumbnail": "assets/img/attractions/centrl-istoric-historic-center-parasita-th.jpg",
-                "fullSize": "assets/img/attractions/centrl-istoric-historic-center-parasita.jpg"
-              },
-              {
-                "text": "Descoperă povestea centrului istoric, de 1 Decembrie la Roșia Montană.",
-                "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-                "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
-              }
-            ]
           }
         ]
       }
     },
+    {
+      "images": [
+        {
+          "text": "Descoperă povestea centrului istoric, de 1 Decembrie la Roșia Montană.",
+          "thumbnail": "assets/img/attractions/centrl-istoric-historic-center-parasita2-th.jpg",
+          "fullSize": "assets/img/attractions/centrl-istoric-historic-center-parasita2.jpg"
+        },
+        {
+          "text": "Vom vizita și vom afla povestea caselor părăsite din Roșia Montană.",
+          "thumbnail": "assets/img/attractions/centrl-istoric-historic-center-parasita-th.jpg",
+          "fullSize": "assets/img/attractions/centrl-istoric-historic-center-parasita.jpg"
+        },
+        {
+          "text": "Descoperă povestea centrului istoric, de 1 Decembrie la Roșia Montană.",
+          "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
+          "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+        }
+      ]
+    }
     {
       "article": {
         "heading": {
