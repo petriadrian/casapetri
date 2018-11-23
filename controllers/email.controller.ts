@@ -27,34 +27,28 @@ router.post('/send', function (req, res) {
       console.log('The file was saved!');
     });
   // send data via email
-  emailJs.send('casapetrirosiamontana@gmail.com' , 'default', {
-    url: req.body['pageUrl'],
-    reply_email: clientEmail,
-    message: '32'
-  });
-  console.log('email sent ' + emailBody);
-  //
-  // emailJs.server
-  //   .connect({
-  //     user: 'casapetrirosiamontana@gmail.com',
-  //     password: '099asincron',
-  //     host: 'smtp.gmail.com',
-  //     ssl: true,
-  //   })
-  //   .send({
-  //     to: TO,
-  //     subject: 'casaPetriRosiaMontana.ro' + req.body['pageUrl'],
-  //     attachment:
-  //       [{data: emailBody, alternative: true}]
-  //   }, function (err, message) {
-  //     if (err) {
-  //       console.log(err || message);
-  //       return res.json({success: false, msg: message});
-  //     } else {
-  //       console.log('email sent from ' + clientEmail || message);
-  //       return res.json({success: true, msg: message});
-  //     }
-  //   });
+
+  emailJs.server
+    .connect({
+      user: 'casapetrirosiamontana@gmail.com',
+      password: '099asincron',
+      host: 'smtp.gmail.com',
+      ssl: true,
+    })
+    .send({
+      to: TO,
+      subject: 'casaPetriRosiaMontana.ro' + req.body['pageUrl'],
+      attachment:
+        [{data: emailBody, alternative: true}]
+    }, function (err, message) {
+      if (err) {
+        console.log(err || message);
+        return res.json({success: false, msg: message});
+      } else {
+        console.log('email sent from ' + clientEmail || message);
+        return res.json({success: true, msg: message});
+      }
+    });
 });
 
 export const EmailController: Router = router;
