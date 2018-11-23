@@ -44,7 +44,7 @@ router.post('/send', function (req, res) {
         console.log(err || message);
         return res.json({success: false, msg: message});
       } else {
-        console.log('email sent ' || message);
+        console.log('email sent from ' + clientEmail || message);
         return res.json({success: true, msg: message});
       }
     });
