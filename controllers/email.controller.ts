@@ -30,7 +30,7 @@ router.post('/send', function (req, res) {
   emailJs.send('casapetrirosiamontana@gmail.com' , 'default', {
     url: req.body['pageUrl'],
     reply_email: clientEmail,
-    message: emailBody
+    message: '32'
   });
   console.log('email sent ' + emailBody);
   //
