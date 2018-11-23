@@ -3,7 +3,7 @@ import { Router, Request, Response } from 'express';
 const router: Router = Router();
 const emailJs = require('emailjs');
 const fs = require('fs');
-const TO = 'casapetrirosiamontana@gmail.com';
+const email = 'casapetrirosiamontana@gmail.com';
 
 router.post('/send', function (req, res) {
   let emailBody = '<html>';
@@ -30,14 +30,14 @@ router.post('/send', function (req, res) {
 
   emailJs.server
     .connect({
-      user: 'casapetrirosiamontana@gmail.com',
+      user: email,
       password: '099asincron',
       host: 'smtp.gmail.com',
       ssl: true,
     })
     .send({
-      from: 'casapetrirosiamontana@gmail.com',
-      to: TO,
+      from: email,
+      to: email,
       subject: 'casaPetriRosiaMontana.ro' + req.body['pageUrl'],
       'reply-to': clientEmail,
     attachment:
