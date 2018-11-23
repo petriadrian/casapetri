@@ -35,7 +35,6 @@ router.post('/send', function (req, res) {
       ssl: true,
     })
     .send({
-      from: '<' + clientEmail + '>',
       to: TO,
       subject: 'casaPetriRosiaMontana.ro' + req.body['pageUrl'],
       attachment:
