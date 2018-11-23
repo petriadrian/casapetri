@@ -12,7 +12,7 @@ pm2 start dist/server.js
 - to STOP the project(in background) run:
 pm2 stop all
 -to start the project (will be automatically closed on closing the window):
-npm run serve:universal
+npm run serve:ssr
 
 ## Development server
 
