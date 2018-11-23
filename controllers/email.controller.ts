@@ -36,16 +36,18 @@ router.post('/send', function (req, res) {
       ssl: true,
     })
     .send({
+      from: 'casapetrirosiamontana@gmail.com',
       to: TO,
       subject: 'casaPetriRosiaMontana.ro' + req.body['pageUrl'],
-      attachment:
+      'reply-to': clientEmail,
+    attachment:
         [{data: emailBody, alternative: true}]
     }, function (err, message) {
       if (err) {
         console.log(err || message);
         return res.json({success: false, msg: message});
       } else {
-        console.log('email sent from ' + clientEmail || message);
+        console.log('email sent ' + message);
         return res.json({success: true, msg: message});
       }
     });
