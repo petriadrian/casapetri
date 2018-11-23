@@ -7,6 +7,7 @@ const TO = 'Petri Adrian <petriadrian@gmail.com>, Iulia Balint <iulia.balint@gma
 
 router.post('/send', function (req, res) {
   let emailBody = '<html>';
+  const clientEmail = req.body['email'];
   for (const key in req.body) {
     if (req.body.hasOwnProperty(key)) {
       const value = req.body[key];
@@ -28,15 +29,15 @@ router.post('/send', function (req, res) {
   // send data via email
   emailJs.server
     .connect({
-      user: 'casapetrirosia@gmail.com',
-      password: '099asincron',
+      user: 'casapetrirosiamontana@gmail.com',
+      password: 'tanar627083$',
       host: 'smtp.gmail.com',
       ssl: true,
     })
     .send({
-      from: 'Casa Petri <casapetrirosia@gmail.com>',
+      from: ((clientEmail) && (clientEmail !== '')) ? (clientEmail) : 'casapetrirosiamontana@gmail.com',
       to: TO,
-      subject: req.body['pageUrl'],
+      subject: 'casaPetriRosiaMontana.ro/' + req.body['pageUrl'],
       attachment:
         [{data: emailBody, alternative: true}]
     }, function (err, message) {
