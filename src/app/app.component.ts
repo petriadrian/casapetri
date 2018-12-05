@@ -43,10 +43,10 @@ export class AppComponent implements AfterViewInit {
     if (this.urlService.isHostOnBrowser()) {
       if (window.pageYOffset > 300) {
         $('#stickHeaderBarOnTheTop').fadeIn(200);
-        $('#stickPageIntroMenuOnTheTop').addClass('showPageIntroBar').fadeIn();
+        $('#stickPageIntroMenuOnTheTop').addClass('stickPageIntroMenuOnTheTop').fadeIn();
       } else {
         $('#stickHeaderBarOnTheTop').fadeOut();
-        $('#stickPageIntroMenuOnTheTop').removeClass('showPageIntroBar');
+        $('#stickPageIntroMenuOnTheTop').removeClass('stickPageIntroMenuOnTheTop');
       }
     }
   }

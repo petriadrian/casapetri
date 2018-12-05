@@ -50,6 +50,7 @@ body {
 
 .btn-primary {
   text-shadow: none;
+  margin: 0.2%;
   color: white !important;
   background-color: #157f15 !important;
   border-color: white !important;

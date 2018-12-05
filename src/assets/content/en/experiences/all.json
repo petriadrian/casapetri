@@ -1,13 +1,13 @@
 {
   "metaData": {
-    "title": "Your holiday in Roșia Montană, Transylvania",
+    "title": "Roșia Montană is not just a holiday, is an experience!",
     "text": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. To discover them we offer guided tours and there are also marked trails.",
     "img": "/assets/img/attractions/presentation/displayOnShareImg.jpg"
   },
   "sections": [
     {
       "imageVideoTextButtons": {
-        "text": "Your holiday in Roșia Montană, Transylvania",
+        "text": "Roșia Montană is not just a holiday, is an experience!",
         "videoSource": "",
         "img": "/assets/img/attractions/presentation/fullWidthImg.jpg",
         "buttons": [
@@ -258,7 +258,7 @@
       "article": {
         "heading": {
           "id": "communism",
-          "subtitle": "<i class='fas fa-city'></i> Discover the communism period"
+          "subtitle": "<i class='fas fa-city'></i> See the communist mega-projects"
         },
         "content": [
           {
@@ -394,7 +394,7 @@
       "article": {
         "heading": {
           "id": "lake",
-          "subtitle": "<i class='far fa-comment'></i> The lakes (calm and relaxing spots)"
+          "subtitle": "<i class='far fa-comment'></i> Enjoy the silence. Visit the lakes of Roșia"
         },
         "content": [
           {
@@ -458,7 +458,7 @@
       "article": {
         "heading": {
           "id": "detunata",
-          "subtitle": "<i class='fas fa-mountain'></i> To the basalt roof of the Carpathian mountains - Detunata"
+          "subtitle": "<i class='fas fa-mountain'></i> Visit the basalt roof of the Carpathians - Detunata"
         },
         "content": [
           {
@@ -726,7 +726,7 @@
       "article": {
         "heading": {
           "id": "winter",
-          "subtitle": "<i class='far fa-snowflake'></i> On a sleigh in a winter at Rosia"
+          "subtitle": "<i class='far fa-snowflake'></i> Ride on a sleigh! Winter at Rosia"
         },
         "content": [
           {
@@ -879,7 +879,7 @@
       "article": {
         "heading": {
           "id": "berry",
-          "subtitle": "<i class='fas fa-concierge-bell'></i> A delicious walk"
+          "subtitle": "<i class='fas fa-concierge-bell'></i> Have a 'delicious' hike"
         },
         "content": [
           {
@@ -940,7 +940,7 @@
       "article": {
         "heading": {
           "id": "steamTrain",
-          "subtitle": "<i class='fas fa-train'></i> Take the steam train"
+          "subtitle": "<i class='fas fa-train'></i> Discover our area via steam train"
         },
         "content": [
           {

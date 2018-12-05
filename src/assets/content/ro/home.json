@@ -6,71 +6,9 @@
   },
   "sections": [
     {
-      "carousel": [
-        {
-          "img": "assets/img/attractions/presentation/fullWidthImg.jpg",
-          "title": "Ai ce vizita la Roșia Montană!",
-          "text": "",
-          "url": {
-            "link": "ro/attractions",
-            "textOnMouseOver": "Click aici..."
-          }
-        },
-        {
-          "img": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg",
-          "title": "Roșia Montană e istorie",
-          "text": "",
-          "url": {
-            "link": "ro/attractions",
-            "textOnMouseOver": "Click aici..."
-          }
-        },
-        {
-          "img": "assets/img/attractions/article/panoramicBench/fullSize/1.jpg",
-          "title": "Roșia Montană e patrimoniu",
-          "text": "",
-          "url": {
-            "link": "ro/attractions",
-            "textOnMouseOver": "Click aici..."
-          }
-        },
-        {
-          "img": "assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg",
-          "title": "Roșia Montană e natură",
-          "text": "",
-          "url": {
-            "link": "ro/attractions",
-            "textOnMouseOver": "Click aici..."
-          }
-        },
-        {
-          "img": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg",
-          "title": "Roșia Montană e aventură",
-          "text": "",
-          "url": {
-            "link": "ro/attractions",
-            "textOnMouseOver": "Click aici..."
-          }
-        },
-        {
-          "img": "assets/img/attractions/article/lakes/bigLake/fullSize/bike.jpg",
-          "title": "Roșia Montană e vacanță",
-          "text": "",
-          "url": {
-            "link": "ro/attractions",
-            "textOnMouseOver": "Click aici..."
-          }
-        },
-        {
-          "img": "/assets/img/accommodation/article/outside/fullSize/casa-petri-gradina-primavaracopaci-infloriti.jpg",
-          "title": "Casa Petri - o casă cu poveste în Roșia Montană",
-          "text": "",
-          "url": {
-            "link": "ro/accommodation",
-            "textOnMouseOver": "Click aici..."
-          }
-        }
-      ]
+      "imageVideoTextButtons": {
+        "videoSource": "/assets/img/promo-casa-petri-rosia-montana-accomodation-cazare-transylvania-visit-excursie.mp4"
+      }
     },
     {
       "article": {
@@ -128,7 +66,7 @@
         {
           "title": "Căsuța din grădină",
           "text": "Vechea bucătărie de vară, locul unde se preparau bucate și se facea pălinca e acum un spațiu unde o să găsiți tot confortul unui mic apartament.",
-          "img": "assets/img/accommodation/article/rooms/casuta/thumbnail/2.jpg",
+          "img": "assets/img/accommodation/article/rooms/casuta/thumbnail/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg",
           "url": {
             "link": "ro/accommodation#littleHouse",
             "textOnMouseOver": "Vezi mai mult..."

@@ -1,13 +1,13 @@
 {
   "metaData": {
-    "title": "Ai ce vizita la Roșia Montană",
+    "title": "Roșia Montană nu e doar o vacanță, e o experiență!",
     "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Pentru a le descoperi oferim trasee ghidate, iar din fața casei pornesc 5 trasee marcate.",
     "img": "/assets/img/attractions/presentation/fullWidthImg.jpg"
   },
   "sections": [
     {
       "imageVideoTextButtons": {
-        "text": "Ai ce vizita la Roșia Montană!",
+        "text": "Roșia Montană nu e doar o vacanță, e o experiență!",
         "videoSource": "",
         "img": "/assets/img/attractions/presentation/fullWidthImg.jpg",
         "buttons": [
@@ -258,7 +258,7 @@
       "article": {
         "heading": {
           "id": "communism",
-          "subtitle": "<i class='fas fa-city'></i> Descoperă exploatările comuniste"
+          "subtitle": "<i class='fas fa-city'></i> Vezi mega-exploatările comuniste"
         },
         "content": [
           {
@@ -394,7 +394,7 @@
       "article": {
         "heading": {
           "id": "lake",
-          "subtitle": "<i class='far fa-comment'></i> Tăurile, locuri de liniște și relaxare"
+          "subtitle": "<i class='far fa-comment'></i> Bucură-te de liniște și relaxare. Vizitează tăurile"
         },
         "content": [
           {
@@ -458,7 +458,7 @@
       "article": {
         "heading": {
           "id": "detunata",
-          "subtitle": "<i class='fas fa-mountain'></i> Spre acoperișul de bazalt al Apusenilor - Detunata"
+          "subtitle": "<i class='fas fa-mountain'></i> Vizitează acoperișul de bazalt al Apusenilor - Detunata"
         },
         "content": [
           {
@@ -726,7 +726,7 @@
       "article": {
         "heading": {
           "id": "winter",
-          "subtitle": "<i class='far fa-snowflake'></i> Cu sania, iarna la Roșia"
+          "subtitle": "<i class='far fa-snowflake'></i> Dă-te cu sania! Iarna la Roșia"
         },
         "content": [
           {
@@ -882,7 +882,7 @@
       "article": {
         "heading": {
           "id": "berry",
-          "subtitle": "<i class='fas fa-concierge-bell'></i> O plimbare delicioasă"
+          "subtitle": "<i class='fas fa-concierge-bell'></i> Pornește într-o drumeție 'delicioasă'"
         },
         "content": [
           {
@@ -943,7 +943,7 @@
       "article": {
         "heading": {
           "id": "steamTrain",
-          "subtitle": "<i class='fas fa-train'></i> Cu mocănița prin Apuseni"
+          "subtitle": "<i class='fas fa-train'></i> Descoperă Apusenii cu mocănița"
         },
         "content": [
           {
