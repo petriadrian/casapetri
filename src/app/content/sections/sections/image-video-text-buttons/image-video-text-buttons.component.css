@@ -45,12 +45,14 @@
 
 @media only screen and (max-width: 400px) {
 
-  .pageIntro .introContent {
+  .pageIntro h1 {
+    font-size: 2em;
   }
 
   .pageIntro img, video {
     width: auto;
-    height: 330px;
+    margin: 0 -50%;
+    height: 280px;
   }
 
   .stickPageIntroMenuOnTheTop .btn-primary {
