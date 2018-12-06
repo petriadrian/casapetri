@@ -357,7 +357,7 @@
       "article": {
         "heading": {
           "id": "hiking",
-          "subtitle": "<i class='fas fa-tree'></i> Hiking to the Nature’s Monuments - marked trails"
+          "subtitle": "<i class='fas fa-tree'></i> Hike on the marked trails to the Nature’s Monuments"
         },
         "content": [
           {
@@ -490,7 +490,7 @@
       "article": {
         "heading": {
           "id": "narcise",
-          "subtitle": "<i class='fas fa-spa'></i> The best spot in May - The daffodils meadow"
+          "subtitle": "<i class='fas fa-spa'></i> You must see The daffodils meadow, in May"
         },
         "content": [
           {
@@ -537,7 +537,7 @@
       "article": {
         "heading": {
           "id": "vulcan",
-          "subtitle": "<i class='fas fa-mountain'></i> Hiking to Vulcan massif"
+          "subtitle": "<i class='fas fa-mountain'></i> Discover the Vulcan massif"
         },
         "content": [
           {
