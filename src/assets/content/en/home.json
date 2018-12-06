@@ -6,71 +6,9 @@
   },
   "sections": [
     {
-      "carousel": [
-        {
-          "img": "assets/img/attractions/presentation/fullWidthImg.jpg",
-          "title": "Welcome to Rosia Montana",
-          "text": "",
-          "url": {
-            "link": "en/attractions",
-            "textOnMouseOver": "Click here..."
-          }
-        },
-        {
-          "img": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg",
-          "title": "Roșia Montană is history",
-          "text": "",
-          "url": {
-            "link": "en/attractions",
-            "textOnMouseOver": "Click here..."
-          }
-        },
-        {
-          "img": "assets/img/attractions/article/panoramicBench/fullSize/1.jpg",
-          "title": "Roșia Montană is heritage",
-          "text": "",
-          "url": {
-            "link": "en/attractions",
-            "textOnMouseOver": "Click here..."
-          }
-        },
-        {
-          "img": "assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg",
-          "title": "Roșia Montană is nature",
-          "text": "",
-          "url": {
-            "link": "en/attractions",
-            "textOnMouseOver": "Click here..."
-          }
-        },
-        {
-          "img": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg",
-          "title": "Roșia Montană is adventure",
-          "text": "",
-          "url": {
-            "link": "en/attractions",
-            "textOnMouseOver": "Click here..."
-          }
-        },
-        {
-          "img": "assets/img/attractions/article/lakes/bigLake/fullSize/bike.jpg",
-          "title": "Roșia Montană is vacation",
-          "text": "",
-          "url": {
-            "link": "en/attractions",
-            "textOnMouseOver": "Click here..."
-          }
-        },
-        {
-          "img": "assets/img/accommodation/article/outside/fullSize/tarnat.jpg",
-          "title": "Casa Petri - an unique place in Rosia Montana",
-          "text": "",
-          "url": {
-            "link": "en/accommodation",
-            "textOnMouseOver": "Click here..."
-          }
-        }
-      ]
+      "imageVideoTextButtons": {
+        "videoSource": "/assets/img/promo-english-casa-petri-rosia-montana-accommodation-visit-transylvania-trip-holiday.mp4"
+      }
     },
     {
       "article": {
