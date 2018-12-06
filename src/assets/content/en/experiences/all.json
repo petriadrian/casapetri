@@ -55,14 +55,7 @@
             }
           },
           {
-            "text": " in the historic center of Roșia Montană (if you want to participate tell us when making a"
-          },
-          {
-            "link": {
-              "text": "booking)",
-              "textOnMouseOver": "Click here...",
-              "link": "en/accommodation#bookings"
-            }
+            "text": " in the historic center of Roșia Montană."
           }
         ]
       }
@@ -568,7 +561,7 @@
         },
         "content": [
           {
-            "text": "We put you in touch with the local farmers from our area where you can take part to their daily works, easy to learn (hand cow milking, local food and drinks making, the traditional haymaking which will be used in the winter for the animals). Your help would be really helpful for the farmers and for you will be an unique experience as you will be connected to the nature and will learn traditional crafts very well preserved in our area. If you want to take part to this experience inform us while making a"
+            "text": "We put you in touch with the local farmers from our area where you can take part to their daily works, easy to learn (hand cow milking, local food and drinks making, the traditional haymaking which will be used in the winter for the animals). Your help would be really helpful for the farmers and for you will be an unique experience as you will be connected to the nature and will learn traditional crafts very well preserved in our area. If you want to live as a local inform us while making a"
           },
           {
             "link": {
@@ -785,6 +778,9 @@
               "textOnMouseOver": "Click here...",
               "link": "en/accommodation#bookings"
             }
+          },
+          {
+            "text": " and we will contact you to set up all the details."
           }
         ]
       }
