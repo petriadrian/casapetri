@@ -766,11 +766,11 @@
       "article": {
         "heading": {
           "id": "guidedTour",
-          "subtitle": "<i class='fas fa-hiking'></i> Hai într-un tur ghidat"
+          "subtitle": "<i class='fas fa-hiking'></i> Află poveștile zonei. Tururi ghidate"
         },
         "content": [
           {
-            "text": "Povestea contează, iar Roșia Montană are un trecut de aur. Modul de funcționare al galeriilor, tăurilor, carierelor și a altor obiective folosite în extracția aurului, centrul istoric, zona propusă ca sit UNESCO sau impactul megaproiectului canadian și protestele de atunci sunt doar câteva din motivele pentru care vă recomandăm să vizitați Roșia Montana împreună cu un ghid. La cerere organizăm tururi ghidate, specifică la efectuarea unei"
+            "text": "Îți recomandăm să vizitezi zona noastră împreună cu un ghid deoarece povestea contează, iar Roșia Montană are un trecut de aur. <b>Organizăm tururi ghidate</b> prin care descoperi centrul istoric, obiectivele folosite în extracția aurului (tăuri, galerii, cariere), zona propusă ca sit UNESCO, impactul megaproiectului canadian și protestele de atunci sau diverse alte atracții din Apuseni descrise pe acestă pagină. Specifică la efectuarea unei"
           },
           {
             "link": {
@@ -780,7 +780,7 @@
             }
           },
           {
-          "text": " dacă dorești un tur, iar apoi noi te vom contacta pentru a stabili toate detaliile."
+            "text": " dacă dorești să participi la un tur ghidat și cam ce atracții ai dori să vizitezi."
           }
         ]
       }
@@ -808,7 +808,7 @@
       "article": {
         "heading": {
           "id": "bike",
-          "subtitle": "<i class='fas fa-bicycle'></i> Pedalează pe văile Roșiei Montane"
+          "subtitle": "<i class='fas fa-bicycle'></i> Hai la o tură cu bicicleta"
         },
         "content": [
           {

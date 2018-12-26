@@ -278,7 +278,7 @@
       "afterFormText": "<i class='fa fa-info-circle'></i> Rezervarea va fi validă doar la primirea unui email sau telefon de <b>confirmare</b>!",
       "submitButtonText": "Trimite rezervarea",
       "successMessage": "Vă mulțumim! O să revenim cu un e-mail de confirmare cât mai repede posibil.",
-      "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",
+      "errorMessage": "EROARE! Contactați-ne pe email casaPetriRosiaMontana@gmail.com",
       "fields": [
         {
           "type": "email",

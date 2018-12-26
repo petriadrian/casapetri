@@ -86,7 +86,7 @@
         "afterFormText": "Rezervarea va fi validă doar la primirea unui <b>telefon sau email de confirmare!</b> Pentru a ajunge la noi setați pe gps 'Casa Petri Rosia Montana'. <br><b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> până la 11:00",
         "submitButtonText": "Trimite rezervarea",
         "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
-        "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",
+        "errorMessage": "EROARE! Contactați-ne pe email casaPetriRosiaMontana@gmail.com",
         "fields": [
           {
             "type": "email",

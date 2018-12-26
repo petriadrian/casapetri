@@ -188,17 +188,7 @@
         },
         "content": [
           {
-            "text": "Completați datele de contact, perioada și selectați ce camere și servicii doriți să rezervați. Scrie în căsuța 'Alte detalii' dacă doriț să încercați o anumită"
-          },
-          {
-            "link": {
-              "text": "experiență",
-              "textOnMouseOver": "vezi ce experiențe poți avea în zona noastră",
-              "link": "ro/experiences/all"
-            }
-          },
-          {
-            "text": " sau să participați la un tur."
+            "text": "Te-ai decis să vi la Roșia? Completează formularul de cazare de mai jos. Scrie-ne în căsuța 'Alte detalii' dacă dorești biciclete de închiriat, tururi ghidate sau orice alte preferințe."
           }
         ]
       }
@@ -208,7 +198,7 @@
         "afterFormText": "Rezervarea va fi validă doar la primirea unui <b>telefon sau email de confirmare!</b> Pentru a ajunge la noi setați pe gps 'Casa Petri Rosia Montana'. <br><b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> până la 11:00",
         "submitButtonText": "Trimite rezervarea",
         "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
-        "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",
+        "errorMessage": "EROARE! Contactați-ne pe email casaPetriRosiaMontana@gmail.com",
         "fields": [
           {
             "type": "email",
@@ -233,51 +223,33 @@
             "toInputName": "Check Out"
           },
           {
-            "type": "checkBoxes",
-            "checkBoxes": [
+            "type": "selectBoxAllowDuplicates",
+            "required": true,
+            "iconFortAwesomeCode": "<i class='fas fa-bed fa-fw'></i>",
+            "placeholder": "Camere și prețuri",
+            "allowToDuplicateSettings": {
+              "addButtonText": "+ adaugă",
+              "removeButtonText": "- șterge",
+              "minOccurs": 1,
+              "maxOccurs": 10
+            },
+            "inputs": [
               {
-                "id": "booksHouse",
-                "text": " <i class='fas fa-book'></i> <b>Casa Cărților - 4</b> <i class='fas fa-male'></i> - 250lei/noapte",
-                "link": {
-                  "text": "<i class='fas fa-info-circle'></i>",
-                  "textOnMouseOver": "vezi detalii și imagini",
-                  "link": "ro/accommodation#booksHouse"
-                }
-              },
-              {
-                "id": "littleHouse",
-                "text": " <i class='fas fa-home'></i> <b>Căsuța - 2</b> <i class='fas fa-male'></i> - 150lei/noapte",
-                "link": {
-                  "text": "<i class='fas fa-info-circle'></i>",
-                  "textOnMouseOver": "vezi detalii și imagini",
-                  "link": "ro/accommodation#littleHouse"
-                }
-              },
-              {
-                "id": "tarnatHouse1",
-                "text": " <i class='fas fa-vihara'></i> <b>Camera 1 din târnaț - 2</b> <i class='fas fa-male'></i> - 140lei/noapte",
-                "link": {
-                  "text": "<i class='fas fa-info-circle'></i>",
-                  "textOnMouseOver": "vezi detalii și imagini",
-                  "link": "ro/accommodation#tarnatHouse"
-                }
-              },
-              {
-                "id": "tarnatHouse2",
-                "text": " <i class='fas fa-vihara'></i> <b>Camera 2 din târnaț - 3</b> <i class='fas fa-male'></i> - 150lei/noapte",
-                "link": {
-                  "text": "<i class='fas fa-info-circle'></i>",
-                  "textOnMouseOver": "vezi detalii și imagini",
-                  "link": "ro/accommodation#tarnatHouse"
-                }
-              },
-              {
-                "id": "guidedTour",
-                "text": " <i class='fas fa-fw fa-hiking'></i> <b>Tur ghidat</b> (ce ai dori să vizitezi? - scrie în căsuța 'Alte detalii')"
-              },
-              {
-                "id": "bike",
-                "text": " <i class='fa fa-fw fa-bicycle'></i> <b>Biciclete</b> de închiriat (câte și ce perioadă? - scrie în căsuța 'Alte detalii')"
+                "name": "room",
+                "selectOptions": [
+                  {
+                    "text": "o cameră de o persoană - 100lei/noapte"
+                  },
+                  {
+                    "text": "o cameră de 2 persoane - 120lei/noapte"
+                  },
+                  {
+                    "text": "o cameră de 3 pers - 150lei/noapte"
+                  },
+                  {
+                    "text": "o cameră de 4 pers - 180lei/noapte"
+                  }
+                ]
               }
             ]
           },

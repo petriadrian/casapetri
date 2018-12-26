@@ -625,7 +625,7 @@
       "afterFormText": "<i class='fa fa-info-circle'></i> Rezervarea va fi validă doar la primirea unui email de <b>confirmare</b> și ulterior plata unui <b>avans</b> de 30% din total (nereturnabil în caz de anulare). Dacă nu se înscriu minim 4 persone, turul nu va avea loc (se va comunica și returna avansul cu 7 zile înainte).",
       "submitButtonText": "Trimite rezervarea",
       "successMessage": "Vă mulțumim! O să revenim cu un e-mail de confirmare cât mai repede posibil.",
-      "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",
+      "errorMessage": "EROARE! Contactați-ne pe email casaPetriRosiaMontana@gmail.com",
       "fields": [
         {
           "type": "email",

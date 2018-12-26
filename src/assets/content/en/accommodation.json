@@ -188,7 +188,7 @@
         },
         "content": [
           {
-            "text": "Fill the contact data, period and select the desired room and service."
+            "text": "Fill the accommodation form bellow. Write us in the 'Other detail' box if you also want to rent bikes, guided tours, or any other preferences."
           }
         ]
       }
@@ -198,7 +198,7 @@
         "afterFormText": "The booking will be valid only when a <b>confirmation email or phone</b> will be received! To reach us set on gps 'Casa Petri Rosia Montana'. <br><b>Check-in</b>: 16:00 - 20:00 | <b>Check-out</b> by 11:00",
         "submitButtonText": "Send the booking",
         "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
-        "errorMessage": "ERROR! Contact us by email petriadrian@gmail.com",
+        "errorMessage": "ERROR! Contact us by email casaPetriRosiaMontana@gmail.com",
         "fields": [
           {
             "type": "email",
@@ -223,52 +223,33 @@
             "toInputName": "Check Out"
           },
           {
-            "type": "checkBoxes",
-            "title": "I will book:",
-            "checkBoxes": [
+            "type": "selectBoxAllowDuplicates",
+            "required": true,
+            "iconFortAwesomeCode": "<i class='fas fa-bed fa-fw'></i>",
+            "placeholder": "Rooms and prices",
+            "allowToDuplicateSettings": {
+              "addButtonText": "+ add",
+              "removeButtonText": "- delete",
+              "minOccurs": 1,
+              "maxOccurs": 10
+            },
+            "inputs": [
               {
-                "id": "booksHouse",
-                "text": " <i class='fas fa-book'></i> <b>Books House - 4</b> <i class='fas fa-male'></i> - 250lei/night",
-                "link": {
-                  "text": "<i class='fas fa-info-circle'></i>",
-                  "textOnMouseOver": "see details and images",
-                  "link": "en/accommodation#booksHouse"
-                }
-              },
-              {
-                "id": "littleHouse",
-                "text": " <i class='fas fa-home'></i> <b>Little House - 2</b> <i class='fas fa-male'></i> - 150lei/night",
-                "link": {
-                  "text": "<i class='fas fa-info-circle'></i>",
-                  "textOnMouseOver": "see details and images",
-                  "link": "en/accommodation#littleHouse"
-                }
-              },
-              {
-                "id": "tarnatHouse1",
-                "text": " <i class='fas fa-vihara'></i> <b>Room 1 from Tarnat - 2</b> <i class='fas fa-male'></i> - 130lei/night",
-                "link": {
-                  "text": "<i class='fas fa-info-circle'></i>",
-                  "textOnMouseOver": "see details and images",
-                  "link": "en/accommodation#tarnatHouse"
-                }
-              },
-              {
-                "id": "tarnatHouse2",
-                "text": " <i class='fas fa-vihara'></i> <b>Room 2 from Tarnat - 2</b> <i class='fas fa-male'></i> - 150lei/night",
-                "link": {
-                  "text": "<i class='fas fa-info-circle'></i>",
-                  "textOnMouseOver": "see details and images",
-                  "link": "en/accommodation#tarnatHouse"
-                }
-              },
-              {
-                "id": "guidedTours",
-                "text": " <i class='fas fa-fw fa-hiking'></i> <b>Guided tours</b> (what you want to visit? - fill the 'Other details' box)"
-              },
-              {
-                "id": "bike",
-                "text": " <i class='fa fa-fw fa-bicycle'></i> <b>Bike</b> rent (how many? - fill the 'Other details' box)"
+                "name": "room",
+                "selectOptions": [
+                  {
+                    "text": "one person room - 100lei/night"
+                  },
+                  {
+                    "text": "a 2 person room - 120lei/night"
+                  },
+                  {
+                    "text": "a 3 person room - 150lei/night"
+                  },
+                  {
+                    "text": "a 4 person room - 180lei/night"
+                  }
+                ]
               }
             ]
           },

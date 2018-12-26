@@ -104,7 +104,7 @@
       "form": {
         "submitButtonText": "Trimite părerea ta",
         "successMessage": "Vă mulțumim! Părerea dumneavoastră îi va ajuta pe alți turiști în a alege Roșia ca destinație de vacanță.",
-        "errorMessage": "EROARE! Contactați-ne pe email petriadrian@gmail.com",
+        "errorMessage": "EROARE! Contactați-ne pe email casaPetriRosiaMontana@gmail.com",
         "fields": [
           {
             "type": "textarea",
