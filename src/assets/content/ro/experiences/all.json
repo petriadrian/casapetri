@@ -812,7 +812,17 @@
         },
         "content": [
           {
-            "text": "Ne aflăm într-o zonă cu dealuri, văi și sate apusene legate de drumuri de țară ideale de ciclism montan. Oferim biciclete de munte de închiriat sau trasee ghidate pe bicicletă. Mai jos sunt câteva din traseele pe care le-ai putea face la noi:"
+            "text": "Ne aflăm într-o zonă cu dealuri, văi și sate apusene legate de drumuri de țară ideale de ciclism montan. Dacă dorești să închiriezi biciclete sau trasee ghidate pe bicicletă te rugăm să specifici la efectuarea unei"
+          },
+          {
+            "link": {
+              "text": "rezervări.",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": "Mai jos sunt câteva din traseele pe care le-ai putea face la noi:"
           },
           {
             "link": {

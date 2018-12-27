@@ -812,7 +812,17 @@
         },
         "content": [
           {
-            "text": "We are located in an area with hills, valleys and unpaved roads between mountain villages perfect for cycling. We offer mountain bikes for rent or guided tours on bikes. See below some of the tracks you can do here:"
+            "text": "We are located in an area with hills, valleys and unpaved roads between mountain villages perfect for cycling. If you want to rent bikes or guided tours on bikes durring your stay please pecify while making a"
+          },
+          {
+            "link": {
+              "text": "booking.",
+              "textOnMouseOver": "Click here...",
+              "link": "en/accommodation#bookings"
+            }
+          },
+          {
+            "text": "Below are some of the tracks you can do in our area:"
           },
           {
             "link": {
