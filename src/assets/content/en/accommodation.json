@@ -50,7 +50,7 @@
         },
         "content": [
           {
-            "text": "In the past here was a bank with one meter wide stone walls, where the miners changed the gold in money and dynamite. Here are 2 bunk beds for <i class='fa fa-male'></i> 4 pers + <i class='fa fa-shower'></i> bathroom + <i class='fas fa-utensils'></i> kitchenette + <i class='fa fa-book'></i> library + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove."
+            "text": "In the past here was a bank with one meter wide stone walls, where the miners changed the gold in money and dynamite. Here can stay maximum <i class='fa fa-male'></i> 4 people (bunk beds) + <i class='fa fa-shower'></i> bathroom + <i class='fas fa-utensils'></i> kitchenette + <i class='fa fa-book'></i> library + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove."
           }
         ]
       }
@@ -63,7 +63,7 @@
           "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/1.jpg"
         },
         {
-          "text": "Books house - beds",
+          "text": "Books house - bunk beds",
           "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/beds.jpg",
           "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/beds.jpg"
         },
@@ -87,7 +87,7 @@
         },
         "content": [
           {
-            "text": "This place was the old summer house transformed into a small apartment for <i class='fa fa-male'></i> 2 pers (twin or double) + <i class='fa fa-shower'></i> bathroom + <i class='fas fa-utensils'></i> well equipped kitchen + <i class='fa fa-book'></i> library + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove"
+            "text": "This place was the old summer house of our grandparents where can stay maximum <i class='fa fa-male'></i> 3 people (one double bed + one single) + <i class='fa fa-shower'></i> bathroom + <i class='fas fa-utensils'></i> well equipped kitchen + <i class='fa fa-book'></i> library + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove"
           }
         ]
       }
@@ -95,7 +95,7 @@
     {
       "images": [
         {
-          "text": "Little house - a duble bed + a single bed, books, maps and guides about Roșia Montană",
+          "text": "Little house - has a double bed + a single bed, books, maps and guides about Roșia Montană",
           "thumbnail": "assets/img/accommodation/article/rooms/casuta/thumbnail/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg",
           "fullSize": "assets/img/accommodation/article/rooms/casuta/fullSize/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg"
         },
@@ -119,7 +119,7 @@
         },
         "content": [
           {
-            "text": "The 'tarnat' has <b>2 rooms</b> with some old and well preserved characteristics: the access through 'tarant' (an external hallway with small windows), the almost 100 years old painting and some small exhibits. Here can stay maximum <i class='fa fa-male'></i> 6 pers (each room has 1 double + 1 simple bed) + <i class='fa fa-shower'></i> bathroom + <i class='fas fa-utensils'></i> kitchenette + <i class='fa fa-book'></i> library + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove"
+            "text": "The 'tarnat' has <b>2 rooms</b> with some old and well preserved characteristics: the access through 'tarant' (an external hallway with small windows), the almost 100 years old painting and some small exhibits. Here can stay maximum <i class='fa fa-male'></i> 6 people (each room has 1 double + 1 single bed) + <i class='fa fa-shower'></i> bathroom + <i class='fas fa-utensils'></i> kitchenette + <i class='fa fa-book'></i> library + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove"
           }
         ]
       }
@@ -127,12 +127,12 @@
     {
       "images": [
         {
-          "text": "Tarnat room 1 - has one double bed and an extendable bed for 1 person.",
+          "text": "Tarnat room 1 - has one double bed and one single bed.",
           "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/tarnat1-masa-teracota1-casa-petri-tarnat.jpg",
           "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/tarnat1-masa-teracota1-casa-petri-tarnat.jpg"
         },
         {
-          "text": "Tarnat room 2 - has a double bed (that can be separated) and 1 person bed.",
+          "text": "Tarnat room 2 - has one double bed (that can be separated to become twin) and one single bed.",
           "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/tarnat2-dormitor-casa-petri-rosia-montana.jpg",
           "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/tarnat2-dormitor-casa-petri-rosia-montana.jpg"
         },

@@ -50,7 +50,7 @@
         },
         "content": [
           {
-            "text": "Acesta era fostul sediu de bancă (locul unde minerii schimbau aurul în bani și dinamită) motiv pentru care pereții de piatră au un metru grosime. Aici sunt 2 paturi etajate unde încap <i class='fa fa-male'></i> 4 pers + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire pe teracotă cu lemne"
+            "text": "Acesta era fostul sediu de bancă (locul unde minerii schimbau aurul în bani și dinamită) motiv pentru care pereții de piatră au un metru grosime. Aici încap maxim <i class='fa fa-male'></i> 4 pers (paturi etajate) + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire pe teracotă cu lemne"
           }
         ]
       }
@@ -63,7 +63,7 @@
           "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/1.jpg"
         },
         {
-          "text": "Casa cărților - paturi",
+          "text": "Casa cărților - 4 paturi etajate",
           "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/beds.jpg",
           "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/beds.jpg"
         },
@@ -87,7 +87,7 @@
         },
         "content": [
           {
-            "text": "Casuța era vechea bucătărie de vară a bunicilor transformată într-un un mic apartament pentru <i class='fa fa-male'></i> 2 persoane (twin sau dublu) + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> bucătărie bine dotată + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire pe teracotă cu lemne"
+            "text": "Casuța era vechea bucătărie de vară a bunicilor transformată într-un un mic apartament pentru maxim <i class='fa fa-male'></i> 3 persoane (un pat dublu + un pat simplu) + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> bucătărie bine dotată + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire pe teracotă cu lemne"
           }
         ]
       }
@@ -95,12 +95,12 @@
     {
       "images": [
         {
-          "text": "Căsuța - pat dublu și un pat de o persoană, cărți, hărți și ghiduri despre Roșia Montană",
+          "text": "Căsuța - are un pat dublu și un pat de o persoană, cărți, hărți și ghiduri despre Roșia Montană",
           "thumbnail": "assets/img/accommodation/article/rooms/casuta/thumbnail/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg",
           "fullSize": "assets/img/accommodation/article/rooms/casuta/fullSize/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg"
         },
         {
-          "text": "Căsuța - Din cameră se intră direct în baie sau bucătărie, iar încălzirea se face cu o teracotă pe lemne.",
+          "text": "Căsuța - din cameră se intră direct în baie sau bucătărie, iar încălzirea se face cu o teracotă pe lemne.",
           "thumbnail": "assets/img/accommodation/article/rooms/casuta/thumbnail/3.jpg",
           "fullSize": "assets/img/accommodation/article/rooms/casuta/fullSize/3.jpg"
         },
@@ -127,12 +127,12 @@
     {
       "images": [
         {
-          "text": "Camera târnaț 1 - are un pat dublu și încă un pat extensibil de o persoană.",
+          "text": "Camera târnaț 1 - are un pat dublu și un pat de o persoană.",
           "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/tarnat1-masa-teracota1-casa-petri-tarnat.jpg",
           "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/tarnat1-masa-teracota1-casa-petri-tarnat.jpg"
         },
         {
-          "text": "Camera târnaț 2 - are un patul dublu (care se poate și separa) și încă unul simplu.",
+          "text": "Camera târnaț 2 - are un pat dublu (care se poate și separa pentru a deveni twin) și încă unul simplu.",
           "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/tarnat2-dormitor-casa-petri-rosia-montana.jpg",
           "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/tarnat2-dormitor-casa-petri-rosia-montana.jpg"
         },
