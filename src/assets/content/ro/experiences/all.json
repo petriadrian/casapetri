@@ -766,11 +766,11 @@
       "article": {
         "heading": {
           "id": "guidedTour",
-          "subtitle": "<i class='fas fa-hiking'></i> Află povestea zonei prin Tururi ghidate"
+          "subtitle": "<i class='fas fa-hiking'></i> Află povestea zonei: Tururi ghidate"
         },
         "content": [
           {
-            "text": "Îți recomandăm să vizitezi zona noastră împreună cu un ghid deoarece povestea contează, iar Roșia Montană are un trecut de aur. <b>Organizăm tururi ghidate</b> prin care descoperi centrul istoric, obiectivele folosite în extracția aurului (tăuri, galerii, cariere), zona propusă ca sit UNESCO, impactul megaproiectului canadian și protestele de atunci sau diverse alte atracții din Apuseni descrise pe acestă pagină. Specifică la efectuarea unei"
+            "text": "Îți recomandăm să vizitezi zona noastră împreună cu un ghid deoarece povestea contează, iar Roșia Montană are un trecut de aur. <b>Organizăm tururi ghidate</b> prin care descoperi centrul istoric, obiectivele folosite în extracția auruluide (tăuri, galerii, cariere), zona propusă ca sit UNESCO, impactul megaproiectului canadian și protestele de atunci sau tururi spre alte atracții din zonă. Specifică la efectuarea unei"
           },
           {
             "link": {
@@ -780,7 +780,7 @@
             }
           },
           {
-            "text": " dacă dorești să participi la un tur ghidat și cam ce atracții ai dori să vizitezi."
+            "text": " dacă dorești să participi la un tur ghidat, iar apoi te vom contacta pentru a stabili toate detaliile."
           }
         ]
       }

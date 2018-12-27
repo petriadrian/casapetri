@@ -766,11 +766,11 @@
       "article": {
         "heading": {
           "id": "guidedTour",
-          "subtitle": "<i class='fas fa-hiking'></i> Find out the local stories. Guided tours"
+          "subtitle": "<i class='fas fa-hiking'></i> Find the local stories. Guided tours"
         },
         "content": [
           {
-            "text": "We recommend to visit our area with a guide because the local stories matters and Rosia Montana has a golden past. <b>We organize guided tours</b> to discover the historic center, the objectives used for gold mining (lakes, galleries, open pits), the proposed UNESCO area, the impact of the canadian mining project and the protests against it or other attractions from the Apuseni mountains described on this page. If you are interested in participating to a guided tour specify while making a"
+            "text": "We recommend to visit our area with a guide because the local stories matters and Rosia Montana has a golden past. <b>We organize guided tours</b> to discover the historic center, the objectives used for gold mining (lakes, galleries, open pits), the proposed UNESCO area, the impact of the canadian mining project and the protests or other attractions from our area. If you are interested in guided tours specify while making a"
           },
           {
             "link": {
@@ -778,6 +778,9 @@
               "textOnMouseOver": "Click here...",
               "link": "en/accommodation#bookings"
             }
+          },
+          {
+            "text": "and we will contact you after with more details."
           }
         ]
       }
