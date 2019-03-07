@@ -3,6 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 To make the build
+- go on digital ocean and set 2gb ram memory
 - open 167.99.196.145 from mobaXterm
 cd casaPetri
 git pull
