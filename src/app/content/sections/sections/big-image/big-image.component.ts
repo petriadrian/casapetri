@@ -2,11 +2,11 @@ import {Component, Input} from '@angular/core';
 import {UrlService} from '../../../../url-services/url.service';
 
 @Component({
-  selector: 'app-link-image-big-text',
-  templateUrl: './link-image-big-text.component.html',
-  styleUrls: ['./link-image-big-text.component.css']
+  selector: 'app-big-image',
+  templateUrl: './big-image.component.html',
+  styleUrls: ['./big-image.component.css']
 })
-export class LinkImageBigTextComponent {
+export class BigImageComponent {
 
   @Input() content;
 

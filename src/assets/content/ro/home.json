@@ -99,18 +99,28 @@
         "heading": {
           "id": "guidedTour",
           "title": "<i class='fas fa-hiking'></i> Hai într-un tur al zonei noastre"
-        }
+        },
+        "content": [
+          {
+            "text": "Avem o zonă bogată în obiective naturale și istorice, cunoaștem împrejurimile, ținem legătura cu localnicii și știm ce poți face și vizita aici. Pentru a descoperi toate acestea oferim "
+          },
+          {
+            "link": {
+              "text": "tururi ghidate",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/experiences/all#guidedTour"
+            }
+          },
+          {
+            "text": " în zona noastră."
+          }
+        ]
       }
     },
     {
-      "linkImageBigText": [
+      "bigImage": [
         {
-          "text": "Avem o zonă bogată în obiective naturale și istorice, cunoaștem împrejurimile, ținem legătura cu localnicii și știm ce poți face și vizita aici. Vezi aici detalii despre <b>tururi ghidate</b> pe care le organizăm.",
-          "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg",
-          "url": {
-            "link": "ro/experiences/all#guidedTour",
-            "textOnMouseOver": "Click aici..."
-          }
+          "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
         }
       ]
     },
@@ -161,7 +171,7 @@
           }
         },
         {
-          "title": "Hai la poiana cu narcise",
+          "title": "Drumeție la Poiana cu Narcise",
           "text": "În weekendurile din luna Mai organizam drumeții spre un loc magic din Apuseni cu peisaje de poveste și miros de neiuitat: 'Poiana cu Narcise'",
           "img": "assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
           "url": {

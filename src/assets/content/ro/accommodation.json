@@ -188,7 +188,24 @@
         },
         "content": [
           {
-            "text": "Te-ai decis să vi la Roșia? Completează formularul de cazare de mai jos și scrie-ne în căsuța 'Alte detalii' dacă dorești biciclete de închiriat, tururi ghidate, să fi cazat într-o anume cameră sau orice alte detalii."
+            "text": "Te-ai decis să vi la Roșia? Completează formularul de cazare de mai jos și scrie-ne în căsuța 'Alte detalii' dacă dorești să fi cazat într-o cameră anume, să închiriezi biciclete sau să-ți organizăm un "
+          },
+          {
+            "link": {
+              "text": "tur ghidat",
+              "textOnMouseOver": "Click here...",
+              "link": "ro/experiences/all#guidedTour"
+            }
+          },
+          {
+            "text": " spre oricare dintre atracțiile descrise pe pagina "
+          },
+          {
+            "link": {
+              "text": "'experiențe'",
+              "textOnMouseOver": "Click here...",
+              "link": "ro/experiences/all"
+            }
           }
         ]
       }

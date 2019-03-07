@@ -6,8 +6,8 @@
             [classResponsive]="'col-xs-12 col-sm-12 col-md-12 col-lg-8'"></app-form>
   <app-carousel *ngIf="!!section?.carousel" [content]="section?.carousel"></app-carousel>
   <app-link-image-text *ngIf="!!section?.linkImageText" [content]="section?.linkImageText"></app-link-image-text>
-  <app-link-image-big-text *ngIf="!!section?.linkImageBigText"
-                           [content]="section?.linkImageBigText"></app-link-image-big-text>
+  <app-big-image *ngIf="!!section?.bigImage"
+                           [content]="section?.bigImage"></app-big-image>
   <app-image-video-text-buttons *ngIf="!!section?.imageVideoTextButtons"
                                 [content]="section?.imageVideoTextButtons"></app-image-video-text-buttons>
   <app-common-item *ngIf="!!section?.commonItem" [content]="section?.commonItem"></app-common-item>

@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { LinkImageBigTextComponent } from './link-image-big-text.component';
+import { BigImageComponent } from './link-image-big-text.component';
 
-describe('LinkImageBigTextComponent', () => {
-  let component: LinkImageBigTextComponent;
-  let fixture: ComponentFixture<LinkImageBigTextComponent>;
+describe('BigImageComponent', () => {
+  let component: BigImageComponent;
+  let fixture: ComponentFixture<BigImageComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ LinkImageBigTextComponent ]
+      declarations: [ BigImageComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(LinkImageBigTextComponent);
+    fixture = TestBed.createComponent(BigImageComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

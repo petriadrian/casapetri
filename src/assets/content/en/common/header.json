@@ -17,11 +17,6 @@
       "textOnMouseOver": "accommodation, guided tours, bikes rent, food info - bookings"
     },
     {
-      "text": "Events",
-      "link": "en/home#events",
-      "textOnMouseOver": "see events and packages"
-    },
-    {
       "text": "Reviews",
       "link": "en/review",
       "textOnMouseOver": "reviews"

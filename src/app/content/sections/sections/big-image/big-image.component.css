@@ -1,0 +1,11 @@
+.big-image-content {
+  margin: 20px 0;
+}
+
+.image-shrink {
+  max-height: 600px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  margin: 3px;
+}

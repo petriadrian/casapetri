@@ -19,7 +19,7 @@ import {CommonItemComponent} from './content/sections/sections/common-item/commo
 import {SectionManagementComponent} from './content/sections/section-management/section-management.component';
 import {CarouselComponent} from './content/sections/sections/carousel/carousel.component';
 import {LinkTextComponent} from './content/sections/sections/link-text/link-text.component';
-import {LinkImageBigTextComponent} from './content/sections/sections/link-image-big-text/link-image-big-text.component';
+import {BigImageComponent} from './content/sections/sections/big-image/big-image.component';
 import {IframeComponent} from './content/sections/sections/iframe/iframe.component';
 import {ArticleComponent} from './content/sections/sections/article/article/article.component';
 import {HeadingComponent} from './content/sections/sections/article/elements/heading/heading.component';
@@ -45,7 +45,7 @@ import {ContentComponent} from './content/sections/sections/article/elements/con
     SectionManagementComponent,
     CommonItemComponent,
     LinkTextComponent,
-    LinkImageBigTextComponent,
+    BigImageComponent,
     InfoModalComponent,
     HeadingComponent,
     ContentComponent,
