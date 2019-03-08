@@ -89,7 +89,7 @@
       "article": {
         "heading": {
           "id": "galleries",
-          "title": "<i class='fas fa-dungeon'></i> Mergi pe urmele căutătorilor de aur"
+          "title": "<i class='fas fa-dungeon'></i> Pe urmele căutătorilor de aur. Galeriile"
         },
         "content": [
           {
@@ -125,49 +125,6 @@
         },
         {
           "img": "assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
-        }
-      ]
-    },
-    {
-      "article": {
-        "heading": {
-          "id": "hayhouse",
-          "title": "<i class='fas fa-home'></i> Descoperă un 'Muzeu în aer liber'. Casele cu paie"
-        },
-        "content": [
-          {
-            "text": "O plimbare spre satele din apropierea zonei noastre este asemeni unei călătorii în timp. O parte din gospodării au rămas conservate așa cum erau în trecut, acoperite cu paie sau șindrilă de lemn."
-          },
-          {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum pot vizita?</b> Hai cel putin 2 zile în vacanță la Roșia și da-ne de stire că doresti un "
-          },
-          {
-            "link": {
-              "text": "tur ghidat",
-              "textOnMouseOver": "vezi aici detalii",
-              "link": "ro/experiences/all#guidedTour"
-            }
-          },
-          {
-            "text": " al caselor cu paie (se poate ajunge pe jos sau cu bicicleta) "
-          },
-          {
-            "link": {
-              "text": "Fă o rezervare aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "bigImage": [
-        {
-          "img": "assets/img/attractions/mogos-case-paie-cheile-ramet.jpg"
-        },
-        {
-          "img": "assets/img/attractions/mogos-sura-casa-paie-mix.jpg"
         }
       ]
     },
@@ -211,39 +168,6 @@
         },
         {
           "img": "assets/img/attractions/nature-monuments-mix.jpg"
-        }
-      ]
-    },
-    {
-      "article": {
-        "heading": {
-          "id": "hiking",
-          "title": "<i class='fas fa-tree'></i> Trasee marcate de drumeție"
-        },
-        "content": [
-          {
-            "text": "Drumeții în natură, aer curat, sau plimbări cu bicicleta? Descoperă Roșia Montană și împrejurimile urmând <b>traseele marcate</b> de diferite niveluri de dificultate și durată (3, 5 sau 8 ore)."
-          },
-          {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> Marcajele pornesc chiar din fața casei așa că ia-ți bocancii de drumeție și hai cel putin 2 zile în vacanță la Roșia. "
-          },
-          {
-            "link": {
-              "text": "Fă o rezervare aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "bigImage": [
-        {
-          "img": "assets/img/attractions/turisti-trasee-marcate-rosia-montana.jpg"
-        },
-        {
-          "img": "assets/img/attractions/turisti-sulei-rosia-montana.jpg"
         }
       ]
     },
@@ -360,6 +284,82 @@
         },
         {
           "img": "assets/img/attractions/detunata-mix-tedi-pietre-bucium-rosia-montana.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "hayhouse",
+          "title": "<i class='fas fa-home'></i> Descoperă un 'Muzeu în aer liber'. Casele cu paie"
+        },
+        "content": [
+          {
+            "text": "O plimbare spre satele din apropierea zonei noastre este asemeni unei călătorii în timp. O parte din gospodării au rămas conservate așa cum erau în trecut, acoperite cu paie sau șindrilă de lemn."
+          },
+          {
+            "text": "<br><i class='fas fa-star'></i> <b>Cum pot vizita?</b> Hai cel putin 2 zile în vacanță la Roșia și da-ne de stire că doresti un "
+          },
+          {
+            "link": {
+              "text": "tur ghidat",
+              "textOnMouseOver": "vezi aici detalii",
+              "link": "ro/experiences/all#guidedTour"
+            }
+          },
+          {
+            "text": " al caselor cu paie (se poate ajunge pe jos sau cu bicicleta) "
+          },
+          {
+            "link": {
+              "text": "Fă o rezervare aici",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "bigImage": [
+        {
+          "img": "assets/img/attractions/mogos-case-paie-cheile-ramet.jpg"
+        },
+        {
+          "img": "assets/img/attractions/mogos-sura-casa-paie-mix.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
+          "id": "hiking",
+          "title": "<i class='fas fa-tree'></i> Trasee marcate de drumeție"
+        },
+        "content": [
+          {
+            "text": "Drumeții în natură, aer curat, sau plimbări cu bicicleta? Descoperă Roșia Montană și împrejurimile urmând <b>traseele marcate</b> de diferite niveluri de dificultate și durată (3, 5 sau 8 ore)."
+          },
+          {
+            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> Marcajele pornesc chiar din fața casei așa că ia-ți bocancii de drumeție și hai cel putin 2 zile în vacanță la Roșia. "
+          },
+          {
+            "link": {
+              "text": "Fă o rezervare aici",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "bigImage": [
+        {
+          "img": "assets/img/attractions/turisti-trasee-marcate-rosia-montana.jpg"
+        },
+        {
+          "img": "assets/img/attractions/turisti-sulei-rosia-montana.jpg"
         }
       ]
     },
@@ -695,7 +695,7 @@
         },
         "content": [
           {
-            "text": "Îți recomandăm să vizitezi zona noastră împreună cu un ghid deoarece povestea contează, iar Roșia Montană are un trecut de aur. <b>Organizăm tururi ghidate</b> prin care descoperi centrul istoric, obiectivele folosite în extracția aurului (tăuri, galerii, cariere), zona propusă ca sit UNESCO sau obiectivele naturale. Specifică la efectuarea unei"
+            "text": "Îți recomandăm să vizitezi zona noastră împreună cu un ghid deoarece povestea contează, iar Roșia Montană are un trecut de aur. <b>Organizăm tururi ghidate</b> prin care descoperi atracțiile descrise pe această pagină ca centrul istoric, povestea aurului și mineritul, zona propusă ca sit UNESCO, tăurile, galeriile și obiectivele naturale. Specifică la efectuarea unei"
           },
           {
             "link": {
@@ -705,7 +705,7 @@
             }
           },
           {
-            "text": " dacă dorești să participi la un tur ghidat, spune-ne cam ce zone te interesează, iar apoi te vom contacta pentru a stabili toate detaliile."
+            "text": " dacă dorești să-ți organizăm pe perioada șederii un tur ghidat și spune-ne ce zone te interesează, iar apoi te vom contacta pentru a stabili toate detaliile."
           }
         ]
       }
@@ -724,11 +724,11 @@
       "article": {
         "heading": {
           "id": "bike",
-          "title": "<i class='fas fa-bicycle'></i> Hai la o tură cu bicicleta"
+          "title": "<i class='fas fa-bicycle'></i> Explorează zona cu bicicleta"
         },
         "content": [
           {
-            "text": "Ne aflăm într-o zonă cu dealuri, văi și sate apusene legate de drumuri de țară ideale de ciclism montan. Dacă dorești pe perioada șederii să închiriezi biciclete sau trasee ghidate pe bicicletă te rugăm să specifici la efectuarea unei"
+            "text": "Ne aflăm într-o zonă cu dealuri, văi și sate apusene legate de drumuri de țară ideale pentru ture cu bicicleta. Dacă dorești pe perioada șederii să <b>închiriezi biciclete sau trasee ghidate pe bicicletă</b> te rugăm să specifici la efectuarea unei"
           },
           {
             "link": {
@@ -738,39 +738,39 @@
             }
           },
           {
-            "text": " Mai jos sunt câteva din traseele pe care le poți face la noi:"
+            "text": " Câteva link-uri spre <b>trasee cu hărți, profil și date gps</b> pe care le poți face la noi găsești pe: "
           },
           {
             "link": {
-              "text": "<br><b>- Traseul Tăurilor</b> - 7km - vezi harta, profil și date gps",
+              "text": "<br>Traseul Tăurilor - 7km | ",
               "textOnMouseOver": "Click aici...",
               "link": "https://www.bikemap.net/en/r/4121632"
             }
           },
           {
             "link": {
-              "text": "<br><b>- Traseul Vârtop</b> - 12km - vezi harta, profil și date gps",
+              "text": "Traseul Vârtop - 12km | ",
               "textOnMouseOver": "Click aici...",
               "link": "https://www.bikemap.net/en/r/3594806"
             }
           },
           {
             "link": {
-              "text": "<br><b>- Traseul Detunata</b> - 20km - vezi harta, profil și date gps",
+              "text": "Traseul Detunata - 20km | ",
               "textOnMouseOver": "Click aici...",
               "link": "https://www.bikemap.net/en/r/4122612/"
             }
           },
           {
             "link": {
-              "text": "<br><b>- Traseul Geamăna</b> - 34km - vezi harta, profil și date gps",
+              "text": "Traseul Geamăna - 34km | ",
               "textOnMouseOver": "Click aici...",
               "link": "https://www.bikemap.net/en/r/3873269"
             }
           },
           {
             "link": {
-              "text": "<br><b>- Traseul Negrileasa</b> - 39km - vezi harta, profil și date gps",
+              "text": "Traseul Negrileasa - 39km",
               "textOnMouseOver": "Click aici...",
               "link": "https://www.bikemap.net/en/r/3873321"
             }
