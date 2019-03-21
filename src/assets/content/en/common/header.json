@@ -7,12 +7,12 @@
   },
   "leftButtons": [
     {
-      "text": "See & do",
+      "text": "Experiences",
       "link": "en/experiences/all",
       "textOnMouseOver": "experiences"
     },
     {
-      "text": "Sleep & eat",
+      "text": "Accommodation",
       "link": "en/accommodation",
       "textOnMouseOver": "accommodation, guided tours, bikes rent, food info - bookings"
     },

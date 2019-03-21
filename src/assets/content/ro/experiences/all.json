@@ -1,7 +1,7 @@
 {
   "metaData": {
     "title": "Roșia Montană nu e doar o vacanță, e o experiență!",
-    "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Pentru a le descoperi oferim trasee ghidate, iar din fața casei pornesc 5 trasee marcate.",
+    "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Vezi azici ce poți vizita la noi.",
     "img": "/assets/img/attractions/presentation/fullWidthImg.jpg"
   },
   "sections": [
@@ -20,27 +20,30 @@
         },
         "content": [
           {
-            "text": "Aici vei găsi 7 biserici de culte diferite, casele aurarilor și alte clădiri de patrimoniu construite de diverse civilizații venite aici dealungul timpului pentru a extrage aur."
+            "text": "Aici vei găsi 7 biserici de culte diferite, casele aurarilor și alte clădiri de patrimoniu construite de diverse civilizații venite aici de-a lungul timpului pentru a extrage aur."
           },
           {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> Hai în vacanță la Roșia, iar pentru a afla povestea clădirilor da-ne de stire că doresti un "
+            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> "
           },
           {
             "link": {
-              "text": "tur ghidat",
+              "text": "Rezervă o vacanță la Roșia ",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": "și da-ne de stire că doresti un"
+          },
+          {
+            "link": {
+              "text": "tur ghidat ",
               "textOnMouseOver": "vezi aici detalii",
               "link": "ro/experiences/all#guidedTour"
             }
           },
           {
-            "text": " al centrului istoric. "
-          },
-          {
-            "link": {
-              "text": "Fă o rezervare aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
+            "text": "al centrului istoric prin care afli povestea clădirilor de patrimoniu."
           }
         ]
       }
@@ -63,7 +66,7 @@
         },
         "content": [
           {
-            "text": "Pornește într-un tur ghidat al galeriilor romane de la <b>Muzeul Mineritului Roșia Montană</b>, vezi evoluția tehnicilor de scoatere și prelucrare a metalelor prețioase, descoperă filonele de aur nativ și expozițiile de minerale de la <b>Muzeul Aurului Brad</b> sau instalația de prelucrare a aurului complet funcțională de la <b>Muzeul Buciumanilor</b>. "
+            "text": "Pornește într-un tur ghidat al galeriilor romane de la <b>Muzeul Mineritului Roșia Montană</b> și vezi evoluția tehnicilor de scoatere a metalelor prețioase, descoperă filonele de aur nativ și expozițiile de minerale de la <b>Muzeul Aurului Brad</b> sau instalația de prelucrare a aurului complet funcțională de la <b>Muzeul Buciumanilor</b>. "
           },
           {
             "link": {
@@ -89,31 +92,34 @@
       "article": {
         "heading": {
           "id": "galleries",
-          "title": "<i class='fas fa-dungeon'></i> Pe urmele căutătorilor de aur. Galeriile"
+          "title": "<i class='fas fa-dungeon'></i> Pornește pe urmele căutătorilor de aur. Galeriile"
         },
         "content": [
           {
             "text": "Roșia Montană deține una din <b>cele mai extinse complexe de mine aurifere din lume</b>, un labirint subteran de peste 120km format din galerii romane, preromane sau habsburgice propuse ca sit <b>UNESCO</b>."
           },
           {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> Hai în vacanță la Roșia și da-ne de stire că doresti un "
+            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> "
           },
           {
             "link": {
-              "text": "tur ghidat",
+              "text": "Rezervă o vacanță la Roșia",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": " și da-ne de stire că doresti un "
+          },
+          {
+            "link": {
+              "text": "tur ghidat ",
               "textOnMouseOver": "vezi aici detalii",
               "link": "ro/experiences/all#guidedTour"
             }
           },
           {
-            "text": " al galeriilor aurifere. "
-          },
-          {
-            "link": {
-              "text": "Fă o rezervare aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
+            "text": " al galeriilor aurifere."
           }
         ]
       }
@@ -139,24 +145,27 @@
             "text": "Zona naturală protejată 'Piatra Corbului' formată din fostele exploatări aurifere de apă și foc, Piatra Căpcăunului și legende sale sau Sfinxul în formă de cal sunt câteva din 'monumentele naturii' ce merită vizitate."
           },
           {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> Hai în vacanță la Roșia și da-ne de stire că doresti un "
+            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> "
           },
           {
             "link": {
-              "text": "tur ghidat",
+              "text": "Rezervă o vacanță la Roșia",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": " și da-ne de stire că doresti un "
+          },
+          {
+            "link": {
+              "text": "tur ghidat ",
               "textOnMouseOver": "vezi aici detalii",
               "link": "ro/experiences/all#guidedTour"
             }
           },
           {
-            "text": " al monumentelor naturii. "
-          },
-          {
-            "link": {
-              "text": "Fă o rezervare aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
+            "text": "al monumentelor naturii. "
           }
         ]
       }
@@ -182,24 +191,27 @@
             "text": "Tăurile au fost construite pentru procesarea aurului, iar acum au devenit locuri de agreement ideale de ieșit la picnic (Tăul Țarina), de a lenevi la soare (Tăul Brazi) sau de a te bucura de un apus de poveste (Tăul 'Inimă')."
           },
           {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> Hai în vacanță la Roșia, iar pentru a afla rolul tăurilor în procesarea aurului da-ne de stire că doresti un "
+            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> "
           },
           {
             "link": {
-              "text": "tur ghidat",
+              "text": "Rezervă o vacanță la Roșia",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": " și da-ne de stire că doresti un "
+          },
+          {
+            "link": {
+              "text": "tur ghidat ",
               "textOnMouseOver": "vezi aici detalii",
               "link": "ro/experiences/all#guidedTour"
             }
           },
           {
-            "text": " al acestora. "
-          },
-          {
-            "link": {
-              "text": "Fă o rezervare aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
+            "text": "al tăurilor pentru a afla rolul lor în procesarea aurului."
           }
         ]
       }
@@ -223,13 +235,6 @@
         "content": [
           {
             "text": "Fie că-ți dorești natură, liniște sau locuri cu priveliști deosebite, pornește în aventură pe potecile mai puțin umblate din zona noastră. Pentru a prinde lăsarea ceții pe văile din zonă începe-ți drumeția dimineața devreme. "
-          },
-          {
-            "link": {
-              "text": "Rezervă o vacanță aici.",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
           }
         ]
       }
@@ -255,24 +260,27 @@
             "text": "Detunata este poate cel mai spectaculos masiv din zona noastră, o arie naturală protejată formată din coloane înalte de bazalt, la baza căruia s-a format o mare de blocuri de piatră printre care apar mici ghețare."
           },
           {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> Hai în vacanță la Roșia și da-ne de stire că doresti un "
+            "text": "<br><i class='fas fa-star'></i> <b>Cum se poate vizita?</b> "
           },
           {
             "link": {
-              "text": "tur ghidat",
+              "text": "Rezervă o vacanță la Roșia",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": " și da-ne de stire că doresti un"
+          },
+          {
+            "link": {
+              "text": "tur ghidat ",
               "textOnMouseOver": "vezi aici detalii",
               "link": "ro/experiences/all#guidedTour"
             }
           },
           {
-            "text": " pentru a afla legendele și secretele Detunatei. "
-          },
-          {
-            "link": {
-              "text": "Fă o rezervare aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
+            "text": "al Detunatei pentru a afla legendele și secretele acesteia."
           }
         ]
       }
@@ -298,24 +306,27 @@
             "text": "O plimbare spre satele din apropierea zonei noastre este asemeni unei călătorii în timp. O parte din gospodării au rămas conservate așa cum erau în trecut, acoperite cu paie sau șindrilă de lemn."
           },
           {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> Hai în vacanță la Roșia și da-ne de stire că doresti un "
+            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> "
           },
           {
             "link": {
-              "text": "tur ghidat",
+              "text": "Rezervă o vacanță la Roșia ",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": "și da-ne de stire că doresti un"
+          },
+          {
+            "link": {
+              "text": "tur ghidat ",
               "textOnMouseOver": "vezi aici detalii",
               "link": "ro/experiences/all#guidedTour"
             }
           },
           {
-            "text": " al caselor cu paie (se poate ajunge pe jos sau cu bicicleta) "
-          },
-          {
-            "link": {
-              "text": "Fă o rezervare aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
+            "text": " al caselor cu paie (pe jos sau cu bicicleta)"
           }
         ]
       }
@@ -338,17 +349,20 @@
         },
         "content": [
           {
-            "text": "Drumeții în natură, aer curat, sau plimbări cu bicicleta? Descoperă Roșia Montană și împrejurimile urmând <b>traseele marcate</b> de diferite niveluri de dificultate și durată (3, 5 sau 8 ore)."
+            "text": "Drumeții în natură, aer curat sau plimbări cu bicicleta? Descoperă Roșia Montană și împrejurimile urmând <b>traseele marcate</b> de diferite niveluri de dificultate și durată (3, 5 sau 8 ore)."
           },
           {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> Marcajele pornesc chiar din fața casei așa că ia-ți bocancii de drumeție și hai în vacanță la Roșia. "
+            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> Marcajele pornesc chiar din fața casei așa că"
           },
           {
             "link": {
-              "text": "Fă o rezervare aici",
+              "text": "rezervă o vacanță la Roșia",
               "textOnMouseOver": "Click aici...",
               "link": "ro/accommodation#bookings"
             }
+          },
+          {
+            "text": ", ia-ți bocancii de munte și hai la o drumeție în natură."
           }
         ]
       }
@@ -371,27 +385,30 @@
         },
         "content": [
           {
-            "text": "În apropiere de Roșia Montană se află una dintre cele mai importante locații de vizitat din Apuseni în luna Mai. Mirosul și priveliștea din Poiana în perioada înfloririi narciselor vor rămâne cu siguranță amintiri de neuitat."
+            "text": "Acest loc din apropiere de Roșia Montană este una din locațiile 'musai de văzut' ale Apusenilor în luna Mai. Mirosul și priveliștea de aici în perioada înfloririi narciselor va rămâne cu siguranță o amintire de neuitat."
           },
           {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum se poate vizita?</b> Hai în vacanță la Roșia și da-ne de stire că doresti un "
+            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> "
           },
           {
             "link": {
-              "text": "tur ghidat",
+              "text": "Rezervă o vacanță la Roșia ",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": "și da-ne de stire că doresti un"
+          },
+          {
+            "link": {
+              "text": "tur ghidat ",
               "textOnMouseOver": "vezi aici detalii",
               "link": "ro/experiences/all#guidedTour"
             }
           },
           {
-            "text": " spre Poiana Cu Narcise (cu bicicleta sau drumeție). "
-          },
-          {
-            "link": {
-              "text": "Rezervări aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
+            "text": " spre Poiana Cu Narcise (pe jos sau cu bicicleta). "
           }
         ]
       }
@@ -409,6 +426,33 @@
     {
       "article": {
         "heading": {
+          "id": "movieScreenings",
+          "title": "<i class='fas fa-video'></i> Proiecții-n prun. Documentare Roșia"
+        },
+        "content": [
+          {
+            "text": "De obicei în serile de vară ne adunăm în grădina, atârnăm proiectorul în prun și urmărim documentare sau filme vechi realizate în Roșia. Dacă doriți să organizăm o proiecție într-una din seri, nu uitați să specificați la efectuarea unei "
+          },
+          {
+            "link": {
+              "text": "rezervări",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "bigImage": [
+        {
+          "img": "assets/img/accommodation/article/outside/fullSize/film-proiectie-gradina-casa-petri.jpg"
+        }
+      ]
+    },
+    {
+      "article": {
+        "heading": {
           "id": "communism",
           "title": "<i class='fas fa-city'></i> Vezi mega-exploatările comuniste"
         },
@@ -417,24 +461,27 @@
             "text": "Pentru a vedea impactul și prețul plătit pentru obținerea metalelor prețioase vizitați cariera Roșia Poieni (una din cele mai extinse din Europa) și iazul de decantare ce a scufundat satul Geamăna."
           },
           {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> Hai în vacanță la Roșia și da-ne de stire că doresti un "
+            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> "
           },
           {
             "link": {
-              "text": "tur ghidat",
+              "text": "Rezervă o vacanță la Roșia ",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": "și da-ne de stire că doresti un"
+          },
+          {
+            "link": {
+              "text": "tur ghidat ",
               "textOnMouseOver": "vezi aici detalii",
               "link": "ro/experiences/all#guidedTour"
             }
           },
           {
             "text": " al explotărilor miniere. "
-          },
-          {
-            "link": {
-              "text": "Fă o rezervare aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
           }
         ]
       }
@@ -457,24 +504,27 @@
             "text": "Vezi locurile unde timp de 15 ani au avut loc acțiuni împotriva companiei canadiene ce dorea o mare exploatare cu cianuri la Roșia Montană pentru a extrage aurul rămas. "
           },
           {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> Hai în vacanță la Roșia și da-ne de stire că doresti un "
+            "text": "<br><i class='fas fa-star'></i> <b>Cum se pot vizita?</b> "
           },
           {
             "link": {
-              "text": "tur ghidat",
+              "text": "Rezervă o vacanță la Roșia ",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": "și da-ne de stire că doresti un"
+          },
+          {
+            "link": {
+              "text": "tur ghidat ",
               "textOnMouseOver": "vezi aici detalii",
               "link": "ro/experiences/all#guidedTour"
             }
           },
           {
-            "text": " pentru a afla povestea campanie și impactul proiectului canadian. "
-          },
-          {
-            "link": {
-              "text": "Fă o rezervare aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
+            "text": "prin care afli povestea campanie și impactul proiectului canadian. "
           }
         ]
       }
@@ -497,24 +547,27 @@
             "text": "Masivul este într-adevăr un vulcan stins acum mult timp. Impresionează prin forma lui convexă, peisajele tipic Apusene și pereții înalți și drepți ideali de escaladă."
           },
           {
-            "text": "<br><i class='fas fa-star'></i> <b>Cum se poate vizita?</b> Hai în vacanță la Roșia și dă-ne de știre că dorești "
+            "text": "<br><i class='fas fa-star'></i> <b>Cum se poate vizita?</b>"
           },
           {
             "link": {
-              "text": "tur ghidat",
+              "text": "Rezervă o vacanță la Roșia ",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": "și da-ne de stire că doresti un"
+          },
+          {
+            "link": {
+              "text": "tur ghidat ",
               "textOnMouseOver": "vezi aici detalii",
               "link": "ro/experiences/all#guidedTour"
             }
           },
           {
             "text": " al Masivului Vulcan (cu bicicleta sau drumeție). "
-          },
-          {
-            "link": {
-              "text": "Fă o rezervare aici",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
           }
         ]
       }
@@ -574,7 +627,7 @@
             }
           },
           {
-            "text": "<br><b>Cascada Pișoaia</b> și <b>Dealul cu Melci</b> - descoperă rezervaţiile peisagistice din zona Vidra, Apuseni"
+            "text": "<br><b>Cascada Pișoaia</b> și <b>Dealul cu Melci</b> (specii de moluște încrustate în piatră ce au trăit cu milioane de ani în urmă pe fundul mării)"
           },
           {
             "link": {
@@ -772,7 +825,17 @@
         },
         "content": [
           {
-            "text": "În funcție de sezon, pe dealurile din împrejurimi o să găsiți diverse bunătăți direct de la sursă. De veniți în luna Mai sau Iunie sunt <b>fragi și muguri de brad</b> iar în luna Iulie sau August <b>zmeură, afine, mure și merișoare</b>. Înarmați-vă cu răbdare și haideți la cules de fructe de pădure."
+            "text": "În funcție de sezon, pe dealurile din împrejurimi o să găsiți diverse bunătăți direct de la sursă. De veniți în luna Mai sau Iunie sunt <b>fragi și muguri de brad</b> iar în luna Iulie sau August <b>zmeură, afine, mure și merișoare</b>. Înarmează-te cu răbdare,"
+          },
+          {
+            "link": {
+              "text": "rezervă o vacanță la Roșia ",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings"
+            }
+          },
+          {
+            "text": "și haide la cules de fructe de pădure."
           }
         ]
       }
@@ -813,3 +876,5 @@
     }
   ]
 }
+
+

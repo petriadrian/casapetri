@@ -7,33 +7,16 @@
   "sections": [
     {
       "imageVideoTextButtons": {
-        "text": "Planuiește-ți vizita la Roșia Montană",
+        "text": "Stai într-o casă cu poveste, la Rosia Montană",
         "videoSource": "",
-        "img": "/assets/img/accommodation/article/outside/fullSize/casa-petri-gradina-primavaracopaci-infloriti.jpg",
-        "buttons": [
-          {
-            "text": "Cazare",
-            "link": "ro/accommodation#accommodation",
-            "textOnMouseOver": "Cazare"
-          },
-          {
-            "text": "Facilități",
-            "link": "ro/accommodation#facilities",
-            "textOnMouseOver": "Facilități"
-          },
-          {
-            "text": "Rezervări",
-            "link": "ro/accommodation#bookings",
-            "textOnMouseOver": "Rezervări"
-          }
-        ]
+        "img": "/assets/img/accommodation/article/outside/fullSize/casa-petri-gradina-primavaracopaci-infloriti.jpg"
       }
     },
     {
       "article": {
         "heading": {
           "id": "accommodation",
-          "title": "<i class='fa fa-bed'></i> Cazare"
+          "title": " "
         },
         "content": [
           {
@@ -46,36 +29,25 @@
       "article": {
         "heading": {
           "id": "booksHouse",
-          "subtitle": "<i class='fas fa-book'></i> Casa Cărților"
+          "title": "<i class='fas fa-book'></i> Casa Cărților"
         },
         "content": [
           {
-            "text": "Acesta era fostul sediu de bancă (locul unde minerii schimbau aurul în bani și dinamită) motiv pentru care pereții de piatră au un metru grosime. Aici încap maxim <i class='fa fa-male'></i> 4 pers (paturi etajate) + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire pe teracotă cu lemne"
+            "text": "Casă de patrimoniu, fost sediu de bancă unde minerii schimbau aurul în bani și dinamită cu pereți de piatră de un metru grosime. Aici încap maxim <i class='fa fa-male'></i> 4 pers (paturi etajate) + <i class='fa fa-shower'></i> baie privată + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă/board games + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire cu lemne + <i class='fas fa-leaf'></i> curte verde cu hamac/foișor/grătar + <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat"
           }
         ]
       }
     },
     {
-      "images": [
+      "bigImage": [
         {
-          "text": "Casa Cărților - fostul bufet de bucătărie a devenit o bibliotecă cu vechile cărți ale bunicilor, ghiduri despre Roșia Montană și board games",
-          "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/1.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/1.jpg"
+          "img": "assets/img/accommodation/article/rooms/cartilor/fullSize/1.jpg"
         },
         {
-          "text": "Casa cărților - 4 paturi etajate",
-          "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/beds.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/beds.jpg"
+          "img": "assets/img/accommodation/article/rooms/cartilor/fullSize/beds.jpg"
         },
         {
-          "text": "Casa Cărților - poze din trecut, flori de mină și alte obiecte vechi.",
-          "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/details.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/details.jpg"
-        },
-        {
-          "text": "Casa cărților are baie privată și bucătărioară (dotată cu aparat ceai/cafea, frigider, cuptor cu microunde, tacâmuri și veselă)",
-          "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/bathAndKitchen.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/bathAndKitchen.jpg"
+          "img": "assets/img/accommodation/article/outside/fullSize/fatada-casa-petri-rosia-montana-(4).jpg"
         }
       ]
     },
@@ -83,31 +55,25 @@
       "article": {
         "heading": {
           "id": "littleHouse",
-          "subtitle": "<i class='fas fa-home'></i> Căsuța"
+          "title": "<i class='fas fa-home'></i> Căsuța din grădină"
         },
         "content": [
           {
-            "text": "Casuța era vechea bucătărie de vară a bunicilor transformată într-un un mic apartament pentru maxim <i class='fa fa-male'></i> 3 persoane (un pat dublu + un pat simplu) + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> bucătărie bine dotată + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire pe teracotă cu lemne"
+            "text": "Casuța era vechea bucătărie de vară a bunicilor transformată într-un un mic apartament pentru maxim <i class='fa fa-male'></i> 3 persoane (un pat dublu + un pat simplu) + <i class='fa fa-shower'></i> baie privată + <i class='fas fa-utensils'></i> bucătărie bine dotată + <i class='fa fa-book'></i> bibliotecă/board games + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire cu lemne + <i class='fas fa-leaf'></i> curte verde cu hamac/foișor/grătar + <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat"
           }
         ]
       }
     },
     {
-      "images": [
+      "bigImage": [
         {
-          "text": "Căsuța - are un pat dublu și un pat de o persoană, cărți, hărți și ghiduri despre Roșia Montană",
-          "thumbnail": "assets/img/accommodation/article/rooms/casuta/thumbnail/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/casuta/fullSize/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg"
+          "img": "assets/img/accommodation/article/rooms/casuta/fullSize/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg"
         },
         {
-          "text": "Căsuța - din cameră se intră direct în baie sau bucătărie, iar încălzirea se face cu o teracotă pe lemne.",
-          "thumbnail": "assets/img/accommodation/article/rooms/casuta/thumbnail/3.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/casuta/fullSize/3.jpg"
+          "img": "assets/img/accommodation/article/rooms/casuta/fullSize/bathAndKitchen.jpg"
         },
         {
-          "text": "Căsuța - baie privată și bucătărie (dotată cu aparat ceai/cafea, frigider, plită, chiuvetă, cuptor cu microunde, tacâmuri și veselă)",
-          "thumbnail": "assets/img/accommodation/article/rooms/casuta/thumbnail/bathAndKitchen.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/casuta/fullSize/bathAndKitchen.jpg"
+          "img": "assets/img/accommodation/article/outside/fullSize/gazebo2.jpg"
         }
       ]
     },
@@ -115,68 +81,25 @@
       "article": {
         "heading": {
           "id": "tarnatHouse",
-          "subtitle": "<i class='fas fa-vihara'></i> Casa din târnaț"
+          "title": "<i class='fas fa-vihara'></i> Casa din târnaț"
         },
         "content": [
           {
-            "text": "Târnațul are <b>2 camere</b> cu caracteristici tradiționale foarte bine păstrate: accesul prin târnaț (un hol exterior cu scări și ferestre mici), zugraveala veche de aproape 100 de ani și câteva mici expoziții. Aici încap maxim <i class='fa fa-male'></i> 6 persoane (fiecare cameră are un pat dublu și unul simplu) + <i class='fa fa-shower'></i> baie + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă + <i class='fa fa-wifi'></i> wifi  + <i class='fas fa-fire'></i> încălzire pe teracotă cu lemne"
+            "text": "Târnațul are <b>2 camere</b> cu caracteristici tradiționale foarte bine păstrate: accesul prin târnaț (un hol exterior cu scări și ferestre mici), zugraveala veche de aproape 100 de ani și câteva mici expoziții. Aici încap maxim <i class='fa fa-male'></i> 6 persoane (fiecare cameră are un pat dublu și unul simplu) + <i class='fa fa-shower'></i> baie privată + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă/board games + <i class='fa fa-wifi'></i> wifi  + <i class='fas fa-fire'></i> încălzire cu lemne + <i class='fas fa-leaf'></i> curte verde cu hamac/foișor/grătar + <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat"
           }
         ]
       }
     },
     {
-      "images": [
+      "bigImage": [
         {
-          "text": "Camera târnaț 1 - are un pat dublu și un pat de o persoană.",
-          "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/tarnat1-masa-teracota1-casa-petri-tarnat.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/tarnat1-masa-teracota1-casa-petri-tarnat.jpg"
+          "img": "assets/img/accommodation/article/rooms/tarnat/fullSize/tarnat-dormitor-cazare-casa-petri-rosia-montana.jpg"
         },
         {
-          "text": "Camera târnaț 2 - are un pat dublu (care se poate și separa pentru a deveni twin) și încă unul simplu.",
-          "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/tarnat2-dormitor-casa-petri-rosia-montana.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/tarnat2-dormitor-casa-petri-rosia-montana.jpg"
+          "img": "assets/img/accommodation/article/rooms/tarnat/fullSize/camere-casa-petri-tarnat.jpg"
         },
         {
-          "text": "Târnațul are living cu bibliotecă, bucătărioară și baie.",
-          "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/hallway.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/hallway.jpg"
-        },
-        {
-          "text": "Târnațul - baie. Bucătărie (dotată cu aparat ceai/cafea, frigider, cuptor cu microunde, tacâmuri și veselă)",
-          "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/bathAndKitchen.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/bathAndKitchen.jpg"
-        }
-      ]
-    },
-    {
-      "article": {
-        "heading": {
-          "id": "facilities",
-          "title": "Facilități"
-        },
-        "content": [
-          {
-            "text": "<b>Biciclete</b> de închiriat, reparații biciclete sau tururi ghidate pe bicicletă. <br><b>Tururi ghidate</b> de drumeție - centrul istoric, monumentele naturii, exploatări miniere. <br><b>Board games, bibliotecă</b> (cărți și reviste vechi). <br><b>Hamace</b>, <b>foișor</b>, iarbă verde și pomi fructiferi <br><b>Proiecții documentare</b> despre trecutul zonei <br><b>Derdeluș</b> - avem sănii pe care le puteți folosi iarna pe derdelușurile din zonă"
-          }
-        ]
-      }
-    },
-    {
-      "images": [
-        {
-          "text": "Tururi ghidate de drumeție sau bicicletă și centru de închiriat biciclete.",
-          "thumbnail": "assets/img/accommodation/article/guides/thumbnail/guided-tour-hike-bike-rosia-montana.jpg",
-          "fullSize": "assets/img/accommodation/article/guides/fullSize/guided-tour-hike-bike-rosia-montana.jpg"
-        },
-        {
-          "text": "Hamace cu priveliște, wifi, foișor, proiector.",
-          "thumbnail": "assets/img/accommodation/article/outside/thumbnail/hamac-proiectie-foisor-casa-petri.jpg",
-          "fullSize": "assets/img/accommodation/article/outside/fullSize/hamac-proiectie-foisor-casa-petri.jpg"
-        },
-        {
-          "text": "Casa Petri - recepție, loc de luat masa.",
-          "thumbnail": "assets/img/accommodation/article/outside/thumbnail/cabana-masa-pat-orizontal-cazare-casa-petri-rosia-montana.jpg",
-          "fullSize": "assets/img/accommodation/article/outside/fullSize/cabana-masa-pat-orizontal-cazare-casa-petri-rosia-montana.jpg"
+          "img": "assets/img/accommodation/article/outside/fullSize/tarnat.jpg"
         }
       ]
     },
@@ -188,7 +111,7 @@
         },
         "content": [
           {
-            "text": "Te-ai decis să vi la Roșia? Completează formularul de cazare de mai jos și scrie-ne în căsuța 'Alte detalii' dacă dorești să fi cazat într-o cameră anume, să închiriezi biciclete sau să-ți organizăm un "
+            "text": "Completează formularul de cazare de mai jos și scrie-ne în căsuța 'Alte detalii' dacă dorești să fi cazat într-o cameră anume, să închiriezi biciclete sau să-ți organizăm un "
           },
           {
             "link": {
@@ -198,12 +121,12 @@
             }
           },
           {
-            "text": " spre oricare dintre atracțiile descrise pe pagina "
+            "text": " pe perioada șederii spre oricare dintre atracțiile descrise pe pagina "
           },
           {
             "link": {
-              "text": "'experiențe'",
-              "textOnMouseOver": "Click here...",
+              "text": "experiențe",
+              "textOnMouseOver": "Click aici...",
               "link": "ro/experiences/all"
             }
           }

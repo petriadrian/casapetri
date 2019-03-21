@@ -9,24 +9,7 @@
       "imageVideoTextButtons": {
         "text": "Plan your visit to Roșia Montană",
         "videoSource": "",
-        "img": "/assets/img/accommodation/article/outside/fullSize/casa-petri-gradina-primavaracopaci-infloriti.jpg",
-        "buttons": [
-          {
-            "text": "Accommodation",
-            "link": "en/accommodation#accommodation",
-            "textOnMouseOver": "Accommodation"
-          },
-          {
-            "text": "Facilities",
-            "link": "en/accommodation#facilities",
-            "textOnMouseOver": "Facilități"
-          },
-          {
-            "text": "Bookings",
-            "link": "en/accommodation#bookings",
-            "textOnMouseOver": "Bookings"
-          }
-        ]
+        "img": "/assets/img/accommodation/article/outside/fullSize/casa-petri-gradina-primavaracopaci-infloriti.jpg"
       }
     },
     {
@@ -46,36 +29,25 @@
       "article": {
         "heading": {
           "id": "booksHouse",
-          "subtitle": "<i class='fas fa-book'></i> Books House"
+          "title": "<i class='fas fa-book'></i> Books House"
         },
         "content": [
           {
-            "text": "In the past here was a bank with one meter wide stone walls, where the miners changed the gold in money and dynamite. Here can stay maximum <i class='fa fa-male'></i> 4 people (bunk beds) + <i class='fa fa-shower'></i> bathroom + <i class='fas fa-utensils'></i> kitchenette + <i class='fa fa-book'></i> library + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove."
+            "text": "In the past here was a bank with one meter wide stone walls, where the miners changed the gold in money and dynamite. Here can stay maximum <i class='fa fa-male'></i> 4 people (bunk beds) + <i class='fa fa-shower'></i> private bathroom + <i class='fas fa-utensils'></i> kitchenette + <i class='fa fa-book'></i> library/board games + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove + <i class='fas fa-leaf'></i> green yard with hammock/gazebo/barbecue + <i class='fas fa-bicycle'></i> sleight/bikes to rent"
           }
         ]
       }
     },
     {
-      "images": [
+      "bigImage": [
         {
-          "text": "Books house - We transformed a cupboard into a library with old books, guides about Rosia Montana and board games.",
-          "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/1.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/1.jpg"
+          "img": "assets/img/accommodation/article/rooms/cartilor/fullSize/1.jpg"
         },
         {
-          "text": "Books house - bunk beds",
-          "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/beds.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/beds.jpg"
+          "img": "assets/img/accommodation/article/rooms/cartilor/fullSize/beds.jpg"
         },
         {
-          "text": "Books house - In the showcase are old photos and crystal clusters rocks.",
-          "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/details.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/details.jpg"
-        },
-        {
-          "text": "Books house - private bathroom and kitchenette (equipped with: coffee/tea machine, fridge, microwave, dishes and cutlery).",
-          "thumbnail": "assets/img/accommodation/article/rooms/cartilor/thumbnail/bathAndKitchen.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/cartilor/fullSize/bathAndKitchen.jpg"
+          "img": "assets/img/accommodation/article/outside/fullSize/fatada-casa-petri-rosia-montana-(4).jpg"
         }
       ]
     },
@@ -83,31 +55,25 @@
       "article": {
         "heading": {
           "id": "littleHouse",
-          "subtitle": "<i class='fas fa-home'></i> Little House"
+          "title": "<i class='fas fa-home'></i> Little House"
         },
         "content": [
           {
-            "text": "This place was the old summer house of our grandparents where can stay maximum <i class='fa fa-male'></i> 3 people (one double bed + one single) + <i class='fa fa-shower'></i> bathroom + <i class='fas fa-utensils'></i> well equipped kitchen + <i class='fa fa-book'></i> library + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove"
+            "text": "This place was the old summer house of our grandparents where can stay maximum <i class='fa fa-male'></i> 3 people (one double bed + one single) + <i class='fa fa-shower'></i> private bathroom + <i class='fas fa-utensils'></i> well equipped kitchen + <i class='fa fa-book'></i> library/board games + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove + <i class='fas fa-leaf'></i> green yard with hammock/gazebo/barbecue + <i class='fas fa-bicycle'></i> sleight/bikes to rent"
           }
         ]
       }
     },
     {
-      "images": [
+      "bigImage": [
         {
-          "text": "Little house - has a double bed + a single bed, books, maps and guides about Roșia Montană",
-          "thumbnail": "assets/img/accommodation/article/rooms/casuta/thumbnail/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/casuta/fullSize/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg"
+          "img": "assets/img/accommodation/article/rooms/casuta/fullSize/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg"
         },
         {
-          "text": "Little house room - the entrance in the private bathroom and kitchen are directly from the room. The heating is done by a terracotta stove on woods.",
-          "thumbnail": "assets/img/accommodation/article/rooms/casuta/thumbnail/3.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/casuta/fullSize/3.jpg"
+          "img": "assets/img/accommodation/article/rooms/casuta/fullSize/bathAndKitchen.jpg"
         },
         {
-          "text": "Little house room - private bathroom and kitchenette (equipped with: coffee/tea machine, fridge, hob, sink, microwave, dishes and cutlery).",
-          "thumbnail": "assets/img/accommodation/article/rooms/casuta/thumbnail/bathAndKitchen.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/casuta/fullSize/bathAndKitchen.jpg"
+          "img": "assets/img/accommodation/article/outside/fullSize/gazebo2.jpg"
         }
       ]
     },
@@ -115,68 +81,25 @@
       "article": {
         "heading": {
           "id": "tarnatHouse",
-          "subtitle": "<i class='fas fa-vihara'></i> Tarnat house"
+          "title": "<i class='fas fa-vihara'></i> Tarnat house"
         },
         "content": [
           {
-            "text": "The 'tarnat' has <b>2 rooms</b> with some old and well preserved characteristics: the access through 'tarant' (an external hallway with small windows), the almost 100 years old painting and some small exhibits. Here can stay maximum <i class='fa fa-male'></i> 6 people (each room has 1 double + 1 single bed) + <i class='fa fa-shower'></i> bathroom + <i class='fas fa-utensils'></i> kitchenette + <i class='fa fa-book'></i> library + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove"
+            "text": "The 'tarnat' has <b>2 rooms</b> with some old and well preserved characteristics: the access through 'tarant' (an external hallway with small windows), the almost 100 years old painting and some small exhibits. Here can stay maximum <i class='fa fa-male'></i> 6 people (each room has 1 double + 1 single bed) + <i class='fa fa-shower'></i> private bathroom + <i class='fas fa-utensils'></i> kitchenette + <i class='fa fa-book'></i> library/board games + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> heating with terracotta stove + <i class='fas fa-leaf'></i> green yard with hammock/gazebo/barbecue + <i class='fas fa-bicycle'></i> sleight/bikes to rent"
           }
         ]
       }
     },
     {
-      "images": [
+      "bigImage": [
         {
-          "text": "Tarnat room 1 - has one double bed and one single bed.",
-          "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/tarnat1-masa-teracota1-casa-petri-tarnat.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/tarnat1-masa-teracota1-casa-petri-tarnat.jpg"
+          "img": "assets/img/accommodation/article/rooms/tarnat/fullSize/tarnat-dormitor-cazare-casa-petri-rosia-montana.jpg"
         },
         {
-          "text": "Tarnat room 2 - has one double bed (that can be separated to become twin) and one single bed.",
-          "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/tarnat2-dormitor-casa-petri-rosia-montana.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/tarnat2-dormitor-casa-petri-rosia-montana.jpg"
+          "img": "assets/img/accommodation/article/rooms/tarnat/fullSize/camere-casa-petri-tarnat.jpg"
         },
         {
-          "text": "Tarnat living - with living, library and bath.",
-          "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/hallway.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/hallway.jpg"
-        },
-        {
-          "text": "Tarnat bath and kitchenette (equipped with: coffee/tea machine, fridge, microwave, dishes and cutlery).",
-          "thumbnail": "assets/img/accommodation/article/rooms/tarnat/thumbnail/bathAndKitchen.jpg",
-          "fullSize": "assets/img/accommodation/article/rooms/tarnat/fullSize/bathAndKitchen.jpg"
-        }
-      ]
-    },
-    {
-      "article": {
-        "heading": {
-          "id": "facilities",
-          "title": "Facilities"
-        },
-        "content": [
-          {
-            "text": "<b>Bikes</b> for rent, bike repair, bike tours. <br><b>Guided tours</b> through the historic center, natural monuments, mining galleries and pits. <br><b>Wifi, board games, library</b>. <br>Backyard with <b>hammocks</b>, <b>gazebo</b>, green grass. <br><b>Movie screenings</b> with documentaries about Rosia Montana <br><b>Sleighing</b> - we have 2 sleighs so during the winter there are sleigh slopes near the house"
-          }
-        ]
-      }
-    },
-    {
-      "images": [
-        {
-          "text": "We offer guided tours (by foot or bike) and we also rent bikes.",
-          "thumbnail": "assets/img/accommodation/article/guides/thumbnail/guided-tour-hike-bike-rosia-montana.jpg",
-          "fullSize": "assets/img/accommodation/article/guides/fullSize/guided-tour-hike-bike-rosia-montana.jpg"
-        },
-        {
-          "text": "In the backyard we have hammocks, wifi, gazebo, movie screenings.",
-          "thumbnail": "assets/img/accommodation/article/outside/thumbnail/hamac-proiectie-foisor-casa-petri.jpg",
-          "fullSize": "assets/img/accommodation/article/outside/fullSize/hamac-proiectie-foisor-casa-petri.jpg"
-        },
-        {
-          "text": "Casa Petri - reception, dining place.",
-          "thumbnail": "assets/img/accommodation/article/outside/thumbnail/cabana-masa-pat-orizontal-cazare-casa-petri-rosia-montana.jpg",
-          "fullSize": "assets/img/accommodation/article/outside/fullSize/cabana-masa-pat-orizontal-cazare-casa-petri-rosia-montana.jpg"
+          "img": "assets/img/accommodation/article/outside/fullSize/tarnat.jpg"
         }
       ]
     },
@@ -188,7 +111,24 @@
         },
         "content": [
           {
-            "text": "Fill the accommodation form bellow. Write us in the 'Other detail' box if you also want to rent bikes, guided tours, or any other preferences."
+            "text": "Fill the accommodation form bellow and write us in the 'Other detail' box if you want to stay in a certain room, to rent bikes or to organize a"
+          },
+          {
+            "link": {
+              "text": "guided tour",
+              "textOnMouseOver": "Click here...",
+              "link": "en/experiences/all#guidedTour"
+            }
+          },
+          {
+            "text": " during your stay to any of the attractions described on the "
+          },
+          {
+            "link": {
+              "text": "experiences page",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/experiences/all"
+            }
           }
         ]
       }
