@@ -31,7 +31,7 @@
         },
         "content": [
           {
-            "text": "We restored our grandparents house from the <b>historic center of Roșia Montană</b>, the place where the old miners changed the gold with money and dynamite). We restore it and now we offer"
+            "text": "We restored our grandparents house from the <b>historic center of Roșia Montană</b> (a patrimony building where the old miners changed the gold with money and dynamite). Now we offer "
           },
           {
             "link": {
@@ -76,41 +76,31 @@
     },
     {
       "article": {
+        "heading": {
+          "id": "guidedTour",
+          "title": "<i class='fas fa-hiking'></i> Hop on a tour of our area"
+        },
         "content": [
           {
-            "link": {
-              "text": "<br><i class='far fa-dot-circle'></i> Bookings",
-              "textOnMouseOver": "Click here...",
-              "link": "en/accommodation#bookings"
-            }
+            "text": "Our area has unique historic and natural objectives, we know our soundings, the local stories and what can you do and visit around. To discover our area we offer "
           },
           {
             "link": {
-              "text": "<i class='far fa-dot-circle'></i> Facilities",
-              "textOnMouseOver": "Click aici...",
-              "link": "en/accommodation#facilities"
+              "text": "guided tours",
+              "textOnMouseOver": "Click here...",
+              "link": "en/experiences/all#guidedTour"
             }
+          },
+          {
+            "text": " on demand."
           }
         ]
       }
     },
     {
-      "article": {
-        "heading": {
-          "id": "guidedTour",
-          "title": "<i class='fas fa-hiking'></i> Hop on a tour of our area"
-        }
-      }
-    },
-    {
       "bigImage": [
         {
-          "text": "Our area has unique historic and natural objectives, we know our soundings and what can you do and visit here. See here details about the <b>guided tours</b> that we offer in our area.",
-          "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg",
-          "url": {
-            "link": "en/experiences/all#guidedTour",
-            "textOnMouseOver": "Click here..."
-          }
+          "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
         }
       ]
     },
@@ -118,7 +108,7 @@
       "article": {
         "heading": {
           "id": "nature",
-          "title": "Enjoy the nature and fresh air"
+          "title": "Enjoy the nature"
         }
       }
     },
@@ -135,7 +125,7 @@
         },
         {
           "title": "Bike rides",
-          "text": "We live in an area surrounded by hills, valleys and mountain villages connected with unpaved paths perfect for mountain bikes. <b>We also rent bikes!</b>",
+          "text": "Our area is surrounded by hills, valleys and mountain villages connected with unpaved paths perfect for mountain bikes. <b>We also rent bikes!</b>",
           "img": "assets/img/attractions/article/rotunduPeak/thumbnail/9.jpg",
           "url": {
             "link": "en/experiences/all#bike",
@@ -183,7 +173,7 @@
     {
       "article": {
         "heading": {
-          "title": "Discover our historic objectives",
+          "title": "Discover the history",
           "id": "history"
         }
       }

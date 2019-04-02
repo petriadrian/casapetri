@@ -56,7 +56,7 @@
         },
         {
           "title": "Casa din târnaț",
-          "text": "Aici sunt camerele de oaspeți ale gospodăriei, cu zugraveala veche de aproape 100 de ani, expoziție de flori de mină, goblene și cărți.",
+          "text": "Aici erau camerele de oaspeți ale gospodăriei, cu zugraveala veche de aproape 100 de ani, expoziție de flori de mină, goblene și cărți.",
           "img": "assets/img/accommodation/article/rooms/tarnat/thumbnail/hallway.jpg",
           "url": {
             "link": "ro/accommodation#tarnatHouse",
@@ -73,26 +73,6 @@
           }
         }
       ]
-    },
-    {
-      "article": {
-        "content": [
-          {
-            "link": {
-              "text": "<br><i class='far fa-dot-circle'></i> Rezervări",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings"
-            }
-          },
-          {
-            "link": {
-              "text": "<i class='far fa-dot-circle'></i> Facilități",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#facilities"
-            }
-          }
-        ]
-      }
     },
     {
       "article": {
