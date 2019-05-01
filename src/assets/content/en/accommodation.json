@@ -178,16 +178,19 @@
                 "name": "room",
                 "selectOptions": [
                   {
-                    "text": "one person room - 100lei/night"
+                    "text": "2 person room with shared bathroom - 120lei/night"
                   },
                   {
-                    "text": "a 2 person room - 120lei/night"
+                    "text": "2 person room with private bathroom - 140lei/noapte"
                   },
                   {
-                    "text": "a 3 person room - 150lei/night"
+                    "text": "3 person room with shared bathroom - 150lei/noapte"
                   },
                   {
-                    "text": "a 4 person room - 180lei/night"
+                    "text": "3 person room with private bathroom - 170lei/noapte"
+                  },
+                  {
+                    "text": "4 person room with private bathroom - 200lei/noapte"
                   }
                 ]
               }
