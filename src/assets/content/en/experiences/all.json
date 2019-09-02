@@ -1,6 +1,6 @@
 {
   "metaData": {
-    "title": "Roșia Montană is not just a holiday, is an experience!",
+    "title": "Roșia Montană is not just a holiday, is an experience",
     "text": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. To discover them we offer guided tours and there are also marked hicking trails.",
     "img": "/assets/img/attractions/presentation/fullWidthImg.jpg"
   },
@@ -10,6 +10,15 @@
         "text": "Roșia Montană is not just a holiday, is an experience!",
         "videoSource": "",
         "img": "/assets/img/attractions/presentation/fullWidthImg.jpg"
+      }
+    },
+    {
+      "article": {
+        "content": [
+          {
+            "text": "<br>We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold. Because of the reasons described below we consider that Rosia is not just a holiday, is an experience."
+          }
+        ]
       }
     },
     {

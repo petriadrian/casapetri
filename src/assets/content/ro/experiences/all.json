@@ -1,7 +1,7 @@
 {
   "metaData": {
-    "title": "Roșia Montană nu e doar o vacanță, e o experiență!",
-    "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Vezi azici ce poți vizita la noi.",
+    "title": "Roșia Montană nu e doar o vacanță, e o experiență",
+    "text": "Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Vezi aici ce poți vizita la noi.",
     "img": "/assets/img/attractions/presentation/fullWidthImg.jpg"
   },
   "sections": [
@@ -10,6 +10,15 @@
         "text": "Roșia Montană nu e doar o vacanță, e o experiență",
         "videoSource": "",
         "img": "/assets/img/attractions/presentation/fullWidthImg.jpg"
+      }
+    },
+    {
+      "article": {
+        "content": [
+          {
+            "text": "<br>Ne aflăm într-o zonă cu munți, văi și lacuri dar și cu o bogată încărcătură istorică și culturală datorată patrimoniului construit de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Pentru motivele descrise mai jos considerăm că Roșia nu e doar o vacanță ci o experiență."
+          }
+        ]
       }
     },
     {
