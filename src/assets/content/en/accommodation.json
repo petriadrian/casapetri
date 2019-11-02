@@ -135,7 +135,7 @@
     },
     {
       "form": {
-        "afterFormText": "The booking will be valid only when a <b>confirmation email or phone</b> will be received! To reach us set on gps 'Casa Petri Rosia Montana'. <br><b>Check-in</b>: 16:00 - 20:00 | <b>Check-out</b> by 11:00",
+        "afterFormText": "The booking will be valid only when a <b>confirmation email or phone</b> will be received! To reach us set on gps 'Casa Petri Rosia Montana'. <br><b>Check-in</b>: 16:00 - 20:00 | <b>Check-out</b> by 11:00 <br>The prices may vary during holidays or other events.",
         "submitButtonText": "Send the booking",
         "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
         "errorMessage": "ERROR! Contact us by email casaPetriRosiaMontana@gmail.com",
@@ -178,19 +178,19 @@
                 "name": "room",
                 "selectOptions": [
                   {
-                    "text": "2 person room with shared bathroom - 120lei/night"
+                    "text": "2 person room with shared bathroom - 140lei/night"
                   },
                   {
-                    "text": "2 person room with private bathroom - 150lei/noapte"
+                    "text": "2 person room with private bathroom - 170lei/noapte"
                   },
                   {
-                    "text": "3 person room with shared bathroom - 150lei/noapte"
+                    "text": "3 person room with shared bathroom - 170lei/noapte"
                   },
                   {
-                    "text": "3 person room with private bathroom - 180lei/noapte"
+                    "text": "3 person room with private bathroom - 200lei/noapte"
                   },
                   {
-                    "text": "4 person room with private bathroom - 220lei/noapte"
+                    "text": "4 person room with private bathroom - 240lei/noapte"
                   }
                 ]
               }

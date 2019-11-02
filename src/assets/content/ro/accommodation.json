@@ -135,7 +135,7 @@
     },
     {
       "form": {
-        "afterFormText": "Rezervarea va fi validă doar la primirea unui <b>telefon sau email de confirmare!</b> Pentru a ajunge la noi setați pe gps 'Casa Petri Rosia Montana'. <br><b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> până la 11:00",
+        "afterFormText": "Rezervarea va fi validă doar la primirea unui <b>telefon sau email de confirmare!</b> <br>Pentru a ajunge la noi setați pe gps 'Casa Petri Rosia Montana'. <br><b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> până la 11:00 <br>Prețurile pot să difere în perioada cu sărbători sau alte evenimente.",
         "submitButtonText": "Trimite rezervarea",
         "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
         "errorMessage": "EROARE! Contactați-ne pe email casaPetriRosiaMontana@gmail.com",
@@ -178,19 +178,19 @@
                 "name": "room",
                 "selectOptions": [
                   {
-                    "text": "o cameră de 2 persoane cu baie comună - 120lei/noapte"
+                    "text": "o cameră de 2 persoane cu baie comună - 140lei/noapte"
                   },
                   {
-                    "text": "o cameră de 2 persoane cu baie privată - 150lei/noapte"
+                    "text": "o cameră de 2 persoane cu baie privată - 170lei/noapte"
                   },
                   {
-                    "text": "o cameră de 3 pers cu baie comună - 150lei/noapte"
+                    "text": "o cameră de 3 pers cu baie comună - 170lei/noapte"
                   },
                   {
-                    "text": "o cameră de 3 pers cu baie privată - 180lei/noapte"
+                    "text": "o cameră de 3 pers cu baie privată - 200lei/noapte"
                   },
                   {
-                    "text": "o cameră de 4 pers cu baie privată - 220lei/noapte"
+                    "text": "o cameră de 4 pers cu baie privată - 240lei/noapte"
                   }
                 ]
               }
