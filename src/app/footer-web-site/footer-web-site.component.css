@@ -1,9 +1,13 @@
 
 footer {
-  background-color: #142522;
+  background-color: var(--secondColor);
   margin-top: 10px;
   padding: 30px 0px;
   color: #949494;
+}
+
+.card {
+  overflow: scroll;
 }
 
 footer section,

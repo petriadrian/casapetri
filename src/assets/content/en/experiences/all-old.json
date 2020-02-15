@@ -6,7 +6,7 @@
   },
   "sections": [
     {
-      "imageVideoTextButtons": {
+"type": "figure",
         "text": "Roșia Montană is not just a holiday, is an experience!",
         "videoSource": "",
         "img": "/assets/img/attractions/presentation/fullWidthImg.jpg",
@@ -25,26 +25,20 @@
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "toSee",
           "title": "<i class='far fa-heart'></i> To see"
-        },
-        "content": [
-          {
+
             "text": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with mountains, valleys and lakes, but also with a rich culture and history because of the patrimony built by various civilizations that came here since antiquity to extract gold - see bellow some experiences to discover our area."
           }
         ]
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "historicCenter",
           "subtitle": "<i class='fas fa-blind'></i> Have a walk in the historic center"
-        },
-        "content": [
-          {
+
             "text": "Have a walk in the historic center of the oldest documented settlement in Romania, Rosia Montana year 131, to see the patrimony buildings, churches and cemeteries belonging to 5 different confessions, goldsmith houses, stamp mills, former lofts, old cemeteries or mining exhibits. To visit and discover their stories we organize "
           },
           {
@@ -85,13 +79,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "museums",
           "subtitle": "<i class='fas fa-university'></i> Find the history of the goldsmiths - Museums"
-        },
-        "content": [
-          {
+
             "text": "Visit the museums from our area where you can see the gold mining techniques evolution, tools and machines used in mining industry, golden veins and galleries."
           },
           {
@@ -147,13 +138,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "galleries",
           "subtitle": "<i class='fas fa-dungeon'></i> See the old goldsmith marks"
-        },
-        "content": [
-          {
+
             "text": "Rosia Montana has <b>one of the largest underground gold mining system in the world</b>, a 120km labyrinth underneath the earth made of roman, dacian or habsburgic galleries proposed as <b>UNESCO</b> site. To visit them we organize"
           },
           {
@@ -201,13 +189,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "hayhouse",
           "subtitle": "<i class='fas fa-home'></i> Discover an 'Open air museum'. Hay houses"
-        },
-        "content": [
-          {
+
             "text": "A walking tour among the villages around our area is like a journey back in time. A part of the household, houses, stables, churches remained preserved exactly as they were a few tens or even hundreds of years ago, covered with hay or wood. On request we also organize"
           },
           {
@@ -248,13 +233,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "communism",
           "subtitle": "<i class='fas fa-city'></i> See the communist mega-projects"
-        },
-        "content": [
-          {
+
             "text": "Discover the mining megaprojects of the communism: open pits, huge wasting lakes, tools and and indutrial buildings, see their impact upon the nature and the price we paid to obtain the precious metals. Near us is the <b>Roșia Poieni</b> (the bigest open pit of Europe), the wasting lake <b>Geamăna</b> (that sunken 2 villages) and open pit <b>Cetate</b>. We do "
           },
           {
@@ -305,13 +287,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "saveRosiaMontana",
           "subtitle": "<i class='fas fa-flag'></i> See where and how started 'Save Rosia Montana' campaign"
-        },
-        "content": [
-          {
+
             "text": " Visit the places where during 15 years were protests and manifestations against the Canadian mining company who wanted to open a big gold mining using cyanide to extract the gold that was left. There were huge street protests in Romania and abroad against this project. To see where and how the 'Save Rosia Montana' campaign has started, how are looking the places that should have been impacted by the canadian project and the community impact, we organize "
           },
           {
@@ -347,13 +326,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "hiking",
           "subtitle": "<i class='fas fa-tree'></i> Hike on the marked trails to the Nature’s Monuments"
-        },
-        "content": [
-          {
+
             "text": "Hiking in the nature, fresh air or bike rides? Come and discover the Rosia Montana massifs where are various natural sites perfect for hiking or biking. From the historic center are starting 4 <b>marked trails</b> of different difficulty levels and time (3h, 5h or 8h)."
           }
         ]
@@ -384,13 +360,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "lake",
           "subtitle": "<i class='far fa-comment'></i> Enjoy the silence. Visit the lakes of Roșia"
-        },
-        "content": [
-          {
+
             "text": "Over 100 lakes were built during the Habsburg period to help processing the gold but today are only 7 left. To visit them follow the 'Lake trail' (marked with blue dot - 4h hiking) that starts from the historic center of Rosia Montana."
           }
         ]
@@ -416,13 +389,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "viewPoints",
           "subtitle": "<i class='fas fa-walking'></i> Conquer the landscape peaks"
-        },
-        "content": [
-          {
+
             "text": "Places on the top of the village with amazing views, nature and fresh air. Rosia Montana is amazing from every angle so start your adventure on the road less of our area."
           }
         ]
@@ -448,13 +418,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "detunata",
           "subtitle": "<i class='fas fa-mountain'></i> Visit the basalt roof of the Carpathians - Detunata"
-        },
-        "content": [
-          {
+
             "text": " This 80m high massive is a protected area with huge basalt columns through which small glaciers appear occasionally. The area has great legends, the people are welcoming and they also make some amazing cheese pies. To discover follow the Red Cross - 3h marked trail that starts near our house."
           }
         ]
@@ -480,13 +447,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "narcise",
           "subtitle": "<i class='fas fa-spa'></i> You must see The daffodils meadow, in May"
-        },
-        "content": [
-          {
+
             "text": "The daffodils are blooming in May in a meadow near Rosia Montana, the smell and the beautiful landscape from here is something that you will never forget. To reach it will go 1h by car + 30min by foot (we organize"
           },
           {
@@ -527,13 +491,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "vulcan",
           "subtitle": "<i class='fas fa-mountain'></i> Discover the Vulcan massif"
-        },
-        "content": [
-          {
+
             "text": "The Vulcan massif is a former volcano that erupted 2 millions years ago. The most interesting fact it's is convex shape that can be observed oance you are on the top of it. You can get here by bike (3h) or by car (45min) followed by a 1h hike."
           }
         ]
@@ -554,13 +515,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "farmer",
           "subtitle": "<i class='fas fa-horse'></i> Live as a local farmer"
-        },
-        "content": [
-          {
+
             "text": "We put you in touch with the local farmers from our area where you can take part to their daily works, easy to learn (hand cow milking, local food and drinks making, the traditional haymaking which will be used in the winter for the animals). Your help would be really helpful for the farmers and for you will be an unique experience as you will be connected to the nature, will help preserving the biodiversity and will learn traditional crafts very well preserved in our area. If you want to live as a local inform us while making a"
           },
           {
@@ -603,13 +561,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "apuseni",
           "subtitle": "<i class='far fa-star'></i> Discover the Apuseni Mountains wonders"
-        },
-        "content": [
-          {
+
             "text": "<b>Scărișoara Glacier</b> - a natural monument, one of the biggest underground glacier in the world, located in the heart of the mountains"
           },
           {
@@ -677,13 +632,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "autumn",
           "subtitle": "<i class='fas fa-leaf'></i> Capture the colors of autumn"
-        },
-        "content": [
-          {
+
             "text": "Enjoy the autumn nature in Roșia, cold and foggy mornings, gentle afternoons and ideal landscapes to catch in photos. Usually, in October weekends we organize photo tours along the forests areas - if you want to participate, specify while making a"
           },
           {
@@ -716,13 +668,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "winter",
           "subtitle": "<i class='far fa-snowflake'></i> Ride on a sleigh! Winter at Rosia"
-        },
-        "content": [
-          {
+
             "text": "New and amazing landscapes are coming out during the winter, the old houses covered by snow, perfect places for sleigh rides and the village roads becomes perfect places for an easy walk in a snowy morning."
           },
           {
@@ -755,21 +704,17 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "toDo",
           "title": "<i class='fas fa-child'></i> To do"
         }
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "guidedTour",
           "subtitle": "<i class='fas fa-hiking'></i> Find the local stories. Guided tours"
-        },
-        "content": [
-          {
+
             "text": "We recommend to visit our area with a guide because the local stories matters and Rosia Montana has a golden past. <b>We organize guided tours</b> to discover the historic center, the objectives used for gold mining (lakes, galleries, open pits), the proposed UNESCO area, the impact of the canadian mining project and the protests or other attractions from our area. If you are interested in guided tours specify while making a"
           },
           {
@@ -805,13 +750,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "bike",
           "subtitle": "<i class='fas fa-bicycle'></i> Visit Rosia on a bike"
-        },
-        "content": [
-          {
+
             "text": "We are located in an area with hills, valleys and unpaved roads between mountain villages perfect for cycling. If you want <b>to rent bikes or guided tours on bikes</b> during your stay please specify while making a"
           },
           {
@@ -882,13 +824,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "berry",
           "subtitle": "<i class='fas fa-concierge-bell'></i> Have a 'delicious' hike"
-        },
-        "content": [
-          {
+
             "text": "Depending upon the season, our area offers various goodies directly from the source. If you come in May or June will find <b>strawberries and fir buds</b> in Jully or August <b>raspberry, cranberries, blackberry or mushrooms</b>, so have a hike on the sounding massifs where you can find and pick forest fruits or mushrooms."
           }
         ]
@@ -909,13 +848,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "archery",
           "subtitle": "<i class='fas fa-angle-right'></i> Learn Archery at a local club "
-        },
-        "content": [
-          {
+
             "text": "Near us is a mountain club specialized in archery that offers beginner or advanced courses in archery for adults or children. They have different types of arcs and an archery field. If you want to participate to such clases please specify while making a"
           },
           {
@@ -943,13 +879,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "steamTrain",
           "subtitle": "<i class='fas fa-train'></i> Discover our area via steam train"
-        },
-        "content": [
-          {
+
             "text": "Touristic steam train rides can be make near our area on the Crișcior - Brad route, situated 45min away (by car). A steam train tour last 2h. "
           },
           {

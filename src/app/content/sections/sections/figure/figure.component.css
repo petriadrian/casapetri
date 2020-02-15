@@ -1,0 +1,74 @@
+.figure {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
+.figure img, video {
+  width: 100%;
+  margin: 0.2% 0;
+}
+
+.reduceBrightness {
+  filter: brightness(80%);
+}
+
+.figure h1 {
+  margin: 4%;
+  color: white;
+}
+
+.figure h3 {
+  color: white;
+  font-size: 1.2rem;
+}
+
+.figure .introContent {
+  position: absolute;
+  top: 8%;
+  left: 0;
+  right: 0;
+  padding: 5%;
+  margin: auto;
+}
+
+.figure .btn-primary {
+  font-size: 0.4em;
+}
+
+@media only screen and (max-width: 400px) {
+
+  .figure h1 {
+    font-size: 1.5em;
+  }
+
+  .figure h3 {
+    font-size: 0.8rem;
+  }
+
+  .figure img, video {
+    width: auto;
+    margin: 0 -50%;
+    height: 280px;
+  }
+
+  .carousel .item {
+    height: 200px;
+  }
+
+}
+
+@media only screen and (min-width: 601px) and (max-width: 992px) {
+
+  .figure h1 {
+    font-size: 1.8em;
+  }
+
+  .figure h3 {
+    font-size: 1rem;
+  }
+
+  .carousel .item {
+    height: 250px;
+  }
+}

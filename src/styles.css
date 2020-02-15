@@ -1,10 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
 
-a, u {
-  text-decoration: none;
-  color: #142522;
-  cursor: pointer;
+:root {
+  --firstColor: #157f15;
+  --secondColor: #194c0f;
 }
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color: var(--firstColor) !important;
+  text-decoration: underline !important;
+}
+
+a:HOVER {
+  color: var(--secondColor) !important;
+}
+
+.figure a {
+  color: lightcyan !important;
+}
+
 p {
   margin: 0;
 }
@@ -22,7 +39,7 @@ textarea {
 }
 
 body {
-  color: #142522;
+  color: var(--secondColor);
   font-size: 14px;
   text-align: center !important;
   padding-top: 55px;
@@ -34,7 +51,7 @@ body {
 
 .defaultClickStyle:HOVER,
 .defaultClickStyle:HOVER > a {
-  background-color: #142522;
+  background-color: var(--secondColor);
   color: white;
   cursor: pointer;
   text-decoration: none;
@@ -52,13 +69,13 @@ body {
   text-shadow: none;
   margin: 0.2%;
   color: white !important;
-  background-color: #157f15 !important;
+  background-color: var(--firstColor) !important;
   border-color: white !important;
 }
 
 .btn-primary:HOVER {
   cursor: pointer;
-  background-color: #142522 !important;
+  background-color: var(--secondColor) !important;
   color: white;
 }
 
@@ -79,7 +96,7 @@ header .btn-primary {
 .footerFeedback button:HOVER,
 .footerFeedback .input-group-addon,
 .footerFeedback button:FOCUS {
-  background-color: #157f15;
+  background-color: var(--firstColor);
   border: 1px solid #cccccc;
 }
 

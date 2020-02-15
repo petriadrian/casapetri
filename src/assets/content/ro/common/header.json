@@ -33,6 +33,16 @@
       "text": "<i class='fas fa-phone fa-lg fa-rotate-90'></i> 0748516506",
       "link": "tel:(+4)0748516506",
       "textOnMouseOver": "contacteaza-ne la telefon"
+    },
+    {
+      "text": "<i class='fas fa-envelope fa-lg'></i>",
+      "link": "mailto:casaPetriRosiaMontana@gmail.com",
+      "textOnMouseOver": "trimite-ne un email la casaPetriRosiaMontana@gmail.com"
+    },
+    {
+      "text": "<i class='fab fa-facebook-messenger fa-lg'></i>",
+      "link": "https://www.messenger.com/t/casapetrirosiamontana",
+      "textOnMouseOver": "contacteaza-ne pe messanger"
     }
   ],
   "languageButtons": [

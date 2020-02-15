@@ -1,0 +1,10 @@
+<article>
+  <header>
+    <span *ngIf="content?.id" id="{{content?.id}}" class="anchor"></span>
+    <h2 *ngIf="content?.title" [innerHTML]="content?.title | trustHtml"></h2>
+    <h3 *ngIf="content?.subtitle" [innerHTML]="content?.subtitle | trustHtml"></h3>
+  </header>
+  <section>
+    <span *ngIf="!!content?.text" [innerHTML]="content?.text | trustHtml"></span>
+  </section>
+</article>

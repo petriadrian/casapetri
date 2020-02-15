@@ -91,7 +91,7 @@
                   [innerHtml]="option?.text | trustHtml"></option>
         </select>
         <span [hidden]="field.inputs.length >= field.allowToDuplicateSettings.maxOccurs"
-              class="text-left btn btn-success"
+              class="text-left btn btn-primary"
               (click)="addNewField(field?.inputs, field?.inputs[0])"
               [innerHtml]="field.allowToDuplicateSettings.addButtonText"></span>
         <span [hidden]="field.inputs.length <= field.allowToDuplicateSettings.minOccurs"

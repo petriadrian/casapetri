@@ -6,7 +6,7 @@
   },
   "sections": [
     {
-      "imageVideoTextButtons": {
+"type": "figure",
         "text": "O plimbare ușoară, Iarna la Rosia Montană",
         "videoSource": "./assets/img/blog/winterWalks/presentation/intro.mp4",
         "img": "/assets/img/blog/winterWalks/presentation/fullWidthImg.jpg",
@@ -20,13 +20,10 @@
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "title": "<i class='far fa-images'></i> Blog",
           "id": "blog"
-        },
-        "content": [
-          {
+
             "text": "Iarna la Rosia Montană. Drumeții ușoare cu peisaje de poveste, munți și lacuri, sunetul clopotelor bisericilor din sat, ulițe înguste și case vechi acoperite de zăpadă, plimbări pe înserate, căldura focului din sobă, liniște și relaxare."
           }
         ]
@@ -127,13 +124,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "blog2",
           "title": "<i class='far fa-snowflake'></i> Plimbări pe înserate"
-        },
-        "content": [
-          {
+
             "text": "O seară liniștită de iarnă prin centrul istoric din Roșia Montană:"
           }
         ]
@@ -184,13 +178,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "blog3",
           "title": "<i class='fas fa-home'></i> Iarna la Casa Petri"
-        },
-        "content": [
-          {
+
             "text": "Ne-am pregătit de iarnă: lemne sunt gata pentru a încălzi camerele și mâțele să toarcă la gura sobei."
           },
           {

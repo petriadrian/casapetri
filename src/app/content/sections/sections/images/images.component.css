@@ -29,7 +29,7 @@ figure {
   display: none;
 }
 figure:HOVER {
-  background-color: #142522;
+  background-color: var(--secondColor);
   color: white !important;
   cursor: pointer;
   text-decoration: none;

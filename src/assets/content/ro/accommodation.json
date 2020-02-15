@@ -2,211 +2,162 @@
   "metaData": {
     "title": "Stai într-o casă cu poveste, la Rosia Montană",
     "text": "Ne aflăm în centrul istoric din Roșia Montană la numărul 331, casa a fost centru medical, sediu de bancă, cinematograf, iar apoi bunicii (foști mineri și deținători de galerii) au folosit-o ca locuință. Am pus în valoare trecutul (zugrăveala, tâmplăria, încălzirea prin teracote pe lemne) și am integrat băile și bucătăria, iar acum oferim cazare, tururi ghidate și biciclete. Camerele (casele) au intrări separate conectate printr-o curte cu hamace, iarbă verde și priveliște spre masivul Cârnic.",
-    "img": "/assets/img/accommodation/article/outside/fullSize/casa-petri-gradina-primavaracopaci-infloriti.jpg"
+    "img": "https://lh3.googleusercontent.com/45V4tJu_WfSuyiuHle08hVxuLWQP3okW6Rz0qAX3YhpvEzacxdWPvlvS60KawqXaZC6C-66qU9OjKk6EITG97W1Yc2KoHSuAjejMeqi8kbxg-7oXVj8c8BuBQ_5chkJ1E2oeJkjtUKTd9t4AeZTV8z1n8hYX16aFP1ePrnL2Qy6bM4nvVNVsvCa2OeCkFHKQ-z5tMldWNXcoQys5Fx93biPvyOd53q8SOS8xQegnhDPLsLfmk1yIiwB6RYbzVmgN1vE4f7kF1grWX4gsqB_YBdiSFeG77rjJZddyyR6pm8G82E-cQWupbC5AMl_OjixeRpYrS43SuNybNQPxdhYueGCc5-B9LKdVGhCUS3IdxMtZ-KJrvgqMlQteT1YwFeysLwpcGlay-0WvYB4einRou0-_UP8yR6hh_G7YZCrHV9JftOwWnuIDI1-EzjpZLSzVI_-AERqlvTnAeq8v3xWDIYun2J3xiiifQgCG_CafEtKFKmcAGkLYVHLNZO_aOtdof1763QukJuJlXM0thh8F0SksbeIQu2dzAF3uZyeCPAh8eSqj2ywT-m1HdjRnBIVVMscFEIm4uWj13j1Ozdxs6GD8mPjkVmgPst1hbdb_Zh0mnszsZijjejwP9BvykZG_JZQl5_NIEpNS6pZaQhpZpHahFwn73mhrPffy472ULfhsRO73FKBk2g=w1769-h1089-no"
   },
   "sections": [
     {
-      "imageVideoTextButtons": {
-        "text": "Stai într-o casă cu poveste, la Rosia Montană",
-        "videoSource": "",
-        "img": "/assets/img/accommodation/article/outside/fullSize/casa-petri-gradina-primavaracopaci-infloriti.jpg"
-      }
+      "type": "figure",
+      "title": "Stai într-o casă cu poveste, la Rosia Montană",
+      "videoSource": "",
+      "img": "https://lh3.googleusercontent.com/45V4tJu_WfSuyiuHle08hVxuLWQP3okW6Rz0qAX3YhpvEzacxdWPvlvS60KawqXaZC6C-66qU9OjKk6EITG97W1Yc2KoHSuAjejMeqi8kbxg-7oXVj8c8BuBQ_5chkJ1E2oeJkjtUKTd9t4AeZTV8z1n8hYX16aFP1ePrnL2Qy6bM4nvVNVsvCa2OeCkFHKQ-z5tMldWNXcoQys5Fx93biPvyOd53q8SOS8xQegnhDPLsLfmk1yIiwB6RYbzVmgN1vE4f7kF1grWX4gsqB_YBdiSFeG77rjJZddyyR6pm8G82E-cQWupbC5AMl_OjixeRpYrS43SuNybNQPxdhYueGCc5-B9LKdVGhCUS3IdxMtZ-KJrvgqMlQteT1YwFeysLwpcGlay-0WvYB4einRou0-_UP8yR6hh_G7YZCrHV9JftOwWnuIDI1-EzjpZLSzVI_-AERqlvTnAeq8v3xWDIYun2J3xiiifQgCG_CafEtKFKmcAGkLYVHLNZO_aOtdof1763QukJuJlXM0thh8F0SksbeIQu2dzAF3uZyeCPAh8eSqj2ywT-m1HdjRnBIVVMscFEIm4uWj13j1Ozdxs6GD8mPjkVmgPst1hbdb_Zh0mnszsZijjejwP9BvykZG_JZQl5_NIEpNS6pZaQhpZpHahFwn73mhrPffy472ULfhsRO73FKBk2g=w1769-h1089-no"
     },
     {
-      "article": {
-        "heading": {
-          "id": "accommodation",
-          "title": " "
-        },
-        "content": [
-          {
-            "text": "Ne aflăm în centrul istoric din Roșia Montană la numărul 331, casa a fost centru medical, sediu de bancă, cinematograf, iar apoi bunicii (foști mineri și deținători de galerii) au folosit-o ca locuință. Am pus în valoare trecutul (zugrăveala, tâmplăria, încălzirea prin teracote pe lemne) și am integrat băile și bucătăria, iar acum oferim cazare, tururi ghidate și biciclete. Camerele (casele) au intrări separate conectate printr-o curte cu hamace, iarbă verde și priveliște spre masivul Cârnic."
-          }
-        ]
-      }
+      "type": "article",
+      "id": "accommodation",
+      "title": "<i class='fa fa-bed'></i> Cazare",
+      "text": "Ne aflăm în centrul istoric din Roșia Montană la numărul 331, casa a fost centru medical, sediu de bancă, cinematograf, iar apoi bunicii (foști mineri și deținători de galerii) au folosit-o ca locuință. Am pus în valoare trecutul (zugrăveala, tâmplăria, încălzirea prin teracote pe lemne) și am integrat băile și bucătăria, iar acum oferim cazare, tururi ghidate și biciclete. Camerele (casele) au intrări separate conectate printr-o curte cu hamace, iarbă verde și priveliște spre masivul Cârnic.<br>"
     },
     {
-      "article": {
-        "heading": {
-          "id": "booksHouse",
-          "title": "<i class='fas fa-book'></i> Casa Cărților"
-        },
-        "content": [
-          {
-            "text": "Casă de patrimoniu, fost sediu de bancă unde minerii schimbau aurul în bani și dinamită cu pereți de piatră de un metru grosime. Aici încap maxim <i class='fa fa-male'></i> 4 pers (paturi etajate) + <i class='fa fa-shower'></i> baie privată + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă/board games + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire cu lemne + <i class='fas fa-leaf'></i> curte verde cu hamac/foișor/grătar + <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat"
-          }
-        ]
-      }
+      "type": "article",
+      "id": "booksHouse",
+      "title": "<i class='fas fa-book'></i> Casa Cărților",
+      "text": "Casă de patrimoniu, fost sediu de bancă unde minerii schimbau aurul în bani și dinamită cu pereți de piatră de un metru grosime. Aici încap maxim <i class='fa fa-male'></i> 4 pers (paturi etajate) + <i class='fa fa-shower'></i> baie privată + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă/board games + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire cu lemne + <i class='fas fa-leaf'></i> curte verde cu hamac/foișor/grătar + <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat<br><br>"
     },
     {
-      "bigImage": [
-        {
-          "img": "assets/img/accommodation/article/rooms/cartilor/fullSize/1.jpg"
-        },
-        {
-          "img": "assets/img/accommodation/article/rooms/cartilor/fullSize/beds.jpg"
-        },
-        {
-          "img": "assets/img/accommodation/article/outside/fullSize/fatada-casa-petri-rosia-montana-(4).jpg"
-        }
-      ]
+      "type": "figure",
+      "img": "https://lh3.googleusercontent.com/bk3GllRcQ8GkhnprA0SqLahRpzGU6bPzS_9MogAMzUewBB_tOAhuuIXFLPm4DPbFNnOU8rrhi_GzpwiUsi8cpDXPc2n4acql_bmKH25bxgkmQj88U3kwcduT_P-nIxAKYgNip806wJuhsR0W5ApjELa9es3ENrLKNs0MsKHWExKAJfD964EvqUPCgsa4kF5WTxfZPRVWQNhwxmhC28bH0SbRdhyP4a_vaef8uWFHzrcKvGheU-J7krGOoAlBxew2YZKSA_l1pzhJCLcfBEuBbibEk1geUS3-PALjMMC8FivssXB55BL8JH-GQ0RgLBiYQMDPaHHHB2V-yYuHRudlyOKXgV0b8shLZV5Hd2DNQn5aXBDMuVRFSMlkCnl74BFftC_ol-cdSWWgnE9mcxT6AEW1EdUEAyBw8RLPHqPSf14smihdsoRDBmowWpaTY-SzS6yTLMenhS7oJKTY7iDVjFP7wYlOhzG7swPe0qxqi2Biv82HaCIjmeTmLosmIamXs26LxCSjzdLDxOuMfFqRcNNbwDpqvDlhVJHulcl89NM2n-8EWI2KIaTXZoEtWmmTSJQetUaQPMEXSnQ6W_EHHiV_O06Tzx5V6hGIRk9REkg-y0PJW9JzEiAHAKCsPkwejH4fRNHMF89NWLQaHoOQXYEzzG2EJfzTyTUxKJ6thiy22_gjUjXPng=w1700-h1114-no"
     },
     {
-      "article": {
-        "heading": {
-          "id": "littleHouse",
-          "title": "<i class='fas fa-home'></i> Căsuța din grădină"
-        },
-        "content": [
-          {
-            "text": "Casuța era vechea bucătărie de vară a bunicilor transformată într-un un mic apartament pentru maxim <i class='fa fa-male'></i> 3 persoane (un pat dublu + un pat simplu) + <i class='fa fa-shower'></i> baie privată + <i class='fas fa-utensils'></i> bucătărie bine dotată + <i class='fa fa-book'></i> bibliotecă/board games + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire cu lemne + <i class='fas fa-leaf'></i> curte verde cu hamac/foișor/grătar + <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat"
-          }
-        ]
-      }
+      "type": "figure",
+      "img": "https://lh3.googleusercontent.com/gUtlyXoLzOO4ZEHfqTZcufivldQeLRx9ebxjun_T3UUfqXWGmjWtQPWJ4GuEN4mKLSKlXRssazxKKuOO4P6tqk-DtFfIjpg7SBPJ2lGQKlupAm3dEAlKWW_beYJ9FqRTyYi4iCWVKeYTLrK-FArOscF9i5HtWKlb__JtOa2H_ihcPVGuF8hF4ozj94SSgs0YR-lp3XCKzw1wn7wWOFWWf7lx7c0HQG-CxrhMhedZHeW4hqXzSOctxGf7QPSBz4cYqSFmFbWe23wAuHYtXz6kNhwxvM9o_SCcW0XBwHylxb_gwOgwibNB0he4Jakvof4VCq1Kk-U99Hih-ozhcGSd2fVD6hRRL2l-CLYWbk-xo12Zi08CzH0qmrpRYJxM1mwPHEYcA9Pl_kxYzzVrls74p8NMhJap8t1Kiux1cM6GuhTUd0ooIpCtSHV4B8NGO5XUWBw4X9jxC63fOf9a72ey_mtDRDNgmig85uywIT8NBfPoTRudC0gS_YLPlQ41GWNl8yuhEPDBB8u-GQO9ILU6CT7uygigpKh71Ao95LNbFHofltGrMoYB60yskJOIoOc6OpW2IPfd0jsVnOconNGjQqvryj__bTyrmSd2-g9XHlwiccohx7X4WNRV8b9n4aSr1_iiD7636X4jkNeg1sgk43uXQ3b1L4F-LF8V0SYZVoUgUTQpGpaeqA=w1700-h1130-no"
     },
     {
-      "bigImage": [
-        {
-          "img": "assets/img/accommodation/article/rooms/casuta/fullSize/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg"
-        },
-        {
-          "img": "assets/img/accommodation/article/rooms/casuta/fullSize/bathAndKitchen.jpg"
-        },
-        {
-          "img": "assets/img/accommodation/article/outside/fullSize/gazebo2.jpg"
-        }
-      ]
+      "type": "figure",
+      "img": "https://lh3.googleusercontent.com/J8084Eqyh1U_FAda2LNpbWvuy6E4qAzd85ATZzk9FHAi86cmlrZY1JrRa1ZM9vKpU_s4dpFsaVlEdya860uDP3KH1HPJIH04TgvD-eLumha2D0JpQxX_B4jHRUFaDaeGiooGcC2uSdCKg8bzPbE_NlJCJcKj-Q4iGrSlLReEBzKDYOCasdMjGxsabkfzubxPpSwxN9BA3X3WEsFqTSvOcjOYp9N3g6HSu7gnzEVJ_hLjYKhfmg9N1IN5QMauT2GK23mz3rZtdR5LUO2PSW2xPi3YNPdpHbxwR9FO9o6EBhND3bFORJQ0Y3pX86FGKC2yQ63_6sz6fkItilNOdhAPw0rOiHWB5ytfSM5l4qdQcRPNgN11OzIV1aUDbkaNRkNRgDGnOhiggtPQ3DkImGovfrB34VquWs-nNLiaOJKFiHTQuNnzUAzH4VmKvvVB41MPIBLTSeU52mSER0sjDw1-CvUkgQhEQNOlV-J7UVMut_Mlg_I1_p5IUJg470mH8ssIWT37x-8iDw9wS3lfIFd61QYZoADO_PWXRF3A6PUAv54yOiskGXqOYkaMCducevnw8EORVU33O7E6Emcu1zoehuSD4tIkIdh4KTiews21G6p478aLx2axRQ8Ssucdt7vJQo0Hr48dIDB_IKQWH4ezwdXLcuzWmF7p8d6SImiN93hBbez6oP2f2A=w1700-h1086-no"
     },
     {
-      "article": {
-        "heading": {
-          "id": "tarnatHouse",
-          "title": "<i class='fas fa-vihara'></i> Casa din târnaț"
-        },
-        "content": [
-          {
-            "text": "Târnațul are <b>2 camere</b> cu caracteristici tradiționale foarte bine păstrate: accesul prin târnaț (un hol exterior cu scări și ferestre mici), zugraveala veche de aproape 100 de ani și câteva mici expoziții. Aici încap maxim <i class='fa fa-male'></i> 6 persoane (fiecare cameră are un pat dublu și unul simplu) + <i class='fa fa-shower'></i> baie privată + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă/board games + <i class='fa fa-wifi'></i> wifi  + <i class='fas fa-fire'></i> încălzire cu lemne + <i class='fas fa-leaf'></i> curte verde cu hamac/foișor/grătar + <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat"
-          }
-        ]
-      }
+      "type": "article",
+      "id": "littleHouse",
+      "title": "<i class='fas fa-home'></i> Căsuța din grădină",
+      "text": "Casuța era vechea bucătărie de vară a bunicilor transformată într-un un mic apartament pentru maxim <i class='fa fa-male'></i> 3 persoane (un pat dublu + un pat simplu) + <i class='fa fa-shower'></i> baie privată + <i class='fas fa-utensils'></i> bucătărie bine dotată + <i class='fa fa-book'></i> bibliotecă/board games + <i class='fa fa-wifi'></i> wifi + <i class='fas fa-fire'></i> încălzire cu lemne + <i class='fas fa-leaf'></i> curte verde cu hamac/foișor/grătar + <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat<br><br>"
     },
     {
-      "bigImage": [
-        {
-          "img": "assets/img/accommodation/article/rooms/tarnat/fullSize/tarnat-dormitor-cazare-casa-petri-rosia-montana.jpg"
-        },
-        {
-          "img": "assets/img/accommodation/article/rooms/tarnat/fullSize/camere-casa-petri-tarnat.jpg"
-        },
-        {
-          "img": "assets/img/accommodation/article/outside/fullSize/tarnat.jpg"
-        }
-      ]
+      "type": "figure",
+      "img": "https://lh3.googleusercontent.com/1b_2ka06B2Yr0h7E2FnP8Bg0kB3-awD0BkyMIkWxtNiEshmTeQaeUJU2nbgFSHnqe0tbwV0Vw291UpIGzZbmWAqJ37nm_vpBgrwHPZBuVS8p7X7ph5fafH6MS3-Q7Jumnem18gKYihUm8eyHXc76uOqHQZlLTJg15utlyIBVNIM8HYpjRZ6IzbJFXmM_6-IGAICVmWv6TgHvE3C-edqwo2AQjVsTcVJM_pXJgiyHWy_gmvE-fVu1_bAYrmVc83xSFTXsVvi3R3UpvQHZDDMaBYK9aCtTEMbCJCI90vACPZdI-8hRshtCJNPR3xHI6KHsNXJLayOlhVYGZRAlpP7xOyAFXVEjbkwjCkezPkJ9AX_Pf_xPGYOYzNSiHvmRDCxOfYTwacltpaWIItXTSVjQ53u6ym8l_kDE-SixPTetYMeS9dBBqRaGsgW6l-gdYliaPUxP9wUbhoFf5EIPRDv0JYXppX5GJH6YWjk-SpZBuM4XpGyVGM882SjX9MfYC_7K9jUoZrPAoH8sSFomPe4MkSvpBkRC97IbiTzAPHRGD9iyc_56f1IKakHlms3nWf6NbxEBLWpLdIwqyD9JvlrFFQp0tB_MEoe59bFX1xM6smBL8jH9lRHNbQ01QfsoolDpZY0-fjQesoauOB8Z30_DtN_Hw0DFePYaC0kkqwBQYZ8hzxmdio_Ebg=w2100-h1396-no"
     },
     {
-      "article": {
-        "heading": {
-          "id": "bookings",
-          "title": "<i class='far fa-calendar-check'></i> Rezervări"
+      "type": "figure",
+      "img": "https://lh3.googleusercontent.com/tKkQ3cbmFy65g2RdVt8PvkBw8pQfv61T4RUR0d5aaJBHVtXkDqyQskQULMMghmIN5Yw-_15iUFylIxyNV0TIH3t-kQ4TDN590kgor7kc7qfBTDnwZt6aLAXFB2J_T12ZG81DViF51VT4yGjeEEBwNLSCvQXulRrc_qvRjwjtKLtfSBIQ8-VquwSuiS9m-mUtxKQokXogxLYq_-wl0iOBRmVwvH3nrng3lMqvsBAKClfPIm8w-irvMGc1eaep0FAD0TlNwov4lIwZOidVZj6cxHraMHCOmHYiZ1shoWzGrjJOs2f2uWrm-2ySMc3IWkA1VSgoGZoddXUTWIfrcsT7Pt41xPyrO92CBTMobp2EUIfL1dl2ov0RRCM7knqwn8zCNK2i-zltgDx5muUtWeogsdDoMCww3ZgKJAw0XXL0LLSmrjhxwLTGYXsi_C944nj4wRuzdgjzeROr07gFFspLThg1Eh9IwixknlamiZq-J1UqlBBLT6PHh8HG7jTr1NuTYuidEMmbwGDwpJLzi5a98ZDIHZJzhUty7yM_ATIvIxID2soXcSPP8pRxX8wN67ZcY3dVVI-GAYSfKPSb-TZeqD75RkX3eawxQDRNyC6WwG9toq2TRLgE_2QrJk71Nl-xaYQAp7Ie1_UrhJ5cAuSEihN-RMe7jsO3mw4mdv4wlZEmsjUokQNHXQ=w2100-h1396-no"
+    },
+    {
+      "type": "figure",
+      "img": "https://lh3.googleusercontent.com/exRBvquYXD35--auAOkOb5NTnM5-uCwHK7czErAgKCfrsGMmNFdsGi6L5GD4DeJfTH15OijPyVL5dW7c5Az1-BcDd9ey0dEDIpy7cCHdxDmu8HNhv2GVfgkY0oZi3oonAJioImQks29pCobpaIBYsfZZ_hFiRHrlRsI68HZqfL3QcifIePzHA11j1-WExWsiaXSWb5MjwXe6U3p0C34h4dGxTMixKEU4Een6wN7TcxhZbZMLKDOKp53zTMDJZCpXB2FAFqdFk-JqA8nFYmBjDjLvuqxRH_SdWdqQW8e_2wlPgNmQRyqZuQOuA_c6BkFrlTzcTxxQwYPHlrzzfsBVdcSxDJltPeJi7KQ7MvuprtwjPuI8YlCZkZIqjIF98x0GcCksyKf5wMbclC0aMMDQzdBxnyrkpokvKUZOmQ9sCr_fEb11y9DKs4qNAlvzDNnbEBjwmHQPFkpwSvpxT8Ojb1YUF5E2RhEEcSWR0nsSje9BQiKFtpkQsWJM-j2cRbdvtyNnhgqcvmNmbcj9milyiNdTXt9tlt1G_xe6jW8yWRB1Ye67zSwi8bZ2E1hujrkGl3Q6O_c0ESZRKRW-vezaEvaoHiEQ_lJHL5Ogy_AMpIPQx9feIKYWzjEmY2svkg2O4XYlH41y1E-KzKioOIbhATDc4GkhlHlhJpsk7KjVc6mnzidOq3OtW9g=w1400-h933-no"
+    },
+    {
+      "type": "figure",
+      "img": "https://lh3.googleusercontent.com/kCoG1MxZ_B4Y_opUi18Gs1izs_uBw7KVys-Q2vpry3v_gR5gSyddxsQsX2f_f2p3Msu4pvchjvZQUhc3FVgkTGcRlhBo3TJdXTbW8oNUpUx95RPnIopSmBIeddxqAMemBVCgMrqcL2vyur8bKXV9LyAF84EfDXP6rPJxoJzVfAgxc4wuIbC_HbRFFXFYgt6WMuOErpNxKuvo1HYOGUIyXhbi4bH50BvXNpf_cksT_ollsiszIpGtXlWWakHpVnPGFhmxdKgt2Qo9XRd2UZSmqw4vOMx0b_h0NORPk93Xw4kn8DAWQWjHy15ePRaSUcOjL-1JwjFQSPYBTchUrgDDm2i4LdBF8X1lGF_7EixdsN-8lc-KxnvkNTob51VtXam2seDfNg-Cw3tSuR6je1yz--s9cuQPggSj2Wti08UtCUOtEkXWkasiRrkTGkwm-ZUEe_gCBL8GiXBErUnb2IOK4F1U6NghjEzeDS7zw1vPK38C2oedU4xpRxIVZ6d_t_He8N9qI7Ngcgj_9aho5zCLRJ5UJ5GWDljTVkOXR2PJMz1CH3weQks68TPDhXgALk-VIXfT_XUk-NW4w2ntI5si-T6eoivA3LOUwpMAPyQdvLploFyAyngXX5wmiVwU6Gd_SMwgUm4_m-nsqHytm_OwT3U63RiwYartPimeR5X_fjxruMXWNb74ow=w1700-h1000-no"
+    },
+    {
+      "type": "article",
+      "id": "tarnatHouse",
+      "title": "<i class='fas fa-vihara'></i> Casa din târnaț",
+      "text": "Târnațul are <b>2 camere</b> cu caracteristici tradiționale foarte bine păstrate: accesul prin târnaț (un hol exterior cu scări și ferestre mici), zugraveala veche de aproape 100 de ani și câteva mici expoziții. Aici încap maxim <i class='fa fa-male'></i> 6 persoane (fiecare cameră are un pat dublu și unul simplu) + <i class='fa fa-shower'></i> baie privată + <i class='fas fa-utensils'></i> chicinetă + <i class='fa fa-book'></i> bibliotecă/board games + <i class='fa fa-wifi'></i> wifi  + <i class='fas fa-fire'></i> încălzire cu lemne + <i class='fas fa-leaf'></i> curte verde cu hamac/foișor/grătar + <i class='fas fa-bicycle'></i> sanie/biciclete de închiriat<br><br>"
+    },
+    {
+      "type": "figure",
+      "img": "https://lh3.googleusercontent.com/zHk_jj2otub28b8_QLHEcxABpdO3nZdjmLijKBxgy4B99SO-L4tZBZbYQvRvmqAwuZlAQNQhpLfh4CiWA-A66FFfG3k46tnvlm8nB0aWhsZsxdCQrH9Gt4zVY6EkKujxqYH2KDps_dK30L6XiCcYVxztgXBM4mw5K2JHKW4IxpYCzTd3NQWPz7EZ_yaKzp6nqJMRHm36vhj0gNdZE04Mm2T_b2U3v5kBc7r8S-9rOno85MAlcrM0jDRbwKuJrXy0Uf600Uwt9SQdyltUWRtGTdnltD83NEnBMIOAqLhuSkdLMkOOWSC3cyaIgavBWCNj1u9kYvFdMYJqGGE6E8qges7MS52HQI20lTevav9DGy7i9MSnLH1urxcOoLFTFa8BjoyHQcwXVWPvhF6zRtNPl3ban24Ou6NuDVEjEcfXltLVZ9Fb-r1bCjI5FEvOKXNp5r043HYDFiZ780aBybBIfJf3i6FE3vzo5m0Z0IZpteTbJFMB8WaHz78tFNgIKOLkLeC1_x6zL9o0vI4dmvyxkV0lKxLnZUSYWiBm6qoS-gv5gAVqcZskXaHCEfKdVqj25qZaCA-2qEMplglkZ8KLfBUgUaLaKVFmBlhFDBeKz5xVitMC-dyHEYLkI5Nf_Bdp-FoY4wFVbOUF75YZJS-5ot3HoHqT1smgtNoGs4oJUfRomUMNSa1TBw=w2100-h1396-no"
+    },
+    {
+      "type": "figure",
+      "img": "https://lh3.googleusercontent.com/Yqlk02r-IsjQOPKfSWD0gs6pqR0eZ9f0_meugnt1tclqOIVNG6rdkrcfgD8iXtEwqHvNZo62TOAhHTlPOpTbRmihgIrXUXCM8c3bv711-QJ8NVqiZ6Q_YC9T9zrIER3JJXjVtkNiJYR5Q_Fi6m1QLrXp2O7Fde2yiXY26KMsCN_AB7o-CjGPkmk0giqkRT_lPhb_yWpMwwyOik3wJNlHqN_P26go2wvbR9W1QVBhp1_Mnkr9CV2SiV57fvliGOcZlH49M09sukeWZHYyqswbhLzTHhV61hUzQ54tXpfYVb6l1w1I_XFV7UNDcij2l3c8sHS9mlXNjJu7ctn4YqhYoeWtM-jCea_J_Fc0DkVzBcMXmhRZFbxo16ko2IPMlQBpU3L6h_QlVNhj4TlogBH71BkYb2kRlJ76h3fPVo6aTPcvXh-keZrcAKTzYu0YezQJ1xKkhVTHQS5C_0Yck07FOnqxm72Bj7zZhuDAj7lNjdIuqMyodmVhDVboJdFBCeE-mI7nFYCDwcoDEAiOHcJlwAtep4Htz98SMCmt6T35q8pY_kWdWEr0qa3xlYJBo7Jk66on1Mi-xePa2mwBWqKnuCOHN0FsJtLed_g08boogRsJOjnHkBS8aGsFs9v3JWi_0w62Dlw2K7Zo_IUirqL-cKjDJ2ZIOUgKb_plpsNEfPCsRlfiPGMANA=w930-h1396-no"
+    },
+    {
+      "type": "figure",
+      "img": "https://lh3.googleusercontent.com/l1R-8xI9g-fDO_vHdqqjsDx8pkMq9IBcgqDeXtDBkowvhw4Z-5oDQ8uk2QtcWmqaTRwEBObXFQ-g8o6uhowB91HiOIQ5zGPKt1-UYfR8o8M9vzUmgEY89EpGFDVBmjAhWvmBgeDTnuRzt3eErbNn--TILukGWslqfAajoUNv5AIUbkXO7J-dslmarQF0-YPLTQFxu8jmyKUp-qoBaX4COQh3Zq0ZJvVdHvonCLP7IZxEHB2SvzmpmlY0af_MZHSFlrsNyPOY2-FDr9wja9XOZVA0GtodepI0SuVYaIUfM7nHfxHeatA3WrIpk7Ow_eRtJJIhC6N_SApkVyZku7arHVARw1gs9gvj-M7tVkADA-uFBKJKkIACfsxbZkaHd3NNGB1W6VokkZYPCvbDwhZ21l5aNpUIRP9s4S-_gO0PNhdbF0tHf0Eas12lx_AftKVoqva-5EPK-7o1tmyzSMNBs_Z0ownGNRTl9LZ0Qsq1o_oXF1CWJfStGT6_oaBCMmJvMqu-O6l3ayDDNb10Ao7u4GsYNjx-bINvjxADHJU3yAG2GqiXcpG_4wNXa6LWYNVfxqxZdyOS8SZzdh22Dz4Dc-1LceGrSLpob2Xz-yik83dZ342WJAZE5lEg7SQrH0xpEgpTxd8DA3wwwD6rMI9x9LTxFKbJOQB2EUjhdUsVn699c5GUh5ZggA=w2100-h1396-no"
+    },
+    {
+      "type": "figure",
+      "img": "https://lh3.googleusercontent.com/O6463cvXqD9-RYKx192slYHOtU0o97P0m7GBefIRL4HD7Bn2ZAdgAsvC_smxL2mv95rJ0_-TXT_1226ptPFiFdzIjYzNtKzKJZz813AgV1XIKHJnMJWMNKmYK1mLTmWvKu1orHHvUNOzkOzchQs1UpZmyzljF9yU6PIEF41iyTP8X1vRXp27OgP2KHeGu6YRUx7RauaGNWtKN8Vhguowajq8q0poNo-UCYHUfrnulj3etJXl-fs7-3HE8XN4QZUoKb1KJbYS0QRgmpbQCaWFkUZBMcq-1chXOoxH6FcYKNp1rfYOJIpF47-mEGKuM03HN2fDsXdgyD-VUQ2IylpI7uISuVRMWAOr9pR7KL4Q7B2f9Af7VO9SprzpjeWLJ6Txmqx-JuSUE95CKsUOGnX5xmpleyClOH4_a87L7y7hzT-NWGyLBv9loNtlIdH06QE8S4OA-u9pkWpIbMRUP3h3zQs0ZqQgO4tTu7MknHNAUk8yJ4fL8s2sIM-EWxx8_1-3gsvJapAVOT-mvkjOSK0O2aIu-qsH5I38WGKJDTrSxQRVKM_QkrKWLCCLDXjN8cNRfUDHxJf6MgHELwDyBePzDcEedxnmA6xR6p5jsAdJdGufMgnaaSmdG01TEhoPLJv9Srks4g3B5sfGiCHrNq1b4ZgfEgkDnGK4LgzhRQGJVvzJkyW2PCrQsA=w1700-h1000-no"
+    },
+    {
+      "type": "article",
+      "id": "bookings",
+      "title": "<i class='far fa-calendar-check'></i> Rezervări",
+      "text": "Completează formularul de cazare de mai jos și scrie-ne în căsuța 'Alte detalii' dacă dorești să fi cazat într-o cameră anume, să închiriezi biciclete sau să vă organizăm un <a href='ro/experiences/all#guidedTour'>tur ghidat</a> pe perioada șederii spre oricare dintre atracțiile descrise pe pagina <a href='ro/experiences/all'>experiențe</a>"
+    },
+    {
+      "type": "form",
+      "afterFormText": "Rezervarea va fi validă doar la primirea unui <b>telefon sau email de confirmare!</b> <br><b>Prețurile pot să difere</b> în perioada cu sărbători sau alte evenimente. <br>Pentru a ajunge la noi setați pe gps 'Casa Petri Rosia Montana'. <br><b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> până la 11:00.",
+      "submitButtonText": "Trimite rezervarea",
+      "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
+      "errorMessage": "EROARE! Contactați-ne pe email casaPetriRosiaMontana@gmail.com",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
+          "placeholder": "Email",
+          "required": true
         },
-        "content": [
-          {
-            "text": "Completează formularul de cazare de mai jos și scrie-ne în căsuța 'Alte detalii' dacă dorești să fi cazat într-o cameră anume, să închiriezi biciclete sau să-ți organizăm un "
+        {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw fa-rotate-90'></i>",
+          "placeholder": "Telefon",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeCode": "<i class='far fa-calendar fa-fw'></i>",
+          "required": true,
+          "fromInputName": "Check In",
+          "toInputName": "Check Out"
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "required": true,
+          "iconFortAwesomeCode": "<i class='fas fa-bed fa-fw'></i>",
+          "placeholder": "Camere și prețuri",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ adaugă",
+            "removeButtonText": "- șterge",
+            "minOccurs": 1,
+            "maxOccurs": 10
           },
-          {
-            "link": {
-              "text": "tur ghidat",
-              "textOnMouseOver": "Click here...",
-              "link": "ro/experiences/all#guidedTour"
+          "inputs": [
+            {
+              "name": "room",
+              "selectOptions": [
+                {
+                  "text": "o cameră de 2 persoane cu baie comună - 140lei/noapte"
+                },
+                {
+                  "text": "o cameră de 2 persoane cu baie privată - 170lei/noapte"
+                },
+                {
+                  "text": "o cameră de 3 pers cu baie comună - 170lei/noapte"
+                },
+                {
+                  "text": "o cameră de 3 pers cu baie privată - 200lei/noapte"
+                },
+                {
+                  "text": "o cameră de 4 pers cu baie privată - 240lei/noapte"
+                }
+              ]
             }
-          },
-          {
-            "text": " pe perioada șederii spre oricare dintre atracțiile descrise pe pagina "
-          },
-          {
-            "link": {
-              "text": "experiențe",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/experiences/all"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "form": {
-        "afterFormText": "Rezervarea va fi validă doar la primirea unui <b>telefon sau email de confirmare!</b> <br><b>Prețurile pot să difere</b> în perioada cu sărbători sau alte evenimente. <br>Pentru a ajunge la noi setați pe gps 'Casa Petri Rosia Montana'. <br><b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> până la 11:00.",
-        "submitButtonText": "Trimite rezervarea",
-        "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
-        "errorMessage": "EROARE! Contactați-ne pe email casaPetriRosiaMontana@gmail.com",
-        "fields": [
-          {
-            "type": "email",
-            "name": "email",
-            "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
-            "placeholder": "Email",
-            "required": true
-          },
-          {
-            "type": "phone",
-            "name": "phone",
-            "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw fa-rotate-90'></i>",
-            "placeholder": "Telefon",
-            "required": true
-          },
-          {
-            "type": "daterange",
-            "name": "period",
-            "iconFortAwesomeCode": "<i class='far fa-calendar fa-fw'></i>",
-            "required": true,
-            "fromInputName": "Check In",
-            "toInputName": "Check Out"
-          },
-          {
-            "type": "selectBoxAllowDuplicates",
-            "required": true,
-            "iconFortAwesomeCode": "<i class='fas fa-bed fa-fw'></i>",
-            "placeholder": "Camere și prețuri",
-            "allowToDuplicateSettings": {
-              "addButtonText": "+ adaugă",
-              "removeButtonText": "- șterge",
-              "minOccurs": 1,
-              "maxOccurs": 10
-            },
-            "inputs": [
-              {
-                "name": "room",
-                "selectOptions": [
-                  {
-                    "text": "o cameră de 2 persoane cu baie comună - 140lei/noapte"
-                  },
-                  {
-                    "text": "o cameră de 2 persoane cu baie privată - 170lei/noapte"
-                  },
-                  {
-                    "text": "o cameră de 3 pers cu baie comună - 170lei/noapte"
-                  },
-                  {
-                    "text": "o cameră de 3 pers cu baie privată - 200lei/noapte"
-                  },
-                  {
-                    "text": "o cameră de 4 pers cu baie privată - 240lei/noapte"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "textarea",
-            "name": "others",
-            "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
-            "placeholder": "Alte detalii? Scrie-ne aici...",
-            "rows": 2,
-            "maxChars": 500,
-            "required": false
-          }
-        ]
-      }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
+          "placeholder": "Alte detalii? Scrie-ne aici...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
+        }
+      ]
     }
   ]
 }

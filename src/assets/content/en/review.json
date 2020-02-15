@@ -6,7 +6,7 @@
   },
   "sections": [
     {
-      "imageVideoTextButtons": {
+"type": "figure",
         "text": "Reviews Casa Petri Rosia Montana",
         "videoSource": "",
         "img": "/assets/img/reviews/presentation/fullWidthImg.jpg",
@@ -25,8 +25,7 @@
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "reviews",
           "title": "<i class='fa fa-comments'></i> Reviews"
         },
@@ -64,8 +63,7 @@
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "addReview",
           "title": "<i class='far fa-edit'></i> Add a review"
         },

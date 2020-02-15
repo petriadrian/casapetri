@@ -6,13 +6,12 @@
   },
   "sections": [
     {
-      "imageVideoTextButtons": {
+"type": "figure",
         "videoSource": "/assets/img/promo-english-casa-petri-rosia-montana-accommodation-visit-transylvania-trip-holiday.mp4"
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "whyVisit",
           "title": "Why visit our area?"
         },
@@ -24,8 +23,7 @@
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "accommodation",
           "title": "Stay in a cosy house"
         },
@@ -44,8 +42,7 @@
       }
     },
     {
-      "linkImageText": [
-        {
+      "type": "cards",
           "title": "Books house",
           "text": "In the past here was a bank with one meter wide stone walls transformed in a space with a library, bath and kitchenette",
           "img": "assets/img/accommodation/article/rooms/cartilor/thumbnail/1.jpg",
@@ -75,8 +72,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "guidedTour",
           "title": "<i class='fas fa-hiking'></i> Hop on a tour of our area"
         },
@@ -98,23 +94,21 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
         }
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "nature",
           "title": "Enjoy the nature"
         }
       }
     },
     {
-      "linkImageText": [
-        {
+      "type": "cards",
           "title": "Hiking",
           "text": "Have a walk towards the massive from our area to see the natural objectives. <b>Marked hiking trails</b> starts from the historic center.",
           "img": "assets/img/attractions/article/letySulei/thumbnail/1.jpg",
@@ -171,16 +165,14 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "title": "Discover the history",
           "id": "history"
         }
       }
     },
     {
-      "linkImageText": [
-        {
+      "type": "cards",
           "title": "Historic center",
           "text": "Have a walk in the historic center of the oldest attested locality from Romania (Rosia Montană, year 131) to discover the heritage buildings",
           "img": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
@@ -228,8 +220,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "directions",
           "title": "<i class='fa fa-location-arrow'></i> How to reach us?"
         },

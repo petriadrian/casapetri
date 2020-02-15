@@ -6,7 +6,7 @@
   },
   "sections": [
     {
-      "imageVideoTextButtons": {
+"type": "figure",
         "text": "Păreri Casa Petri Rosia Montana",
         "videoSource": "",
         "img": "/assets/img/reviews/presentation/fullWidthImg.jpg",
@@ -25,13 +25,10 @@
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "reviews",
           "title": "<i class='far fa-comments'></i> Păreri"
-        },
-        "content": [
-          {
+
             "text": "Ne-au vizitat oameni faini de la care am avut multe de învățat, ținem foarte mult la recomadările primite și datorită lor reușim să ne îmbnunătățim zi de zi. Vezi mai jos cum s-au simțit, iar la final lasă-ne și tu o impresie. Pe lângă acestea:"
           },
           {
@@ -64,13 +61,10 @@
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "addReview",
           "title": "<i class='far fa-edit'></i> Adaugă o părere"
-        },
-        "content": [
-          {
+
             "text": "Te rugăm să adaugi părerea ta pe paginile noastre de social media deoarece au un impact vizual mai mare acolo (apoi o vom importa și la noi pe site):"
           },
           {

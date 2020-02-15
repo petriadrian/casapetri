@@ -6,15 +6,14 @@
   },
   "sections": [
     {
-      "imageVideoTextButtons": {
+"type": "figure",
         "text": "Stay in a cosy house at Rosia Montana",
         "videoSource": "",
         "img": "/assets/img/accommodation/article/outside/fullSize/casa-petri-gradina-primavaracopaci-infloriti.jpg"
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "accommodation",
           "title": " "
         },
@@ -26,8 +25,7 @@
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "booksHouse",
           "title": "<i class='fas fa-book'></i> Books House"
         },
@@ -39,7 +37,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/accommodation/article/rooms/cartilor/fullSize/1.jpg"
         },
@@ -52,8 +50,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "littleHouse",
           "title": "<i class='fas fa-home'></i> Little House"
         },
@@ -65,7 +62,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/accommodation/article/rooms/casuta/fullSize/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg"
         },
@@ -78,8 +75,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "tarnatHouse",
           "title": "<i class='fas fa-vihara'></i> Tarnat house"
         },
@@ -91,7 +87,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/accommodation/article/rooms/tarnat/fullSize/tarnat-dormitor-cazare-casa-petri-rosia-montana.jpg"
         },
@@ -104,8 +100,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "bookings",
           "title": "<i class='far fa-calendar-check'></i> Bookings"
         },

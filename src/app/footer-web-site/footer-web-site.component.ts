@@ -6,8 +6,7 @@ import {Injectable} from '@angular/core';
 @Injectable()
 @Component({
   selector: 'app-footer-web-site',
-  templateUrl: './footer-web-site.component.html',
-  styleUrls: ['./footer-web-site.component.css']
+  templateUrl: '../content/content-management/content-management.component.html'
 })
 export class FooterWebSiteComponent implements OnInit {
 

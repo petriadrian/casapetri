@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { LinkImageTextComponent } from './link-image-text.component';
+import { FigureComponent } from './figure.component';
 
-describe('LinkDetailBoxComponent', () => {
-  let component: LinkImageTextComponent;
-  let fixture: ComponentFixture<LinkImageTextComponent>;
+describe('HeadlineComponent', () => {
+  let component: FigureComponent;
+  let fixture: ComponentFixture<FigureComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ LinkImageTextComponent ]
+      declarations: [ FigureComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(LinkImageTextComponent);
+    fixture = TestBed.createComponent(FigureComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

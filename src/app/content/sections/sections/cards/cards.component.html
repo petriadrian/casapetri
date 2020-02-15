@@ -1,0 +1,13 @@
+<section class="row no-gutters justify-content-center">
+  <span *ngFor="let item of content"
+        class="item col-xs-8 col-sm-6 col-md-4 col-lg-3"
+        (click)="buildLinkAndGo(item?.link)"
+        [ngClass]="{'hover': !!item?.link}">
+    <img *ngIf="!!item?.img" alt="{{item?.title}}"
+         [src]="item?.img">
+    <div *ngIf="!!item?.title || !!item?.text" class="caption">
+      <h3 *ngIf="!!item?.title" [innerHTML]="item?.title | trustHtml"></h3>
+      <p *ngIf="!!item?.text" [innerHTML]="item?.text | trustHtml"></p>
+    </div>
+  </span>
+</section>

@@ -1,3 +1,6 @@
+section {
+  padding: 0 2%;
+}
 header {
   position: relative;
   width: 100%;
@@ -21,4 +24,8 @@ header h2 {
 
 header h3 {
   font-size: 1.3em;
+}
+
+a {
+  color: var(--firstColor) !important;
 }

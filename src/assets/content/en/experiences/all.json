@@ -6,7 +6,7 @@
   },
   "sections": [
     {
-      "imageVideoTextButtons": {
+"type": "figure",
         "text": "Roșia Montană is not just a holiday, is an experience!",
         "videoSource": "",
         "img": "/assets/img/attractions/presentation/fullWidthImg.jpg"
@@ -22,13 +22,10 @@
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "historicCenter",
           "title": "<i class='fas fa-blind'></i> Have a walk in the historic center"
-        },
-        "content": [
-          {
+
             "text": " Here you will find 7 churches from different confessions, the gold miner's houses, and other patrimony buildings built by different nations who came here for the gold rush."
           },
           {
@@ -58,7 +55,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
         },
@@ -68,13 +65,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "museums",
           "title": "<i class='fas fa-university'></i> Discover the goldsmiths story. Museums"
-        },
-        "content": [
-          {
+
             "text": "Take a guided tour of the roman galleries from the <b>The Mining Museum of Roșia Montană</b> and check out the gold mining evolution, see the gold veins and the rock exhibition from <b>The Gold museum of Brad</b> or the functional stamp mill used for processing the gold from the <b> Buciumanilor Museum</b>. "
           },
           {
@@ -88,7 +82,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/muzeu-minerit-steampuri-vagon.jpg"
         },
@@ -98,13 +92,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "galleries",
           "title": "<i class='fas fa-dungeon'></i> See the old goldsmith marks. The galleries"
-        },
-        "content": [
-          {
+
             "text": "Rosia Montana has <b>one of the largest underground gold mining system in the world</b>, a 120km labyrinth underneath the earth made of roman, dacian or habsburgic galleries proposed as <b>UNESCO</b> site."
           },
           {
@@ -134,7 +125,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/turisti-vaidoaia-tur-ghidat-rosia-montana.jpg"
         },
@@ -144,13 +135,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "saveRosiaMontana",
           "title": "<i class='fas fa-flag'></i> Visit the Natural Monuments"
-        },
-        "content": [
-          {
+
             "text": "The natural protected area of 'Piatra Corbului' shaped by the old gold mining sites, the Ogre Stone with his legends or the Sphinx of Apuseni are just some of the 'nature monuments' that worth visiting."
           },
           {
@@ -180,7 +168,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/piatra-corbului-carnic-rosia-montana.jpg"
         },
@@ -190,13 +178,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "lake",
           "title": "<i class='far fa-comment'></i> Enjoy the silence. Visit the lakes"
-        },
-        "content": [
-          {
+
             "text": "In the past were built many small artificial lakes used to process the golden ore, that nowadays are great recreational places, perfect for a picnic or catching an amazing sunset."
           },
           {
@@ -226,7 +211,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/tau-mare-inima-natura-vara-nature-rosia-montana.jpg"
         },
@@ -236,20 +221,17 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "viewPoints",
           "title": "<i class='fas fa-walking'></i> Conquer the landscape peaks"
-        },
-        "content": [
-          {
+
             "text": "If you enjoy nature and quite places with amazing views, start your next adventure in Rosia Montana, a village with less travelled paths. We recommend to start your hike early in the morning to catch the sounding valleys covered in mist."
           }
         ]
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/priveliste-vaidoaia-primavara-ceata-rosia-montana.jpg"
         },
@@ -259,13 +241,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "detunata",
           "title": "<i class='fas fa-mountain'></i> Visit the basalt roof of the Carpathians - Detunata"
-        },
-        "content": [
-          {
+
             "text": "Detunata is one of the most spectacular massifs from our area, a protected natural habitat made out of high columns of basalt with a sea of rocks at his base where sometimes small glaciers appears."
           },
           {
@@ -295,7 +274,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/detunata-fatada-bucium-rosia-montana.jpg"
         },
@@ -305,13 +284,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "hayhouse",
           "title": "<i class='fas fa-home'></i> Discover an 'Open air museum'. Hay houses"
-        },
-        "content": [
-          {
+
             "text": "A walk among the surrounding villages is like a journey back in time. A part of the households remained preserved exactly as they were in the past, covered with hay or wood."
           },
           {
@@ -341,7 +317,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/mogos-case-paie-cheile-ramet.jpg"
         },
@@ -351,13 +327,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "hiking",
           "title": "<i class='fas fa-tree'></i> Hiking marked trails"
-        },
-        "content": [
-          {
+
             "text": "Hiking in the nature, fresh air or bike rides? Discover Roșia Montană and its surroundings following the <b>marked trails</b> for every level (beginners or advanced - 3, 5 or 8 hours)."
           },
           {
@@ -377,7 +350,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/turisti-trasee-marcate-rosia-montana.jpg"
         },
@@ -387,13 +360,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "narcise",
           "title": "<i class='fas fa-hiking'></i> Discover the daffodils meadow"
-        },
-        "content": [
-          {
+
             "text": " Near Roșia Montană is one of the must see places of Transylvania Mountains in May. The smell and the landscape during the daffodils blooming period will remain an unforgettable memory."
           },
           {
@@ -423,7 +393,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/article/narcise/fullSize/2.jpg"
         },
@@ -433,13 +403,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "movieScreenings",
           "title": "<i class='fas fa-video'></i> Movie screenings in the yard. Documentaries about Rosia"
-        },
-        "content": [
-          {
+
             "text": "In the warm summer evenings we organize movie screenings in the yard with documentaries and old movies with or about Rosia Montana. If you want a movie screening during your stay please specify while making a "
           },
           {
@@ -453,20 +420,17 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/accommodation/article/outside/fullSize/film-proiectie-gradina-casa-petri.jpg"
         }
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "communism",
           "title": "<i class='fas fa-city'></i> See the communist mega-projects"
-        },
-        "content": [
-          {
+
             "text": "To see the impact and the price paid to obtain the precious metals you should visit Roșia Poieni (one of the largest open pits from Europe) and its waste lake that covered the Geamăna village."
           },
           {
@@ -496,20 +460,17 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/openPitGeamanaMix.jpg"
         }
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "saveRosiaMontana",
           "title": "<i class='fas fa-flag'></i> Discover the 'Save Rosia Montana' campaign"
-        },
-        "content": [
-          {
+,
             "text": "Visit the places where during 15 years were actions against the Canadian mining company who wanted to open a big gold mining using cyanide to extract the remaining gold. "
           },
           {
@@ -539,20 +500,17 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/saveRosiaCampaignMix.jpg"
         }
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "vulcan",
           "title": "<i class='fas fa-mountain'></i> Hiking with a fairy tail view. Volcano Massif"
-        },
-        "content": [
-          {
+,
             "text": "The massif itself is actually an inactive volcano that impress through its shape and size."
           },
           {
@@ -582,20 +540,17 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/vulcan-gard-toamna.jpg"
         }
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "farmer",
           "title": "<i class='fas fa-horse'></i> Live as a local farmer"
-        },
-        "content": [
-          {
+,
             "text": "We will put you in touch with the local farmers where you can take part to their daily works, easy to learn (hand cow milking, local food and drinks making or to the traditional haymaking which will be used in the winter for the animals). Your help would be really helpful for the farmers and for you will be an unique experience, will be connected to the nature, will help preserving the biodiversity and will learn traditional crafts very well preserved in our area. If you want to live as a local inform us while making a"
           },
           {
@@ -609,7 +564,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/viata-la-tara-rosia-montana.jpg"
         },
@@ -619,13 +574,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "apuseni",
           "title": "<i class='far fa-star'></i> Discover the surrounding attractions"
-        },
-        "content": [
-          {
+,
             "text": "<b>Scărișoara Glacier</b> - a natural monument, one of the biggest underground glacier in the world, located in the heart of the mountains"
           },
           {
@@ -659,7 +611,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/ghetar-scarisoara-unirea.jpg"
         },
@@ -669,13 +621,10 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "autumn",
           "title": "<i class='fas fa-leaf'></i> Capture the autumn colors"
-        },
-        "content": [
-          {
+,
             "text": "Enjoy the autumn nature of Roșia with its cold and foggy mornings, gentle afternoons and ideal landscapes to catch in photos. Usually, in October we organize photo tours along the forest areas - if you want to participate please specify while making a"
           },
           {
@@ -689,15 +638,14 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/toamna-padure-seliste.jpg"
         }
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "winter",
           "title": "<i class='far fa-snowflake'></i> Ride on a sleigh! Winter at Rosia"
         },
@@ -716,7 +664,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/iarna-centrl-istoric-historic-center-casa-david-scoala-germana.jpg"
         },
@@ -726,8 +674,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "guidedTour",
           "title": "<i class='fas fa-hiking'></i> Discover the local stories. Guided tours"
         },
@@ -749,7 +696,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/turisti-tur-ghidat-piatra-corbului-rosia-montana.jpg"
         },
@@ -759,8 +706,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "bike",
           "title": "<i class='fas fa-bicycle'></i> Visit Rosia on a bike"
         },
@@ -817,7 +763,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/turisti-bicicleta-statia-meteo-rosia-montana.jpg"
         },
@@ -827,8 +773,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "berry",
           "title": "<i class='fas fa-concierge-bell'></i> Have a 'delicious' hike"
         },
@@ -850,15 +795,14 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/fructe-padure-cules-zmeura-2.jpg"
         }
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "archery",
           "title": "<i class='fas fa-angle-right'></i> Learn Archery at a local club"
         },
@@ -877,7 +821,7 @@
       }
     },
     {
-      "bigImage": [
+      "figure": [
         {
           "img": "assets/img/attractions/tir-cu-arcul-archery-rosia-montana2.jpg"
         }

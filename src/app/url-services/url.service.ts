@@ -23,20 +23,22 @@ export class UrlService {
   }
 
   public buildLinkAndGo(link) {
-    if (link === this.RO_LOCALE || link === this.EN_LOCALE) {
-      this.buildLangLinkAndGo(link);
-    }
-    if (link.startsWith('http')) {
-      window.open(link, '_blank');
-    } else if (link.startsWith('tel:') || link.startsWith('mailto:')) {
-      window.open(link, '_self');
-    } else {
-      if (link.indexOf('#') === -1) {
-        this.router.navigate([link]);
+    if (link && link !== "") {
+      if (link === this.RO_LOCALE || link === this.EN_LOCALE) {
+        this.buildLangLinkAndGo(link);
+      }
+      if (link.startsWith('http')) {
+        window.open(link, '_blank');
+      } else if (link.startsWith('tel:') || link.startsWith('mailto:')) {
+        window.open(link, '_self');
       } else {
-        const hash = link.substring(link.indexOf('#') + 1);
-        const linkNoHash = link.substring(0, link.indexOf('#'));
-        this.router.navigate([linkNoHash], {fragment: hash});
+        if (link.indexOf('#') === -1) {
+          this.router.navigate([link]);
+        } else {
+          const hash = link.substring(link.indexOf('#') + 1);
+          const linkNoHash = link.substring(0, link.indexOf('#'));
+          this.router.navigate([linkNoHash], {fragment: hash});
+        }
       }
     }
   }
@@ -58,26 +60,30 @@ export class UrlService {
     return valid;
   }
 
-  public getJsonContentUrl() {
+  public sanitizeContentUrl(url) {
     let jsonContentPath = '';
-    if (this.router.url === '/') {
+    if (url === '/') {
       jsonContentPath = '/ro/home';
-    } else if (this.router.url === '/en') {
+    } else if (url === '/en') {
       jsonContentPath = '/en/home';
     } else {
-      if (this.contains(this.router.url, '#') || this.contains(this.router.url, '?')) {
-        if (this.contains(this.router.url, '?')) {
-          jsonContentPath = this.router.url.substring(0, this.router.url.indexOf('?'));
-        } else if (this.contains(this.router.url, '#')) {
-          jsonContentPath = this.router.url.substring(0, this.router.url.indexOf('#'));
+      if (this.contains(url, '#') || this.contains(url, '?')) {
+        if (this.contains(url, '?')) {
+          jsonContentPath = url.substring(0, url.indexOf('?'));
+        } else if (this.contains(url, '#')) {
+          jsonContentPath = url.substring(0, url.indexOf('#'));
         }
       } else {
-        jsonContentPath = this.router.url;
+        jsonContentPath = url;
       }
     }
-    const jsonContentUrl = this.getHostName() + '/assets/content' + jsonContentPath + '.json';
+    const jsonContentUrl = this.getHostNameContent() + jsonContentPath + '.json';
     // console.log('JsonContentUrl: ' + jsonContentUrl);
     return jsonContentUrl;
+  }
+
+  public getHostNameContent() {
+    return this.getHostName() + '/assets/content/';
   }
 
   public getHostName() {
@@ -98,6 +104,7 @@ export class UrlService {
   }
 
   public scrollToAnchorIfValid(anchor) {
+    console.log("scroll to anchor " + anchor);
     if (this.notEmpty(anchor)) {
       if (this.contains(anchor, '?')) {
         anchor = anchor.substring(0, anchor.indexOf('?'));
@@ -107,6 +114,10 @@ export class UrlService {
           document.querySelector('#' + anchor).scrollIntoView();
         }
       }, 1500);
+    } else {
+      if (this.isHostOnBrowser()) {
+        window.scroll(0, 0);
+      }
     }
   }
 

@@ -1,12 +1,9 @@
 {
   "sections": [
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Verena's group - Hamburg(DE)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>Marvellous for those who want to have a great experience in Rosia Montana. Very well situated in Rosia Montana, quiet, but in the middle of the village, a very nice place! Simple but convenient and nicely done with a backyard to sit outside and relax. What made our stay so exceptional was the kind and excellent help provided by the host for organizing our stay and tours. Adi's flexibility to adapt to his guests was great! Especially the tours together with the wonderful guide Calin were marvellous, with their wealth of knowledge about local history and the recent development, their friendliness and openness to share made it a great and exceptional experience - and also a lot of fun! The whole group of 15 students was very impressed, loved it and would have wanted to stay longer. We'll come back!</span>"
           }
         ]
@@ -27,12 +24,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Nastasia - Barcelona(SP)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'> A fairytale place, with wonderful people, both in thoughts and in senses, the house where I always come back gladly! Petri House Roșia Montană!</span>"
           },
           {
@@ -55,12 +49,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Andreea - Brașov(RO)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>Nice people comes to nice hosts! Thanks for the hammocks with a view, for the good and activist vibe, for the pancakes and for the good WiFiiiiiii :))). We already miss you guys and we count the weeks until we will return at Casa Petri.</span>"
           },
           {
@@ -83,12 +74,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Felicia - Satu Mare(RO)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'> We spent 3 wonderful days at Casa Petri, we felt excellent here. We were impressed by the common sense and the calm of our host (Adi) and by the good food prepared by his neighbour (Alina). We will return here. </span>"
           }
         ]
@@ -104,12 +92,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Ana von Aether - Paris(FR)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>Thanks for the accomodation. It was a pleasure to meet you! I enjoyed a lot Fân Fest and if I'll come next year to the festival, I also want to stay at Casa Petri. Keep in touch!</span>"
           }
         ]
@@ -125,12 +110,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Alex - Cluj(RO)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>It was really cool! It's the most beautiful building from Roșia Montană and is right in the Historic Center!</span>"
           },
           {
@@ -153,12 +135,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Josefen - Copenhagen(DK)"
-        },
-        "content": [
-          {
+,
             "text": "<span style='font-family: Merienda, cursive'>Romania still remains to be discovered as a very nice place to spend your holidays. A fantastic landscape and friendly people all makes it a pleasant experience to visit. Rosia Montana is particularly interesting for its history, geology, folklore and location and you don't find any better than the small, cosy and new restaurated Casuta Petri. Thank you very much for the stay </span>"
           }
         ]
@@ -174,12 +153,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Alexandra - Bucharest(RO)"
-        },
-        "content": [
-          {
+,
             "text": "<span style='font-family: Merienda, cursive'> Thank you for this piece of heaven, where we felt wonderful. One of the biggest achievements is that I slept like a baby, while in Bucharest I have to take sleeping pills. </span>"
           },
           {
@@ -202,12 +178,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Ramona - Cluj(RO)"
-        },
-        "content": [
-          {
+,
             "text": "<span style='font-family: Merienda, cursive'> Adi and his father are the best hosts. I love to drink my coffee in the morning in their yard with a nice view to Carnic mountain.</span>"
           },
           {
@@ -230,12 +203,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Sophie & Alma - Leipzig(DE)"
-        },
-        "content": [
-          {
+,
             "text": "<span style='font-family: Merienda, cursive'> Căsuța Petri in Roșia Montană is for sure the perfect place for having the good and easy life. Thank you very much for the warm welcome and your overall hospitality! It was very 'fain' to celebrate Easter with you. Thanks to Tica and the Petri family we will surely remember the Romanian hospitality as of unprecedented awesomeness. </span>"
           }
         ]
@@ -251,12 +221,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Livia - Cluj(RO)"
-        },
-        "content": [
-          {
+,
             "text": "<span style='font-family: Merienda, cursive'> For me is the first time when I come to Roșia Montană and I'm very glad that I had the opportunity to find this accommodation. The 'Books' room is wonderful and the place is very nice. I will always remember this place and the people that I meet here. </span>"
           }
         ]
@@ -272,12 +239,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Shreya - Mumbai(India)"
-        },
-        "content": [
-          {
+,
             "text": "<span style='font-family: Merienda, cursive'> Dear Adi, Casa Petri is an amazing place. We are very sad to have to leave this beautiful house and village. But we can now say we have a home in Rosia Montana. You are a wonderful host and an amazing person. Hope to see Casa Petri, again soon. We will miss the people of Rosia Montana very much.</span>"
           },
           {
@@ -300,8 +264,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Valentina - Cluj(RO)"
         },
         "content": [
@@ -321,8 +284,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Haowen - Taipei(Taiwan)"
         },
         "content": [
@@ -342,8 +304,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Horațiu - Alba Iulia(RO)"
         },
         "content": [
@@ -354,8 +315,7 @@
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "The group from Arad(RO)"
         },
         "content": [

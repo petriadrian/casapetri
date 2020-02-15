@@ -1,12 +1,9 @@
 {
   "sections": [
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Verena's group - Hamburg(DE)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>Marvellous for those who want to have a great experience in Rosia Montana. Very well situated in Rosia Montana, quiet, but in the middle of the village, a very nice place! Simple but convenient and nicely done with a backyard to sit outside and relax. What made our stay so exceptional was the kind and excellent help provided by the host for organizing our stay and tours. Adi's flexibility to adapt to his guests was great! Especially the tours together with the wonderful guide Calin were marvellous, with their wealth of knowledge about local history and the recent development, their friendliness and openness to share made it a great and exceptional experience - and also a lot of fun! The whole group of 15 students was very impressed, loved it and would have wanted to stay longer. We'll come back!</span>"
           }
         ]
@@ -27,12 +24,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Nastasia - Barcelona(SP)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>Un loc de poveste, cu oameni frumoși în ganduri și simțiri, casa la care mă reintorc cu drag și dor de fiecare data! Casa Petri Roșia Montană!</span>"
           },
           {
@@ -55,12 +49,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Andreea - Brașov(RO)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!</span>"
           },
           {
@@ -83,12 +74,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Felicia - Satu Mare(RO)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>Am petrecut 3 zile minunate la casa Petri, ne-am simțit excelent aici. Gazda (Adi) ne-a impresionat cu calmul și bunul simț iar vecina (Alina) cu mesele delicioase. Abia așteptăm să revenim </span>"
           }
         ]
@@ -104,12 +92,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Ana von Aether - Paris(FR)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>Mulțumesc încă o data că m-ați primit la voi. Mi-a făcut plăcere să vă cunosc! Mi-a placut foarte mult la fan fest și dacă o să reușesc să vin și la anul, tot la voi vreau sa stau. Păstram legătura</span>"
           }
         ]
@@ -125,12 +110,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Alex - Cluj(RO)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>E foarte misto! E cea mai frumoasa cladire din Rosia Montana, si e super aproape de centru!</span>",
             "linkText": [
               {
@@ -153,12 +135,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Josefen - Copenhaga(DK)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>România totuși rămâne să fie descoperită ca un loc unic de a-ți petrece concediul. Peisajul fantastic și oamenii primitori fac ca România să fie o experiență de neuitat. Roșia Montană, în mod particular, este interesantă pentru istorie, geologie, folclor, locație și nu o să găsești un loc mai bun de cazare decât micuța, primitoarea și noua restaurată Căsuța Petri. Mulțumesc pentru cazare. </span>"
           }
         ]
@@ -174,12 +153,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Alexandra - București(RO)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'> Mulțumim pentru acest loc de rai, unde ne-am simțit minunat. Una dintre cele mai mari realizări a fost că am dormit nemișcată, pe când în București am nevoie de pastile de somn.</span>",
             "linkText": [
               {
@@ -202,12 +178,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Ramona - Cluj(RO)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'> Adi și tatăl lui sunt cele mai faine gazde! Iubesc să beau cafeaua pe băncuță și să mă uit la muntele Cârnic. </span>",
             "linkText": [
               {
@@ -230,12 +203,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Sophie & Alma - Leipzig(DE)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'> Căsuța Petri in Roșia Montană este cu siguranță locul perfect pentru a duce un stil de viață bună și liniștită. Vă mulțumim pentru primirea călduroasă și pentru ospitalitatea voastră! A fost foarte fain să celebrăm Paștele aici cu voi. Mulțumită lui Tică și familiei Petri ne vom aminti cu siguranță de ospitalitatea românească ca fiind una extraordinară. </span>"
           }
         ]
@@ -251,12 +221,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Livia - Cluj(RO)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'> Pentru mine e prima dată când vin la Roșia Montană și mă bucur că am avut ocazia să fiu cazată aici. 'Camera cu cărți' e minunată și locul e superb. Îmi voi aminti cu drag de acest loc și de oamenii pe care i-am întâlnit aici.</span>"
           }
         ]
@@ -272,12 +239,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Shreya - Mumbai(India)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'> Dragă Adi, Casa Petri este un loc nemaipomenit. Suntem foarte triste că trebuie să părăsim acestă frumoasă casa și sat. Dar putem spune ca avem o casă la Roșia Montană. Ești o gazdă și un om minunat. Sperăm să ne întoarcem la Casa Petri în curând. Ne va fi foarte dor de oamenii din Roșia Montană.</span>",
             "linkText": [
               {
@@ -300,12 +264,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Valentina - Cluj(RO)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'> Două zile au fost îndeajuns pentru a găsi farmecul și frumusețea Roșiei Montane, însă mult prea puțin pentru cât ne-am fi dorit să ne conectăm la loc. Mulțumim pentru găzduire, tur, lumină și căldură! Am împrumutat o parte din energia de aici și ducem acasă o versiune mai bogată a noastră: cu istoria locului, poveștile oamenilor, frumusețea care îți taie respirația a munților, caselor, anilor. O experiență ce te schimbă și apropie.</span>"
           }
         ]
@@ -321,12 +282,9 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Haowen - Taipei(Taiwan)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>Suntem foarte triste că părăsim Casa Petri. O numim acasa de acum. Ne-a plăcut șederea noastră aici și cel ami mult ne-au plăcut oamenii din acest frumos sat. Faceți o treabă minunată la Roșia Montana. Pentru Călin, ghidul nostru: Am învățat multe  despre Roșia Montana datorită frumoaselor tururi și al poveștilor pe care ni le-ai spus. A fost minunat.</span>"
           }
         ]
@@ -342,24 +300,18 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Horațiu - Alba Iulia(RO)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'> Sunt gazde deosebite cei de la casa petri, mereu inventive cu mult entuziasm si deschise la orice propunere in avantajul oaspetelui. Odata ce ai trecut pe la ei nu se poate sa nu mai mergi in acele locuri frumoase care doar la Rosia Montana le poti admira .. Le recomand cu drag si altora !!!</span>"
           }
         ]
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "subtitle": "Trupa de la Arad(RO)"
-        },
-        "content": [
-          {
+
             "text": "<span style='font-family: Merienda, cursive'>Am avut parte de o 'expediție' în adevăratul sens al cuvântului, cu o încărcătură sufletesca nemăsurată și cu povești din negura timpurilor. Mulțumim din suflet unei gazde iubitoare de locurile natale, ancorat în istoria locului și cu un spirit de conservare a patrimoniului local. Vizita făcută la minele din Roșia Montană a fost o experiență unică și de neuitat. Am avut parte de un ghid care are un adevărat filon în suflet. Plimbarea prin localitate cu Călin a umplut paharul cu locuri și povești din localitate. Felicitări pentru organizare și conservarea casei bunicilor. Vom rămâne cu amintiri de neprețuit și poate timpul ne va aduce cândva prin aceste locuri - ne dorim din tot sufletul dar pe un timp mai îndelungat</span>"
           }
         ]

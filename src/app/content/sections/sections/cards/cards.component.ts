@@ -2,11 +2,11 @@ import {Component, Input} from '@angular/core';
 import {UrlService} from '../../../../url-services/url.service';
 
 @Component({
-  selector: 'app-big-image',
-  templateUrl: './big-image.component.html',
-  styleUrls: ['./big-image.component.css']
+  selector: 'app-cards',
+  templateUrl: './cards.component.html',
+  styleUrls: ['./cards.component.css']
 })
-export class BigImageComponent {
+export class CardsComponent {
 
   @Input() content;
 
@@ -16,4 +16,5 @@ export class BigImageComponent {
   public buildLinkAndGo(link) {
     this.changeUrlService.buildLinkAndGo(link);
   }
+
 }

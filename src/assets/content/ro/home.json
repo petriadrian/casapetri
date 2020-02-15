@@ -6,268 +6,164 @@
   },
   "sections": [
     {
-      "imageVideoTextButtons": {
-        "videoSource": "/assets/img/promo-romana-casa-petri-rosia-montana-cazare-viziteaza-transilvania-excursie.mp4"
-      }
+      "type": "figure",
+      "videoSource": "/assets/img/promo-romana-casa-petri-rosia-montana-cazare-viziteaza-transilvania-excursie.mp4"
     },
     {
-      "article": {
-        "heading": {
-          "id": "whyVisit",
-          "title": "De ce ai vizita zona noastră?"
-        },
-        "content": [
-          {
-            "text": "<b>Descoperă un 'peisaj cultural unic'</b> construit încă din antichitate de diverse civilizații pentru a extrage aur (propus ca sit <b>UNESCO</b>) <br><b>Natură și liniște</b> - drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și zone protejate din Munții Apuseni. <br><b>Vezi exploatările miniere</b> existente și ce impact ar avea una nouă pe cianuri ca cea propusă de canadieni."
-          }
-        ]
-      }
+      "type": "article",
+      "id": "whyVisit",
+      "title": "De ce ai vizita zona noastră?",
+      "text": "<b>Descoperă un 'peisaj cultural unic'</b> construit încă din antichitate de diverse civilizații pentru a extrage aur (propus ca sit <b>UNESCO</b>) <br><b>Natură și liniște</b> - drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și zone protejate din Munții Apuseni. <br><b>Vezi exploatările miniere</b> existente și ce impact ar avea una nouă pe cianuri ca cea propusă de canadieni."
     },
     {
-      "article": {
-        "heading": {
-          "id": "accommodation",
-          "title": "Stai într-o casă cu poveste"
-        },
-        "content": [
-          {
-            "text": "Am restaurat casa bunicilor din <b>centrul istoric Roșia Montană</b>, locul unde minerii schimbau aurul extras în bani și dinamită. Am pus în valoare trecutul iar acum oferim"
-          },
-          {
-            "link": {
-              "text": "cazare, tururi ghidate și biciclete.",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation"
-            }
-          }
-        ]
-      }
+      "type": "article",
+      "id": "accommodation",
+      "title": "Stai într-o casă cu poveste",
+      "text": "Am restaurat casa bunicilor din <b>centrul istoric Roșia Montană</b>, locul unde minerii schimbau aurul extras în bani și dinamită. Am pus în valoare trecutul iar acum oferim <a href='ro/accommodation'>cazare, tururi ghidate și biciclete</a> <br><br>"
     },
     {
-      "linkImageText": [
+      "type": "cards",
+      "cards": [
         {
           "title": "Casa Cărților",
           "text": "Fost sediu de bancă cu pereți de piatră de un metru grosime transformat într-un spațiu cu bibliotecă, baie și chicinetă.",
           "img": "assets/img/accommodation/article/rooms/cartilor/thumbnail/1.jpg",
-          "url": {
-            "link": "ro/accommodation#booksHouse",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/accommodation#booksHouse"
         },
         {
+          "type": "cards",
           "title": "Casa din târnaț",
           "text": "Aici erau camerele de oaspeți ale gospodăriei, cu zugraveala veche de aproape 100 de ani, expoziție de flori de mină, goblene și cărți.",
           "img": "assets/img/accommodation/article/rooms/tarnat/thumbnail/hallway.jpg",
-          "url": {
-            "link": "ro/accommodation#tarnatHouse",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/accommodation#tarnatHouse"
         },
         {
+          "type": "cards",
           "title": "Căsuța din grădină",
           "text": "Vechea bucătărie de vară, locul unde se preparau bucate și se facea pălinca e acum un spațiu unde o să găsiți tot confortul unui mic apartament.",
           "img": "assets/img/accommodation/article/rooms/casuta/thumbnail/casuta-casa-petri-camera-room-cazare-accomodation-rosia-montana.jpg",
-          "url": {
-            "link": "ro/accommodation#littleHouse",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/accommodation#littleHouse"
         }
       ]
     },
     {
-      "article": {
-        "heading": {
-          "id": "guidedTour",
-          "title": "<i class='fas fa-hiking'></i> Hai într-un tur al zonei noastre"
-        },
-        "content": [
-          {
-            "text": "Avem o zonă bogată în obiective naturale și istorice, cunoaștem împrejurimile, ținem legătura cu localnicii și știm ce poți face și vizita aici. Pentru a descoperi toate acestea oferim "
-          },
-          {
-            "link": {
-              "text": "tururi ghidate",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/experiences/all#guidedTour"
-            }
-          },
-          {
-            "text": " în zona noastră."
-          }
-        ]
-      }
+      "type": "figure",
+      "title": "<i class='fas fa-hiking'></i> Hai într-un tur al zonei noastre",
+      "text": "Avem o zonă bogată în obiective naturale și istorice, cunoaștem împrejurimile, ținem legătura cu localnicii și știm ce poți face și vizita aici. Pentru a descoperi toate acestea oferim <a href='ro/experiences/all#guidedTour'>tururi ghidate</a> în zona noastră.",
+      "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
     },
     {
-      "bigImage": [
-        {
-          "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
-        }
-      ]
+      "type": "article",
+      "id": "nature",
+      "title": "Bucură-te de natură și aer curat"
     },
     {
-      "article": {
-        "heading": {
-          "id": "nature",
-          "title": "Bucură-te de natură și aer curat"
-        }
-      }
-    },
-    {
-      "linkImageText": [
+      "type": "cards",
+      "cards": [
         {
           "title": "Hai în drumeție",
           "text": "Pornește într-o drumeție spre masivele din zonă unde se află diverse obiective naturale. Din centrul localității pornesc <b>trasee marcate</b> de drumeție.",
           "img": "assets/img/attractions/article/letySulei/thumbnail/1.jpg",
-          "url": {
-            "link": "ro/experiences/all#hiking",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/experiences/all#hiking"
         },
         {
           "title": "Plimbări cu bicicleta",
           "text": "Ne aflăm într-o zonă cu dealuri, văi și sate apusene legate de drumuri de țară ideale de ciclism montan. <b>Închiriem biciclete de munte!</b>",
           "img": "assets/img/attractions/article/rotunduPeak/thumbnail/9.jpg",
-          "url": {
-            "link": "ro/experiences/all#bike",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/experiences/all#bike"
         },
         {
           "title": "Descoperă tăurile",
           "text": "Tările (mici lacuri), locuri de liniște și relaxare ideale pentru a surprinde un apus de poveste sau să faci o pauză de la drumeție.",
           "img": "assets/img/attractions/article/lakes/bigLake/thumbnail/10.jpg",
-          "url": {
-            "link": "ro/experiences/all#lake",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/experiences/all#lake"
         },
         {
-          "title": "Zmeură, fragi?",
-          "text": "În funcție de sezon, zona noastră oferă diverse bunătăți direct de la sursă. Pe masivele din zonă găsiți zmeură, fragi, afine, ciuperci...",
+          "title": "Hai la cules de",
+          "text": "Zmeură, fragi, afine, ciuperci, plante medicinale. În funcție de sezon, zona noastră oferă diverse bunătăți direct de la sursă.",
           "img": "assets/img/attractions/article/vartop/thumbnail/12.jpg",
-          "url": {
-            "link": "ro/experiences/all#berry",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/experiences/all#berry"
         },
         {
           "title": "Drumeție la Poiana cu Narcise",
           "text": "În weekendurile din luna Mai organizam drumeții spre un loc magic din Apuseni cu peisaje de poveste și miros de neiuitat: 'Poiana cu Narcise'",
           "img": "assets/img/attractions/article/narcise/thumbnail/narcisele.jpg",
-          "url": {
-            "link": "ro/experiences/all#narcise",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/experiences/all#narcise"
         },
         {
           "title": "Încearcă viața la țară",
           "text": "Vă invităm să vă conectați la viața fermierilor din Apuseni (cosit, strânsul fânului, ridicarea căpițelor, mulsul vacilor și alte activități la fermă)",
           "img": "assets/img/events/hayDays/article/thumbnail/fan-zeno-vulcan-rosia.jpg",
-          "url": {
-            "link": "ro/experiences/all#farmer",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/experiences/all#farmer"
         }
       ]
     },
     {
-      "article": {
-        "heading": {
-          "title": "Locuri încărcate cu istorie la tot pasul",
-          "id": "history"
-        }
-      }
+      "type": "article",
+      "title": "Locuri încărcate cu istorie la tot pasul",
+      "id": "history"
     },
     {
-      "linkImageText": [
+      "type": "cards",
+      "cards": [
         {
           "title": "Centrul istoric",
           "text": "Plimbă-te prin centrul istoric al celei mai vechi localități atestate documentar din Romania (Rosia Montană, anul 131) pentru a descoperi clădirile de patrimoniu",
           "img": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-          "url": {
-            "link": "ro/experiences/all#historicCenter",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/experiences/all#historicCenter"
         },
         {
           "title": "Instalațiile aurarilor",
           "text": "La Muzeele din zonă poți vedea evoluția tehnicilor de prelucrare a metalelor prețioase, unelte și instalații, filoane de aur nativ și galerii miniere.",
           "img": "assets/img/attractions/article/romanGalleries/thumbnail/2.jpg",
-          "url": {
-            "link": "ro/experiences/all#museums",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/experiences/all#museums"
         },
         {
           "title": "Galeriile aurifere",
           "text": "Descoperă urmele lăsate de strămoși: galeriile aurifere (romane, preromane sau habsburgice) de o importanță istorică deosebită, propuse ca sit <b>UNESCO</b>",
           "img": "assets/img/attractions/article/carnic/galleries/thumbnail/galerii-romane-carnic.jpg",
-          "url": {
-            "link": "ro/experiences/all#galleries",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/experiences/all#galleries"
         },
         {
           "title": "Casele cu paie",
           "text": "O plimbare spre casele și șurile acoperite cu paie sau bisericiile mici de lemn specifice zonei noastre este asemeni unei călătorii în timp.",
           "img": "assets/img/attractions/mogos-sura-casa-paie-gemenele-th.jpg",
-          "url": {
-            "link": "ro/experiences/all#hayhouse",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/experiences/all#hayhouse"
         },
         {
           "title": "Perioada comunistă",
           "text": "Descopră megaproiectele perioadei comuniste, exploatări și lacuri de decantare imense, utilaje și clădiri industriale. Geamăna. Roșia Poieni. Cetate.",
           "img": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
-          "url": {
-            "link": "ro/experiences/all#communism",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "ro/experiences/all#communism"
         }
       ]
     },
     {
-      "article": {
-        "heading": {
-          "title": "Evenimente / Pachete",
-          "id": "events"
-        },
-        "content": {
-          "text": "Mai jos sunt câteva evenimente și pachete ce includ diverse activități în zona noastră."
-        }
-      }
+      "type": "article",
+      "title": "Evenimente / Pachete",
+      "id": "events",
+      "text": "Mai jos sunt câteva evenimente și pachete ce includ diverse activități în zona noastră."
     },
     {
-      "linkImageText": [
+      "type": "cards",
+      "cards": [
         {
           "title": "100 de case părăsite",
           "text": "29.11 - 02.12.18 <br>De 1 decembrie, centenarul României, vă invităm la Roșia la un tur al caselor vândute, abandonate și părăsite din Roșia Montană",
           "img": "assets/img/attractions/centrl-istoric-historic-center-parasita-th.jpg",
-          "url": {
-            "link": "/ro/events/abandonedHouses",
-            "textOnMouseOver": "Vezi mai mult..."
-          }
+          "link": "/ro/events/abandonedHouses"
         }
       ]
     },
     {
-      "article": {
-        "heading": {
-          "id": "directions",
-          "title": "<i class='fa fa-location-arrow'></i> Cum ajung?"
-        },
-        "content": [
-          {
-            "text": "Ne aflăm în centrul istoric Roșia Montană, 331A, Munții Apuseni, Transilvania. Pentru a ajunge la noi <b>setați pe gps 'Casa Petri Rosia Montana'</b>. Dacă veniți cu autobuzul cea mai apropiată stație este la Gura Roșia (6km) - de aici faceți autostopul sau sunați-ne și venim după voi. Odată ajunși în centrul vechi din Rosia Montana o să vedeți în stânga un bloc de 3 etaje și chiar după el este casa noastră, o casă albă cu etaj. Intrarea se face prin curte, pe partea stangă a casei."
-          }
-        ]
-      }
+      "type": "article",
+      "id": "directions",
+      "title": "<i class='fa fa-location-arrow'></i> Cum ajung?",
+      "text": "Ne aflăm în centrul istoric Roșia Montană, 331A, Munții Apuseni, Transilvania. Pentru a ajunge la noi <b>setați pe gps 'Casa Petri Rosia Montana'</b>. Dacă veniți cu autobuzul cea mai apropiată stație este la Gura Roșia (6km) - de aici faceți autostopul sau sunați-ne și venim după voi. Odată ajunși în centrul vechi din Rosia Montana o să vedeți în stânga un bloc de 3 etaje și chiar după el este casa noastră, o casă albă cu etaj. Intrarea se face prin curte, pe partea stangă a casei. <br><br>"
     },
     {
-      "iframe": {
-        "src": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc"
-      }
+      "type": "iframe",
+      "src": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc"
     }
   ]
 }

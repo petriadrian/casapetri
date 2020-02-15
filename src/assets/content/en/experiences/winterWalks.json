@@ -6,7 +6,7 @@
   },
   "sections": [
     {
-      "imageVideoTextButtons": {
+"type": "figure",
         "text": "Easy winter walks at Rosia Montana",
         "videoSource": "./assets/img/blog/winterWalks/presentation/intro.mp4",
         "img": "/assets/img/blog/winterWalks/presentation/fullWidthImg.jpg",
@@ -20,8 +20,7 @@
       }
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "blog",
           "title": "<i class='far fa-images'></i> Blog"
         },
@@ -127,8 +126,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "blog2",
           "title": "<i class='far fa-snowflake'></i> Sunset walking"
         },
@@ -184,8 +182,7 @@
       ]
     },
     {
-      "article": {
-        "heading": {
+"type": "article",
           "id": "blog3",
           "title": "<i class='fas fa-home'></i> Winter at Casa Petri"
         },

@@ -1,8 +1,8 @@
 import {AfterViewInit, Component, ElementRef, HostListener, Pipe, PipeTransform, ViewChild} from '@angular/core';
-import {DomSanitizer, SafeHtml} from '@angular/platform-browser';
+import {DomSanitizer, Meta, SafeHtml, Title} from '@angular/platform-browser';
 import {UrlService} from './url-services/url.service';
 import * as $ from 'jquery';
-import {NavigationEnd, Router} from '@angular/router';
+import {ActivatedRoute, NavigationEnd, Router} from '@angular/router';
 import {NgbModal} from '@ng-bootstrap/ng-bootstrap';
 import {InfoModalComponent} from './info-modal/info-modal.component';
 import {HttpClient} from '@angular/common/http';
@@ -12,25 +12,26 @@ import {HttpClient} from '@angular/common/http';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent implements AfterViewInit {
+export class AppComponent {
 
-  constructor(private urlService: UrlService, private router: Router, private http: HttpClient, private modalService: NgbModal) {
-    // google analytics
-    if (urlService.isHostOnBrowser()) {
-      this.router.events.subscribe(event => {
-        if (event instanceof NavigationEnd) {
-          // console.log('google analytics sent: ' + event.urlAfterRedirects);
-          (<any>window).ga('set', 'page', event.urlAfterRedirects);
-          (<any>window).ga('send', 'pageview');
-        }
-      });
-    }
+  constructor(private urlService: UrlService,
+              private http: HttpClient,
+              private modalService: NgbModal) {
+    this.initConfigSettings();
+    this.displayPrivacyPolicyModal();
   }
 
-  ngAfterViewInit() {
+  private initConfigSettings() {
+    this.http.get(this.urlService.getHostNameContent() + 'config.json').subscribe(res => {
+      document.documentElement.style.setProperty('--firstColor', (res as any).firstColor);
+      document.documentElement.style.setProperty('--secondColor', (res as any).secondColor);
+    });
+  }
+
+  private displayPrivacyPolicyModal() {
     const privacyPolicyPath = './assets/content/' + this.urlService.getCurrentLang()
       + '/common/privacyPolicy.json';
-    this.http.get(privacyPolicyPath).map(res => res).subscribe(result => {
+    this.http.get(privacyPolicyPath).subscribe(result => {
       this.modalService.open(InfoModalComponent, {
         backdrop: 'static',
         keyboard: false
@@ -43,10 +44,8 @@ export class AppComponent implements AfterViewInit {
     if (this.urlService.isHostOnBrowser()) {
       if (window.pageYOffset > 300) {
         $('#stickHeaderBarOnTheTop').fadeIn(200);
-        $('#stickPageIntroMenuOnTheTop').addClass('stickPageIntroMenuOnTheTop').fadeIn();
       } else {
         $('#stickHeaderBarOnTheTop').fadeOut();
-        $('#stickPageIntroMenuOnTheTop').removeClass('stickPageIntroMenuOnTheTop');
       }
     }
   }
