@@ -1,10 +1,10 @@
 import {Injectable} from '@angular/core';
 import {ActivatedRoute, ActivatedRouteSnapshot, Resolve, RouterStateSnapshot} from '@angular/router';
-import {Observable} from 'rxjs';
 import {UrlService} from "./url-services/url.service";
 import {HttpClient} from "@angular/common/http";
 import {Meta, Title} from "@angular/platform-browser";
-import 'rxjs/add/operator/map';
+import {Observable, of} from "rxjs";
+import {catchError, map} from "rxjs/operators";
 
 @Injectable()
 export class ContentResolver implements Resolve<any> {
@@ -21,12 +21,14 @@ export class ContentResolver implements Resolve<any> {
     if (this.urlService.urlRoutePathValid()) {
       this.initGoogleAnalytics(router.url);
       return this.http.get(this.urlService.sanitizeContentUrl(router.url))
-        .map(res => {
+        .pipe(map((res: any) => {
           this.updateSeoMetadata((res as any).metaData);
           return (res as any).sections;
-        })
-        .catch(e =>
-          Observable.of("[{'type': 'article', 'text':'Content not found'}]"));
+        }))
+        .pipe(catchError(err => {
+            console.log('Error while tring to load content ', err);
+            return of("[{'type': 'article', 'text':'Content not found'}]");
+          }));
     }
   }
 
