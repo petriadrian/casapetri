@@ -2,7 +2,6 @@ import {AfterViewInit, Component, Input} from '@angular/core';
 import {ActivatedRoute} from '@angular/router';
 import {HttpClient} from '@angular/common/http';
 import {UrlService} from '../../url-services/url.service';
-import 'rxjs/add/operator/map';
 
 
 @Component({
