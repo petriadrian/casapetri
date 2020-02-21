@@ -3,7 +3,7 @@ import {APP_ID, Inject, NgModule, PLATFORM_ID} from '@angular/core';
 import {HttpClientModule} from '@angular/common/http';
 
 
-import {AppComponent, RemoveHtmlFromText, SafeUrl, TrustHtml} from './app.component';
+import {AppComponent, RemoveHtmlFromText, TrustHtml} from './app.component';
 import {HeaderWebSiteComponent} from './header-web-site/header-web-site.component';
 import {FooterWebSiteComponent} from './footer-web-site/footer-web-site.component';
 import {FormsModule} from '@angular/forms';
@@ -20,14 +20,14 @@ import {LinkTextComponent} from './content/sections/sections/link-text/link-text
 import {IframeComponent} from './content/sections/sections/iframe/iframe.component';
 import {ArticleComponent} from './content/sections/sections/article/article.component';
 import {ImagesComponent} from './content/sections/sections/images/images.component';
-import {FigureComponent} from './content/sections/sections/figure/figure.component';
 import {ContentManagementComponent} from './content/content-management/content-management.component';
 import {ContentResolver} from "./content.resolver";
+import {SectionManagementComponent} from "./content/sections/section-management/section-management.component";
 
 @NgModule({
   declarations: [
     AppComponent,
-    SafeUrl,
+    SectionManagementComponent,
     ArticleComponent,
     TrustHtml,
     RemoveHtmlFromText,
@@ -36,7 +36,6 @@ import {ContentResolver} from "./content.resolver";
     FormComponent,
     CardsComponent,
     CarouselComponent,
-    FigureComponent,
     LinkTextComponent,
     InfoModalComponent,
     ImagesComponent,

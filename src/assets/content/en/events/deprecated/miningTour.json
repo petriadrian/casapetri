@@ -21,7 +21,7 @@
   },
   "sections": [
     {
-      "type": "title",
+      "type": "article",
       "text": " ",
       "id": "intro",
 
@@ -38,10 +38,9 @@
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-calendar-alt'></i> Schedule",
-      "id": "schedule",
-      "addLinkInPageHeadline": true
+      "id": "schedule"
     },
     {
       "article": {         "heading": {
@@ -56,12 +55,12 @@
             {
               "text": "Movie screening in the garden",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/film-proiectie-gradina-casa-petri.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/film-proiectie-gradina-casa-petri.jpg"
+              "img": "assets/img/accommodation/article/outside/img/film-proiectie-gradina-casa-petri.jpg"
             },
             {
               "text": "Images form the movie screening.",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "img": "assets/img/accommodation/article/outside/img/gardenMovieScreenShots.jpg"
             }
           ]
         },
@@ -72,42 +71,42 @@
             {
               "text": "The Roman galleries (106 – 272 AD)",
               "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/romanGalleries/img/1.jpg"
             },
             {
               "text": "The installations used to process the gold.",
               "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/romanGalleries/img/2.jpg"
             },
             {
               "text": "The Raven Stone Cârnic - here some of the oldest galleries in the area build with a special technique",
               "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/carnic/ravenStone/img/1.jpg"
             },
             {
               "text": "The Roman galleries from Cârnic",
               "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/carnic/galleries/img/1.jpg"
             },
             {
               "text": "In the historic center we will discover the churches, the houses and the habits of the goldsmiths.",
               "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "img": "assets/img/attractions/article/sicilianStreet/img/4.jpg"
             },
             {
               "text": "We will visit some of the lakes from the area and will find their role in the gold mining. ",
               "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/lakes/braziLake/img/1.jpg"
             },
             {
               "text": "On the trail - Cârnic.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+              "img": "assets/img/accommodation/article/guides/img/ghid-apuseni.jpg"
             },
             {
               "text": "The 'corandă' galleries visit.",
               "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
-              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
+              "img": "assets/img/attractions/article/vaidoaiaGalleries/img/3.jpg"
             }
           ]
         },
@@ -121,17 +120,17 @@
             {
               "text": "The Cetate open pit - mining marks made during communism period to extract the gold",
               "thumbnail": "assets/img/attractions/article/carnic/sphinx/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/sphinx/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/carnic/sphinx/img/2.jpg"
             },
             {
               "text": "The Roșia Poieni open pit - 24 floors, each 15m high.",
               "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/copperPit/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/copperPit/img/1.jpg"
             },
             {
               "text": "Guided tour - Roșia Poieni - the acces is allowed only from observation points.",
               "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/rosiaPoieniTourists.jpg",
-              "fullSize": "assets/img/attractions/article/copperPit/fullSize/rosiaPoieniTourists.jpg"
+              "img": "assets/img/attractions/article/copperPit/img/rosiaPoieniTourists.jpg"
             }
           ]
         },
@@ -141,17 +140,17 @@
             {
               "text": "Geamăna - the rood around it is ~20km long.",
               "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/6.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/6.jpg"
+              "img": "assets/img/attractions/article/lakes/geamana/img/6.jpg"
             },
             {
               "text": "Geamăna - only the tower of the church can be seen now from the old village.",
               "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/lakes/geamana/img/1.jpg"
             },
             {
               "text": "Lupșa Monastery - 1421 AD",
               "thumbnail": "assets/img/attractions/article/churches/lupsa/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/churches/lupsa/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/churches/lupsa/img/1.jpg"
             }
           ]
         }
@@ -169,10 +168,9 @@
       }
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-info-circle'></i> Info",
-      "id": "info",
-      "addLinkInPageHeadline": true
+      "id": "info"
     },
     {
       "article": {         "heading": {
@@ -186,7 +184,7 @@
       }
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-bed'></i> Accommodation",
       "id": "accommodation",
 
@@ -203,7 +201,7 @@
       }
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fas fa-utensils'></i> Food",
       "id": "food",
 
@@ -220,7 +218,7 @@
       }
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-puzzle-piece'></i> Alternative activities",
       "id": "otherActivities",
 
@@ -240,7 +238,7 @@
       }
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "Other information",
       "id": "otherInfo",
 
@@ -257,10 +255,9 @@
       }
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-calendar-check'></i> Prices and Bookings",
-      "id": "bookings",
-      "addLinkInPageHeadline": true
+      "id": "bookings"
     },
     {
       "article": {         "heading": {
@@ -351,7 +348,7 @@
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": " ",
       "id": "notInterested",
 
@@ -371,7 +368,7 @@
       "type": "socialButtons"
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-coffee'></i> See also",
       "id": "linkText",
 

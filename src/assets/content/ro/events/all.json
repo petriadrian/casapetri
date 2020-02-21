@@ -2,19 +2,18 @@
   "metaData": {
     "title": "Pachete și Evenimente în Roșia Montană",
     "text": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete ce includ cazarea, trasee ghidate și alte activități.",
-    "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
+    "img": "/assets/img/attractions/article/letySulei/img/turisti-bancuta-rosia-montana.jpg"
   },
   "headline": {
     "title": "Pachete și Evenimente în Roșia Montană",
     "videoSource": "",
-    "img": "/assets/img/attractions/article/letySulei/fullSize/turisti-bancuta-rosia-montana.jpg"
+    "img": "/assets/img/attractions/article/letySulei/img/turisti-bancuta-rosia-montana.jpg"
   },
   "sections": [
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fas fa-briefcase'></i> Pachete",
-      "id": "packages",
-      "addLinkInPageHeadline": true
+      "id": "packages"
     },
     {
       "article": {         "heading": {
@@ -25,10 +24,9 @@
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-calendar-alt'></i> Evenimente",
-      "id": "events",
-      "addLinkInPageHeadline": true
+      "id": "events"
     },
     {
       "article": {         "heading": {
@@ -87,10 +85,9 @@
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fas fa-child'></i> Teambuilding",
-      "id": "teambuilding",
-      "addLinkInPageHeadline": true
+      "id": "teambuilding"
     },
     {
       "type": "form",
@@ -134,12 +131,12 @@
             {
               "text": "Teambuilding - tur ghidat de drumeție.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+              "img": "assets/img/accommodation/article/guides/img/ghid-apuseni.jpg"
             },
             {
               "text": "Teambuilding - tur ghidat de bicicletă.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
-              "fullSize": "assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
+              "img": "assets/img/accommodation/article/guides/img/traseu_ghidat_bicicleta_geamana.jpg"
             }
           ]
         }

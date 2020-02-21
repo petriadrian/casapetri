@@ -1,0 +1,9 @@
+<section *ngFor="let section of content" [ngSwitch]="section.type">
+  <app-article *ngSwitchCase="'article'" [content]="section"></app-article>
+  <app-cards *ngSwitchCase="'cards'" [content]="section.cards"></app-cards>
+  <app-iframe *ngSwitchCase="'iframe'" [content]="section"></app-iframe>
+  <app-form *ngSwitchCase="'form'" [content]="section"
+            [classResponsive]="'col-xs-12 col-sm-12 col-md-12 col-lg-8'"></app-form>
+  <app-images *ngSwitchCase="'images'" [content]="section"></app-images>
+  <app-carousel *ngSwitchCase="'carousel'" [content]="section"></app-carousel>
+</section>

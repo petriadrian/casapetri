@@ -1,0 +1,56 @@
+{
+  "logo": {
+    "text": "Casa Petri Roșia Montană",
+    "imgUrl": "./assets/img/common/logo_white.png",
+    "link": "/en",
+    "textOnMouseOver": "return to homepage..."
+  },
+  "leftButtons": [
+    {
+      "text": "Rooms",
+      "link": "en/accommodation",
+      "textOnMouseOver": "accommodation, guided tours, bikes rent, food info - bookings"
+    },
+    {
+      "text": "Tours",
+      "link": "en/experiences/all#guidedTour"
+    },
+    {
+      "text": "Bikes",
+      "link": "en/experiences/all#bike"
+    },
+    {
+      "text": "Experiences",
+      "link": "en/experiences/all"
+    }
+  ],
+  "rightButtons": [
+    {
+      "text": "Bookings",
+      "link": "en/accommodation#bookings",
+      "textOnMouseOver": "click here to make a reservation"
+    },
+    {
+      "text": "<i class='fas fa-phone fa-lg fa-rotate-90'></i> 0743188186",
+      "link": "tel:(+4)0743188186",
+      "textOnMouseOver": "call us"
+    },
+    {
+      "text": "<i class='fas fa-envelope fa-lg'></i>",
+      "link": "mailto:casaPetriRosiaMontana@gmail.com",
+      "textOnMouseOver": "email us to casaPetriRosiaMontana@gmail.com"
+    },
+    {
+      "text": "<i class='fab fa-facebook-messenger fa-lg'></i>",
+      "link": "https://www.messenger.com/t/casapetrirosiamontana",
+      "textOnMouseOver": "contacteaza-ne pe messanger"
+    }
+  ],
+  "languageButtons": [
+    {
+      "text": "RO",
+      "link": "ro",
+      "textOnMouseOver": "schimbă în română"
+    }
+  ]
+}

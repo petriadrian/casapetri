@@ -6,7 +6,7 @@
   },
   "sections": [
     {
-"type": "figure",
+"type": "article",
         "text": "Turul celor 100 de case părăsite",
         "videoSource": "/assets/img/events/abandonedHouses.mp4",
         "img": "",
@@ -39,17 +39,17 @@
         {
           "text": "Descoperă povestea centrului istoric, de 1 Decembrie la Roșia Montană.",
           "thumbnail": "assets/img/attractions/centrl-istoric-historic-center-parasita2-th.jpg",
-          "fullSize": "assets/img/attractions/centrl-istoric-historic-center-parasita2.jpg"
+          "img": "assets/img/attractions/centrl-istoric-historic-center-parasita2.jpg"
         },
         {
           "text": "Vom vizita și vom afla povestea caselor părăsite din Roșia Montană.",
           "thumbnail": "assets/img/attractions/centrl-istoric-historic-center-parasita-th.jpg",
-          "fullSize": "assets/img/attractions/centrl-istoric-historic-center-parasita.jpg"
+          "img": "assets/img/attractions/centrl-istoric-historic-center-parasita.jpg"
         },
         {
           "text": "Descoperă povestea centrului istoric, de 1 Decembrie la Roșia Montană.",
           "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-          "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+          "img": "assets/img/attractions/article/sicilianStreet/img/4.jpg"
         }
       ]
     },

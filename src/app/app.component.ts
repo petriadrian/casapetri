@@ -1,8 +1,7 @@
-import {AfterViewInit, Component, ElementRef, HostListener, Pipe, PipeTransform, ViewChild} from '@angular/core';
-import {DomSanitizer, Meta, SafeHtml, Title} from '@angular/platform-browser';
+import {Component, HostListener, Pipe, PipeTransform} from '@angular/core';
+import {DomSanitizer, SafeHtml} from '@angular/platform-browser';
 import {UrlService} from './url-services/url.service';
 import * as $ from 'jquery';
-import {ActivatedRoute, NavigationEnd, Router} from '@angular/router';
 import {NgbModal} from '@ng-bootstrap/ng-bootstrap';
 import {InfoModalComponent} from './info-modal/info-modal.component';
 import {HttpClient} from '@angular/common/http';
@@ -30,7 +29,7 @@ export class AppComponent {
 
   private displayPrivacyPolicyModal() {
     const privacyPolicyPath = './assets/content/' + this.urlService.getCurrentLang()
-      + '/common/privacyPolicy.json';
+      + '/privacyPolicy.json';
     this.http.get(privacyPolicyPath).subscribe(result => {
       this.modalService.open(InfoModalComponent, {
         backdrop: 'static',

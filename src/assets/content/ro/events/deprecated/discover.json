@@ -21,7 +21,7 @@
   },
   "sections": [
     {
-      "type": "title",
+      "type": "article",
       "text": "",
       "id": "intro",
 
@@ -35,10 +35,9 @@
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "Ziua 1",
-      "id": "day1",
-      "addLinkInPageHeadline": true
+      "id": "day1"
     },
     {
       "article": {         "heading": {
@@ -53,22 +52,21 @@
             {
               "text": "Proiecții în grădină",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/film-proiectie-gradina-casa-petri.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/film-proiectie-gradina-casa-petri.jpg"
+              "img": "assets/img/accommodation/article/outside/img/film-proiectie-gradina-casa-petri.jpg"
             },
             {
               "text": "Imagini din proiecție",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "img": "assets/img/accommodation/article/outside/img/gardenMovieScreenShots.jpg"
             }
           ]
         }
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "Ziua 2",
-      "id": "day2",
-      "addLinkInPageHeadline": true
+      "id": "day2"
     },
     {
       "article": {         "heading": {
@@ -83,17 +81,17 @@
             {
               "text": "Galeriile Romane (106 – 272 d.Hr.) construite pentru extracția aurului.",
               "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/romanGalleries/img/1.jpg"
             },
             {
               "text": "Obiecte și instalații folosite în extracția și prelucrarea aurului de la Muzeul Mineritului.",
               "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/steampuri.jpg",
-              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/steampuri.jpg"
+              "img": "assets/img/attractions/article/romanGalleries/img/steampuri.jpg"
             },
             {
               "text": "Biserica din legendele locale ale aurarilor.",
               "thumbnail": "assets/img/attractions/article/churches/orthodoxChurch/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/churches/orthodoxChurch/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/churches/orthodoxChurch/img/1.jpg"
             }
           ]
         },
@@ -104,32 +102,32 @@
             {
               "text": "Drumeție spre Cârnic.",
               "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/drumetie.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/drumetie.jpg"
+              "img": "assets/img/attractions/article/carnic/ravenStone/img/drumetie.jpg"
             },
             {
               "text": "Vizită la Galeriile Romane Cârnic",
               "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/carnic/galleries/img/1.jpg"
             },
             {
               "text": "Piatra Corbului - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
               "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/carnic/ravenStone/img/1.jpg"
             },
             {
               "text": "Vedere spre Valea Cornei - aici ar urma să fie un lac de decantare cu cianuri, dacă ar începe o nouă carieră de aur.",
               "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/carnic/ravenStone/img/2.jpg"
             },
             {
               "text": "Corande - aici o să vedem urmele filoanelor de aur.",
               "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
-              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
+              "img": "assets/img/attractions/article/vaidoaiaGalleries/img/3.jpg"
             },
             {
               "text": "Lângă centrul istoric sunt câteva tăuri. Vom afla acolo rolul lor în producția aurului.",
               "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/lakes/braziLake/img/1.jpg"
             }
           ]
         },
@@ -140,22 +138,21 @@
             {
               "text": "Board game - jucătorii vor construi galerii spre aur sau le vor dărâma (în funcție de rolul fiecăruia).",
               "thumbnail": "assets/img/accommodation/article/rooms/common/thumbnail/board-game-mining.jpg",
-              "fullSize": "assets/img/accommodation/article/rooms/common/fullSize/board-game-mining.jpg"
+              "img": "assets/img/accommodation/article/rooms/common/img/board-game-mining.jpg"
             },
             {
               "text": "În foișorul din grădină la un board game.",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gazebo.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/gazebo.jpg"
+              "img": "assets/img/accommodation/article/outside/img/gazebo.jpg"
             }
           ]
         }
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "Ziua 3",
-      "id": "day3",
-      "addLinkInPageHeadline": true
+      "id": "day3"
     },
     {
       "article": {         "heading": {
@@ -170,47 +167,47 @@
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
               "thumbnail": "assets/img/packages/weekend/article/thumbnail/1.jpg",
-              "fullSize": "assets/img/packages/weekend/article/fullSize/1.jpg"
+              "img": "assets/img/packages/weekend/article/img/1.jpg"
             },
             {
               "text": "Biserica Calvină și casele aurarilor - stilul tradițional al caselor din zonă.",
               "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/sicilianStreet/img/2.jpg"
             },
             {
               "text": "Interiorul Bisericii Unitariene.",
               "thumbnail": "assets/img/attractions/article/churches/unitarianChurch/thumbnail/4.jpg",
-              "fullSize": "assets/img/attractions/article/churches/unitarianChurch/fullSize/4.jpg"
+              "img": "assets/img/attractions/article/churches/unitarianChurch/img/4.jpg"
             },
             {
               "text": "Semnul minerilor - vizibil pe fațada unor clădiri din centrul istoric.",
               "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/8.jpg",
-              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/8.jpg"
+              "img": "assets/img/attractions/article/sicilianStreet/img/8.jpg"
             },
             {
               "text": "Bisericile din centrul istoric.",
               "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "img": "assets/img/attractions/article/sicilianStreet/img/4.jpg"
             },
             {
               "text": "Popas cu priveliște.",
               "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/panoramicBench/img/2.jpg"
             },
             {
               "text": "Școala Germană și Casa Francisc - clădiri de patrimoniu ale cartierului german 'Berg'",
               "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/panoramicBench/img/1.jpg"
             },
             {
               "text": "Ornamentele clădirilor de patrimoniu.",
               "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/10.jpg",
-              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/10.jpg"
+              "img": "assets/img/attractions/article/sicilianStreet/img/10.jpg"
             },
             {
               "text": "Rosia Montană.",
               "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/7.jpg",
-              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/7.jpg"
+              "img": "assets/img/attractions/article/sicilianStreet/img/7.jpg"
             }
           ]
         },
@@ -221,47 +218,47 @@
             {
               "text": "Tăul Mare - căsuță de pe tău era un element cheie în prelucrarea minereului de aur.",
               "thumbnail": "assets/img/attractions/article/lakes/bigLake/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/bigLake/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/lakes/bigLake/img/1.jpg"
             },
             {
               "text": "Tăul Mare - de pe versantul de sus are forma unei inimi de aceea i se mai spune și Tăul inimă.",
               "thumbnail": "assets/img/attractions/article/lakes/bigLake/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/bigLake/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/lakes/bigLake/img/2.jpg"
             },
             {
               "text": "Pe traseu.",
               "thumbnail": "assets/img/packages/weekend/article/thumbnail/2.jpg",
-              "fullSize": "assets/img/packages/weekend/article/fullSize/2.jpg"
+              "img": "assets/img/packages/weekend/article/img/2.jpg"
             },
             {
               "text": "Masivul Șulei",
               "thumbnail": "assets/img/attractions/article/letySulei/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/letySulei/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/letySulei/img/1.jpg"
             },
             {
               "text": "Vederea de pe masivul Șulei",
               "thumbnail": "assets/img/attractions/article/letySulei/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/letySulei/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/letySulei/img/2.jpg"
             },
             {
               "text": "Drumul prin satele de pe traseu",
               "thumbnail": "assets/img/attractions/article/muntariPoiana/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/muntariPoiana/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/muntariPoiana/img/1.jpg"
             },
             {
               "text": "Drumul prin satele de pe traseu",
               "thumbnail": "assets/img/attractions/article/muntariPoiana/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/muntariPoiana/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/muntariPoiana/img/2.jpg"
             },
             {
               "text": "Masivul Detunata - printre blocurile de bazalt, în pădurea de brazi, se formează uneori un mic ghețar.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
+              "img": "assets/img/attractions/article/detunata/img/detunata3.jpg"
             },
             {
               "text": "<b>Priveliștea de pe Detunata</b> - urcatul până sus poate părea puțin dificil dar merită efortul.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
+              "img": "assets/img/attractions/article/detunata/img/lumea.jpg"
             }
           ]
         },
@@ -272,12 +269,12 @@
             {
               "text": "Sculpturile de calcar.",
               "thumbnail": "assets/img/attractions/article/sculpture/thumbnail/simpozion.jpg",
-              "fullSize": "assets/img/attractions/article/sculpture/fullSize/simpozion.jpg"
+              "img": "assets/img/attractions/article/sculpture/img/simpozion.jpg"
             },
             {
               "text": "Concert de liniște - sunetul naturii, în hamac, la pădurea cu mesteacăni",
               "thumbnail": "assets/img/packages/common/article/thumbnail/tarina-hamac.jpg",
-              "fullSize": "assets/img/packages/common/article/fullSize/tarina-hamac.jpg"
+              "img": "assets/img/packages/common/article/img/tarina-hamac.jpg"
             }
           ]
         },
@@ -295,10 +292,9 @@
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "Ziua 4",
-      "id": "day4",
-      "addLinkInPageHeadline": true
+      "id": "day4"
     },
     {
       "article": {         "heading": {
@@ -313,47 +309,47 @@
             {
               "text": "<b>Cariera de Cupru</b> - 24 de trepte de exploatare, fiecare de 15m înălțime. La punctul de acces se vor verifică buletinele iar în unele zile intrarea poate fi restricționată.",
               "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/copperPit/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/copperPit/img/1.jpg"
             },
             {
               "text": "Cariera de Cupru - traseu ghidat cu un grup din Germania.",
               "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/rosiaPoieniTourists.jpg",
-              "fullSize": "assets/img/attractions/article/copperPit/fullSize/rosiaPoieniTourists.jpg"
+              "img": "assets/img/attractions/article/copperPit/img/rosiaPoieniTourists.jpg"
             },
             {
               "text": "Geamăna văzută din depărtare.",
               "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/6.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/6.jpg"
+              "img": "assets/img/attractions/article/lakes/geamana/img/6.jpg"
             },
             {
               "text": "Spre Geamăna",
               "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/4.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/4.jpg"
+              "img": "assets/img/attractions/article/lakes/geamana/img/4.jpg"
             },
             {
               "text": "Turla bisericii din fostul sat Geamăna.",
               "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/lakes/geamana/img/1.jpg"
             },
             {
               "text": "Foste gospodării din Geamăna. Lacul nu conține cianuri, iar aerul nu e contaminat dar apa este poluată.",
               "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/lakes/geamana/img/2.jpg"
             },
             {
               "text": "Mănăstire Lupșa Veche - 1421",
               "thumbnail": "assets/img/attractions/article/churches/lupsa/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/churches/lupsa/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/churches/lupsa/img/1.jpg"
             },
             {
               "text": "Mănăstire Lupșa Nouă și restaurantul unde vom lua prânzul",
               "thumbnail": "assets/img/attractions/article/churches/lupsa/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/churches/lupsa/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/churches/lupsa/img/2.jpg"
             },
             {
               "text": "Traseu recomandat pentru bicicletă sau mașină.",
               "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/bicicleta.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/bicicleta.jpg"
+              "img": "assets/img/attractions/article/lakes/geamana/img/bicicleta.jpg"
             }
           ]
         },
@@ -380,62 +376,62 @@
             {
               "text": "Zona Orlea.",
               "thumbnail": "assets/img/attractions/article/orlea/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/orlea/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/orlea/img/1.jpg"
             },
             {
               "text": "Islaz",
               "thumbnail": "assets/img/attractions/article/vartop/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/vartop/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/vartop/img/2.jpg"
             },
             {
               "text": "Spre Cărpiniș",
               "thumbnail": "assets/img/attractions/article/vartop/thumbnail/20.jpg",
-              "fullSize": "assets/img/attractions/article/vartop/fullSize/20.jpg"
+              "img": "assets/img/attractions/article/vartop/img/20.jpg"
             },
             {
               "text": "Satul Vârtop",
               "thumbnail": "assets/img/attractions/article/vartop/thumbnail/8.jpg",
-              "fullSize": "assets/img/attractions/article/vartop/fullSize/8.jpg"
+              "img": "assets/img/attractions/article/vartop/img/8.jpg"
             },
             {
               "text": "Poiana cu fructe de pădure.",
               "thumbnail": "assets/img/attractions/article/vartop/thumbnail/forest-fruits.jpg",
-              "fullSize": "assets/img/attractions/article/vartop/fullSize/forest-fruits.jpg"
+              "img": "assets/img/attractions/article/vartop/img/forest-fruits.jpg"
             },
             {
               "text": "Izvorul din Vârtop.",
               "thumbnail": "assets/img/attractions/article/vartop/thumbnail/6.jpg",
-              "fullSize": "assets/img/attractions/article/vartop/fullSize/6.jpg"
+              "img": "assets/img/attractions/article/vartop/img/6.jpg"
             },
             {
               "text": "Dumitru - ferma din Vârtop",
               "thumbnail": "assets/img/attractions/article/vartop/thumbnail/21.jpg",
-              "fullSize": "assets/img/attractions/article/vartop/fullSize/21.jpg"
+              "img": "assets/img/attractions/article/vartop/img/21.jpg"
             },
             {
               "text": "Satul Gârda-Bărbulești",
               "thumbnail": "assets/img/attractions/article/vartop/thumbnail/5.jpg",
-              "fullSize": "assets/img/attractions/article/vartop/fullSize/5.jpg"
+              "img": "assets/img/attractions/article/vartop/img/5.jpg"
             },
             {
               "text": "Câmp cu flori - Gârda",
               "thumbnail": "assets/img/attractions/article/vartop/thumbnail/14.jpg",
-              "fullSize": "assets/img/attractions/article/vartop/fullSize/14.jpg"
+              "img": "assets/img/attractions/article/vartop/img/14.jpg"
             },
             {
               "text": "Tăul Țarinii",
               "thumbnail": "assets/img/attractions/article/lakes/tariniLake/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/tariniLake/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/lakes/tariniLake/img/1.jpg"
             },
             {
               "text": "Vârful Rotundu - vedere spre Apuseni",
               "thumbnail": "assets/img/attractions/article/rotunduPeak/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/rotunduPeak/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/rotunduPeak/img/1.jpg"
             },
             {
               "text": "Vârful Rotundu - pășuni cu oi.",
               "thumbnail": "assets/img/attractions/article/rotunduPeak/thumbnail/10.jpg",
-              "fullSize": "assets/img/attractions/article/rotunduPeak/fullSize/10.jpg"
+              "img": "assets/img/attractions/article/rotunduPeak/img/10.jpg"
             }
           ]
         },
@@ -446,7 +442,7 @@
             {
               "text": "Seară cu muzică de pe viniluri în grădină.",
               "thumbnail": "assets/img/accommodation/article/rooms/common/thumbnail/pickup.jpg",
-              "fullSize": "assets/img/accommodation/article/rooms/common/fullSize/pickup.jpg"
+              "img": "assets/img/accommodation/article/rooms/common/img/pickup.jpg"
             }
           ]
         },
@@ -464,7 +460,7 @@
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "Ziua 5",
       "id": "day5",
 
@@ -486,27 +482,26 @@
             {
               "text": "Împreună cu un grup din România.",
               "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/alexandra-postelnicu.jpg",
-              "fullSize": "assets/img/reviews/article/reviewer/fullSize/alexandra-postelnicu.jpg"
+              "img": "assets/img/reviews/article/reviewer/img/alexandra-postelnicu.jpg"
             },
             {
               "text": "Împreună cu un grup din Suedia.",
               "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/simona-sweden.jpg",
-              "fullSize": "assets/img/reviews/article/reviewer/fullSize/simona-sweden.jpg"
+              "img": "assets/img/reviews/article/reviewer/img/simona-sweden.jpg"
             },
             {
               "text": "Împreună cu un grup din India și Taiwan.",
               "thumbnail": "assets/img/reviews/article/reviewer/thumbnail/11.jpg",
-              "fullSize": "assets/img/reviews/article/reviewer/fullSize/11.jpg"
+              "img": "assets/img/reviews/article/reviewer/img/11.jpg"
             }
           ]
         }
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-info-circle'></i> Info",
-      "id": "info",
-      "addLinkInPageHeadline": true
+      "id": "info"
     },
     {
       "article": {         "heading": {
@@ -517,7 +512,7 @@
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-bed'></i> Cazare",
       "id": "accommodation",
 
@@ -534,7 +529,7 @@
       }
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fas fa-utensils'></i> Mâncare",
       "id": "food",
 
@@ -559,7 +554,7 @@
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-puzzle-piece'></i> Activități alternative",
       "id": "otherActivities",
 
@@ -576,7 +571,7 @@
       }
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-bicycle'></i> Biciclete",
       "id": "bike",
 
@@ -593,7 +588,7 @@
       }
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "Alte informații",
       "id": "otherInfo",
 
@@ -607,10 +602,9 @@
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-calendar-check'></i> Rezervări",
-      "id": "bookings",
-      "addLinkInPageHeadline": true
+      "id": "bookings"
     },
     {
       "article": {         "heading": {
@@ -695,7 +689,7 @@
       "type": "socialButtons"
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
       "id": "linkText",
 

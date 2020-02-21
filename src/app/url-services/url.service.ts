@@ -27,7 +27,7 @@ export class UrlService {
       if (link === this.RO_LOCALE || link === this.EN_LOCALE) {
         this.buildLangLinkAndGo(link);
       }
-      if (link.startsWith('http')) {
+      if (link.startsWith('http') || link.startsWith('mailto') || link.startsWith('tel')) {
         window.open(link, '_blank');
       } else if (link.startsWith('tel:') || link.startsWith('mailto:')) {
         window.open(link, '_self');
@@ -104,7 +104,6 @@ export class UrlService {
   }
 
   public scrollToAnchorIfValid(anchor) {
-    console.log("scroll to anchor " + anchor);
     if (this.notEmpty(anchor)) {
       if (this.contains(anchor, '?')) {
         anchor = anchor.substring(0, anchor.indexOf('?'));
@@ -113,7 +112,7 @@ export class UrlService {
         if (document.querySelector('#' + anchor)) {
           document.querySelector('#' + anchor).scrollIntoView();
         }
-      }, 1500);
+      }, 500);
     } else {
       if (this.isHostOnBrowser()) {
         window.scroll(0, 0);

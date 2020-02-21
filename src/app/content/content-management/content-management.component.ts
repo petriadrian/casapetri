@@ -3,28 +3,24 @@ import {ActivatedRoute} from '@angular/router';
 import {HttpClient} from '@angular/common/http';
 import {UrlService} from '../../url-services/url.service';
 
-
 @Component({
   selector: 'app-content-management',
   templateUrl: './content-management.component.html',
   styleUrls: ['./content-management.component.css']
 })
-export class ContentManagementComponent implements AfterViewInit {
+export class ContentManagementComponent {
 
-  @Input() content;
+  public content;
 
   constructor(private http: HttpClient,
               private urlService: UrlService,
               private route: ActivatedRoute) {
-    if (!this.content) {
-      route.data.subscribe(data => {
-        this.content = data.content;
-      })
-    }
+    route.data.subscribe(data => {
+      this.content = data.content;
+    })
   }
 
   ngAfterViewInit(): void {
-    console.log("run afterviewinit from ContentManagementComponent ");
     if (this.urlService.isHostOnBrowser()) {
       this.route.fragment.subscribe((fragment: string) => {
           this.urlService.scrollToAnchorIfValid(fragment);

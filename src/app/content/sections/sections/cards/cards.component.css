@@ -1,6 +1,7 @@
 img {
   width: 100%;
-  margin: auto;
+  height: 230px;
+  object-fit: cover;
 }
 
 h3 {
@@ -16,4 +17,28 @@ h3 {
   background-color: var(--secondColor);
   color: white !important;
   cursor: pointer;
+}
+
+@media only screen and (max-width: 900px) {
+
+  h3 {
+    font-size: 1.5em;
+  }
+
+  p {
+    font-size: 0.9rem;
+  }
+
+}
+
+@media only screen and (max-width: 400px) {
+
+  h3 {
+    font-size: 1.5em;
+  }
+
+  p {
+    font-size: 0.8rem;
+  }
+
 }

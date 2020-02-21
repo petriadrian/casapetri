@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {ActivatedRoute, ActivatedRouteSnapshot, Resolve, RouterStateSnapshot} from '@angular/router';
+import {ActivatedRouteSnapshot, Resolve, RouterStateSnapshot} from '@angular/router';
 import {UrlService} from "./url-services/url.service";
 import {HttpClient} from "@angular/common/http";
 import {Meta, Title} from "@angular/platform-browser";
@@ -10,8 +10,8 @@ import {catchError, map} from "rxjs/operators";
 export class ContentResolver implements Resolve<any> {
 
   constructor(
-    public  urlService: UrlService,
-    public  title: Title,
+    public urlService: UrlService,
+    public title: Title,
     public meta: Meta,
     public http: HttpClient
   ) {
@@ -33,19 +33,15 @@ export class ContentResolver implements Resolve<any> {
   }
 
   private updateSeoMetadata(metadata) {
-    console.log("metadata " + metadata);
     this.title.setTitle((metadata as any).title);
-    this.meta.addTags([
-      {name: 'og:title', content: (metadata as any).title},
-      {name: 'url', content: this.urlService.getFullUrl()},
-      {name: 'img', content: (metadata as any).img},
-      {name: 'description', content: (metadata as any).text}
-    ]);
-    this.meta.updateTag({name: 'description', content: 'Angular 4 meta service - updated'});
-    // this.meta.updateTag({content: this.urlService.getFullUrl()}, 'property=\'og:url\'');
-    // this.meta.updateTag({content: (metadata as any).title}, 'property=\'og:title\'');
-    // this.meta.updateTag({content: (metadata as any).text}, 'property=\'og:description\'');
-    // this.meta.updateTag({content: this.urlService.getHostName() + (metadata as any).img}, 'property=\'og:image\'');
+    this.meta.updateTag({property: 'og:description', content: (metadata as any).text});
+    this.meta.updateTag({property: 'description', content: (metadata as any).text});
+    this.meta.updateTag({property: 'og:title', content: (metadata as any).title});
+    this.meta.updateTag({property: 'title', content: (metadata as any).title});
+    this.meta.updateTag({property: 'og:img', content: (metadata as any).img});
+    this.meta.updateTag({property: 'img', content: (metadata as any).img});
+    this.meta.updateTag({property: 'og:url', content: window.location.href});
+    this.meta.updateTag({property: 'url', content: window.location.href});
   }
 
   private initGoogleAnalytics(url) {

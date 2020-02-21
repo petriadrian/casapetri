@@ -11,10 +11,9 @@
   },
   "sections": [
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-calendar-alt'></i> Program",
-      "id": "schedule",
-      "addLinkInPageHeadline": true
+      "id": "schedule"
     },
     {
       "article": {         "heading": {
@@ -37,22 +36,22 @@
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+              "img": "assets/img/accommodation/article/guides/img/ghid-rosia-montana.jpg"
             },
             {
               "text": "Centrul istoric.",
               "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "img": "assets/img/attractions/article/sicilianStreet/img/4.jpg"
             },
             {
               "text": "Muzeul Mineritului - Galeriile Romane construite în 106 – 272 d. Hr.",
               "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/romanGalleries/img/1.jpg"
             },
             {
               "text": "Popas cu priveliște.",
               "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/panoramicBench/img/2.jpg"
             }
           ]
         },
@@ -62,12 +61,12 @@
             {
               "text": "Proiecții în grădină",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/film-proiectie-gradina-casa-petri.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/film-proiectie-gradina-casa-petri.jpg"
+              "img": "assets/img/accommodation/article/outside/img/film-proiectie-gradina-casa-petri.jpg"
             },
             {
               "text": "Imagini din proiecție",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "img": "assets/img/accommodation/article/outside/img/gardenMovieScreenShots.jpg"
             }
           ]
         },
@@ -78,17 +77,17 @@
             {
               "text": "Galeriile Cârnic",
               "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/carnic/galleries/img/1.jpg"
             },
             {
               "text": "Piatra Corbului Cârnic - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
               "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/carnic/ravenStone/img/1.jpg"
             },
             {
               "text": "Galeria Văidoaia.",
               "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/3.jpg",
-              "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/3.jpg"
+              "img": "assets/img/attractions/article/vaidoaiaGalleries/img/3.jpg"
             }
           ]
         },
@@ -102,17 +101,17 @@
             {
               "text": "<b>Detunata</b> - Printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
+              "img": "assets/img/attractions/article/detunata/img/detunata3.jpg"
             },
             {
               "text": "<b>Priveliștea de pe Detunata</b> - spre ținutul Moților.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
+              "img": "assets/img/attractions/article/detunata/img/lumea.jpg"
             },
             {
               "text": "Pe traseu - punct de belvedere.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+              "img": "assets/img/accommodation/article/guides/img/ghid-apuseni.jpg"
             }
           ]
         },
@@ -122,7 +121,7 @@
             {
               "text": "Seară cu mici și bere.",
               "thumbnail": "assets/img/events/firstMai/article/thumbnail/miciSiBere.jpg",
-              "fullSize": "assets/img/events/firstMai/article/fullSize/miciSiBere.jpg"
+              "img": "assets/img/events/firstMai/article/img/miciSiBere.jpg"
             }
           ]
         },
@@ -151,22 +150,21 @@
             {
               "text": "Cu mocănița prin Apuseni",
               "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/steamTrain/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/steamTrain/img/1.jpg"
             },
             {
               "text": "Cu mocănița prin Apuseni",
               "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/steamTrain/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/steamTrain/img/2.jpg"
             }
           ]
         }
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-info-circle'></i> Info",
-      "id": "info",
-      "addLinkInPageHeadline": true
+      "id": "info"
     },
     {
       "article": {         "heading": {
@@ -180,10 +178,9 @@
       }
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-calendar-check'></i> Prețuri și Rezervări",
-      "id": "bookings",
-      "addLinkInPageHeadline": true
+      "id": "bookings"
     },
     {
       "article": {         "heading": {

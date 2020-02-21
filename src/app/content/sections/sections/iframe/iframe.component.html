@@ -1,5 +1,3 @@
 <section>
-  <iframe frameborder="0"
-          [src]="content?.src | safeUrl"
-          allowfullscreen></iframe>
+  <span [innerHTML]="content?.iframe | trustHtml"></span>
 </section>

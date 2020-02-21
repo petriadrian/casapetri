@@ -1,10 +1,10 @@
 <nav class="navbar  navbar-expand-lg fixed-top navbar-light bg-light">
   <!--logo-->
   <a class="navbar-brand"
-     (click)="buildLinkAndGo(headerContent?.logo.link)"
+     (click)="buildLinkAndGo(content?.logo.link)"
      data-toggle="collapse" data-target=".navbar-collapse.show"
-     title="{{headerContent?.logo.textOnMouseOver}}">
-    <img [src]="headerContent?.logo?.imgUrl">
+     title="{{content?.logo.textOnMouseOver}}">
+    <img [src]="content?.logo?.imgUrl">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse"
           data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -14,13 +14,13 @@
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <!-- left buttons-->
-    <app-link-text class="navbar-nav" [content]="headerContent?.leftButtons" [classCollection]="'nav-item'"
+    <app-link-text class="navbar-nav" [content]="content?.leftButtons" [classCollection]="'nav-item'"
                    [cssClass]="'nav-link'"></app-link-text>
     <!--right buttons-->
-    <app-link-text class="navbar-nav ml-auto" [content]="headerContent?.rightButtons" [classCollection]="'nav-item'"
+    <app-link-text class="navbar-nav ml-auto" [content]="content?.rightButtons" [classCollection]="'nav-item'"
                    [cssClass]="'nav-link'"></app-link-text>
     <!--language-->
-    <app-link-text class="navbar-nav ml-0" [content]="headerContent?.languageButtons" [classCollection]="'nav-item'"
+    <app-link-text class="navbar-nav ml-0" [content]="content?.languageButtons" [classCollection]="'nav-item'"
                    [cssClass]="'nav-link'"></app-link-text>
   </div>
 </nav>

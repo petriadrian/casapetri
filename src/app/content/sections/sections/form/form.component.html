@@ -117,7 +117,7 @@
 
     <p *ngIf="content?.afterFormText" [innerHTML]="content?.afterFormText | trustHtml"></p>
 
-    <button type="submit" class="btn btn-primary" [innerHTML]="content?.submitButtonText | trustHtml">
+    <button type="submit" class="btn btn-primary btn-send" [innerHTML]="content?.submitButtonText | trustHtml">
       <span class="spinner" [hidden]="!formLoading"><i class="fa fa-spinner fa-pulse"></i></span>
     </button>
     <div

@@ -11,15 +11,15 @@
 
 a {
   color: var(--firstColor) !important;
-  text-decoration: underline !important;
-}
-
-a:HOVER {
-  color: var(--secondColor) !important;
 }
 
 .figure a {
-  color: lightcyan !important;
+  color: black !important;
+}
+
+a:HOVER {
+  color: black !important;
+  text-decoration: underline !important;
 }
 
 p {
@@ -28,10 +28,6 @@ p {
 
 h1 {
   font-size: inherit;
-}
-
-span, p {
-  font-size: 0.97em;
 }
 
 textarea {
@@ -49,74 +45,15 @@ body {
   width: 100%;
 }
 
-.defaultClickStyle:HOVER,
-.defaultClickStyle:HOVER > a {
-  background-color: var(--secondColor);
-  color: white;
-  cursor: pointer;
-  text-decoration: none;
-}
-
-.btn-primary:FOCUS,
-.btn-primary:ACTIVE,
-.defaultClickStyle:ACTIVE,
-.defaultClickStyle:FOCUS {
-  outline: 0;
-  text-decoration: none;
-}
-
 .btn-primary {
   text-shadow: none;
-  margin: 0.2%;
   color: white !important;
   background-color: var(--firstColor) !important;
-  border-color: white !important;
+  border: 1px solid;
+  border-color: #ced4da !important;
+  cursor: pointer;
 }
 
 .btn-primary:HOVER {
-  cursor: pointer;
   background-color: var(--secondColor) !important;
-  color: white;
-}
-
-header .btn-primary {
-  background-color: transparent;
-}
-.footerFeedback .form-control,
-.footerFeedback button {
-  float: left;
-  width: 100%;
-  background-color: transparent;
-  color: white;
-  border-radius: 3px;
-  padding: 3px 12px;
-  border: 1px solid #cccccc;
-}
-
-.footerFeedback button:HOVER,
-.footerFeedback .input-group-addon,
-.footerFeedback button:FOCUS {
-  background-color: var(--firstColor);
-  border: 1px solid #cccccc;
-}
-
-.footerFeedback button:HOVER,
-.footerFeedback button:FOCUS {
-  cursor: pointer;
-}
-
-.topBottomMargins {
-  margin: 2% 0;
-}
-
-.footerFeedback input:HOVER,
-.footerFeedback input:FOCUS,
-.footerFeedback textarea:HOVER,
-.footerFeedback textarea:FOCUS {
-  background-color: white;
-  color: black;
-}
-
-.footerFeedback form {
-  width: 100%;
 }

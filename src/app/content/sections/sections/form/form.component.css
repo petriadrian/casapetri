@@ -30,6 +30,22 @@ form,
   color: inherit;
 }
 
+.form-control {
+  background-color: transparent !important;
+  color: black;
+  box-shadow:none; /*fix for firefox*/
+}
+
+.form-control:hover,
+.form-control:focus {
+  background-color: #f3f3f3 !important;
+  color: black;
+}
+
+.btn-send {
+  width: 100%;
+}
+
 /* Removes the spin button */
 input[type="date"]::-webkit-inner-spin-button {
   display: none;

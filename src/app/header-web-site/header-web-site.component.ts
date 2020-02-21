@@ -10,14 +10,14 @@ import {UrlService} from '../url-services/url.service';
 })
 export class HeaderWebSiteComponent implements OnInit {
 
-  public headerContent;
+  public content;
 
   constructor(private http: HttpClient, private urlService: UrlService) {
   }
 
   ngOnInit() {
-    const contentPath = './assets/content/' + this.urlService.getCurrentLang() + '/common/header.json';
-    this.http.get(contentPath).subscribe(res => this.headerContent = res);
+    const contentPath = './assets/content/' + this.urlService.getCurrentLang() + '/header.json';
+    this.http.get(contentPath).subscribe(res => this.content = res);
   }
 
   public buildLinkAndGo(link) {

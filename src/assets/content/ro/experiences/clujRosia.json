@@ -2,19 +2,18 @@
   "metaData": {
     "title": "Pe Valea Arieșului de la Cluj la Roșia | Blog",
     "text": "Drumul pe albia râului Arieș oferă peisaje deosebite și locuri ce merită vizitate. Durează cam 2 ore cu mașina (dacă nu faceți opriri pentru a admira peisajul :).",
-    "img": "/assets/img/blog/clujRosia/article/fullSize/lunca.jpg"
+    "img": "/assets/img/blog/clujRosia/article/img/lunca.jpg"
   },
   "headline": {
     "title": "Pe valea Arieșului de la Cluj la Roșia",
     "videoSource": "",
-    "img": "/assets/img/blog/clujRosia/article/fullSize/lunca.jpg"
+    "img": "/assets/img/blog/clujRosia/article/img/lunca.jpg"
   },
   "sections": [
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-images'></i> Blog",
-      "id": "winter",
-      "addLinkInPageHeadline": true
+      "id": "winter"
     },
     {
       "article": {         "heading": {
@@ -25,99 +24,99 @@
             {
               "text": "Cheile Borzești",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/borzesti.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/borzesti.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/borzesti.jpg"
             },
             {
               "text": "Valea Arieșului",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/aries.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/aries.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/aries.jpg"
             },
             {
               "text": "Pe drum",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/drum.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/drum.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/drum.jpg"
             },
             {
               "text": "Valea Arieșului",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/aries2.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/aries2.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/aries2.jpg"
             },
             {
               "text": "Valea Arieșului",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/aries4.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/aries4.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/aries4.jpg"
             },
             {
               "text": "Satul Buru",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/buru.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/buru.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/buru.jpg"
             },
             {
               "text": "Biserica de lemn Buru",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/buru2.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/buru2.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/buru2.jpg"
             },
             {
               "text": "Printre munți",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/munte.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/munte.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/munte.jpg"
             },
             {
               "text": "Brazesti",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/brazesti.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/brazesti.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/brazesti.jpg"
             },
             {
               "text": "Cascada Șipote",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/sipote.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/sipote.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/sipote.jpg"
             },
             {
               "text": "Trafic",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/cal.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/cal.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/cal.jpg"
             },
             {
               "text": "Cascada",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/cascada.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/cascada.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/cascada.jpg"
             },
             {
               "text": "Pe drum",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/drum2.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/drum2.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/drum2.jpg"
             },
             {
               "text": "Sălciua",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/salciua.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/salciua.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/salciua.jpg"
             },
             {
               "text": "Locul cu stupi",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/stupi.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/stupi.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/stupi.jpg"
             },
             {
               "text": "Biseirca de lemn Lupșa - 1428",
               "thumbnail": "assets/img/attractions/article/churches/lupsa/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/churches/lupsa/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/churches/lupsa/img/1.jpg"
             },
             {
               "text": "Intrarea la Mănăstirea Lupșa",
               "thumbnail": "assets/img/attractions/article/churches/lupsa/thumbnail/4.jpg",
-              "fullSize": "assets/img/attractions/article/churches/lupsa/fullSize/4.jpg"
+              "img": "assets/img/attractions/article/churches/lupsa/img/4.jpg"
             },
             {
               "text": "Huda lui Papară - pentru a ajunge aici va trebui să vă abateți de la drum din Sălciua (~20min)",
               "thumbnail": "assets/img/attractions/article/hudaPapara/thumbnail/papara.jpg",
-              "fullSize": "assets/img/attractions/article/hudaPapara/fullSize/papara.jpg"
+              "img": "assets/img/attractions/article/hudaPapara/img/papara.jpg"
             }
           ]
         }
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-images'></i> Punțile Arieșului",
       "id": "winter",
 
@@ -131,32 +130,31 @@
             {
               "text": "Punte Aries",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/punte_lemn_aries.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/punte_lemn_aries.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/punte_lemn_aries.jpg"
             },
             {
               "text": "Punte Aries",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/punte2.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/punte2.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/punte2.jpg"
             },
             {
               "text": "Punte Aries - Buru",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/punte.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/punte.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/punte.jpg"
             },
             {
               "text": "Punte Aries",
               "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/punte3.jpg",
-              "fullSize": "assets/img/blog/clujRosia/article/fullSize/punte3.jpg"
+              "img": "assets/img/blog/clujRosia/article/img/punte3.jpg"
             }
           ]
         }
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-location-arrow'></i> Harta",
-      "id": "map",
-      "addLinkInPageHeadline": true
+      "id": "map"
     },
     {
       "article": {         "heading": {
@@ -170,10 +168,9 @@
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-calendar-check'></i> Planifică o vizită",
-      "id": "bookings",
-      "addLinkInPageHeadline": true
+      "id": "bookings"
     },
     {
       "article": {         "heading": {

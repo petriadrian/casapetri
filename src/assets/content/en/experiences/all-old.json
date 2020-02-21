@@ -6,7 +6,7 @@
   },
   "sections": [
     {
-"type": "figure",
+"type": "article",
         "text": "Roșia Montană is not just a holiday, is an experience!",
         "videoSource": "",
         "img": "/assets/img/attractions/presentation/fullWidthImg.jpg",
@@ -59,22 +59,22 @@
         {
           "text": "Discover the Ornaments of the historic center buildings.",
           "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
-          "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
+          "img": "assets/img/attractions/article/sicilianStreet/img/ornamente.jpg"
         },
         {
           "text": "Have a walk in the historic center.",
           "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-          "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+          "img": "assets/img/attractions/article/sicilianStreet/img/4.jpg"
         },
         {
           "text": "Discover the german neighbourhood - goldsmith houses",
           "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/1.jpg"
+          "img": "assets/img/attractions/article/panoramicBench/img/1.jpg"
         },
         {
           "text": "See the inside of the Unitarian Church - historical monument from 1796.",
           "thumbnail": "assets/img/attractions/article/churches/unitarianChurch/thumbnail/4.jpg",
-          "fullSize": "assets/img/attractions/article/churches/unitarianChurch/fullSize/4.jpg"
+          "img": "assets/img/attractions/article/churches/unitarianChurch/img/4.jpg"
         }
       ]
     },
@@ -123,17 +123,17 @@
         {
           "text": "Roman Galleries - to visit them you will go 157 stairs under the mountain.",
           "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+          "img": "assets/img/attractions/article/romanGalleries/img/1.jpg"
         },
         {
           "text": "See the installations used for gold processing.",
           "thumbnail": "assets/img/attractions/muzeu-minerit-steampuri-vagon-th.jpg",
-          "fullSize": "assets/img/attractions/muzeu-minerit-steampuri-vagon.jpg"
+          "img": "assets/img/attractions/muzeu-minerit-steampuri-vagon.jpg"
         },
         {
           "text": "Native gold veins - Museum Aurul Brad",
           "thumbnail": "assets/img/attractions/article/bradGoldMuseum/thumbnail/aurBrad1.jpg",
-          "fullSize": "assets/img/attractions/article/bradGoldMuseum/fullSize/aurBrad1.jpg"
+          "img": "assets/img/attractions/article/bradGoldMuseum/img/aurBrad1.jpg"
         }
       ]
     },
@@ -169,22 +169,22 @@
         {
           "text": "Roman galleries fragments.",
           "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/zeus-galerii-romane-carnic-oriz-rosia.jpg",
-          "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/zeus-galerii-romane-carnic-oriz-rosia.jpg"
+          "img": "assets/img/attractions/article/carnic/galleries/img/zeus-galerii-romane-carnic-oriz-rosia.jpg"
         },
         {
           "text": "Hapsburg galleries.",
           "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/zeus-galerii-carnic-coranda-mare-rosia.jpg",
-          "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/zeus-galerii-carnic-coranda-mare-rosia.jpg"
+          "img": "assets/img/attractions/article/carnic/galleries/img/zeus-galerii-carnic-coranda-mare-rosia.jpg"
         },
         {
           "text": "By exploring the surrounding massifs you will find 'time gates'.",
           "thumbnail": "assets/img/attractions/article/carnic/galleries/thumbnail/galerii-romane-carnic.jpg",
-          "fullSize": "assets/img/attractions/article/carnic/galleries/fullSize/galerii-romane-carnic.jpg"
+          "img": "assets/img/attractions/article/carnic/galleries/img/galerii-romane-carnic.jpg"
         },
         {
           "text": "Fell the fresh air from the galleries.",
           "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/prietenie.jpg",
-          "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/prietenie.jpg"
+          "img": "assets/img/attractions/article/vaidoaiaGalleries/img/prietenie.jpg"
         }
       ]
     },
@@ -213,22 +213,22 @@
         {
           "text": "Visit the hay houses.",
           "thumbnail": "assets/img/attractions/mogos-sura-casa-paie-gemenele-th.jpg",
-          "fullSize": "assets/img/attractions/mogos-sura-casa-paie-gemenele.jpg"
+          "img": "assets/img/attractions/mogos-sura-casa-paie-gemenele.jpg"
         },
         {
           "text": "The hay stables.",
           "thumbnail": "assets/img/attractions/mogos-sura-casa-paie-flori-galbene-th.jpg",
-          "fullSize": "assets/img/attractions/mogos-sura-casa-paie-flori-galbene.jpg"
+          "img": "assets/img/attractions/mogos-sura-casa-paie-flori-galbene.jpg"
         },
         {
           "text": "The hay houses - detail.",
           "thumbnail": "assets/img/attractions/mogos-biserica-lemn-ornament-th.jpg",
-          "fullSize": "assets/img/attractions/mogos-biserica-lemn-ornament.jpg"
+          "img": "assets/img/attractions/mogos-biserica-lemn-ornament.jpg"
         },
         {
           "text": "Start on a bike tour of the hay houses.",
           "thumbnail": "assets/img/attractions/mogos-bicicleta-drum-tara-sura-paie-th.jpg",
-          "fullSize": "assets/img/attractions/mogos-bicicleta-drum-tara-sura-paie.jpg"
+          "img": "assets/img/attractions/mogos-bicicleta-drum-tara-sura-paie.jpg"
         }
       ]
     },
@@ -267,22 +267,22 @@
         {
           "text": "The pride of the communism period - <b>Rosia Poieni open Pit</b>.",
           "thumbnail": "assets/img/attractions/article/copperPit/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/copperPit/fullSize/1.jpg"
+          "img": "assets/img/attractions/article/copperPit/img/1.jpg"
         },
         {
           "text": "Industrial processing buildings.",
           "thumbnail": "assets/img/attractions/rosia-poieni-concasor-instalatii-industriale-th.jpg",
-          "fullSize": "assets/img/attractions/rosia-poieni-concasor-instalatii-industriale.jpg"
+          "img": "assets/img/attractions/rosia-poieni-concasor-instalatii-industriale.jpg"
         },
         {
           "text": "The tower of the church from the <b>Geamăna</b> village, covered now by the wasting lake.",
           "thumbnail": "assets/img/attractions/article/lakes/geamana/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/lakes/geamana/fullSize/1.jpg"
+          "img": "assets/img/attractions/article/lakes/geamana/img/1.jpg"
         },
         {
           "text": "The <b>Cetate</b> gold open pit made over a 'fortress' of roman galleries.",
           "thumbnail": "assets/img/attractions/article/carnic/cetatePit/thumbnail/cariera.jpg",
-          "fullSize": "assets/img/attractions/article/carnic/cetatePit/fullSize/cariera.jpg"
+          "img": "assets/img/attractions/article/carnic/cetatePit/img/cariera.jpg"
         }
       ]
     },
@@ -311,17 +311,17 @@
         {
           "text": "Find out why were made these sculptures by a NGO from Paris at a farm.",
           "thumbnail": "assets/img/attractions/article/sculpture/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/sculpture/fullSize/1.jpg"
+          "img": "assets/img/attractions/article/sculpture/img/1.jpg"
         },
         {
           "text": "See the places where environment and activism festivals took place.",
           "thumbnail": "assets/img/attractions/article/fanfest/thumbnail/fanfest.jpg",
-          "fullSize": "assets/img/attractions/article/fanfest/fullSize/fanfest.jpg"
+          "img": "assets/img/attractions/article/fanfest/img/fanfest.jpg"
         },
         {
           "text": "See on the spot what was the canadians plan and how are looking the impacted areas.",
           "thumbnail": "assets/img/attractions/rmgc-plan-new-open-pit-th.jpg",
-          "fullSize": "assets/img/attractions/rmgc-plan-new-open-pit.jpg"
+          "img": "assets/img/attractions/rmgc-plan-new-open-pit.jpg"
         }
       ]
     },
@@ -340,22 +340,22 @@
         {
           "text": "<b>Raven Stone</b> - natural reservation. Here are the oldest galleries in Rosia Montana, made by the agatârși using only water and fire.",
           "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+          "img": "assets/img/attractions/article/carnic/ravenStone/img/1.jpg"
         },
         {
           "text": "<b>Sphinx</b> - the cross was placed by the miners to have luck while searching for gold.",
           "thumbnail": "assets/img/attractions/article/carnic/sphinx/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/carnic/sphinx/fullSize/1.jpg"
+          "img": "assets/img/attractions/article/carnic/sphinx/img/1.jpg"
         },
         {
           "text": "The tight peak of <b>Sulei Massif</b>.",
           "thumbnail": "assets/img/attractions/article/letySulei/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/letySulei/fullSize/1.jpg"
+          "img": "assets/img/attractions/article/letySulei/img/1.jpg"
         },
         {
           "text": "<b>Stalagmites</b> of the former gold galleries.",
           "thumbnail": "assets/img/attractions/article/carnic/stalagnite/thumbnail/stalagnite-carnic-rosia.jpg",
-          "fullSize": "assets/img/attractions/article/carnic/stalagnite/fullSize/stalagnite-carnic-rosia.jpg"
+          "img": "assets/img/attractions/article/carnic/stalagnite/img/stalagnite-carnic-rosia.jpg"
         }
       ]
     },
@@ -374,17 +374,17 @@
         {
           "text": "<b> Țarinii Lake </b> - a little mountain lake with a wonderful view especially during the autumn",
           "thumbnail": "assets/img/attractions/article/lakes/tariniLake/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/lakes/tariniLake/fullSize/1.jpg"
+          "img": "assets/img/attractions/article/lakes/tariniLake/img/1.jpg"
         },
         {
           "text": "Big Lake or <b>Hearth Lake</b> (due to his heart shape).",
           "thumbnail": "assets/img/attractions/article/lakes/bigLake/thumbnail/10.jpg",
-          "fullSize": "assets/img/attractions/article/lakes/bigLake/fullSize/10.jpg"
+          "img": "assets/img/attractions/article/lakes/bigLake/img/10.jpg"
         },
         {
           "text": "<b>Pine lake</b> - the house belongs to a painter who use the view as inspiration for his work. ",
           "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/1.jpg"
+          "img": "assets/img/attractions/article/lakes/braziLake/img/1.jpg"
         }
       ]
     },
@@ -403,17 +403,17 @@
         {
           "text": "The Cârnic overview.",
           "thumbnail": "assets/img/attractions/article/carnic/carnic/thumbnail/natura-flori-vara-carnic-ceata-rosia-montana.jpg",
-          "fullSize": "assets/img/attractions/article/carnic/carnic/fullSize/natura-flori-vara-carnic-ceata-rosia-montana.jpg"
+          "img": "assets/img/attractions/article/carnic/carnic/img/natura-flori-vara-carnic-ceata-rosia-montana.jpg"
         },
         {
           "text": "The lakes overview.",
           "thumbnail": "assets/img/attractions/article/carnic/carnic/thumbnail/tauri-carnic-natura-rosia-montana.jpg",
-          "fullSize": "assets/img/attractions/article/carnic/carnic/fullSize/tauri-carnic-natura-rosia-montana.jpg"
+          "img": "assets/img/attractions/article/carnic/carnic/img/tauri-carnic-natura-rosia-montana.jpg"
         },
         {
           "text": "The Roșia Valley overview.",
           "thumbnail": "assets/img/attractions/article/vaidoaiaGalleries/thumbnail/fog-ceata-rosia-montana-vaidoaia-primavara.jpg",
-          "fullSize": "assets/img/attractions/article/vaidoaiaGalleries/fullSize/fog-ceata-rosia-montana-vaidoaia-primavara.jpg"
+          "img": "assets/img/attractions/article/vaidoaiaGalleries/img/fog-ceata-rosia-montana-vaidoaia-primavara.jpg"
         }
       ]
     },
@@ -432,17 +432,17 @@
         {
           "text": "Hike to the basalt roof - Detunata",
           "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata3.jpg",
-          "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
+          "img": "assets/img/attractions/article/detunata/img/detunata3.jpg"
         },
         {
           "text": "<b>The view from Detunata</b> - towards the 'Motilor' land.",
           "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
-          "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
+          "img": "assets/img/attractions/article/detunata/img/lumea.jpg"
         },
         {
           "text": "Detunata - the basalt sea (the view from the top).",
           "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata-pietre-jos-brazi.jpg",
-          "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata-pietre-jos-brazi.jpg"
+          "img": "assets/img/attractions/article/detunata/img/detunata-pietre-jos-brazi.jpg"
         }
       ]
     },
@@ -481,12 +481,12 @@
         {
           "text": "<b>The daffodils meadow</b>",
           "thumbnail": "assets/img/attractions/article/narcise/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/narcise/fullSize/1.jpg"
+          "img": "assets/img/attractions/article/narcise/img/1.jpg"
         },
         {
           "text": "<b>The daffodils meadow</b> -  the area is surrounded by beautiful mountain peaks and pine forests.",
           "thumbnail": "assets/img/attractions/article/narcise/thumbnail/2.jpg",
-          "fullSize": "assets/img/attractions/article/narcise/fullSize/2.jpg"
+          "img": "assets/img/attractions/article/narcise/img/2.jpg"
         }
       ]
     },
@@ -505,12 +505,12 @@
         {
           "text": "To Vulcan Massif.",
           "thumbnail": "assets/img/attractions/vulcan-gard-toamna-th.jpg",
-          "fullSize": "assets/img/attractions/vulcan-gard-toamna.jpg"
+          "img": "assets/img/attractions/vulcan-gard-toamna.jpg"
         },
         {
           "text": "Vulcan Massif.",
           "thumbnail": "assets/img/attractions/vulcan-flori-mov-toamna-th.jpg",
-          "fullSize": "assets/img/attractions/vulcan-flori-mov-toamna.jpg"
+          "img": "assets/img/attractions/vulcan-flori-mov-toamna.jpg"
         }
       ]
     },
@@ -546,17 +546,17 @@
         {
           "text": "Live as a farmer - the traditional haymaking.",
           "thumbnail": "assets/img/attractions/fan-clai-lucru-nene-th.jpg",
-          "fullSize": "assets/img/attractions/fan-clai-lucru-nene.jpg"
+          "img": "assets/img/attractions/fan-clai-lucru-nene.jpg"
         },
         {
           "text": "You will make new friends and participate to the daily jobs.",
           "thumbnail": "assets/img/events/hayDays/article/thumbnail/vitel.jpg",
-          "fullSize": "assets/img/events/hayDays/article/fullSize/vitel.jpg"
+          "img": "assets/img/events/hayDays/article/img/vitel.jpg"
         },
         {
           "text": "On the field.",
           "thumbnail": "assets/img/attractions/vaci-pasc-tara-peisaj-th.jpg",
-          "fullSize": "assets/img/attractions/vaci-pasc-tara-peisaj.jpg"
+          "img": "assets/img/attractions/vaci-pasc-tara-peisaj.jpg"
         }
       ]
     },
@@ -602,32 +602,32 @@
         {
           "text": "Discover the landscapes roads of Apuseni by car or bike.",
           "thumbnail": "assets/img/attractions/apuseni-drumuri-scarisoara-roads-th.jpg",
-          "fullSize": "assets/img/attractions/apuseni-drumuri-scarisoara-roads.jpg"
+          "img": "assets/img/attractions/apuseni-drumuri-scarisoara-roads.jpg"
         },
         {
           "text": "See the biggest glacier from the world - <b>Scărișoara Glacier</b>.",
           "thumbnail": "assets/img/attractions/apuseni-ghetar-scarisoara-glacier-th.jpg",
-          "fullSize": "assets/img/attractions/apuseni-ghetar-scarisoara-glacier.jpg"
+          "img": "assets/img/attractions/apuseni-ghetar-scarisoara-glacier.jpg"
         },
         {
           "text": "Refresh! Near by is <b>Pișoaia Waterfall</b> (20m high).",
           "thumbnail": "assets/img/attractions/apuseni-pisoaia-cascada-waterfall-th.jpg",
-          "fullSize": "assets/img/attractions/apuseni-pisoaia-cascada-waterfall.jpg"
+          "img": "assets/img/attractions/apuseni-pisoaia-cascada-waterfall.jpg"
         },
         {
           "text": "Discover the narrow bridges of <b>Arieș River</b>.",
           "thumbnail": "assets/img/blog/clujRosia/article/thumbnail/punte2.jpg",
-          "fullSize": "assets/img/blog/clujRosia/article/fullSize/punte2.jpg"
+          "img": "assets/img/blog/clujRosia/article/img/punte2.jpg"
         },
         {
           "text": "Discover one of the oldest churches from Apuseni - <b>Lupșa Monestery</b> 1421.",
           "thumbnail": "assets/img/attractions/apuseni-lupsa-manastire-monestery-th.jpg",
-          "fullSize": "assets/img/attractions/apuseni-lupsa-manastire-monestery.jpg"
+          "img": "assets/img/attractions/apuseni-lupsa-manastire-monestery.jpg"
         },
         {
           "text": "See the longest cave from Romania - <b>Huda lui Papară</b>.",
           "thumbnail": "assets/img/attractions/apuseni-huda-papara-pestera-cave-th.jpg",
-          "fullSize": "assets/img/attractions/apuseni-huda-papara-pestera-cave.jpg"
+          "img": "assets/img/attractions/apuseni-huda-papara-pestera-cave.jpg"
         }
       ]
     },
@@ -653,17 +653,17 @@
         {
           "text": "Capture the colors of autumn at Roșia Montană",
           "thumbnail": "assets/img/attractions/bicicleta-toamna-th.jpg",
-          "fullSize": "assets/img/attractions/bicicleta-toamna.jpg"
+          "img": "assets/img/attractions/bicicleta-toamna.jpg"
         },
         {
           "text": "Capture the colors of autumn at Roșia Montană",
           "thumbnail": "assets/img/attractions/toamna-padure-seliste-th.jpg",
-          "fullSize": "assets/img/attractions/toamna-padure-seliste.jpg"
+          "img": "assets/img/attractions/toamna-padure-seliste.jpg"
         },
         {
           "text": "Capture the colors of autumn at Roșia Montană",
           "thumbnail": "assets/img/attractions/taul-tarini-copac-drona-camil-iamandescu-th.jpg",
-          "fullSize": "assets/img/attractions/taul-tarini-copac-drona-camil-iamandescu.jpg"
+          "img": "assets/img/attractions/taul-tarini-copac-drona-camil-iamandescu.jpg"
         }
       ]
     },
@@ -689,17 +689,17 @@
         {
           "text": "Sleighing near the house.",
           "thumbnail": "assets/img/accommodation/article/outside/thumbnail/sleighing.jpg",
-          "fullSize": "assets/img/accommodation/article/outside/fullSize/sleighing.jpg"
+          "img": "assets/img/accommodation/article/outside/img/sleighing.jpg"
         },
         {
           "text": "Snowing over the village.",
           "thumbnail": "assets/img/blog/winterWalks/article/thumbnail/ninge.jpg",
-          "fullSize": "assets/img/blog/winterWalks/article/fullSize/ninge.jpg"
+          "img": "assets/img/blog/winterWalks/article/img/ninge.jpg"
         },
         {
           "text": "Put your hiking boots on and have a easy walk on the village streets.",
           "thumbnail": "assets/img/blog/winterWalks/article/thumbnail/berg.jpg",
-          "fullSize": "assets/img/blog/winterWalks/article/fullSize/berg.jpg"
+          "img": "assets/img/blog/winterWalks/article/img/berg.jpg"
         }
       ]
     },
@@ -735,17 +735,17 @@
         {
           "text": "The historic center guided tour with a group from Romania.",
           "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-          "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+          "img": "assets/img/accommodation/article/guides/img/ghid-rosia-montana.jpg"
         },
         {
           "text": "Guided tour to the natural sites and protected areas of Rosia Montana with a group from Germany.",
           "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-          "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+          "img": "assets/img/accommodation/article/guides/img/ghid-apuseni.jpg"
         },
         {
           "text": "Guided tour to the mining open pits with a group from India.",
           "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
-          "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
+          "img": "assets/img/accommodation/article/guides/img/ghid-cariera.jpg"
         }
       ]
     },
@@ -809,17 +809,17 @@
         {
           "text": "Towards Vârtop.",
           "thumbnail": "assets/img/attractions/article/rotunduPeak/thumbnail/9.jpg",
-          "fullSize": "assets/img/attractions/article/rotunduPeak/fullSize/9.jpg"
+          "img": "assets/img/attractions/article/rotunduPeak/img/9.jpg"
         },
         {
           "text": "Towards Geamăna.",
           "thumbnail": "assets/img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
-          "fullSize": "assets/img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
+          "img": "assets/img/accommodation/article/guides/img/traseu_ghidat_bicicleta_geamana.jpg"
         },
         {
           "text": "We offer bikes for rent and guided tours on bikes (with tehnicall assistance on track)",
           "thumbnail": "assets/img/accommodation/article/outside/thumbnail/bikes.jpg",
-          "fullSize": "assets/img/accommodation/article/outside/fullSize/bikes.jpg"
+          "img": "assets/img/accommodation/article/outside/img/bikes.jpg"
         }
       ]
     },
@@ -838,12 +838,12 @@
         {
           "text": "Have a break in a Raspberry meadow.",
           "thumbnail": "assets/img/attractions/article/vartop/thumbnail/12.jpg",
-          "fullSize": "assets/img/attractions/article/vartop/fullSize/12.jpg"
+          "img": "assets/img/attractions/article/vartop/img/12.jpg"
         },
         {
           "text": "The blackberry meadow.",
           "thumbnail": "assets/img/attractions/article/vartop/thumbnail/18.jpg",
-          "fullSize": "assets/img/attractions/article/vartop/fullSize/18.jpg"
+          "img": "assets/img/attractions/article/vartop/img/18.jpg"
         }
       ]
     },
@@ -869,12 +869,12 @@
         {
           "text": "Archery classes in Rosia Montana.",
           "thumbnail": "assets/img/accommodation/article/archery/thumbnail/tir-cu-arcul-archery-rosia-montana3.jpg",
-          "fullSize": "assets/img/accommodation/article/archery/fullSize/tir-cu-arcul-archery-rosia-montana3.jpg"
+          "img": "assets/img/accommodation/article/archery/img/tir-cu-arcul-archery-rosia-montana3.jpg"
         },
         {
           "text": "Archery classes in Rosia Montana.",
           "thumbnail": "assets/img/accommodation/article/archery/thumbnail/tir-cu-arcul-archery-rosia-montana2.jpg",
-          "fullSize": "assets/img/accommodation/article/archery/fullSize/tir-cu-arcul-archery-rosia-montana2.jpg"
+          "img": "assets/img/accommodation/article/archery/img/tir-cu-arcul-archery-rosia-montana2.jpg"
         }
       ]
     },
@@ -910,12 +910,12 @@
         {
           "text": "With the steam train along the Apuseni mountains",
           "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/1.jpg",
-          "fullSize": "assets/img/attractions/article/steamTrain/fullSize/1.jpg"
+          "img": "assets/img/attractions/article/steamTrain/img/1.jpg"
         },
         {
           "text": "With the steam train along the Apuseni mountains",
           "thumbnail": "assets/img/attractions/article/steamTrain/thumbnail/2.jpg",
-          "fullSize": "assets/img/attractions/article/steamTrain/fullSize/2.jpg"
+          "img": "assets/img/attractions/article/steamTrain/img/2.jpg"
         }
       ]
     }

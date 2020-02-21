@@ -7,14 +7,13 @@
   "headline": {
     "title": "Weekend to Detunata Apuseni",
     "videoSource": "",
-    "img": "/assets/img/attractions/article/detunata/fullSize/detunata3.jpg"
+    "img": "/assets/img/attractions/article/detunata/img/detunata3.jpg"
   },
   "sections": [
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-calendar-alt'></i> Schedule",
-      "id": "schedule",
-      "addLinkInPageHeadline": true
+      "id": "schedule"
     },
     {
       "article": {         "heading": {
@@ -37,52 +36,52 @@
             {
               "text": "Detunata Apuseni",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata2.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata2.jpg"
+              "img": "assets/img/attractions/article/detunata/img/detunata2.jpg"
             },
             {
               "text": "Towards Detunata",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/raza.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/raza.jpg"
+              "img": "assets/img/attractions/article/detunata/img/raza.jpg"
             },
             {
               "text": "The view from Detunata Apuseni.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/lumea.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/lumea.jpg"
+              "img": "assets/img/attractions/article/detunata/img/lumea.jpg"
             },
             {
               "text": "The view from Detunata Apuseni.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/frunze.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/frunze.jpg"
+              "img": "assets/img/attractions/article/detunata/img/frunze.jpg"
             },
             {
               "text": "The view from Detunata Apuseni.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/priveliste.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/priveliste.jpg"
+              "img": "assets/img/attractions/article/detunata/img/priveliste.jpg"
             },
             {
               "text": "Detunata Apuseni",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/detunata.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/detunata.jpg"
+              "img": "assets/img/attractions/article/detunata/img/detunata.jpg"
             },
             {
               "text": "The view from Detunata Apuseni.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/priveliste2.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/priveliste2.jpg"
+              "img": "assets/img/attractions/article/detunata/img/priveliste2.jpg"
             },
             {
               "text": "Towards Detunata",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/traseu.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/traseu.jpg"
+              "img": "assets/img/attractions/article/detunata/img/traseu.jpg"
             },
             {
               "text": "Towards Detunata",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/road.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/road.jpg"
+              "img": "assets/img/attractions/article/detunata/img/road.jpg"
             },
             {
               "text": "The view from Detunata Apuseni.",
               "thumbnail": "assets/img/attractions/article/detunata/thumbnail/varf.jpg",
-              "fullSize": "assets/img/attractions/article/detunata/fullSize/varf.jpg"
+              "img": "assets/img/attractions/article/detunata/img/varf.jpg"
             }
           ]
         },
@@ -92,12 +91,12 @@
             {
               "text": "Movie screening in the garden",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/film-proiectie-gradina-casa-petri.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/film-proiectie-gradina-casa-petri.jpg"
+              "img": "assets/img/accommodation/article/outside/img/film-proiectie-gradina-casa-petri.jpg"
             },
             {
               "text": "Images from the movie screening",
               "thumbnail": "assets/img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
-              "fullSize": "assets/img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+              "img": "assets/img/accommodation/article/outside/img/gardenMovieScreenShots.jpg"
             }
           ]
         },
@@ -108,52 +107,51 @@
             {
               "text": "Guided tour - historic center Rosia Montana.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+              "img": "assets/img/accommodation/article/guides/img/ghid-rosia-montana.jpg"
             },
             {
               "text": "Guided tour - historic center Rosia Montana.",
               "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/4.jpg",
-              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/4.jpg"
+              "img": "assets/img/attractions/article/sicilianStreet/img/4.jpg"
             },
             {
               "text": "Guided tour - historic center Rosia Montana.",
               "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/3.jpg",
-              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/3.jpg"
+              "img": "assets/img/attractions/article/sicilianStreet/img/3.jpg"
             },
             {
               "text": "Guided tour - historic center Rosia Montana.",
               "thumbnail": "assets/img/attractions/article/sicilianStreet/thumbnail/ornamente.jpg",
-              "fullSize": "assets/img/attractions/article/sicilianStreet/fullSize/ornamente.jpg"
+              "img": "assets/img/attractions/article/sicilianStreet/img/ornamente.jpg"
             },
             {
               "text": "Guided tour - Carnic - Rosia Montana.",
               "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/lakes/braziLake/img/2.jpg"
             },
             {
               "text": "Guided tour - historic center Rosia Montana.",
               "thumbnail": "assets/img/attractions/article/panoramicBench/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/panoramicBench/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/panoramicBench/img/2.jpg"
             },
             {
               "text": "Guided tour - Carnic - Rosia Montana.",
               "thumbnail": "assets/img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSize": "assets/img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+              "img": "assets/img/accommodation/article/guides/img/ghid-apuseni.jpg"
             },
             {
               "text": "Guided tour - Carnic - Rosia Montana.",
               "thumbnail": "assets/img/attractions/article/carnic/ravenStone/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/ravenStone/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/carnic/ravenStone/img/1.jpg"
             }
           ]
         }
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-info-circle'></i> Info",
-      "id": "info",
-      "addLinkInPageHeadline": true
+      "id": "info"
     },
     {
       "article": {         "heading": {
@@ -167,10 +165,9 @@
       }
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-calendar-check'></i> Price and Bookings",
-      "id": "bookings",
-      "addLinkInPageHeadline": true
+      "id": "bookings"
     },
     {
       "article": {         "heading": {

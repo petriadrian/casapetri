@@ -20,10 +20,9 @@
   },
   "sections": [
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-info-circle'></i> Detalii",
-      "id": "details",
-      "addLinkInPageHeadline": true
+      "id": "details"
     },
     {
       "article": {         "heading": {
@@ -34,57 +33,56 @@
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
               "thumbnail": "assets/img/packages/weekend/article/thumbnail/1.jpg",
-              "fullSize": "assets/img/packages/weekend/article/fullSize/1.jpg"
+              "img": "assets/img/packages/weekend/article/img/1.jpg"
             },
             {
               "text": "Tur ghidat - galeria Văidoaia.",
               "thumbnail": "assets/img/packages/weekend/article/thumbnail/3.jpg",
-              "fullSize": "assets/img/packages/weekend/article/fullSize/3.jpg"
+              "img": "assets/img/packages/weekend/article/img/3.jpg"
             },
             {
               "text": "Vizităm câteva tăuri artificiale (lacuri) și aflăm care era rolul lor.",
               "thumbnail": "assets/img/attractions/article/lakes/braziLake/thumbnail/2.jpg",
-              "fullSize": "assets/img/attractions/article/lakes/braziLake/fullSize/2.jpg"
+              "img": "assets/img/attractions/article/lakes/braziLake/img/2.jpg"
             },
             {
               "text": "Popas cu priveliște.",
               "thumbnail": "assets/img/attractions/article/carnic/carnicPlateau/thumbnail/3.jpg",
-              "fullSize": "assets/img/attractions/article/carnic/carnicPlateau/fullSize/3.jpg"
+              "img": "assets/img/attractions/article/carnic/carnicPlateau/img/3.jpg"
             },
             {
               "text": "Pe traseu spre Tăul Mare.",
               "thumbnail": "assets/img/packages/weekend/article/thumbnail/2.jpg",
-              "fullSize": "assets/img/packages/weekend/article/fullSize/2.jpg"
+              "img": "assets/img/packages/weekend/article/img/2.jpg"
             },
             {
               "text": "Opțional se poate vizita Muzeul Mineritului unde au loc tururi ghidate a galeriilor romane din adâncul masivului Orlea.",
               "thumbnail": "assets/img/attractions/article/romanGalleries/thumbnail/1.jpg",
-              "fullSize": "assets/img/attractions/article/romanGalleries/fullSize/1.jpg"
+              "img": "assets/img/attractions/article/romanGalleries/img/1.jpg"
             },
             {
               "text": "Proiecții de imagini și filme în curtea Casei Petri despre trecutul și protestele din Roșia Montană.",
               "thumbnail": "assets/img/packages/common/article/thumbnail/4.jpg",
-              "fullSize": "assets/img/packages/common/article/fullSize/4.jpg"
+              "img": "assets/img/packages/common/article/img/4.jpg"
             },
             {
               "text": "Curtea casei are un foișor cu loc pentru făcut grătar și hamace unde vă puteți relaxa sau citi carți din biblioteca noastră.",
               "thumbnail": "assets/img/packages/common/article/thumbnail/3.jpg",
-              "fullSize": "assets/img/packages/common/article/fullSize/3.jpg"
+              "img": "assets/img/packages/common/article/img/3.jpg"
             },
             {
               "text": "Cazarea se face în camere de 2 persoane cu bai private și acces la bucătărie.",
               "thumbnail": "assets/img/packages/common/article/thumbnail/1.jpg",
-              "fullSize": "assets/img/packages/common/article/fullSize/1.jpg"
+              "img": "assets/img/packages/common/article/img/1.jpg"
             }
           ]
         }
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-calendar-alt'></i> Program",
-      "id": "schedule",
-      "addLinkInPageHeadline": true
+      "id": "schedule"
     },
     {
       "article": {         "heading": {
@@ -119,10 +117,9 @@
       ]
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='far fa-calendar-check'></i> Rezervări",
-      "id": "bookings",
-      "addLinkInPageHeadline": true
+      "id": "bookings"
     },
     {
       "article": {         "heading": {
@@ -175,7 +172,7 @@
       "type": "socialButtons"
     },
     {
-      "type": "title",
+      "type": "article",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
       "id": "linkText",
 
