@@ -162,7 +162,6 @@
         {
           "text": "This is the track from Cluj to our house (Casa Petri Rosia Montana).",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJiwtskR8MSUcRixQfMxxgvAs&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJbXLD1HtBSUcRECGT2b2-2PI|place_id:ChIJ9wjfPDpISUcRixkDcFVVpRc|place_id:ChIJG6piT7gzSUcRW9dqSyE5Gl0"
           }
         }
       ]
