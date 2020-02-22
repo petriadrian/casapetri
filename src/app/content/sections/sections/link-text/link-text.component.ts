@@ -12,15 +12,15 @@ export class LinkTextComponent {
   @Input() cssClass: string;
   @Input() classCollection: string;
 
-  constructor(private changeUrlService: UrlService) {
+  constructor(private urlService: UrlService) {
   }
 
   public isArray(obj: any ) {
     return Array.isArray(obj);
   }
 
-  public buildLinkAndGo(link) {
-    this.changeUrlService.buildLinkAndGo(link);
+  public open(link) {
+    this.urlService.open(link);
   }
 
 }

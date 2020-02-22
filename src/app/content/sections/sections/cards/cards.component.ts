@@ -14,7 +14,7 @@ export class CardsComponent {
   }
 
   public buildLinkAndGo(link) {
-    this.changeUrlService.buildLinkAndGo(link);
+    this.changeUrlService.open(link);
   }
 
 }

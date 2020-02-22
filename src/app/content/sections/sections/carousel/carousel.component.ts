@@ -14,7 +14,7 @@ export class CarouselComponent {
   }
 
   public buildLinkAndGo(link) {
-    this.changeUrlService.buildLinkAndGo(link);
+    this.changeUrlService.open(link);
   }
 
 }

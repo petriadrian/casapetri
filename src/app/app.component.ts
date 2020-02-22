@@ -21,7 +21,7 @@ export class AppComponent {
   }
 
   private initConfigSettings() {
-    this.http.get(this.urlService.getHostNameContent() + 'config.json').subscribe(res => {
+    this.http.get('./assets/content/config.json').subscribe(res => {
       document.documentElement.style.setProperty('--firstColor', (res as any).firstColor);
       document.documentElement.style.setProperty('--secondColor', (res as any).secondColor);
     });
@@ -37,18 +37,6 @@ export class AppComponent {
       }).componentInstance.content = result;
     });
   }
-
-  @HostListener('window:scroll', ['$event'])
-  public onScrollEvent($event) {
-    if (this.urlService.isHostOnBrowser()) {
-      if (window.pageYOffset > 300) {
-        $('#stickHeaderBarOnTheTop').fadeIn(200);
-      } else {
-        $('#stickHeaderBarOnTheTop').fadeOut();
-      }
-    }
-  }
-
 }
 
 @Pipe({name: 'safeUrl'})

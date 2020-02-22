@@ -7,7 +7,7 @@ import {AppComponent, RemoveHtmlFromText, TrustHtml} from './app.component';
 import {HeaderWebSiteComponent} from './header-web-site/header-web-site.component';
 import {FooterWebSiteComponent} from './footer-web-site/footer-web-site.component';
 import {FormsModule} from '@angular/forms';
-import {RouterModule} from '@angular/router';
+import {ExtraOptions, RouterModule} from '@angular/router';
 import {ROUTES} from './app.router';
 import {UrlService} from './url-services/url.service';
 import {InfoModalComponent} from './info-modal/info-modal.component';
@@ -23,12 +23,22 @@ import {ImagesComponent} from './content/sections/sections/images/images.compone
 import {ContentManagementComponent} from './content/content-management/content-management.component';
 import {ContentResolver} from "./content.resolver";
 import {SectionManagementComponent} from "./content/sections/section-management/section-management.component";
+import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
+
+const extraOptions: ExtraOptions = {
+  onSameUrlNavigation: 'reload',
+  enableTracing: false, // to display logs add {enableTracing: true}
+  useHash: false, // you could navigate with fragments if 'true' but it is ugly that ads # in url
+  scrollPositionRestoration: 'top',
+  anchorScrolling: 'enabled'
+};
 
 @NgModule({
   declarations: [
     AppComponent,
     SectionManagementComponent,
     ArticleComponent,
+    PageNotFoundComponent,
     TrustHtml,
     RemoveHtmlFromText,
     HeaderWebSiteComponent,
@@ -46,7 +56,7 @@ import {SectionManagementComponent} from "./content/sections/section-management/
     BrowserModule.withServerTransition({appId: 'casapetri'}),
     FormsModule,
     NgbModule,
-    RouterModule.forRoot(ROUTES), // to display logs add {enableTracing: true} as 2nd param,
+    RouterModule.forRoot(ROUTES, extraOptions),
     HttpClientModule
   ],
   providers: [UrlService, NgbActiveModal, ContentResolver],

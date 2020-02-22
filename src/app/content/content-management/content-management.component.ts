@@ -1,4 +1,4 @@
-import {AfterViewInit, Component, Input} from '@angular/core';
+import {Component} from '@angular/core';
 import {ActivatedRoute} from '@angular/router';
 import {HttpClient} from '@angular/common/http';
 import {UrlService} from '../../url-services/url.service';
@@ -17,20 +17,13 @@ export class ContentManagementComponent {
               private route: ActivatedRoute) {
     route.data.subscribe(data => {
       this.content = data.content;
-    })
+    });
   }
 
-  ngAfterViewInit(): void {
-    if (this.urlService.isHostOnBrowser()) {
-      this.route.fragment.subscribe((fragment: string) => {
-          this.urlService.scrollToAnchorIfValid(fragment);
-        }
-      );
-      // hack to display text when opening a photo album
-      $('.fancybox').each(function (i, obj) {
-        $(this).attr('data-caption', $(this).attr('title'));
-      });
-    }
+  ngAfterViewInit() {
+    // hack to display text when opening a photo album
+    $('.fancybox').each(function (i, obj) {
+      $(this).attr('data-caption', $(this).attr('title'));
+    });
   }
-
 }

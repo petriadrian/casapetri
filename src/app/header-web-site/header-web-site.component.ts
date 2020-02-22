@@ -21,7 +21,7 @@ export class HeaderWebSiteComponent implements OnInit {
   }
 
   public buildLinkAndGo(link) {
-    this.urlService.buildLinkAndGo(link);
+    this.urlService.open(link);
   }
 
 }

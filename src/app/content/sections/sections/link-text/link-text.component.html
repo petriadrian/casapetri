@@ -11,7 +11,7 @@
 <ng-template #link let-content="content" let-cssClass="cssClass">
   <span *ngIf="cssClass === 'lookLikeLink'">&nbsp;</span>
   <a data-toggle="collapse" data-target=".navbar-collapse.show"
-     (click)="buildLinkAndGo(content?.link)"
+     (click)=open(content?.link)
      title="{{content?.textOnMouseOver}}"
      [ngClass]=cssClass
      [style.backgroundColor]="content?.backgroundColor"
