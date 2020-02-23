@@ -1,22 +1,20 @@
-# To make the build 
-Go on digital ocean and set 2gb ram memory
+# Make the build 
 ```bash
 ssh root@167.99.196.145
 cd casaPetri
-git pull
+pm2 stop all
+git fetch origin
+git reset --hard origin/master
 ng build
 ```
 To START the project(in background) run:
 ```bash
 pm2 start dist/server.js
 ```
-To STOP the project(in background) run:
-```bash
-pm2 stop all
-```
 # On angular update
  Make sure you have latest node
  ```bash
+pm2 stop all
 nvm list
 nvm alias default 12.16.0
 nvm use 12.16.0

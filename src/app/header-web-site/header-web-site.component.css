@@ -1,7 +1,6 @@
 .navbar {
   background-color: var(--firstColor) !important;
   width: 100%;
-  height: 55px;
 }
 
 .navbar-collapse {
