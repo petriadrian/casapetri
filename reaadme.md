@@ -6,9 +6,6 @@ pm2 stop all
 git fetch origin
 git reset --hard origin/master
 ng build
-```
-To START the project(in background) run:
-```bash
 pm2 start dist/server.js
 ```
 # On angular update
