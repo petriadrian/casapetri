@@ -5,15 +5,6 @@ footer {
   color: white;
 }
 
-a {
-  color: var(--firstColor) !important;
-  text-decoration: none !important;
-}
-
-a:HOVER {
-  color: var(--secondColor) !important;
-}
-
 :host ::ng-deep .hover:HOVER {
   background-color: var(--firstColor) !important;
 }

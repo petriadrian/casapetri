@@ -10,17 +10,19 @@
 }
 
 a {
-  color: var(--firstColor) !important;
-}
-
-.figure a {
-  color: black !important;
+  color: inherit !important;
+  text-decoration: underline !important;
 }
 
 a:HOVER {
-  color: black !important;
-  text-decoration: underline !important;
+  background-color: var(--secondColor) !important;
+  color: white !important;
 }
+
+footer a:HOVER {
+  color: var(--firstColor) !important;
+}
+
 
 p {
   margin: 0;
