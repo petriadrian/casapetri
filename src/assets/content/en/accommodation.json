@@ -83,7 +83,7 @@
     },
     {
       "type": "form",
-      "afterFormText": "The booking will be valid only when a <b>confirmation email or phone</b> will be received! <br>The <b>prices may vary</b> during holidays or other events. <br>To reach us set on gps 'Casa Petri Rosia Montana'. <br><b>Check-in</b>: 16:00 - 20:00 | <b>Check-out</b> by 11:00",
+      "afterFormText": "The booking will be valid only when a <b>confirmation email or phone</b> will be received! <br>The <b>prices may vary</b> during holidays or other events.",
       "submitButtonText": "Send the booking",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Contact us by email casaPetriRosiaMontana@gmail.com",
@@ -154,6 +154,10 @@
           "required": false
         }
       ]
+    },
+    {
+      "type": "article",
+      "text": "<br><br> To reach us set on gps 'Casa Petri Rosia Montana'. <a href='ro/home#directions'>Here you can find other transport details</a>. <br><b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> until 11:00. <br><br>"
     }
   ]
 }
