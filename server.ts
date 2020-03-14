@@ -9,7 +9,6 @@ import {EmailController} from './controllers/email.controller';
 import {ngExpressEngine} from '@nguniversal/express-engine';
 // Import module map for lazy loading
 import {provideModuleMap} from '@nguniversal/module-map-ngfactory-loader';
-import {ContentController} from "./controllers/content.controller";
 import {enableProdMode} from "@angular/core";
 
 // Faster server renders w/ Prod mode (dev mode never needed)
@@ -60,4 +59,3 @@ app.listen(PORT, () => {
 });
 
 app.use('/email', EmailController);
-app.use('/content', ContentController);

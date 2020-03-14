@@ -23,7 +23,6 @@ export class AppComponent {
   private initConfigSettings() {
     this.http.get('./assets/content/config.json').subscribe((res: any) => {
       this.updateCss(res);
-      this.initGoogleDrive(res);
     });
   }
 
@@ -41,9 +40,6 @@ export class AppComponent {
         keyboard: false
       }).componentInstance.content = result;
     });
-  }
-
-  private initGoogleDrive(res: any) {
   }
 }
 
