@@ -20,7 +20,7 @@ export const ROUTES: Routes = [
 
 const extraOptions: ExtraOptions = {
   onSameUrlNavigation: 'reload',
-  enableTracing: true, // to display logs add {enableTracing: true}
+  enableTracing: false, // to display logs add {enableTracing: true}
   useHash: false, // you could navigate with fragments if 'true' but it is ugly that ads # in url
   scrollPositionRestoration: 'top',
   anchorScrolling: 'enabled'
