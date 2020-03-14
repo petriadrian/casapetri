@@ -80,17 +80,13 @@ export class ContentResolver implements Resolve<any> {
 
   private updateSeoMetadata(metaData: any, url: string) {
     this.title.setTitle(metaData.title);
-    this.updateTag("og:description", metaData.text);
-    this.updateTag("description", metaData.text);
-    this.updateTag("og:title", metaData.title);
-    this.updateTag("title", metaData.title);
-    this.updateTag("og:image", metaData.img);
-    this.updateTag("image", metaData.img);
-    this.updateTag("og:url", url);
-    this.updateTag("url", url);
-  }
-
-  private updateTag(property: string, content: string) {
-    this.meta.updateTag({property: property, content: content});
+    this.meta.updateTag({property: "og:description", content: metaData.text});
+    this.meta.updateTag({property: "description", content: metaData.text});
+    this.meta.updateTag({property: "og:title", content: metaData.title});
+    this.meta.updateTag({property: "title", content: metaData.title});
+    this.meta.updateTag({property: "og:image", content: metaData.img});
+    this.meta.updateTag({property: "image", content: metaData.img});
+    this.meta.updateTag({property: "og:url", content: url});
+    this.meta.updateTag({property: "url", content: url});
   }
 }
