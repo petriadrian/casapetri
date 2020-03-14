@@ -1,7 +1,8 @@
-import {Routes} from '@angular/router';
+import {ExtraOptions, RouterModule, Routes} from '@angular/router';
 import {ContentManagementComponent} from './content/content-management/content-management.component';
 import {ContentResolver} from "./content.resolver";
 import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
+import {ModuleWithProviders} from "@angular/core";
 
 export const ROUTES: Routes = [
   {
@@ -16,3 +17,14 @@ export const ROUTES: Routes = [
     }
   }
 ];
+
+const extraOptions: ExtraOptions = {
+  onSameUrlNavigation: 'reload',
+  enableTracing: true, // to display logs add {enableTracing: true}
+  useHash: false, // you could navigate with fragments if 'true' but it is ugly that ads # in url
+  scrollPositionRestoration: 'top',
+  anchorScrolling: 'enabled'
+};
+
+export const routing: ModuleWithProviders = RouterModule.forRoot(ROUTES, extraOptions);
+

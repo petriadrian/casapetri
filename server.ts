@@ -2,11 +2,15 @@
 import 'zone.js/dist/zone-node';
 import 'reflect-metadata';
 
-import {enableProdMode} from '@angular/core';
-
 import * as express from 'express';
 import {join} from 'path';
 import {EmailController} from './controllers/email.controller';
+// Express Engine
+import {ngExpressEngine} from '@nguniversal/express-engine';
+// Import module map for lazy loading
+import {provideModuleMap} from '@nguniversal/module-map-ngfactory-loader';
+import {ContentController} from "./controllers/content.controller";
+import {enableProdMode} from "@angular/core";
 
 // Faster server renders w/ Prod mode (dev mode never needed)
 enableProdMode();
@@ -19,11 +23,6 @@ const DIST_FOLDER = join(process.cwd(), 'dist');
 
 // * NOTE :: leave this as require() since this file is built Dynamically from webpack
 const {AppServerModuleNgFactory, LAZY_MODULE_MAP} = require('./dist/server/main');
-
-// Express Engine
-import {ngExpressEngine} from '@nguniversal/express-engine';
-// Import module map for lazy loading
-import {provideModuleMap} from '@nguniversal/module-map-ngfactory-loader';
 
 app.engine('html', (_, options, callback) => {
   const engine = ngExpressEngine({
@@ -61,3 +60,4 @@ app.listen(PORT, () => {
 });
 
 app.use('/email', EmailController);
+app.use('/content', ContentController);

@@ -7,12 +7,11 @@ import {AppComponent, RemoveHtmlFromText, TrustHtml} from './app.component';
 import {HeaderWebSiteComponent} from './header-web-site/header-web-site.component';
 import {FooterWebSiteComponent} from './footer-web-site/footer-web-site.component';
 import {FormsModule} from '@angular/forms';
-import {ExtraOptions, RouterModule} from '@angular/router';
-import {ROUTES} from './app.router';
+import {routing} from './app.router';
 import {UrlService} from './url-services/url.service';
 import {InfoModalComponent} from './info-modal/info-modal.component';
 import {NgbActiveModal, NgbModule} from '@ng-bootstrap/ng-bootstrap';
-import { isPlatformBrowser } from '@angular/common';
+import {isPlatformBrowser} from '@angular/common';
 import {FormComponent} from './content/sections/sections/form/form.component';
 import {CardsComponent} from './content/sections/sections/cards/cards.component';
 import {CarouselComponent} from './content/sections/sections/carousel/carousel.component';
@@ -24,14 +23,8 @@ import {ContentManagementComponent} from './content/content-management/content-m
 import {ContentResolver} from "./content.resolver";
 import {SectionManagementComponent} from "./content/sections/section-management/section-management.component";
 import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
+import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
 
-const extraOptions: ExtraOptions = {
-  onSameUrlNavigation: 'reload',
-  enableTracing: false, // to display logs add {enableTracing: true}
-  useHash: false, // you could navigate with fragments if 'true' but it is ugly that ads # in url
-  scrollPositionRestoration: 'top',
-  anchorScrolling: 'enabled'
-};
 
 @NgModule({
   declarations: [
@@ -56,7 +49,8 @@ const extraOptions: ExtraOptions = {
     BrowserModule.withServerTransition({appId: 'casapetri'}),
     FormsModule,
     NgbModule,
-    RouterModule.forRoot(ROUTES, extraOptions),
+    BrowserAnimationsModule,
+    routing,
     HttpClientModule
   ],
   providers: [UrlService, NgbActiveModal, ContentResolver],

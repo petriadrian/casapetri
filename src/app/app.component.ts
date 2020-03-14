@@ -21,11 +21,16 @@ export class AppComponent {
   }
 
   private initConfigSettings() {
-    this.http.get('./assets/content/config.json').subscribe(res => {
-      document.documentElement.style.setProperty('--firstColor', (res as any).firstColor);
-      document.documentElement.style.setProperty('--secondColor', (res as any).secondColor);
+    this.http.get('./assets/content/config.json').subscribe((res: any) => {
+      this.updateCss(res);
+      this.initGoogleDrive(res);
     });
   }
+
+  private updateCss(res: any) {
+    document.documentElement.style.setProperty('--firstColor', res.firstColor);
+    document.documentElement.style.setProperty('--secondColor', res.secondColor);
+}
 
   private displayPrivacyPolicyModal() {
     const privacyPolicyPath = './assets/content/' + this.urlService.getCurrentLang()
@@ -36,6 +41,9 @@ export class AppComponent {
         keyboard: false
       }).componentInstance.content = result;
     });
+  }
+
+  private initGoogleDrive(res: any) {
   }
 }
 

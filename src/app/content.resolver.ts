@@ -55,7 +55,7 @@ export class ContentResolver implements Resolve<any> {
     if (url.includes("#")) {
       jsonPath = url.substring(0, url.indexOf('#'));
     }
-    return './assets/content/' + jsonPath + '.json';
+    return './assets/content' + jsonPath + '.json';
   }
 
   private initGoogleAnalytics(url) {
@@ -84,8 +84,8 @@ export class ContentResolver implements Resolve<any> {
     this.meta.updateTag({property: 'description', content: (metadata as any).text});
     this.meta.updateTag({property: 'og:title', content: (metadata as any).title});
     this.meta.updateTag({property: 'title', content: (metadata as any).title});
-    this.meta.updateTag({property: 'og:img', content: (metadata as any).img});
-    this.meta.updateTag({property: 'img', content: (metadata as any).img});
+    this.meta.updateTag({property: 'og:image', content: (metadata as any).img});
+    this.meta.updateTag({property: 'image', content: (metadata as any).img});
     this.meta.updateTag({property: 'og:url', content: window.location.href});
     this.meta.updateTag({property: 'url', content: window.location.href});
   }

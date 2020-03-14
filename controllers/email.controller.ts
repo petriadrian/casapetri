@@ -5,6 +5,10 @@ const emailJs = require('emailjs');
 const fs = require('fs');
 const email = 'casapetrirosiamontana@gmail.com';
 
+router.post('/test', function (req, res) {
+  return res.json({success: true, msg: "test"});
+});
+
 router.post('/send', function (req, res) {
   let emailBody = '<html>';
   const clientEmail = req.body['email'];
