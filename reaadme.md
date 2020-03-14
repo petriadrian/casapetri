@@ -8,6 +8,7 @@ git reset --hard origin/master
 ng build
 pm2 start dist/server.js
 ```
+
 # On angular update
  Make sure you have latest node
  ```bash
