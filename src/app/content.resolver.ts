@@ -26,7 +26,7 @@ export class ContentResolver implements Resolve<any> {
       setTimeout(_ => this.scrollToAnchor(route.fragment), 1000);
       return this.http.get(this.getJsonContentPathFromUrl(router.url))
         .pipe(map((res: any) => {
-          this.updateSeoMetadata((res as any).metaData);
+          this.updateSeoMetadata(res.metaData, router.url);
           return (res as any).sections;
         }))
         .pipe(catchError(err => {
@@ -78,7 +78,7 @@ export class ContentResolver implements Resolve<any> {
     }
   }
 
-  private updateSeoMetadata(metaData: any) {
+  private updateSeoMetadata(metaData: any, url: string) {
     this.title.setTitle(metaData.title);
     this.updateTag("og:description", metaData.text);
     this.updateTag("description", metaData.text);
@@ -86,12 +86,11 @@ export class ContentResolver implements Resolve<any> {
     this.updateTag("title", metaData.title);
     this.updateTag("og:image", metaData.img);
     this.updateTag("image", metaData.img);
-    this.updateTag("og:url", window.location.href);
-    this.updateTag("url", window.location.href);
+    this.updateTag("og:url", url);
+    this.updateTag("url", url);
   }
 
   private updateTag(property: string, content: string) {
-    this.meta.removeTag("property='" + property + "'");
-    this.meta.addTag({property: property, content: content});
+    this.meta.updateTag({property: property, content: content});
   }
 }
