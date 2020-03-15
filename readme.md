@@ -1,12 +1,7 @@
 # Make the build 
 ```bash
 ssh root@167.99.196.145
-cd casaPetri/
-pm2 stop all
-git fetch origin
-git reset --hard origin/master
-ng build
-pm2 start dist/server.js
+./deploy.sh
 ```
 
 # On angular update
