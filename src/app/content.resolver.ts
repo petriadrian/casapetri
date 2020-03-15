@@ -82,7 +82,10 @@ export class ContentResolver implements Resolve<any> {
     this.title.setTitle(metaData.title);
     this.meta.updateTag({property: "og:description", content: metaData.text});
     this.meta.updateTag({property: "og:title", content: metaData.title});
-    this.meta.updateTag({property: "og:image", content: metaData.img});
+    this.meta.updateTag({property: "og:image:secure_url", content: metaData.img});
+    this.meta.updateTag({name: "image", content: metaData.img});
+    console.log(metaData.img);
     this.meta.updateTag({property: "og:url", content: url});
   }
+  
 }
