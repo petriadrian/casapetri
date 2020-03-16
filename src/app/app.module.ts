@@ -24,6 +24,7 @@ import {ContentResolver} from "./content.resolver";
 import {SectionManagementComponent} from "./content/sections/section-management/section-management.component";
 import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
 import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
+import { RedirectComponent } from './redirect/redirect.component';
 
 
 @NgModule({
@@ -43,7 +44,8 @@ import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
     InfoModalComponent,
     ImagesComponent,
     IframeComponent,
-    ContentManagementComponent
+    ContentManagementComponent,
+    RedirectComponent
   ],
   imports: [
     BrowserModule.withServerTransition({appId: 'casapetri'}),

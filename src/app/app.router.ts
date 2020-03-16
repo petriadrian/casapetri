@@ -3,10 +3,14 @@ import {ContentManagementComponent} from './content/content-management/content-m
 import {ContentResolver} from "./content.resolver";
 import {PageNotFoundComponent} from "./page-not-found/page-not-found.component";
 import {ModuleWithProviders} from "@angular/core";
+import {RedirectComponent} from "./redirect/redirect.component";
 
 export const ROUTES: Routes = [
   {
     path: '404', component: PageNotFoundComponent
+  },
+  {
+    path: 'redirect/:to', component: RedirectComponent
   },
   {
     path: '**',
