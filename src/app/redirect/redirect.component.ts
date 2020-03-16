@@ -7,13 +7,11 @@ import {ActivatedRoute} from "@angular/router";
   styleUrls: ['./redirect.component.css']
 })
 export class RedirectComponent implements OnInit {
-  
-  to: string;
 
   constructor(private activatedRoute: ActivatedRoute) { }
 
   ngOnInit() {
-    this.activatedRoute.params.subscribe(params => {
+    this.activatedRoute.queryParams.subscribe(params => {
       window.location.href = params['to'];
       console.log('Url to redirect: ',params['to']);
     });

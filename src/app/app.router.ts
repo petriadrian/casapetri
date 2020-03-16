@@ -15,10 +15,7 @@ export const ROUTES: Routes = [
   {
     path: '**',
     component: ContentManagementComponent,
-    pathMatch: 'full',
-    resolve: {
-      content: ContentResolver
-    }
+    pathMatch: 'full'
   }
 ];
 
