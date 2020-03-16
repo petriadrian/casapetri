@@ -10,9 +10,6 @@ export const ROUTES: Routes = [
     path: '404', component: PageNotFoundComponent
   },
   {
-    path: 'redirect/:to', component: RedirectComponent
-  },
-  {
     path: '**',
     component: ContentManagementComponent,
     pathMatch: 'full'
