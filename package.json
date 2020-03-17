@@ -51,7 +51,6 @@
     "ng2-daterangepicker": "^2.0.12",
     "npm": "^6.13.7",
     "popper.js": "^1.14.4",
-    "preboot": "^6.0.0-beta.5",
     "rxjs": "^6.5.4",
     "to": "^0.2.9",
     "ts-loader": "5.2.1",
