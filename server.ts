@@ -8,7 +8,6 @@ import {EmailController} from './controllers/email.controller';
 // Express Engine
 import {ngExpressEngine} from '@nguniversal/express-engine';
 // Import module map for lazy loading
-import {provideModuleMap} from '@nguniversal/module-map-ngfactory-loader';
 import {enableProdMode} from "@angular/core";
 
 // Faster server renders w/ Prod mode (dev mode never needed)
@@ -21,14 +20,13 @@ const PORT = process.env.PORT || 80;
 const DIST_FOLDER = join(process.cwd(), 'dist');
 
 // * NOTE :: leave this as require() since this file is built Dynamically from webpack
-const {AppServerModuleNgFactory, LAZY_MODULE_MAP} = require('./dist/server/main');
+const {AppServerModuleNgFactory} = require('./dist/server/main');
 
 app.engine('html', (_, options, callback) => {
   const engine = ngExpressEngine({
     bootstrap: AppServerModuleNgFactory,
     providers: [
-      {provide: 'request', useFactory: () => options.req, deps: []},
-      provideModuleMap(LAZY_MODULE_MAP)
+      {provide: 'request', useFactory: () => options.req, deps: []}
     ]
   });
   engine(_, options, callback);
