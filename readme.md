@@ -3,6 +3,7 @@
 ssh root@167.99.196.145
 ./deploy.sh
 ```
+
 # On angular update
  Make sure you have latest node
  ```bash
