@@ -47,7 +47,7 @@
     "history": "^4.7.2",
     "jquery": "^3.4.1",
     "jquery-ui": "^1.12.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "ng2-daterangepicker": "^2.0.12",
     "npm": "^6.13.7",
     "popper.js": "^1.14.4",
